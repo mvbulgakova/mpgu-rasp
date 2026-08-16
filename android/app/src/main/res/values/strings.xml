@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">МПГУ Расписание</string>
+    <string name="onboarding_title">Выберите институт и группу</string>
+    <string name="institutes_title">Институты</string>
+    <string name="groups_title">Группы</string>
+    <string name="week_title_odd">Нечётная неделя</string>
+    <string name="week_title_even">Чётная неделя</string>
+    <string name="search_groups_hint">Поиск по коду группы</string>
+    <string name="offline_banner">Офлайн — показаны сохранённые данные</string>
+    <string name="empty_day">В этот день пар нет</string>
+</resources>
