@@ -620,7 +620,11 @@ fun RaspTheme(
         SideEffect {
             val window = (view.context as Activity).window
             window.statusBarColor = colors.primary.toArgb()
-            WindowCompat.getInsetsController(window, view).isAppearanceLightStatusBars = !darkTheme
+            // statusBarColor is set to `primary` (dark in light mode, dark in dark mode);
+            // status-bar icons must be LIGHT on that dark bg in light mode → the flag is FALSE.
+            // In dark mode `primary = Indigo400` is lighter → dark icons → TRUE.
+            // The correct formula for `statusBarColor = primary` is therefore `= darkTheme`.
+            WindowCompat.getInsetsController(window, view).isAppearanceLightStatusBars = darkTheme
         }
     }
 
