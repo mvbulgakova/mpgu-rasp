@@ -1,0 +1,39 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.env
+.env.local
+
+# Node
+node_modules/
+pwa/dist/
+
+# temp files
+*.tmp
+*.temp
+
+# Local scraper output (belongs in data branch, not feature branches)
+data/
+data-push/
+data-local/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+# ignore local Claude config but keep the committed skills library
+.claude/*
+!.claude/skills/
+.claude/settings.local.json
+data_test/
+data_teachers_tmp/
+meta/
+
+# local data-branch worktree for audits
+.data-wt/

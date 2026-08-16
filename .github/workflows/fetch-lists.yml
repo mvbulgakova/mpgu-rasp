@@ -1,0 +1,54 @@
+name: Fetch Competitive Lists
+
+# Периодический скрейп конкурсных списков epk25 → индекс в data-ветке.
+# Актуально в сроки приёмной кампании.
+
+# Расписания НЕТ намеренно: только ручной запуск. Обновления ведёт
+# fetch-lists-loop, а второй публикующий обход — это гонка за ветку data.
+# 2026-08-06 два обхода (03:12 и 03:14) сошлись на push, git слил снимки
+# построчно, и абитуриенту разослало «вас больше нет в этом списке» по всем
+# 13 спискам. Публикация теперь снимок-целиком (git_storage), но лишние
+# параллельные обходы всё равно ни к чему: они лишь дёргают epk25.
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: fetch-lists
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    # НЕ занижать. Локально обход идёт единицы минут, но с раннеров GitHub
+    # epk25 отвечает во много раз медленнее: 2026-08-05 прогон с 8 потоками
+    # шёл 49 минут и был убит прежним таймаутом (в логе — ни строки, поэтому
+    # теперь обход печатает прогресс). Оборванный на середине прогон = ноль
+    # обновлений, что хуже медленного. Держим запас, пока прогресс-лог не
+    # покажет реальное время.
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Checkout data branch
+        uses: actions/checkout@v4
+        with:
+          ref: data
+          path: data
+          fetch-depth: 0   # нужна история: публикация делает rebase на вершину
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install deps
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Build lists index
+        env:
+          DATA_PATH: data
+        run: python -m scraper.build_lists_index

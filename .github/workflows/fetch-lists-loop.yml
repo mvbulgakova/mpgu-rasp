@@ -1,0 +1,73 @@
+name: Fetch Competitive Lists (loop)
+
+# Ритм обновления списков. Сам НИЧЕГО не обходит: раз в ~15 минут поднимает
+# fetch-lists-sharded, который и снимает страницы десятью раннерами.
+#
+# Почему так, а не одним обходом внутри себя (как было сделано сначала).
+# Нужны две вещи сразу, и ни одна не даётся поодиночке:
+#
+# 1. Ритм. Расписание GitHub — «по возможности»: 2026-08-05 при cron */10 у
+#    сегментированного обхода фактически случился ОДИН запуск за 2,3 часа.
+#    Зато одна задача живёт часами надёжно — на этом же держится бот.
+# 2. Много адресов. epk25 ограничивает запросы с одного адреса, и паузами это
+#    не обходится: 2026-08-07 обход всех 667 списков одним раннером пачками
+#    занял 2 часа 17 минут на проход и данные встали на 10 часов ночью. Те же
+#    667 страниц с другого адреса снимаются за 109 секунд без единой ошибки.
+#    Лечится только числом адресов — по раннеру на долю списков.
+#
+# Отсюда разделение: ритм даёт долгий прогон, скорость — десять раннеров.
+# Крон нужен лишь чтобы поднять следующий прогон, когда кончится текущий;
+# новый триггер ждёт в очереди (cancel-in-progress: false) и стартует сразу.
+#
+# actions: write — чтобы дёргать workflow_dispatch. События от GITHUB_TOKEN
+# намеренно не порождают новых прогонов (защита от рекурсии), и
+# workflow_dispatch — одно из двух исключений из этого правила.
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # раз в час: сработает — встанет в очередь за текущим
+  workflow_dispatch:
+    inputs:
+      seconds:
+        description: "сколько секунд крутить цикл (по умолчанию 19800 = 5,5 ч)"
+        required: false
+      interval:
+        description: "секунд между запусками обхода (по умолчанию 900)"
+        required: false
+
+concurrency:
+  # НЕ отменяем работающий прогон: новый ждёт в очереди и подхватывает сразу.
+  group: fetch-lists-loop
+  cancel-in-progress: false
+
+permissions:
+  actions: write
+
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    # Чуть меньше, чем RUN_SECONDS: цикл должен выходить сам, а не убиваться
+    # таймаутом. Раннер при этом почти всё время спит — работу делает
+    # fetch-lists-sharded.
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Tick the sharded crawl
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # TARGET_REF не задаём: тикер берёт GITHUB_REF_NAME, то есть ветку,
+          # на которой запущен сам. По расписанию это всегда ветка по
+          # умолчанию — та самая, откуда GitHub читает определения workflow
+          # (см. CLAUDE.md), значит fetch-lists-sharded там гарантированно есть.
+          TARGET_WORKFLOW: fetch-lists-sharded.yml
+          RUN_SECONDS: ${{ github.event.inputs.seconds || '19800' }}
+          CYCLE_SECONDS: ${{ github.event.inputs.interval || '900' }}
+          PYTHONUNBUFFERED: "1"
+        run: python -m scraper.dispatch_loop
