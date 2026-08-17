@@ -19,10 +19,6 @@ android {
         versionName = "0.1.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
-
-        ksp {
-            arg("room.schemaLocation", "$projectDir/schemas")
-        }
     }
 
     buildTypes {
@@ -40,6 +36,13 @@ android {
     packaging {
         resources.excludes += "/META-INF/{AL2.0,LGPL2.1}"
     }
+}
+
+// KSP is a project-level extension (from the com.google.devtools.ksp plugin);
+// it lives outside android { } / defaultConfig { }. Room reads room.schemaLocation
+// to export generated schemas next to the module for version-diff review.
+ksp {
+    arg("room.schemaLocation", "$projectDir/schemas")
 }
 
 dependencies {

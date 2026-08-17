@@ -1330,21 +1330,20 @@ cd android && ./gradlew :app:compileDebugKotlin && \
 
 - [ ] **Step 8.1: Room schema location**
 
-Append inside `android { ... defaultConfig { ... } }` block of `app/build.gradle.kts`:
+`ksp {}` is a PROJECT-level extension exposed by the `com.google.devtools.ksp` plugin (already applied in Task 1's `plugins {}` block). It lives at the top level of `app/build.gradle.kts`, OUTSIDE `android { ... }` — nesting it inside `defaultConfig { }` would fail Gradle configuration ("No such method: ksp() for DefaultConfig").
+
+Add this block to `app/build.gradle.kts` after the closing brace of `android { }` and before `dependencies { }`:
 
 ```kotlin
-        ksp {
-            arg("room.schemaLocation", "$projectDir/schemas")
-        }
+// KSP is a project-level extension (from the com.google.devtools.ksp plugin);
+// it lives outside android { } / defaultConfig { }. Room reads room.schemaLocation
+// to export generated schemas next to the module for version-diff review.
+ksp {
+    arg("room.schemaLocation", "$projectDir/schemas")
+}
 ```
 
-Add the corresponding `implementation`-level import at top:
-
-```kotlin
-import com.google.devtools.ksp.gradle.KspExtension
-```
-
-(Not needed if using the `ksp {}` block via plugin — the `alias(libs.plugins.ksp)` provides it. Skip the import if it errors; the `ksp {}` block is available directly.)
+No new imports are needed — the plugin's DSL is picked up automatically.
 
 - [ ] **Step 8.2: `InstituteEntity.kt`**
 
