@@ -19,6 +19,8 @@ pwa/dist/
 data/
 data-push/
 data-local/
+# ...but the Android `data` package is source code, not scraper output
+!android/app/src/main/java/ru/mpgu/rasp/data/
 
 # OS
 .DS_Store
