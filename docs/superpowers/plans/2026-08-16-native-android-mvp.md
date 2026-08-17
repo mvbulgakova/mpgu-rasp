@@ -1288,11 +1288,13 @@ import ru.mpgu.rasp.data.model.Institute
 import ru.mpgu.rasp.data.remote.dto.GroupScheduleDto
 import ru.mpgu.rasp.data.remote.dto.IndexDto
 import ru.mpgu.rasp.data.remote.dto.ScheduleManifestDto
-import javax.inject.Inject
 import javax.inject.Singleton
 
+// NOTE: no @Inject on the constructor — Task 11's NetworkModule.provideApi is the
+// single source of truth. Adding @Inject here creates a latent "no binding for
+// String" trap if the module's @Provides is ever removed.
 @Singleton
-class ScheduleApi @Inject constructor(
+class ScheduleApi(
     private val http: HttpClient,
     private val baseUrl: String,
 ) {
