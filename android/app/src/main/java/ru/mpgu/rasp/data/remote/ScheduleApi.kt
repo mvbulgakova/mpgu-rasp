@@ -8,11 +8,10 @@ import ru.mpgu.rasp.data.model.Institute
 import ru.mpgu.rasp.data.remote.dto.GroupScheduleDto
 import ru.mpgu.rasp.data.remote.dto.IndexDto
 import ru.mpgu.rasp.data.remote.dto.ScheduleManifestDto
-import javax.inject.Inject
 import javax.inject.Singleton
 
 @Singleton
-class ScheduleApi @Inject constructor(
+class ScheduleApi(
     private val http: HttpClient,
     private val baseUrl: String,
 ) {
