@@ -1673,6 +1673,12 @@ object NetworkModule {
 }
 ```
 
+**Hilt binding note:** `ScheduleApi` currently has `@Inject constructor(HttpClient, String baseUrl)` (Task 7). The unqualified `String` param would cause Hilt to error "cannot resolve binding for String" if anyone ever removes the `@Provides fun provideApi` above. Since the module DOES provide `ScheduleApi` explicitly, Hilt uses the module and never sees the constructor's `String` — so this file works as-is. If you're implementing Task 11 and want to harden it against future refactors, either:
+- add `@Named("baseUrl")` on both the constructor param and a `@Provides @Named("baseUrl") fun provideBaseUrl(): String = DEFAULT_BASE`, and remove `provideApi`; OR
+- remove the `@Inject` annotation from `ScheduleApi`'s constructor (keeping the constructor itself) and keep the module's `provideApi` as the only path.
+
+Either is fine. Keeping the plan's shape as-is is also fine for MVP.
+
 - [ ] **Step 11.2: `DatabaseModule.kt`**
 
 ```kotlin
@@ -2358,6 +2364,8 @@ fun WeekScreen(
 git add android/app/src/main/java/ru/mpgu/rasp/ui/week && \
 git commit -m "feat(android): WeekScreen — day list, week toggle, current-lesson highlight"
 ```
+
+**Cyrillic URL note (verify in Task 18 smoke test):** `ScheduleApi.group()` interpolates the group file name into the URL string (`"$baseUrl/institutes/$instituteId/groups/$groupFile.json"`). Group codes contain Cyrillic (e.g. `ВОП40-ПФК2501`). Ktor 2.x's `HttpClient.get(String)` typically percent-encodes non-ASCII path segments through `URLBuilder.takeFrom`, but behaviour has shifted across releases and this is the first task that actually exercises a Cyrillic path segment end-to-end. If Task 18's smoke test hits a 404 or malformed request for a Cyrillic-named group, fix `ScheduleApi.group()` to use `url { pathSegments = listOf("institutes", instituteId, "groups", "$groupFile.json") }` — that path is guaranteed to encode each segment individually.
 
 ---
 
