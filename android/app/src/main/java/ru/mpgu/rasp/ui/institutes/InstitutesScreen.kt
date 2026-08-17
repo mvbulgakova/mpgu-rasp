@@ -34,7 +34,7 @@ fun InstitutesScreen(
 
     Scaffold(topBar = { TopAppBar(title = { Text(stringResource(R.string.institutes_title)) }) }) { padding ->
         LazyColumn(
-            modifier = Modifier.fillMaxWidth(),
+            modifier = Modifier.fillMaxWidth().padding(padding),
             contentPadding = PaddingValues(16.dp),
             verticalArrangement = Arrangement.spacedBy(8.dp),
         ) {

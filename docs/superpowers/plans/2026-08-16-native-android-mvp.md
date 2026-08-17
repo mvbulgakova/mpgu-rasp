@@ -1821,12 +1821,10 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.Surface
-import androidx.compose.runtime.collectAsState
-import androidx.compose.runtime.getValue
 import androidx.compose.ui.Modifier
-import androidx.hilt.navigation.compose.hiltViewModel
 import dagger.hilt.android.AndroidEntryPoint
-import kotlinx.coroutines.flow.map
+import kotlinx.coroutines.flow.first
+import kotlinx.coroutines.runBlocking
 import ru.mpgu.rasp.data.prefs.UserPrefs
 import ru.mpgu.rasp.ui.nav.Dest
 import ru.mpgu.rasp.ui.nav.RaspNavGraph
@@ -1840,13 +1838,24 @@ class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
+        // Resolve start destination synchronously so the NavHost never flashes
+        // Onboarding for a user who already has a saved selection.
+        // DataStore's first read is fast (single small file); the block runs
+        // once per cold start on the main thread — acceptable for MVP.
+        val startRoute = runBlocking {
+            val sel = prefs.selection.first()
+            if (sel.instituteId != null && sel.groupFile != null && sel.groupName != null) {
+                Dest.Week(sel.instituteId, sel.groupFile, sel.groupName).route
+            } else {
+                Dest.Onboarding.route
+            }
+        }
+
         setContent {
             RaspTheme {
                 Surface(modifier = Modifier.fillMaxSize()) {
-                    val start by prefs.selection
-                        .map { if (it.instituteId != null && it.groupFile != null) Dest.Institutes.route else Dest.Onboarding.route }
-                        .collectAsState(initial = Dest.Onboarding.route)
-                    RaspNavGraph(startDestination = start)
+                    RaspNavGraph(startDestination = startRoute)
                 }
             }
         }
@@ -1938,7 +1947,7 @@ fun InstitutesScreen(
 
     Scaffold(topBar = { TopAppBar(title = { Text(stringResource(R.string.institutes_title)) }) }) { padding ->
         LazyColumn(
-            modifier = Modifier.fillMaxWidth(),
+            modifier = Modifier.fillMaxWidth().padding(padding),
             contentPadding = PaddingValues(16.dp),
             verticalArrangement = Arrangement.spacedBy(8.dp),
         ) {
