@@ -846,6 +846,34 @@ class TimeSlotsTest {
         assertNull(TimeSlots.currentLessonIndex(lessons, LocalTime.of(11, 30)))
     }
 
+    @Test fun `all seven slot starts map to their index`() {
+        // Full coverage of Python TIME_SLOTS (schedule_normalizer.py:22-30) — any
+        // mistranscription of a slot start would show up here even for the slots
+        // not explicitly covered by other tests.
+        val expected = mapOf(
+            LocalTime.of(9, 0)   to 1,
+            LocalTime.of(10, 40) to 2,
+            LocalTime.of(12, 40) to 3,
+            LocalTime.of(14, 20) to 4,
+            LocalTime.of(16, 0)  to 5,
+            LocalTime.of(17, 40) to 6,
+            LocalTime.of(19, 20) to 7,
+        )
+        for ((time, slot) in expected) {
+            assertEquals(slot, TimeSlots.slotFromStart(time), "slot for $time")
+        }
+    }
+
+    @Test fun `currentLessonIndex includes lesson start (inclusive lower bound)`() {
+        val lessons = listOf(fake("09:00", "10:30"), fake("10:40", "12:10"))
+        assertEquals(1, TimeSlots.currentLessonIndex(lessons, LocalTime.of(10, 40)))
+    }
+
+    @Test fun `currentLessonIndex excludes lesson end (exclusive upper bound)`() {
+        val lessons = listOf(fake("09:00", "10:30"), fake("10:40", "12:10"))
+        assertNull(TimeSlots.currentLessonIndex(lessons, LocalTime.of(10, 30)))
+    }
+
     private fun fake(start: String, end: String) = TimeSlots.LessonTimeRange(
         start = LocalTime.parse(start),
         end = LocalTime.parse(end),
