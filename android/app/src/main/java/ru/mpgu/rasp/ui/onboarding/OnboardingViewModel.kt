@@ -13,7 +13,6 @@ import ru.mpgu.rasp.data.model.Institute
 import ru.mpgu.rasp.data.prefs.UserPrefs
 import ru.mpgu.rasp.data.remote.dto.ManifestGroupDto
 import ru.mpgu.rasp.data.repo.ScheduleRepository
-import ru.mpgu.rasp.util.GroupSearch
 import javax.inject.Inject
 
 @HiltViewModel
@@ -33,10 +32,6 @@ class OnboardingViewModel @Inject constructor(
 
     private val _query = MutableStateFlow("")
     val query: StateFlow<String> = _query.asStateFlow()
-
-    val filteredGroups: List<ManifestGroupDto>
-        get() = if (_query.value.isBlank()) _groups.value
-                else _groups.value.filter { GroupSearch.searchKey(it.name).contains(GroupSearch.searchKey(_query.value)) }
 
     init { viewModelScope.launch { repo.refreshInstitutes() } }
 
