@@ -2564,13 +2564,13 @@ name: Build Android
 
 on:
   push:
-    branches: [main]
     paths:
       - 'android/**'
       - '.github/workflows/build-android.yml'
   pull_request:
     paths:
       - 'android/**'
+      - '.github/workflows/build-android.yml'
   workflow_dispatch:
   release:
     types: [published]
