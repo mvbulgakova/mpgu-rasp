@@ -939,6 +939,12 @@ git commit -m "feat(android): TimeSlots utility with slot-index and current-less
 
 - [ ] **Step 5.1: Failing test**
 
+The HOMO table is VISUAL homoglyphs (not phonetic transliteration). Only the
+12 Latin letters that share glyphs with Cyrillic — A, B, C, E, H, K, M, O, P,
+T, X, Y — fold. `F` has no shape-partner in Cyrillic Ф; `V` has no shape
+partner in В; etc. Tests must exercise inputs where every folded letter
+actually IS in the HOMO table.
+
 ```kotlin
 package ru.mpgu.rasp.util
 
@@ -949,19 +955,31 @@ import kotlin.test.assertTrue
 class GroupSearchTest {
 
     @Test fun `latin lookalikes fold to cyrillic`() {
-        // Every Latin letter in the HOMO table maps to its Cyrillic look-alike
-        assertEquals("ВОП40ПФК2501", GroupSearch.searchKey("BOP40-PFK2501"))
+        // All five letters in "BOEHK" have Cyrillic homoglyphs
+        // (B→В, O→О, E→Е, H→Н, K→К).
+        assertEquals("ВОЕНК", GroupSearch.searchKey("BOEHK"))
     }
 
     @Test fun `whitespace and separators are stripped`() {
-        assertEquals("ВОП40ПФК2501", GroupSearch.searchKey(" воп 40 - пфк_2501 "))
+        // Cyrillic-only input — no folding needed, only strip+uppercase.
+        assertEquals("ВОП40ПФК2501", GroupSearch.searchKey(" ВОП 40 - ПФК_2501 "))
     }
 
     @Test fun `lowercase is uppercased before folding`() {
-        assertEquals("ВОП40ПФК2501", GroupSearch.searchKey("bop40-pfk2501"))
+        assertEquals("ВОЕНК", GroupSearch.searchKey("boehk"))
     }
 
-    @Test fun `matches with partial query`() {
+    @Test fun `mixed-script query matches full cyrillic group`() {
+        // Real UX: user reads "ВОП40-ПФК2501" off a poster and types the
+        // homoglyph-safe prefix in Latin (BO → ВО), keeping the rest in
+        // Cyrillic because П and Ф have no Latin look-alikes.
+        val groups = listOf("ВОП40-ПФК2501", "ГПОФ01-ГЕО2501")
+        val hits = GroupSearch.filter(groups, "BOП40")
+        assertTrue("ВОП40-ПФК2501" in hits)
+        assertTrue("ГПОФ01-ГЕО2501" !in hits)
+    }
+
+    @Test fun `numeric query filters`() {
         val groups = listOf("ВОП40-ПФК2501", "ГПОФ01-ГЕО2501")
         val hits = GroupSearch.filter(groups, "40")
         assertTrue("ВОП40-ПФК2501" in hits)
