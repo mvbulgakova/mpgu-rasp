@@ -1,0 +1,78 @@
+package ru.mpgu.rasp.data.repo
+
+import kotlinx.coroutines.flow.Flow
+import kotlinx.coroutines.flow.map
+import kotlinx.serialization.encodeToString
+import kotlinx.serialization.json.Json
+import ru.mpgu.rasp.data.local.RaspDatabase
+import ru.mpgu.rasp.data.local.entity.GroupCacheEntity
+import ru.mpgu.rasp.data.local.entity.InstituteEntity
+import ru.mpgu.rasp.data.model.Group
+import ru.mpgu.rasp.data.model.Institute
+import ru.mpgu.rasp.data.remote.ScheduleApi
+import ru.mpgu.rasp.data.remote.dto.GroupScheduleDto
+import ru.mpgu.rasp.data.remote.toDomain
+import java.io.IOException
+import javax.inject.Inject
+import javax.inject.Singleton
+
+@Singleton
+class ScheduleRepository @Inject constructor(
+    private val api: ScheduleApi,
+    private val db: RaspDatabase,
+    private val json: Json,
+) {
+    fun observeInstitutes(): Flow<List<Institute>> =
+        db.instituteDao().observeAll().map { rows ->
+            rows.map { Institute(it.id, it.name, it.shortName, it.groupsCount, it.updatedAt) }
+        }
+
+    suspend fun refreshInstitutes(): Result<Unit> = runCatching {
+        val fresh = api.index()
+        db.instituteDao().upsert(fresh.map {
+            InstituteEntity(
+                id = it.id, name = it.name, shortName = it.shortName,
+                groupsCount = it.groupsCount, updatedAt = it.updatedAt,
+                cachedAt = System.currentTimeMillis(),
+            )
+        })
+    }
+
+    suspend fun getManifest(instituteId: String) = api.manifest(instituteId)
+
+    suspend fun getGroupSchedule(instituteId: String, groupFile: String): Result<Group> {
+        val key = "$instituteId/$groupFile"
+        return runCatching {
+            val fresh = api.group(instituteId, groupFile)
+            db.groupCacheDao().upsert(
+                GroupCacheEntity(
+                    cacheKey = key, instituteId = instituteId, groupFile = groupFile,
+                    name = fresh.name,
+                    json = json.encodeToString(GroupScheduleDto.serializer(), fresh.toDto()),
+                    cachedAt = System.currentTimeMillis(),
+                )
+            )
+            fresh
+        }.recoverCatching { err ->
+            if (err !is IOException) throw err
+            val cached = db.groupCacheDao().get(key) ?: throw err
+            json.decodeFromString(GroupScheduleDto.serializer(), cached.json).toDomain()
+        }
+    }
+
+    // Round-trip helper: domain Group → DTO for cache serialization.
+    private fun Group.toDto(): GroupScheduleDto {
+        val weekMap = ru.mpgu.rasp.data.remote.dto.WeekMapDto(
+            odd_week = schedule.oddWeek.mapKeys { it.key.name.lowercase() }
+                .mapValues { entry -> entry.value.map { it.toDto() } },
+            even_week = schedule.evenWeek.mapKeys { it.key.name.lowercase() }
+                .mapValues { entry -> entry.value.map { it.toDto() } },
+        )
+        return GroupScheduleDto(name = name, year = year, form = form, degree = degree, schedule = weekMap)
+    }
+
+    private fun ru.mpgu.rasp.data.model.Lesson.toDto() = ru.mpgu.rasp.data.remote.dto.LessonDto(
+        slot = slot, time_start = timeStart, time_end = timeEnd, subject = subject,
+        type = type, teacher = teacher, room = room, subgroup = subgroup, notes = notes,
+    )
+}
