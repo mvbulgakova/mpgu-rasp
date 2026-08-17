@@ -779,7 +779,23 @@ git commit -m "feat(android): WeekParity utility with ISO-week tests"
 
 ## Task 4: Utility — TimeSlots (TDD)
 
-**Rationale:** Duplicates the `TIME_SLOTS` sanity from Python (`scraper/normalizer/schedule_normalizer.py`) so the Android app can compute «сейчас идёт эта пара» consistently with the server. Slot indices must match — the JSON has `slot: N` written by the scraper, and we cross-check.
+**Rationale:** Duplicates the `TIME_SLOTS` sanity from Python (`scraper/normalizer/schedule_normalizer.py:22-30`) so the Android app can compute «сейчас идёт эта пара» consistently with the server. Slot indices MUST match Python exactly — the scraper writes `slot: N` values into each Lesson JSON based on those exact start times, so any drift here is a P0 correctness bug (Android shows a different slot than PWA / than the source JSON).
+
+**Ground truth (Python `TIME_SLOTS`, line 22):**
+
+```python
+TIME_SLOTS = {
+    1: ("09:00", "10:30"),
+    2: ("10:40", "12:10"),
+    3: ("12:40", "14:10"),
+    4: ("14:20", "15:50"),
+    5: ("16:00", "17:30"),
+    6: ("17:40", "19:10"),
+    7: ("19:20", "20:50"),
+}
+```
+
+The Kotlin map below is transcribed from this. If Python `TIME_SLOTS` changes, both must change together.
 
 **Files:**
 - Create: `android/app/src/test/java/ru/mpgu/rasp/util/TimeSlotsTest.kt`
@@ -801,25 +817,32 @@ class TimeSlotsTest {
         assertEquals(1, TimeSlots.slotFromStart(LocalTime.of(9, 0)))
     }
 
-    @Test fun `slot 5 starts at 15 20`() {
-        assertEquals(5, TimeSlots.slotFromStart(LocalTime.of(15, 20)))
+    @Test fun `slot 5 starts at 16 00`() {
+        assertEquals(5, TimeSlots.slotFromStart(LocalTime.of(16, 0)))
     }
 
     @Test fun `unknown start returns null`() {
         assertNull(TimeSlots.slotFromStart(LocalTime.of(3, 33)))
     }
 
+    @Test fun `15 20 is between slots and returns null`() {
+        // 15:20 falls in the gap between slot 4 (14:20-15:50) and slot 5 (16:00-17:30)
+        // relative to slot-START-only mapping. It IS inside slot 4's range for
+        // currentLessonIndex, but slotFromStart is exact-start match only.
+        assertNull(TimeSlots.slotFromStart(LocalTime.of(15, 20)))
+    }
+
     @Test fun `current lesson is the one containing now`() {
         val lessons = listOf(
-            fake("09:00", "10:35"),
-            fake("11:00", "12:35"),
-            fake("13:00", "14:35"),
+            fake("09:00", "10:30"),
+            fake("10:40", "12:10"),
+            fake("12:40", "14:10"),
         )
         assertEquals(1, TimeSlots.currentLessonIndex(lessons, LocalTime.of(11, 45)))
     }
 
     @Test fun `no current lesson between blocks`() {
-        val lessons = listOf(fake("09:00", "10:35"), fake("13:00", "14:35"))
+        val lessons = listOf(fake("09:00", "10:30"), fake("12:40", "14:10"))
         assertNull(TimeSlots.currentLessonIndex(lessons, LocalTime.of(11, 30)))
     }
 
@@ -838,15 +861,17 @@ package ru.mpgu.rasp.util
 import java.time.LocalTime
 
 object TimeSlots {
-    // Matches TIME_SLOTS in scraper/normalizer/schedule_normalizer.py
+    // Matches TIME_SLOTS in scraper/normalizer/schedule_normalizer.py (lines 22-30).
+    // Keep in sync — the scraper stamps `slot: N` based on these exact starts,
+    // and Android/PWA/backend must all resolve to the same N for the same time.
     private val slotStarts = linkedMapOf(
-        LocalTime.of(9, 0)  to 1,
-        LocalTime.of(11, 0) to 2,
-        LocalTime.of(13, 0) to 3,
-        LocalTime.of(15, 0) to 4,
-        LocalTime.of(15, 20) to 5,
-        LocalTime.of(17, 0) to 6,
-        LocalTime.of(19, 0) to 7,
+        LocalTime.of(9, 0)   to 1,
+        LocalTime.of(10, 40) to 2,
+        LocalTime.of(12, 40) to 3,
+        LocalTime.of(14, 20) to 4,
+        LocalTime.of(16, 0)  to 5,
+        LocalTime.of(17, 40) to 6,
+        LocalTime.of(19, 20) to 7,
     )
 
     fun slotFromStart(time: LocalTime): Int? = slotStarts[time]
