@@ -1069,7 +1069,7 @@ data class Lesson(
     val type: String?,      // lecture / practice / lab / seminar / other
     val teacher: String?,
     val room: String?,
-    val subgroup: String?,
+    val subgroup: Int?,     // 1 or 2 (podgruppa), null if lesson covers full group
     val notes: String?,
 )
 ```
@@ -1144,7 +1144,7 @@ data class LessonDto(
     val type: String? = null,
     val teacher: String? = null,
     val room: String? = null,
-    val subgroup: String? = null,
+    val subgroup: Int? = null,    // wire schema: 1 | 2 | null
     val notes: String? = null,
 )
 ```
