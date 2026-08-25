@@ -10,8 +10,35 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from scraper.normalizer.schedule_normalizer import (
     clean_room, pull_subgroup, sanitize_lesson, sanitize_groups, infer_slot,
-    fix_homoglyphs,
+    fix_homoglyphs, is_garbage_subject,
 )
+
+
+def test_is_garbage_subject_rejects_footer_and_noise():
+    # Genuine subjects — must NOT be flagged as garbage.
+    assert not is_garbage_subject("Экологический мониторинг")
+    assert not is_garbage_subject("Модель")            # word contains "ель"
+    assert not is_garbage_subject("Общая физика")
+    # Empty / too-short.
+    assert is_garbage_subject(None)
+    assert is_garbage_subject("")
+    assert is_garbage_subject("X")
+    # Teacher-only bleed-through.
+    assert is_garbage_subject("доц. С.Г. Толкунова")
+    assert is_garbage_subject("ст.преп. М.Е. Степанова")
+    assert is_garbage_subject("проф. Иванов И.И.")
+    # Room-only bleed-through.
+    assert is_garbage_subject("ауд. 502")
+    assert is_garbage_subject("Ауд 407")
+    # Footer legend markers.
+    assert is_garbage_subject("Формы проведения занятий")
+    assert is_garbage_subject("Занятия по нечётным неделям")
+    assert is_garbage_subject("Адрес места проведения учебных занятий: …")
+    assert is_garbage_subject("День самостоятельной работы")
+    # Executor signature (initials + surname) — with and without prefix.
+    assert is_garbage_subject("И.А. Курдюков")
+    assert is_garbage_subject("Исполнитель: И.А. Курдюков")
+    assert is_garbage_subject("ель: И.А. Курдюков")    # truncated prefix
 
 
 def test_fix_homoglyphs_latin_to_cyrillic():
@@ -193,20 +220,22 @@ def test_sanitize_groups_dedups_exact_repeats():
 
 
 def test_sanitize_groups_sorts_by_time():
+    # NB: subjects must be >=4 chars — sanitize_groups now rejects garbage
+    # subjects (footer legends, single-letter noise) via is_garbage_subject.
     groups = [{
         "name": "G1",
         "schedule": {
             "odd_week": {"monday": [
-                _lesson("14:20", "C"),
-                _lesson("09:00", "A"),
-                _lesson("10:40", "B"),
+                _lesson("14:20", "Cccc"),
+                _lesson("09:00", "Aaaa"),
+                _lesson("10:40", "Bbbb"),
             ]},
             "even_week": {},
         },
     }]
     sanitize_groups(groups)
     mon = groups[0]["schedule"]["odd_week"]["monday"]
-    assert [l["subject"] for l in mon] == ["A", "B", "C"]
+    assert [l["subject"] for l in mon] == ["Aaaa", "Bbbb", "Cccc"]
 
 
 def _run_all():

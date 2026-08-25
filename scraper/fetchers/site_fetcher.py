@@ -19,9 +19,27 @@ HEADERS = {
 }
 
 
+# Link-text patterns that are known non-schedule documents. Files matching any
+# of these are skipped before download — they never contain group codes and
+# would only waste PDF/vision API calls and trigger false-positive anomaly alerts.
+# See docs/audits/2026-08-25-parser-audit.md, defect D5.
+_SKIP_LINK_TEXT = (
+    "адаптац",           # адаптационный модуль (Sep 1-week orientation)
+    "задолженност",      # ликвидация задолженностей
+    "ликвидац",          # ликвидация ..
+    "консультац",        # график консультаций перед сессией
+    "переэкзаменов",
+)
+
+
 @retry(stop=stop_after_attempt(4), wait=wait_exponential(multiplier=1, min=2, max=16))
 async def fetch_schedule_links(session: aiohttp.ClientSession, url: str) -> list[dict]:
-    """Возвращает список {url, type, text} для всех файлов расписания на странице."""
+    """Возвращает список {url, type, text} для всех файлов расписания на странице.
+
+    Ссылки с явно не-расписательным текстом (адаптационный модуль, ликвидация
+    задолженностей, консультации) отфильтровываются — они не содержат кодов
+    групп и только зря тратят API-квоты vision-fallback.
+    """
     async with session.get(url, headers=HEADERS, timeout=aiohttp.ClientTimeout(total=30)) as resp:
         resp.raise_for_status()
         html = await resp.text(encoding="utf-8", errors="replace")
@@ -46,6 +64,10 @@ async def fetch_schedule_links(session: aiohttp.ClientSession, url: str) -> list
             continue
 
         text = a.get_text(strip=True) or ""
+        text_low = text.lower()
+        if any(marker in text_low for marker in _SKIP_LINK_TEXT):
+            continue
+
         links.append({"url": abs_url, "type": link_type, "text": text})
 
     return links

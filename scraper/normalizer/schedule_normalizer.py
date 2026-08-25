@@ -297,6 +297,53 @@ def sanitize_lesson(lesson: dict) -> dict:
     }
 
 
+# Patterns that identify a subject field that is actually garbage — footer
+# legends, executor signatures, teacher/room text bleed. See
+# docs/audits/2026-08-25-parser-audit.md, defects D2 & D3.
+_SUBJECT_TEACHER_PREFIX_RE = re.compile(
+    r"^\s*(доц|проф|ст\.?\s*преп|асс|препод|доцент|профессор)\.?\s",
+    re.IGNORECASE,
+)
+_SUBJECT_ROOM_ONLY_RE = re.compile(r"^\s*ауд\.?\s*\S+\s*$", re.IGNORECASE)
+# Executor/signature footer: usually "И.А. Курдюков" — two initials + surname.
+# When the parser truncates "Исполнитель: И.А. Курдюков" it may drop the prefix
+# and leave just the name string. Also matches a bare short-word + colon like
+# "ель:" (leftover of "Исполнитель:") to catch the same defect from the other end.
+_SUBJECT_INITIALS_NAME_RE = re.compile(
+    r"^\s*(?:[а-яё]{1,5}:\s*)?[А-ЯЁ]\.\s*[А-ЯЁ]\.\s*[А-ЯЁ][а-яё]+\s*$"
+)
+_SUBJECT_LEGEND_MARKERS = (
+    "исполнитель",
+    "формы проведения",
+    "занятия по нечетн",
+    "занятия по чётн",
+    "занятия по нечётн",
+    "занятия по четн",
+    "адрес места",
+    "день самостоятельной",
+)
+
+
+def is_garbage_subject(subject: str | None) -> bool:
+    """True if the subject field is actually parser noise (teacher name, room,
+    footer legend). Such lessons should be dropped — a wrong subject is worse
+    than a missing lesson per the project's non-negotiables."""
+    if not subject or len(subject.strip()) < 4:
+        return True
+    s = subject.strip()
+    if _SUBJECT_TEACHER_PREFIX_RE.match(s):
+        return True
+    if _SUBJECT_ROOM_ONLY_RE.match(s):
+        return True
+    if _SUBJECT_INITIALS_NAME_RE.match(s):
+        return True
+    sl = s.lower()
+    for marker in _SUBJECT_LEGEND_MARKERS:
+        if marker in sl:
+            return True
+    return False
+
+
 def _lesson_key(l: dict) -> tuple:
     return (
         l.get("time_start"), l.get("time_end"), l.get("subject"),
@@ -342,6 +389,8 @@ def sanitize_groups(groups: list[dict]) -> list[dict]:
                 seen: set[tuple] = set()
                 for raw in lessons:
                     lesson = sanitize_lesson(raw)
+                    if is_garbage_subject(lesson.get("subject")):
+                        continue
                     key = _lesson_key(lesson)
                     if key in seen:
                         continue
