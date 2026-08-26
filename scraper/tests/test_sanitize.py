@@ -39,6 +39,12 @@ def test_is_garbage_subject_rejects_footer_and_noise():
     assert is_garbage_subject("И.А. Курдюков")
     assert is_garbage_subject("Исполнитель: И.А. Курдюков")
     assert is_garbage_subject("ель: И.А. Курдюков")    # truncated prefix
+    # D9: journalism «временные» PDF — subject строки не собрались, осталась дата
+    assert is_garbage_subject("14.09")
+    assert is_garbage_subject("07.09, 21.09")
+    assert is_garbage_subject("05.09, 19.09")
+    # А вот «14.09.2026» — не только дата, но и год — не блокируем (безопаснее)
+    assert not is_garbage_subject("Занятия начинаются 14.09.2026")
 
 
 def test_fix_homoglyphs_latin_to_cyrillic():

@@ -402,19 +402,11 @@ def _parse_tables(tables: list[list[list]]) -> list[dict]:
     valid = [t for t in tables if t and len(t) >= 2]
 
     # Normalize journalism-style tables (time in col>1) to standard layout.
-    # Once a time_col is found in any table, apply it to all tables with the same
-    # column count (continuation pages share the same physical column layout).
-    journ_tc: dict[int, int] = {}  # ncols → time_col
-    for t in valid:
-        ncols = len(t[0]) if t else 0
-        if ncols not in journ_tc:
-            tc = _find_journalism_time_col(t)
-            if tc is not None:
-                journ_tc[ncols] = tc
+    # D9: content-based fallback позволяет detect time_col в continuation-таблицах
+    # (без 'Время' header); поэтому применяем detection PER-TABLE.
     normalized = []
     for t in valid:
-        ncols = len(t[0]) if t else 0
-        tc = journ_tc.get(ncols)
+        tc = _find_journalism_time_col(t)
         normalized.append(_normalize_journalism_table(t, tc) if tc is not None else t)
     valid = normalized
 
@@ -489,8 +481,13 @@ def _valid_time(t: str) -> bool:
 
 
 def _find_journalism_time_col(table: list[list]) -> int | None:
-    """Detects journalism-style format: 'Время' header in col>=2, day names in col0."""
-    if not table or len(table[0]) < 5:
+    """Detects journalism-style format: 'Время' header in col>=2, day names in col0.
+
+    Fix D9: если явного 'Время' в header нет (continuation-страница), сканируем
+    содержимое каждой колонки на split-time cells (`09.00-` / `10.30`) — колонка
+    с наибольшим количеством time-cells становится time_col.
+    """
+    if not table or len(table[0]) < 3:
         return None
     time_col = None
     for row in table[:15]:
@@ -501,11 +498,27 @@ def _find_journalism_time_col(table: list[list]) -> int | None:
         if time_col is not None:
             break
     if time_col is None:
-        return None
+        # Fallback: content-based detection (continuation pages без header).
+        # Считаем split-time-start / full-time-cell в каждой col>=1.
+        col_hits: dict[int, int] = {}
+        for row in table:
+            for ci in range(1, len(row)):
+                cell = str(row[ci] or "").strip()
+                if not cell:
+                    continue
+                if _SPLIT_TIME_START_RE.match(cell) or _try_parse_time_cell(cell):
+                    col_hits[ci] = col_hits.get(ci, 0) + 1
+        if col_hits:
+            # Выбираем колонку с максимальным числом попаданий (порог: ≥2).
+            best_col, best_n = max(col_hits.items(), key=lambda kv: kv[1])
+            if best_n >= 2:
+                time_col = best_col
+        if time_col is None:
+            return None
     # Verify col0 has recognizable day names in data rows
     for row in table:
         raw = str(row[0] or "").replace("\n", "").strip()
-        if len(raw) > 4 and (normalize_day(raw.lower()) or
+        if len(raw) > 3 and (normalize_day(raw.lower()) or
                              normalize_day("".join(reversed(raw)).lower())):
             return time_col
     return None
@@ -645,8 +658,14 @@ def _parse_mpgu_segment(tables: list[list[list]], all_tables: list[list[list]]) 
     return result
 
 
-_SPLIT_TIME_START_RE = re.compile(r"^(\d{3,4})\s*[-–]\s*$")
-_SPLIT_TIME_END_RE = re.compile(r"^(\d{3,4})$")
+# Split-time: часть слота в отдельной ячейке. Поддерживаем оба формата:
+# бесточечный «0900»/«1030» (обычные PDF) и с точкой «09.00-»/«10.30» (journalism).
+_SPLIT_TIME_START_RE = re.compile(r"^(\d{1,2}[:.]?\d{2})\s*[-–]\s*$")
+_SPLIT_TIME_END_RE = re.compile(r"^(\d{1,2}[:.]?\d{2})$")
+
+# Fix D9 (audit 2026-08-25): journalism «временные» расписания используют даты
+# «14.09» / «07.09, 21.09» вместо маркеров чёт/нечёт. Такие строки — не тема.
+_DATE_MARKER_RE = re.compile(r"^\s*\d{1,2}[.,/-]\d{2}(?:\s*[,;]\s*\d{1,2}[.,/-]\d{2})*\s*$")
 
 # Маркеры чётной/нечётной недели на отдельной строке
 _WEEK_ODD_MARKER = re.compile(
@@ -660,19 +679,30 @@ _WEEK_EVEN_MARKER = re.compile(
 
 
 def _is_metadata_line(line: str) -> bool:
-    """True если строка — метаданные занятия (тип, преподаватель, аудитория, маркер недели)."""
+    """True если строка — метаданные занятия (тип, преподаватель, аудитория, маркер недели, дата)."""
     s = line.strip()
     if not s:
         return True
     if re.match(r"^\([А-ЯЁа-яёA-Za-z.]{2,4}\)$", s):
         return True
+    # Fix D9: full titles (journalism), в дополнение к abbrev'ам (обычный формат).
+    # `\bдоц\b` не совпадает с «Доцент», нужен явный список полных форм.
     if re.search(r"\b(проф|доц|ст\.?\s*преп|асс|преп)\b", s, re.I):
+        return True
+    if re.match(
+        r"^\s*(?:доцент|профессор|ассистент|старший\s+преподаватель|"
+        r"преподаватель|ведущий\s+преподаватель)\b",
+        s, re.I,
+    ):
         return True
     if "//" in s:
         return True
-    if re.search(r"(ауд\.?\s*\d|\d+\s+корп\.|спортзал|стадион)", s, re.I):
+    # Fix D9: journalism использует «Аудитория 204» вместо «ауд. 204».
+    if re.search(r"(ауд\.?\s*\d|аудитория\s+\d|\d+\s+корп\.|спортзал|спортивный\s+зал|стадион|зал)", s, re.I):
         return True
     if _WEEK_ODD_MARKER.match(s) or _WEEK_EVEN_MARKER.match(s):
+        return True
+    if _DATE_MARKER_RE.match(s):
         return True
     return False
 
@@ -1027,17 +1057,26 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
                 room = right
             continue
 
-        # Только аудитория
+        # Только аудитория (в т.ч. journalism: «Аудитория 204», «Спортивный зал»)
         if re.search(r"\d+\s+корп\.", line, re.I) or re.search(r"ауд\.?\s*\d", line, re.I) \
-                or re.search(r"спортзал|зал|стадион", line, re.I):
+                or re.search(r"аудитория\s+\d", line, re.I) \
+                or re.search(r"спортзал|спортивный\s+зал|стадион|зал", line, re.I):
             if room is None:
                 room = line
             continue
 
-        # Преподаватель
-        if re.search(r"\b(проф|доц|ст\.?\s*преп|асс|преп)\b", line, re.I):
+        # Преподаватель — abbrev'ы + полные формы (journalism)
+        if re.search(r"\b(проф|доц|ст\.?\s*преп|асс|преп)\b", line, re.I) or re.match(
+            r"^\s*(?:доцент|профессор|ассистент|старший\s+преподаватель|"
+            r"преподаватель|ведущий\s+преподаватель)\b",
+            line, re.I,
+        ):
             if teacher is None:
                 teacher = re.sub(r"\(ауд\.?[^)]*\)", "", line).strip().rstrip(",. ")
+            continue
+
+        # Дата (D9: «14.09», «07.09, 21.09») — не тема, не teacher, не room
+        if _DATE_MARKER_RE.match(line):
             continue
 
     # Очищаем предмет от маркеров типа

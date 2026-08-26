@@ -155,9 +155,19 @@ the actual JSON against the source PDF.** This audit is the counter-example.
   `subject` is only teacher text (starts with «доц.», «проф.» …) or only
   room text («ауд. XXX») or matches known legend markers («Исполнитель», «Формы
   проведения», «Занятия по нечётным/чётным») is dropped. Fixes D2 and D3.
-
-Neither touches the underlying wrap-truncation (D1), which requires a
-deeper pdfplumber cell-extraction rewrite (documented in follow-ups).
+- `feat(scraper): fix D8 (gsheets multi-group merge) + D10 (excel code suffix)`.
+- `feat(scraper): fix D1 (PDF multi-line cell wrap truncation)` — gather all
+  leading lines into subject until `_is_metadata_line` matches. Geography
+  0/64 truncated (was ~16/78); physics 8/200 remaining are genuine one-word
+  cases. 6 unit tests locked in.
+- `feat(scraper): fix D9 (journalism date-based schedule)` — three combined
+  root causes: split-time regex missed dotted format («09.00-» / «10.30»),
+  metadata regex missed full titles («Доцент», «Профессор», «Старший
+  преподаватель», «Аудитория N»), and per-page time-column detection
+  needed a content-based fallback (continuation pages have no «Время»
+  header). Result on `2-kurs-zhurnalistika`: 0 → 3 groups, ~29 sanitized
+  lessons matching source. Same 3 tests in `test_pdf_parser.py`. Journalism
+  autumn PDFs (323 files) are now parseable.
 
 ## Follow-ups (not fixed in this session)
 
@@ -179,7 +189,7 @@ deeper pdfplumber cell-extraction rewrite (documented in follow-ups).
 | **excel** (openpyxl) | history, sport | 90 %+ on sampled group — clean full subjects, right teachers/rooms; one code-suffix quirk (D10, one-line fix) | **Yes, after D10 patch** |
 | **nextcloud** (via download → per-format parser) | biology, digital, teaching_development | not sampled (extra download hop); parser chain same as pdf/excel — inherits the same defects for the routed target format | — |
 | **pdf pdfplumber** (regular chart) | geography, physics, journalism (fallback), arts, social (fallback) | D1 truncation + D2/D3 hallucination universal; today's fixes drop 18 % noise but not enough for accuracy-critical UI | **No** without D1 fix |
-| **pdf pdfplumber** (date-based, e.g. journalism «временное») | journalism | 0 groups (D9) | **No** |
+| **pdf pdfplumber** (date-based, e.g. journalism «временное») | journalism | **Fixed** — 3/3 groups on sampled PDF, ~29 sanitized lessons | **Yes, after D9 patch** |
 | **gsheets** (CSV) | social, sport (partial) | multi-group headers merged into one Frankengroup (D8) | **No** without D8 fix |
 | **vision fallback** (gemini/claude) | languages, preschool, philology, childhood, international, pedagogy, math | not tested locally (no API keys); prod uses these when deterministic fails | — |
 

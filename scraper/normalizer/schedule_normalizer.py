@@ -312,6 +312,11 @@ _SUBJECT_ROOM_ONLY_RE = re.compile(r"^\s*ауд\.?\s*\S+\s*$", re.IGNORECASE)
 _SUBJECT_INITIALS_NAME_RE = re.compile(
     r"^\s*(?:[а-яё]{1,5}:\s*)?[А-ЯЁ]\.\s*[А-ЯЁ]\.\s*[А-ЯЁ][а-яё]+\s*$"
 )
+# D9: journalism cells где subject-строки не собрались, а осталась только дата
+# «14.09» или список «07.09, 21.09» — не тема, надо удалять.
+_SUBJECT_DATE_ONLY_RE = re.compile(
+    r"^\s*\d{1,2}[.,/-]\d{2}(?:\s*[,;]\s*\d{1,2}[.,/-]\d{2})*\s*$"
+)
 _SUBJECT_LEGEND_MARKERS = (
     "исполнитель",
     "формы проведения",
@@ -336,6 +341,8 @@ def is_garbage_subject(subject: str | None) -> bool:
     if _SUBJECT_ROOM_ONLY_RE.match(s):
         return True
     if _SUBJECT_INITIALS_NAME_RE.match(s):
+        return True
+    if _SUBJECT_DATE_ONLY_RE.match(s):
         return True
     sl = s.lower()
     for marker in _SUBJECT_LEGEND_MARKERS:

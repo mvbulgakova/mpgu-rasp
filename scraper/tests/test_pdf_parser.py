@@ -88,3 +88,59 @@ def test_single_word_subject_survives():
 def test_empty_cell_returns_none():
     assert _parse_timetable_cell("", "09:00", "10:30", None) is None
     assert _parse_timetable_cell("   \n\n  ", "09:00", "10:30", None) is None
+
+
+# ── D9: journalism "temporary" schedule with dates instead of week parity ─────
+
+
+def test_journalism_full_title_teacher_and_date_line():
+    """journalism cell: полные звания и дата вместо чёт/нечёт (D9).
+
+    Раньше «Доцент П.В. Макарова» не распознавался как teacher (regex ловил
+    только abbrev'ы), а «14.09» съедалось subject'ом. Проверяем правильную
+    сборку.
+    """
+    cell = (
+        "ОСНОВЫ ДЕЯТЕЛЬНОСТИ ЖУРНАЛИСТА (ЛК)\n"
+        "14.09\n"
+        "Доцент П.В. Макарова\n"
+        "Аудитория 204"
+    )
+    lesson = _parse_timetable_cell(cell, "09:00", "10:30", None)
+    assert lesson is not None
+    assert lesson["subject"] == "ОСНОВЫ ДЕЯТЕЛЬНОСТИ ЖУРНАЛИСТА"
+    assert lesson["type"] == "lecture"
+    assert lesson["teacher"] == "Доцент П.В. Макарова"
+    assert lesson["room"] == "Аудитория 204"
+
+
+def test_journalism_professor_and_multi_date():
+    cell = (
+        "ХУДОЖЕСТВЕННО-ПУБЛИЦИСТИЧЕСКАЯ ЖУРНАЛИСТИКА (ЛК)\n"
+        "07.09, 21.09\n"
+        "Профессор Т.Н. Владимирова\n"
+        "Аудитория 204"
+    )
+    lesson = _parse_timetable_cell(cell, "09:00", "10:30", None)
+    assert lesson is not None
+    assert lesson["subject"] == "ХУДОЖЕСТВЕННО-ПУБЛИЦИСТИЧЕСКАЯ ЖУРНАЛИСТИКА"
+    assert lesson["teacher"] == "Профессор Т.Н. Владимирова"
+    assert lesson["room"] == "Аудитория 204"
+
+
+def test_journalism_senior_lecturer_and_sports_hall():
+    cell = (
+        "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ (ПЗ)\n"
+        "10.09, 24.09\n"
+        "Старший преподаватель С.С. Волхов\n"
+        "Спортивный зал"
+    )
+    lesson = _parse_timetable_cell(cell, "10:40", "12:10", None)
+    assert lesson is not None
+    assert (
+        lesson["subject"]
+        == "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ"
+    )
+    assert lesson["type"] == "practice"
+    assert "Волхов" in (lesson["teacher"] or "")
+    assert lesson["room"] == "Спортивный зал"
