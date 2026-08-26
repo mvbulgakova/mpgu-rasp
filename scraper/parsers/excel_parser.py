@@ -52,19 +52,27 @@ def _try_mpgu_format(rows: list[list[str]], sheet_title: str = "") -> list[dict]
     header_idx, day_col, time_col, data_col = header
     header_row = rows[header_idx]
 
+    # Strip any decorative suffix that follows a valid code:
+    # "ВОИ18-ИПЛ2601 (101)" → "ВОИ18-ИПЛ2601" (D10 in audit 2026-08-25).
+    # The parenthetical is usually room number or subgroup, not part of the
+    # group code — leaving it in name breaks user search on the app side.
+    _CODE = re.compile(r"[А-ЯA-Z]{2,3}\d{2}[-\s]?[А-ЯA-Z]{2,4}\s?\d{4}")
+
+    def _strip_to_code(text: str) -> str:
+        m = _CODE.search(text)
+        return re.sub(r"\s+", "", m.group(0)) if m else text.strip()
+
     group_cols: dict[int, str] = {}
     for col_i in range(data_col, len(header_row)):
         name = header_row[col_i].strip()
         if name:
-            group_cols[col_i] = name
+            group_cols[col_i] = _strip_to_code(name)
     if not group_cols:
         return []
 
     # Если в строке заголовка не коды групп, а описания курсов
     # («1 курс (1 группа)»), а строкой ниже стоят реальные коды (ВVИ34-ИСТ2501) —
     # берём имена из строки с кодами и сдвигаем header_idx на неё.
-    # допускаем латинские гомоглифы (V/O/I и т.п.), встречающиеся в кодах МПГУ
-    _CODE = re.compile(r"[А-ЯA-Z]{2,3}\d{2}[-\s]?[А-ЯA-Z]{2,4}\s?\d{4}")
     if not any(_CODE.search(n) for n in group_cols.values()):
         for look in range(header_idx + 1, min(header_idx + 3, len(rows))):
             cand = rows[look]
@@ -72,7 +80,7 @@ def _try_mpgu_format(rows: list[list[str]], sheet_title: str = "") -> list[dict]
                      if ci < len(cand) and _CODE.search(cand[ci] or "")}
             if len(codes) >= max(1, len(group_cols) // 2):
                 for ci, code in codes.items():
-                    group_cols[ci] = re.sub(r"\s+", "", code)
+                    group_cols[ci] = _strip_to_code(code)
                 header_idx = look
                 header_row = rows[header_idx]
                 break

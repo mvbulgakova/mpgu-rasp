@@ -123,19 +123,24 @@ def _parse_time_str(text: str) -> tuple[str, str] | None:
 def _parse_isgo(rows: list[list[str]], header_idx: int) -> list[dict]:
     header = rows[header_idx]
 
-    # Определяем колонки с группами (начиная с col2)
-    group_cols: dict[int, str] = {}
+    # Определяем колонки с группами (начиная с col2). Одна колонка МОЖЕТ содержать
+    # несколько кодов групп через запятую — тогда пары этой колонки прописываются
+    # каждой из групп (D8 в audit 2026-08-25). Используем findall, не match.
+    group_cols: dict[int, list[str]] = {}
     for ci, cell in enumerate(header):
         if ci < 2:
             continue
         name = cell.strip()
-        if _GROUP_RE.match(name):
-            group_cols[ci] = name
+        codes = _GROUP_RE.findall(name)
+        if codes:
+            group_cols[ci] = codes
 
     if not group_cols:
         return []
 
-    schedules: dict[str, dict] = {n: make_schedule_skeleton() for n in group_cols.values()}
+    # уникальный список всех групп по всем колонкам
+    all_groups = [n for codes in group_cols.values() for n in codes]
+    schedules: dict[str, dict] = {n: make_schedule_skeleton() for n in all_groups}
     # seen: предотвращаем дублирование одинаковых занятий
     seen: dict[tuple, set] = {}
 
@@ -177,27 +182,29 @@ def _parse_isgo(rows: list[list[str]], header_idx: int) -> list[dict]:
         if not current_day or not current_time:
             continue
 
-        # Собираем занятия из колонок групп (с учётом сдвига)
+        # Собираем занятия из колонок групп (с учётом сдвига). Один cell может
+        # относиться к нескольким группам (см. group_cols now list-valued).
         slot_key = (current_day, current_time[0])
-        for col_idx, gname in group_cols.items():
+        for col_idx, gnames in group_cols.items():
             effective = col_idx + col_offset
             if effective < 0 or effective >= len(row):
                 continue
             content = row[effective].strip()
             if not content or content in _SKIP_CELLS or any(s in content.lower() for s in _SKIP_PHRASES):
                 continue
-            # Дедупликация
-            sk = (slot_key, gname)
-            if sk not in seen:
-                seen[sk] = set()
-            if content in seen[sk]:
-                continue
-            seen[sk].add(content)
+            for gname in gnames:
+                # Дедупликация (per group)
+                sk = (slot_key, gname)
+                if sk not in seen:
+                    seen[sk] = set()
+                if content in seen[sk]:
+                    continue
+                seen[sk].add(content)
 
-            lesson = _parse_isgo_cell(content, current_time[0], current_time[1])
-            if lesson:
-                schedules[gname]["odd_week"][current_day].append(lesson)
-                schedules[gname]["even_week"][current_day].append({**lesson})
+                lesson = _parse_isgo_cell(content, current_time[0], current_time[1])
+                if lesson:
+                    schedules[gname]["odd_week"][current_day].append(lesson)
+                    schedules[gname]["even_week"][current_day].append({**lesson})
 
     result = []
     for name, sched in schedules.items():
