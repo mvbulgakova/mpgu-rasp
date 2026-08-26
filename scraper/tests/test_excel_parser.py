@@ -34,3 +34,24 @@ def test_code_regex_matches_common_mpgu_shapes():
     # Doesn't match plain words
     assert not _CODE_RE.search("hello world")
     assert not _CODE_RE.search("2601")
+
+
+# ── D31: инлайновая ячейка в многострочной ячейке excel ──────────────────────
+
+
+def test_inline_split_runs_on_every_line_not_just_single_line_cells():
+    """D31: тот же дефект, что D13 в pdf_parser — разбиение стояло под
+    `len(lines) == 1`, поэтому в многострочной ячейке (а таких в history
+    большинство) преподаватель и аудитория оставались внутри названия.
+    """
+    from scraper.parsers.excel_parser import _parse_lesson_cell
+
+    cell = (
+        "Историография истории России, доц. Сергованцев Д.Н. (ауд. 313)\n"
+        "09.09, 23.09"
+    )
+    lesson = _parse_lesson_cell(cell, "09:00", "10:30")
+    assert lesson is not None
+    assert lesson["subject"] == "Историография истории России", lesson["subject"]
+    assert "Сергованцев" in (lesson["teacher"] or ""), lesson["teacher"]
+    assert lesson["room"] == "313", lesson["room"]

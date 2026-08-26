@@ -328,3 +328,19 @@ def test_fix_homoglyphs_folds_latin_z_and_v_used_by_mpgu():
     for src in ("ВZЗ34-ФЗК2601", "БVЭ63-ЮРД2401", "БOЭ04-ГМУ2501"):
         out = fix_homoglyphs(src)
         assert all(ord(c) >= 0x400 or not c.isalpha() for c in out), out
+
+
+def test_is_garbage_subject_catches_history_leftovers():
+    """D31: обрывки, которые в history попадали в поле предмета."""
+    # Аудитория в скобках
+    assert is_garbage_subject("(ауд. 345)")
+    assert is_garbage_subject("(ауд.315)")
+    # «ст. пр.» — сокращение короче, чем «ст. преп.»
+    assert is_garbage_subject("ст. пр. Якушкина М.К. (ауд. 209) 09.09, 23.09")
+    assert is_garbage_subject("ст. пр. Гудкова Т.В")
+    # Аудитория с хвостом-периодом
+    assert is_garbage_subject("(ауд. 327) до 26.10")
+    assert is_garbage_subject("(ауд. 205) с 14.09")
+    # Настоящие предметы не трогаем
+    assert not is_garbage_subject("Историография истории России")
+    assert not is_garbage_subject("Аудирование")

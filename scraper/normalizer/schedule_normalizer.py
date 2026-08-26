@@ -303,11 +303,17 @@ def sanitize_lesson(lesson: dict) -> dict:
 # Patterns that identify a subject field that is actually garbage — footer
 # legends, executor signatures, teacher/room text bleed. See
 # docs/audits/2026-08-25-parser-audit.md, defects D2 & D3.
+# D31: «ст. пр.» — сокращение короче, чем «ст. преп.»
 _SUBJECT_TEACHER_PREFIX_RE = re.compile(
-    r"^\s*(доц|проф|ст\.?\s*преп|асс|препод|доцент|профессор)\.?\s",
+    r"^\s*(доц|проф|ст\.?\s*пр(?:еп)?|асс|препод|доцент|профессор)\.?\s",
     re.IGNORECASE,
 )
-_SUBJECT_ROOM_ONLY_RE = re.compile(r"^\s*ауд\.?\s*\S+\s*$", re.IGNORECASE)
+# D31: аудитория могла остаться в скобках — «(ауд. 345)»
+# NB: lookahead не даёт совпасть внутри слова («Аудирование»).
+_SUBJECT_ROOM_ONLY_RE = re.compile(
+    # Допускаем хвост-период после аудитории: «(ауд. 327) до 26.10».
+    r"^\s*\(?\s*ауд(?:итория)?\.?(?![а-яё])\s*[^)]*\)?"
+    r"\s*(?:до|с|по|от)?[\s\d.,–-]*$", re.IGNORECASE)
 # Executor/signature footer: usually "И.А. Курдюков" — two initials + surname.
 # When the parser truncates "Исполнитель: И.А. Курдюков" it may drop the prefix
 # and leave just the name string. Also matches a bare short-word + colon like

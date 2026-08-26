@@ -258,20 +258,24 @@ def _parse_lesson_cell(cell: str, t_start: str, t_end: str) -> dict | None:
     if not lines:
         return None
 
-    # Если newline'ов нет, но есть маркеры teacher/room — разбиваем one-line
-    # cell по запятым/скобкам во «виртуальные» строки, чтобы дальше пойти
-    # тем же путём, что и multi-line case.
-    if len(lines) == 1:
-        one = lines[0]
-        # Split before «доц. Fam», «проф. Fam», «ст.преп.», «ст. пр.», «(ауд.…»
+    # D31: строка может паковать предмет + преподавателя + аудиторию в одну
+    # («Историография истории России, доц. Сергованцев Д.Н. (ауд. 313)»).
+    # Разбиваем КАЖДУЮ строку, а не только когда вся ячейка однострочная —
+    # в history многострочные ячейки составляют большинство, и старое
+    # условие `len(lines) == 1` полностью отключало разбиение.
+    expanded: list[str] = []
+    for line in lines:
         pieces = re.split(
-            r"(?=\s*,\s*(?:доц|проф|асс|ст\.?\s*(?:преп|пр))\.?\s+[А-ЯЁ])|"
-            r"(?=\s*\(ауд\.)",
-            one,
+            r"(?=[\s,]\s*(?:доц|проф|асс|ассист|ст\.?\s*(?:преп|пр))\.?\s+[А-ЯЁ])|"
+            # NB: скобка обязательна в своей альтернативе — с `\(?`
+            # lookahead срабатывал и до «(», и сразу после, разрывая
+            # «(ауд. 313)» на «(» и «ауд. 313)».
+            r"(?=\s*\(\s*ауд\.)|(?=[\s,]\s*ауд\.)",
+            line,
         )
-        pieces = [p.strip(" ,;") for p in pieces if p.strip(" ,;")]
-        if len(pieces) > 1:
-            lines = pieces
+        pieces = [x.strip(" ,;") for x in pieces if x.strip(" ,;")]
+        expanded.extend(pieces or [line])
+    lines = expanded
 
     subject_line = lines[0]
     lesson_type = normalize_lesson_type(subject_line)
