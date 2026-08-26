@@ -223,3 +223,34 @@ def test_single_code_no_suffix_added():
     ]
     gc, _, _, _ = _extract_timetable_groups(table)
     assert [n for n, _ in gc] == ["БОГ35-ГЭК2101"]
+
+
+# ── D19: two stacked lesson blocks in one time slot ───────────────────────────
+
+
+def _mpgu_table_two_blocks_in_one_slot():
+    """Mirrors arts/ДПИ layout: the time column has TALLER rows than the
+    subject column, so one 12:40 slot physically contains two lesson cells
+    stacked vertically. pdfplumber emits them as two consecutive rows, the
+    second with an empty time cell.
+    """
+    return [
+        ["День недели", "Группа/время", "БОР06-ДПИ2301"],
+        ["ПОНЕДЕЛЬНИК", "10:40-12:10", ""],
+        ["", "", "АКАДЕМИЧЕСКАЯ СКУЛЬПТУРА\n(ПЗ)\nдоц. А.А. Ворохоб\n(ауд. 114)"],
+        ["", "12:40-14:10", "ХУДОЖЕСТВЕННАЯ КЕРАМИКА (ПЗ)\nдоц. А.А. Ворохоб\n(ауд. 114)"],
+        ["", "", "АКАДЕМИЧЕСКАЯ СКУЛЬПТУРА\n(ПЗ)\nдоц. А.А. Ворохоб\n(ауд. 114)"],
+    ]
+
+
+def test_two_stacked_blocks_in_one_slot_both_survive():
+    """D19: both lessons of a shared slot must be emitted, not just the first."""
+    from scraper.parsers.pdf_parser import _parse_tables
+
+    groups = _parse_tables([_mpgu_table_two_blocks_in_one_slot()])
+    assert len(groups) == 1, f"expected 1 group, got {[g['name'] for g in groups]}"
+    monday = groups[0]["schedule"]["odd_week"]["monday"]
+    at_1240 = [l["subject"] for l in monday if l["time_start"] == "12:40"]
+    assert len(at_1240) == 2, f"12:40 slot must hold 2 lessons, got {at_1240}"
+    assert any("КЕРАМИКА" in s for s in at_1240), at_1240
+    assert any("СКУЛЬПТУРА" in s for s in at_1240), at_1240

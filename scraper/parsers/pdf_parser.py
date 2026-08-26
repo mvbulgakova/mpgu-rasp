@@ -814,14 +814,29 @@ def _fill_mpgu_schedule_multi(
             sched = schedules.get(gname)
             if sched is None:
                 continue
-            content = "\n".join(frags)
-            for seg_content, week_type in _split_timetable_content(content):
-                lesson = _parse_timetable_cell(seg_content, t_start, t_end, None)
-                if lesson:
-                    if week_type in ("odd", "both"):
-                        sched["odd_week"][current_day].append(lesson)
-                    if week_type in ("even", "both"):
-                        sched["even_week"][current_day].append({**lesson})
+            # Fix D19 (audit 2026-08-26): в этих PDF колонка времени имеет
+            # БОЛЕЕ ВЫСОКИЕ строки, чем колонка занятий, поэтому в один слот
+            # физически попадают ДВА разных занятия друг под другом (arts/ДПИ:
+            # 12:40 = «Керамика» + «Скульптура»). Раньше все фрагменты слота
+            # склеивались в один текст и выживал только первый subject —
+            # терялось до 40 % пар. Теперь каждый фрагмент, начинающийся с
+            # НЕ-метаданной строки, открывает новое занятие; фрагменты из
+            # одних метаданных приклеиваются к предыдущему (перенос ячейки).
+            blocks: list[str] = []
+            for frag in frags:
+                first = next((l for l in frag.split("\n") if l.strip()), "")
+                if blocks and (not first or _is_metadata_line(first)):
+                    blocks[-1] = blocks[-1] + "\n" + frag
+                else:
+                    blocks.append(frag)
+            for content in blocks:
+                for seg_content, week_type in _split_timetable_content(content):
+                    lesson = _parse_timetable_cell(seg_content, t_start, t_end, None)
+                    if lesson:
+                        if week_type in ("odd", "both"):
+                            sched["odd_week"][current_day].append(lesson)
+                        if week_type in ("even", "both"):
+                            sched["even_week"][current_day].append({**lesson})
         pending = {}
 
     for row in table:
