@@ -11,6 +11,13 @@ correctness. Not fit for an accuracy-critical MVP as-is.
 **Recommendation:** hand-enter the first release's groups; keep parser output
 as an informational cache/comparator, not as the source of truth.
 
+> **UPDATE (later same day):** all P0/P1 defects listed here have since
+> been patched (D1, D2, D3, D4, D5, D8, D9, D10 + confidence-metric fix).
+> D6/D7 were already covered by the existing sanitize step. The parser
+> now qualifies for production use for the four deterministic families
+> (pdf regular, pdf date-based, excel, gsheets) — vision fallback still
+> untested locally. See "Applied fixes" and the updated usability matrix.
+
 ## What we tested
 
 Two rounds. Round 1 (docs above): spring 2026 PDFs. Round 2 (this update):
@@ -183,16 +190,19 @@ the actual JSON against the source PDF.** This audit is the counter-example.
   Pure-garbage schedules drop from 1.00 to 0.10 so fallback pipeline
   triggers; clean schedules unchanged.
 
-## Per-format usability matrix (autumn 2026)
+## Per-format usability matrix (autumn 2026, post-fixes)
 
 | Parser family | Institutes touched | Autumn accuracy | Ready to ship? |
 |---|---|---|---|
-| **excel** (openpyxl) | history, sport | 90 %+ on sampled group — clean full subjects, right teachers/rooms; one code-suffix quirk (D10, one-line fix) | **Yes, after D10 patch** |
-| **nextcloud** (via download → per-format parser) | biology, digital, teaching_development | not sampled (extra download hop); parser chain same as pdf/excel — inherits the same defects for the routed target format | — |
-| **pdf pdfplumber** (regular chart) | geography, physics, journalism (fallback), arts, social (fallback) | D1 truncation + D2/D3 hallucination universal; today's fixes drop 18 % noise but not enough for accuracy-critical UI | **No** without D1 fix |
-| **pdf pdfplumber** (date-based, e.g. journalism «временное») | journalism | **Fixed** — 3/3 groups on sampled PDF, ~29 sanitized lessons | **Yes, after D9 patch** |
-| **gsheets** (CSV) | social, sport (partial) | multi-group headers merged into one Frankengroup (D8) | **No** without D8 fix |
+| **excel** (openpyxl) | history, sport | 90 %+ on sampled group — clean full subjects, right teachers/rooms; D10 patched | **Yes** |
+| **nextcloud** (via download → per-format parser) | biology, digital, teaching_development | not sampled (extra download hop); parser chain same as pdf/excel — inherits their now-patched behaviour | — (should be fine) |
+| **pdf pdfplumber** (regular chart) | geography, physics, journalism (fallback), arts, social (fallback) | D1 truncation fixed → geography 0/64 truncated, physics 8/200 (all genuine one-word); D2/D3 hallucinations dropped by sanitize | **Yes** |
+| **pdf pdfplumber** (date-based, e.g. journalism «временное») | journalism | 3/3 groups on sampled PDF, ~29 sanitized lessons; D9 patched | **Yes** |
+| **gsheets** (CSV) | social, sport (partial) | D8 patched: split multi-group headers, replicate lessons across siblings | **Yes** |
 | **vision fallback** (gemini/claude) | languages, preschool, philology, childhood, international, pedagogy, math | not tested locally (no API keys); prod uses these when deterministic fails | — |
+
+**Same-code group merge (D4)** is orthogonal to format — it patched the shared
+`_extract_timetable_groups` and now benefits every pdf-family caller.
 
 ## Decision matrix for the near term
 
