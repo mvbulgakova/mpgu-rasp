@@ -8,6 +8,7 @@ import aiohttp
 
 from scraper.parsers.base import BaseParser, ParseResult
 from scraper.normalizer.schedule_normalizer import (
+    TEACHER_TITLE_RE,
     normalize_day, normalize_lesson_type, normalize_time,
     normalize_week_type, make_schedule_skeleton, lesson_obj, extract_subgroup,
 )
@@ -246,11 +247,7 @@ def _parse_isgo(rows: list[list[str]], header_idx: int) -> list[dict]:
 # («ст.преподаватель кафедры …»), а имя — в самом конце строки.
 # Полные формы допускаем без требования заглавной буквы следом,
 # сокращения оставляем строгими, иначе ловим обычный текст.
-_TEACHER_TITLE_RE = re.compile(
-    r"\b(?:ст\.?\s*преподавател[ья]|преподавател[ья]|профессор|доцент|ассистент)\b"
-    r"|\b(?:проф|доц|ст\.?\s*преп|асс|преп)\.?\s",
-    re.IGNORECASE,
-)
+_TEACHER_TITLE_RE = TEACHER_TITLE_RE
 # D39: после номера в скобках может идти пояснение — «(ауд.203, Музей МПГУ)».
 _ROOM_RE = re.compile(r"\(\s*ауд\.?\s*([\w\-/]+)[^)]*\)", re.IGNORECASE)
 _TYPE_BRACKET_RE = re.compile(r"\(([А-ЯЁа-яёA-Za-z./]{2,6})[\s\d/]*\)")
@@ -320,6 +317,15 @@ def _parse_isgo_cell(content: str, t_start: str, t_end: str) -> dict | None:
     subject, subgroup = extract_subgroup(subject)
     if not subject:
         return None
+
+    # D42: хвост после звания уходит в teacher целиком — вынимаем оттуда
+    # аудиторию, если она ещё не найдена.
+    if teacher:
+        m_room = re.search(r"ауд\.?\s*([\w\-/]+)", teacher, re.I)
+        if m_room:
+            if room is None:
+                room = m_room.group(1)
+            teacher = teacher[:m_room.start()].strip(" ,.;")
 
     return lesson_obj(None, t_start, t_end, subject, lesson_type, teacher, room, subgroup)
 

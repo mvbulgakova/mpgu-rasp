@@ -146,3 +146,16 @@ def test_full_word_lecturer_title_without_space():
     assert l["subject"].startswith("Мастер-класс"), l["subject"]
     assert "преподаватель" not in l["subject"].lower(), l["subject"]
     assert l["teacher"] and "Дробышева" in l["teacher"], l["teacher"]
+
+
+def test_room_is_pulled_out_of_the_teacher_tail():
+    """D42: после звания весь хвост уходил в teacher вместе с аудиторией.
+    Строки взяты из languages/000 дословно."""
+    from scraper.parsers.gsheets_parser import _parse_isgo_cell
+
+    l = _parse_isgo_cell(
+        '16.00 Мастер-класс "Deutsch? Kein Problem!", доцент кафедры нем.яз. '
+        'им. В.Д. Девкина О.В.Федулова  ауд.624', "16:00", "17:30")
+    assert l is not None
+    assert l["room"] and "624" in l["room"], l["room"]
+    assert "ауд" not in (l["teacher"] or "").lower(), l["teacher"]

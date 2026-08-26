@@ -9,7 +9,7 @@ from scraper.parsers.base import BaseParser, ParseResult
 from scraper.normalizer.schedule_normalizer import (
     normalize_day, normalize_lesson_type, normalize_time,
     normalize_week_type, make_schedule_skeleton, lesson_obj, TIME_SLOTS,
-    extract_subgroup,
+    extract_subgroup, TEACHER_TITLE_RE, TEACHER_TITLE_SPLIT_RE,
 )
 
 CONFIDENCE_THRESHOLD = 0.65
@@ -747,9 +747,7 @@ _AUD_TOKEN = r"(?:аудитория|а\s*у\s*д)\.?(?![а-яё])"
 
 # Fix D21: звание «Ст. пр.» (сокращение от «старший преподаватель») —
 # короче, чем «ст. преп.», старый regex его не ловил.
-_TEACHER_MARKER_RE = re.compile(
-    r"\b(проф|доц|асс|ст\.?\s*пр(?:еп)?|преп)\b\.?", re.IGNORECASE
-)
+_TEACHER_MARKER_RE = TEACHER_TITLE_RE
 
 # Fix D20: тип занятия может стоять после запятой без скобок —
 # «История России, ПЗ» (preschool). Скобочный вариант обрабатывается отдельно.
@@ -1216,8 +1214,14 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
     expanded: list[str] = []
     for line in lines:
         pieces = re.split(
-            # преподаватель — после запятой ИЛИ просто после пробела (social)
-            r"(?=[\s,]\s*(?:доц|проф|асс|ассист|ст\.?\s*(?:преп|пр))\.?\s+[А-ЯЁ])|"
+            # (?i) — весь паттерн разреза регистронезависим: в источниках
+            # встречается и «ст. преп.», и «Ст. преп.».
+            r"(?i)"
+            # преподаватель — после запятой ИЛИ просто после пробела (social).
+            # Паттерн звания общий для всех парсеров (см. normalizer).
+            # Lookbehind на самой точке разреза: в «ст. преп. Иванов» ветка
+            # «преп …» иначе режет после «ст.», отрывая «ст» в предмет.
+            rf"(?<!ст\.)(?<!ст)(?=[\s,]\s*(?:{TEACHER_TITLE_SPLIT_RE.pattern}))|"
             # аудитория после запятой; допускаем «ауд» без точки и без номера
             # (D24: обрезано границей ячейки)
             rf"(?=\s*,\s*{_AUD_TOKEN})|"
