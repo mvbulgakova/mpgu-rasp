@@ -49,6 +49,23 @@ def _parse_sheet(sheet) -> list[dict]:
 _CODE_RE = re.compile(r"[А-ЯA-Z]{2,3}\d{2}[-\s]?[А-ЯA-Z]{2,4}\s?\d{4}")
 
 
+# D38: единый разбиватель строки на «предмет | преподаватель | аудитория».
+# Раньше он был только в `_parse_lesson_cell`, а `_parse_multirow_lines`
+# нёс свои устаревшие regex (без «ст. пр.», аудитория только в начале строки).
+_INLINE_SPLIT_RE = re.compile(
+    r"(?=[\s,]\s*(?:доц|проф|асс|ассист|ст\.?\s*(?:преп|пр))\.?\s+[А-ЯЁ])|"
+    r"(?=\s*\(\s*ауд\.)|(?=[\s,]\s*ауд\.)"
+)
+
+
+def _split_inline(lines: list[str]) -> list[str]:
+    out: list[str] = []
+    for line in lines:
+        pieces = [x.strip(" ,;") for x in _INLINE_SPLIT_RE.split(line)]
+        out.extend([x for x in pieces if x] or [line])
+    return out
+
+
 def _strip_to_code(text: str) -> str:
     """Return only the group code portion of `text` (D10 in the parser audit)."""
     m = _CODE_RE.search(text)
@@ -263,19 +280,7 @@ def _parse_lesson_cell(cell: str, t_start: str, t_end: str) -> dict | None:
     # Разбиваем КАЖДУЮ строку, а не только когда вся ячейка однострочная —
     # в history многострочные ячейки составляют большинство, и старое
     # условие `len(lines) == 1` полностью отключало разбиение.
-    expanded: list[str] = []
-    for line in lines:
-        pieces = re.split(
-            r"(?=[\s,]\s*(?:доц|проф|асс|ассист|ст\.?\s*(?:преп|пр))\.?\s+[А-ЯЁ])|"
-            # NB: скобка обязательна в своей альтернативе — с `\(?`
-            # lookahead срабатывал и до «(», и сразу после, разрывая
-            # «(ауд. 313)» на «(» и «ауд. 313)».
-            r"(?=\s*\(\s*ауд\.)|(?=[\s,]\s*ауд\.)",
-            line,
-        )
-        pieces = [x.strip(" ,;") for x in pieces if x.strip(" ,;")]
-        expanded.extend(pieces or [line])
-    lines = expanded
+    lines = _split_inline(lines)
 
     subject_line = lines[0]
     lesson_type = normalize_lesson_type(subject_line)
@@ -298,18 +303,20 @@ def _parse_multirow_lines(lines: list[str], t_start: str, t_end: str) -> dict | 
     subject_parts: list[str] = []
     teacher = room = None
 
-    for line in lines:
+    for line in _split_inline([l for l in lines if l and l.strip()]):
         line = line.strip()
         if not line:
             continue
         # Dates-only lines: treat as notes, skip
         if re.match(r"^\d{1,2}\.\d{2}[.,]", line):
             continue
-        if re.match(r"ауд\.?\s*[\d\w]", line, re.I) or re.match(r"с/з", line, re.I):
+        if re.match(r"\(?\s*ауд\.?\s*[\d\w]", line, re.I) or re.match(r"с/з", line, re.I):
             if room is None:
-                room = re.sub(r"^ауд\.?\s*", "", line, flags=re.I).strip()
+                # Берём ТОЛЬКО номер, а не остаток строки: «(ауд. 324) до 06.11»
+                m_r = re.search(r"ауд\.?\s*([\w\-/]+)", line, re.I)
+                room = m_r.group(1) if m_r else line.strip(" ()")
             continue
-        if re.search(r"\b(проф|доц|асс|ст\. преп|ст\.преп|преп)\b", line, re.I):
+        if re.search(r"\b(проф|доц|асс|ст\.?\s*пр(?:еп)?|преп)\b", line, re.I):
             if teacher is None:
                 teacher = re.sub(r"\(ауд\.?[^)]*\)", "", line).strip().rstrip(",. ")
             room_m = re.search(r"\(ауд\.?\s*([^)]+)\)", line, re.I)

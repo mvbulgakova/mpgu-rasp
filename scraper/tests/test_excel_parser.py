@@ -55,3 +55,26 @@ def test_inline_split_runs_on_every_line_not_just_single_line_cells():
     assert lesson["subject"] == "Историография истории России", lesson["subject"]
     assert "Сергованцев" in (lesson["teacher"] or ""), lesson["teacher"]
     assert lesson["room"] == "313", lesson["room"]
+
+
+def test_multirow_path_uses_the_same_markers():
+    """D38: `_parse_multirow_lines` (ветка ЗФО/многострочных данных) несла
+    старые regex: не знала «ст. пр.» и требовала, чтобы строка НАЧИНАЛАСЬ
+    с «ауд.». Из-за этого преподаватель и аудитория оставались в названии.
+    """
+    from scraper.parsers.excel_parser import _parse_multirow_lines
+
+    lesson = _parse_multirow_lines(
+        ["Методы математической обработки данных, ст. пр. Истомина Е.И. (ауд. 324) до 06.11"],
+        "09:00", "10:30",
+    )
+    assert lesson is not None
+    assert lesson["subject"] == "Методы математической обработки данных", lesson["subject"]
+    assert "Истомина" in (lesson["teacher"] or ""), lesson["teacher"]
+    assert lesson["room"] == "324", lesson["room"]
+
+    lesson2 = _parse_multirow_lines(
+        ["РЦОС*", "ст. пр. Тарабукин И.М. (ауд. 322)"], "09:00", "10:30")
+    assert lesson2 is not None
+    assert lesson2["subject"] == "РЦОС*", lesson2["subject"]
+    assert "Тарабукин" in (lesson2["teacher"] or "")
