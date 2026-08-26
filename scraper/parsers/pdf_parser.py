@@ -1058,6 +1058,22 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
     if not lines:
         return None
 
+    # Post-08-25 follow-up: если вся ячейка — одна строка с subject + teacher
+    # + room через запятую («Основы экологической культуры (ПЗ), доц. И.Ф.
+    # Асауляк, ауд. 107»), разбиваем её на «виртуальные» строки, чтобы
+    # _is_metadata_line не съел subject целиком как метаданные.
+    if len(lines) == 1:
+        one = lines[0]
+        pieces = re.split(
+            r"(?=\s*,\s*(?:доц|проф|асс|ст\.?\s*(?:преп|пр))\.?\s+[А-ЯЁ])|"
+            r"(?=\s*,\s*(?:аудитория|ауд\.)\s+)|"
+            r"(?=\s*\(\s*(?:аудитория|ауд\.))",
+            one,
+        )
+        pieces = [p.strip(" ,;") for p in pieces if p.strip(" ,;")]
+        if len(pieces) > 1:
+            lines = pieces
+
     # Извлекаем подгруппу из любой строки
     if subgroup is None:
         for i, line in enumerate(lines):
@@ -1105,20 +1121,44 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
                 room = right
             continue
 
-        # Только аудитория (в т.ч. journalism: «Аудитория 204», «Спортивный зал»)
-        if re.search(r"\d+\s+корп\.", line, re.I) or re.search(r"ауд\.?\s*\d", line, re.I) \
-                or re.search(r"аудитория\s+\d", line, re.I) \
-                or re.search(r"спортзал|спортивный\s+зал|стадион|зал", line, re.I):
+        # Учитель И/ИЛИ аудитория в одной строке. Раньше room-detection
+        # делал `continue` до teacher-detection, поэтому строка вида
+        # «Доц. М.К. Чиняков(ауд. 58)» давала T=—, R=«Доц. М.К. Чиняков(ауд. 58)».
+        # NB: longer alternative first so «Аудитория 204» captures «204», not
+        # stops at «Аудитория» because «ауд» matched greedily. `\s*` after the
+        # marker allows «ауд.502» (no space) as well as «ауд. 502».
+        room_m = re.search(
+            r"\(?\s*(?:аудитория\s+|ауд\.?\s*)([\w\-]+)\)?", line, re.I,
+        )
+        looks_like_room_only = bool(
+            re.search(r"\d+\s+корп\.", line, re.I)
+            or re.search(r"спортзал|спортивный\s+зал|стадион", line, re.I)
+        )
+        has_teacher_marker = bool(
+            re.search(r"\b(проф|доц|ст\.?\s*преп|асс|преп)\b", line, re.I)
+            or re.match(
+                r"^\s*(?:доцент|профессор|ассистент|старший\s+преподаватель|"
+                r"преподаватель|ведущий\s+преподаватель)\b",
+                line, re.I,
+            )
+        )
+
+        if room_m or looks_like_room_only:
             if room is None:
-                room = line
+                if room_m:
+                    room = room_m.group(0).strip("()").strip()
+                else:
+                    room = line
+            # Even after grabbing room, teacher may be on the same line.
+            residual = re.sub(
+                r"\(?\s*(?:аудитория\s+|ауд\.?\s*)[\w\-]+\)?", "", line, flags=re.I
+            ).strip(" ,;")
+            if teacher is None and has_teacher_marker and residual:
+                teacher = residual.rstrip(",. ")
             continue
 
         # Преподаватель — abbrev'ы + полные формы (journalism)
-        if re.search(r"\b(проф|доц|ст\.?\s*преп|асс|преп)\b", line, re.I) or re.match(
-            r"^\s*(?:доцент|профессор|ассистент|старший\s+преподаватель|"
-            r"преподаватель|ведущий\s+преподаватель)\b",
-            line, re.I,
-        ):
+        if has_teacher_marker:
             if teacher is None:
                 teacher = re.sub(r"\(ауд\.?[^)]*\)", "", line).strip().rstrip(",. ")
             continue

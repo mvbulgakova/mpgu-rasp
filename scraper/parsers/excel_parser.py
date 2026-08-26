@@ -243,12 +243,35 @@ def _parse_mpgu_multirow(
 
 
 def _parse_lesson_cell(cell: str, t_start: str, t_end: str) -> dict | None:
-    """Parse multi-line cell (full-time): subject\\nteacher\\nroom."""
+    """Parse a lesson cell (full-time). Supports both formats:
+
+    1. Multi-line — subject\\nteacher\\nroom (physics, some institutes).
+    2. Single-line comma-separated — «Subject, доц. Teacher И.О. (ауд. NNN)»
+       (history and other institutes that use one-cell-per-lesson layout).
+
+    Follow-up к post-08-25 аудиту: history-excel имел 70% уроков без teacher
+    и 70% без room потому что старый код не делил one-line cell на поля.
+    """
     if not cell or cell.strip() in {"-", "–", "—", ".", ""}:
         return None
     lines = [l.strip() for l in cell.split("\n") if l.strip()]
     if not lines:
         return None
+
+    # Если newline'ов нет, но есть маркеры teacher/room — разбиваем one-line
+    # cell по запятым/скобкам во «виртуальные» строки, чтобы дальше пойти
+    # тем же путём, что и multi-line case.
+    if len(lines) == 1:
+        one = lines[0]
+        # Split before «доц. Fam», «проф. Fam», «ст.преп.», «ст. пр.», «(ауд.…»
+        pieces = re.split(
+            r"(?=\s*,\s*(?:доц|проф|асс|ст\.?\s*(?:преп|пр))\.?\s+[А-ЯЁ])|"
+            r"(?=\s*\(ауд\.)",
+            one,
+        )
+        pieces = [p.strip(" ,;") for p in pieces if p.strip(" ,;")]
+        if len(pieces) > 1:
+            lines = pieces
 
     subject_line = lines[0]
     lesson_type = normalize_lesson_type(subject_line)
