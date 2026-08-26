@@ -9,7 +9,9 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
-from scraper.parsers.pdf_parser import _parse_timetable_cell, _compute_confidence
+from scraper.parsers.pdf_parser import (
+    _parse_timetable_cell, _compute_confidence, _extract_timetable_groups,
+)
 
 
 def test_multiline_subject_wrap_is_joined_geography_style():
@@ -184,3 +186,40 @@ def test_confidence_ignores_short_and_garbage_subjects():
     assert _compute_confidence([]) == 0.0
     empty = _mkgroup("Х", [])
     assert _compute_confidence([empty]) == 0.10
+
+
+# ── D4: same-code group discriminator ─────────────────────────────────────────
+
+
+def test_duplicate_code_gets_profile_suffix():
+    """geo_5-kurs.pdf: two cols carry БОГ35-ГИН2101 — one испанский, one английский.
+
+    Without disambiguation they merge into one group and lose data. Fix: append
+    the profile hint from the row above the code row as a suffix.
+    """
+    # Minimal 3-column header table mirroring geo_5-kurs.pdf shape:
+    table = [
+        ["", "", "", ""],
+        ["", "", "", ""],
+        ["", "", "", ""],
+        ["профиль", "", "География и иностранный язык (испанский)",
+         "География и иностранный язык (английский)"],
+        ["", "", "", ""],
+        ["группа", "", "БОГ35-ГИН2101", "БОГ35-ГИН2101"],
+        ["", "", "", ""],
+    ]
+    gc, _, _, _ = _extract_timetable_groups(table)
+    names = [n for n, _ in gc]
+    assert "БОГ35-ГИН2101 (испанский)" in names
+    assert "БОГ35-ГИН2101 (английский)" in names
+    assert len(names) == 2, f"expected 2 distinct groups, got {names}"
+
+
+def test_single_code_no_suffix_added():
+    """Обычный случай — код встречается один раз — не переименовываем."""
+    table = [
+        ["профиль", "", "География и экология"],
+        ["группа", "", "БОГ35-ГЭК2101"],
+    ]
+    gc, _, _, _ = _extract_timetable_groups(table)
+    assert [n for n, _ in gc] == ["БОГ35-ГЭК2101"]

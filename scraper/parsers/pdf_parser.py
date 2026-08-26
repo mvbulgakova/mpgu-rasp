@@ -928,19 +928,24 @@ def _extract_timetable_groups(table: list[list]) -> tuple:
     """Извлекает список групп (name, col_idx), форму, степень и курс из заголовка таблицы.
 
     Возвращает: ([(group_name, col_idx), ...], form, degree, year)
+
+    D4 (audit 2026-08-25): если в шапке две колонки несут ОДИН код (напр.
+    geo_5-kurs.pdf: БОГ35-ГИН2101 испанский + БОГ35-ГИН2101 английский),
+    добавляем к дубликатам суффикс-профиль из строки над кодом, чтобы
+    занятия не сливались в одну группу.
     """
     # Допускаем пробелы вокруг дефиса (напр. 'ЗОГ34 - ГУМ2501')
     GROUP_RE = re.compile(r"[А-ЯЁа-яёA-Za-z]{2,6}\d{2}\s*-\s*[А-ЯЁа-яёA-Za-z]{2,6}\d{4}")
-    groups: list[tuple[str, int]] = []
+    # Кандидаты: (name, col, row) — row нужен для disambiguation ниже.
+    candidates: list[tuple[str, int, int]] = []
     form = "full_time"
     degree = "bachelor"
     year = None
 
     def _norm_group_name(raw: str) -> str:
-        """Нормализует код группы: убирает пробелы вокруг дефиса."""
         return re.sub(r"\s*-\s*", "-", raw.strip())
 
-    for row in table[:20]:
+    for ri, row in enumerate(table[:20]):
         for ci, cell in enumerate(row):
             text = str(cell or "").strip()
             if not text:
@@ -958,27 +963,70 @@ def _extract_timetable_groups(table: list[list]) -> tuple:
             if m and year is None:
                 year = int(m.group(1))
             if ci >= 2:
-                # Ищем код группы: сначала с начала строки, затем вложенный (напр. '1 курс\nВZГ34-...')
                 gm = GROUP_RE.match(text) or GROUP_RE.search(text)
                 if gm:
                     name = _norm_group_name(gm.group(0))
-                    if not any(n == name for n, _ in groups):
-                        groups.append((name, ci))
+                    if not any(nm == name and cc == ci for nm, cc, _ in candidates):
+                        candidates.append((name, ci, ri))
 
-    if not groups:
+    if not candidates:
         # Запасной вариант: ищем любую ячейку с кодом группы (без ограничения по ci)
-        for row in table[:20]:
+        for ri, row in enumerate(table[:20]):
             for ci, cell in enumerate(row):
                 text = str(cell or "").strip()
                 gm = GROUP_RE.search(text)
                 if gm:
                     name = _norm_group_name(gm.group(0))
-                    if not any(n == name for n, _ in groups):
-                        groups.append((name, ci))
-    if not groups:
-        groups = [("группа", 2)]
+                    if not any(nm == name and cc == ci for nm, cc, _ in candidates):
+                        candidates.append((name, ci, ri))
+    if not candidates:
+        return [("группа", 2)], form, degree, year
+
+    # D4: дедуплицируем БЕЗ дискриминатора если код встречается в одной колонке,
+    # но при повторе имени в РАЗНЫХ колонках — добавляем profile-suffix.
+    name_cols: dict[str, list[int]] = {}
+    for name, ci, _ in candidates:
+        name_cols.setdefault(name, []).append(ci)
+
+    groups: list[tuple[str, int]] = []
+    seen: set[tuple[str, int]] = set()
+    for name, ci, ri in candidates:
+        cols = name_cols[name]
+        if len(set(cols)) > 1:
+            suffix = _find_profile_suffix(table, ci, ri)
+            final = f"{name} ({suffix})" if suffix else f"{name} (col{ci})"
+        else:
+            final = name
+        key = (final, ci)
+        if key not in seen:
+            groups.append(key)
+            seen.add(key)
 
     return groups, form, degree, year
+
+
+_PROFILE_HINT_RE = re.compile(r"\(([^()]{3,60})\)")
+
+
+def _find_profile_suffix(
+    table: list[list], col: int, code_row: int
+) -> str | None:
+    """Ищет profile-suffix для disambiguation дубликатов (D4).
+
+    Смотрит на строки НАД code_row в той же колонке — первое совпадение
+    с текстом в скобках («География и иностранный язык (испанский)» → «испанский»)
+    или бо́льшая строка ниже 20 символов, которая не является кодом группы.
+    """
+    for r in range(code_row - 1, -1, -1):
+        if col >= len(table[r]):
+            continue
+        cell = str(table[r][col] or "").strip()
+        if not cell:
+            continue
+        m = _PROFILE_HINT_RE.search(cell)
+        if m:
+            return m.group(1).strip().lower()
+    return None
 
 
 def _extract_timetable_header(table: list[list]) -> tuple:

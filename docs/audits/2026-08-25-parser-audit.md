@@ -169,16 +169,15 @@ the actual JSON against the source PDF.** This audit is the counter-example.
   lessons matching source. Same 3 tests in `test_pdf_parser.py`. Journalism
   autumn PDFs (323 files) are now parseable.
 
-## Follow-ups (not fixed in this session)
-
-- **D4 group-code collision** — either treat two same-name groups on one
-  page as two distinct groups (append profile suffix) or explicitly log
-  a warning + issue. Not yet done.
-
 ### Fixed after initial write-up
+
 - ~~**D1 wrap-truncation**~~ — done: subject gathered via successive
   non-metadata lines until `_is_metadata_line` matches. See
   `test_pdf_parser.py::test_multiline_subject_wrap_is_joined_*`.
+- ~~**D4 same-code group merge**~~ — done: when the same code appears in
+  two+ columns, extract a profile hint (parenthesised text) from the row
+  above the code row and append as suffix. `БОГ35-ГИН2101` becomes
+  `БОГ35-ГИН2101 (испанский)` + `БОГ35-ГИН2101 (английский)`.
 - ~~**Confidence metric**~~ — done: `_compute_confidence` now counts a
   lesson only when `len(subject) >= 5` AND `not is_garbage_subject(...)`.
   Pure-garbage schedules drop from 1.00 to 0.10 so fallback pipeline
