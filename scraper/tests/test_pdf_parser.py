@@ -373,3 +373,40 @@ def test_room_attached_to_subject_by_space_only():
     assert lesson is not None
     assert lesson["subject"] == "ЖИВОПИСЬ"
     assert lesson["room"] == "ауд. 412"
+
+
+# ── D16/D27: ЗФО — в колонке дня стоит дата, а не название дня ────────────────
+
+
+def test_zfo_date_with_weekday_in_parens_is_recognised():
+    """sport/geography ЗФО: «05.09.2026 (СУББОТА)» вместо «СУББОТА»."""
+    from scraper.parsers.pdf_parser import _parse_tables
+
+    table = [
+        ["группы", "", "ВZЗ34-ФЗК2601"],
+        ["05.09.2026 (СУББОТА)", "9:00-10:30", "Педагогика (ЛК)"],
+        ["", "", "доц. Н.Н. Баркова"],
+        ["", "", "ауд. 402"],
+    ]
+    groups = _parse_tables([table])
+    assert len(groups) == 1, groups
+    sat = groups[0]["schedule"]["odd_week"]["saturday"]
+    assert len(sat) == 1, groups[0]["schedule"]["odd_week"]
+    assert sat[0]["subject"] == "Педагогика"
+
+
+def test_zfo_bare_date_infers_weekday():
+    """Если день недели не подписан — вычисляем его из самой даты.
+    07.09.2026 — понедельник."""
+    from scraper.parsers.pdf_parser import _parse_tables
+
+    table = [
+        ["группы", "", "ВZЗ34-ФЗК2601"],
+        ["07.09.2026", "9:00-10:30", "Педагогика (ЛК)"],
+        ["", "", "доц. Н.Н. Баркова"],
+        ["", "", "ауд. 402"],
+    ]
+    groups = _parse_tables([table])
+    assert len(groups) == 1, groups
+    assert len(groups[0]["schedule"]["odd_week"]["monday"]) == 1, \
+        groups[0]["schedule"]["odd_week"]

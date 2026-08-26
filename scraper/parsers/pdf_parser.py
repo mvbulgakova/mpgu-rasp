@@ -543,6 +543,32 @@ def _normalize_journalism_table(table: list[list], time_col: int) -> list[list]:
     return [[row[0]] + list(row[time_col:]) for row in table]
 
 
+def _day_from_date_cell(text: str) -> str | None:
+    """D16/D27: в ЗФО-расписаниях колонка дня содержит ДАТУ, а не название дня.
+
+    Поддерживаем «05.09.2026 (СУББОТА)» — день подписан в скобках — и голое
+    «07.09.2026», для которого день вычисляем из самой даты.
+    """
+    if not text:
+        return None
+    t = text.replace("\n", " ").strip()
+    m = re.search(r"\(([А-Яа-яЁё]{3,11})\)", t)
+    if m:
+        day = normalize_day(m.group(1).strip().lower())
+        if day:
+            return day
+    m = re.search(r"\b(\d{1,2})[.,/](\d{1,2})[.,/](\d{4})\b", t)
+    if m:
+        import datetime
+        try:
+            d = datetime.date(int(m.group(3)), int(m.group(2)), int(m.group(1)))
+        except ValueError:
+            return None
+        return ["monday", "tuesday", "wednesday", "thursday",
+                "friday", "saturday", "sunday"][d.weekday()]
+    return None
+
+
 def _is_mpgu_timetable_format(table: list[list]) -> bool:
     """Формат МПГУ: колонка 0 = день, колонка 1 = время, колонка 2+ = занятие."""
     if len(table) < 3 or not table[0] or len(table[0]) < 3:
@@ -566,7 +592,8 @@ def _is_mpgu_timetable_format(table: list[list]) -> bool:
         if chars and all(len(ch.strip()) == 1 for ch in chars):
             has_day_letter = True
         elif len(raw) > 4 and (normalize_day(raw.lower()) or
-                               normalize_day("".join(reversed(raw)).lower())):
+                               normalize_day("".join(reversed(raw)).lower()) or
+                               _day_from_date_cell(c0)):
             has_day_letter = True
         if re.search(r"\d{4}", c1) or re.search(r"\d{1,2}[:.]\d{2}", c1):
             has_time = True
@@ -882,6 +909,8 @@ def _fill_mpgu_schedule_multi(
                 day = normalize_day(raw.lower())
                 if not day and len(raw) > 1:
                     day = normalize_day("".join(reversed(raw)).lower())
+                if not day:
+                    day = _day_from_date_cell(c0)
                 if day:
                     current_day = day
                     day_acc = []
