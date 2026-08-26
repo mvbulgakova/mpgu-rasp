@@ -61,3 +61,44 @@ def test_parse_isgo_single_group_header_unchanged():
     groups = _parse_isgo(rows, header_idx=0)
     assert len(groups) == 1
     assert groups[0]["name"] == "ВОЭ34-ОЭП2601"
+
+
+# ── D26: sport CSV uses the MPGU grid shifted one column right ────────────────
+
+
+def _sport_csv_rows():
+    """Mirrors sport/1-курс.csv: col0 always empty, day in col1, time in col2,
+    group codes (with a «(30)» capacity suffix) in col3+, and each lesson
+    spread over four consecutive rows: subject / teacher / dates / room.
+    """
+    return [
+        ["", "группы", "", "ВОЗ34-ФКС2601 (30)", "ВОЗ34-ФКБ2601 (25)"],
+        ["", "ПОНЕДЕЛЬНИК", "9:00-10:30", "", "Физическая культура и спорт (ЛК)"],
+        ["", "", "", "", "ст. преп. Чернышева О.В."],
+        ["", "", "", "", "26.10., 09.11., 23.11."],
+        ["", "", "", "", "с/з №3"],
+        ["", "", "10:40-12:10", "Анатомия человека (ЛК)", ""],
+        ["", "", "", "доц. Кешишев А.Г.", ""],
+        ["", "", "", "21.09., 05.10.", ""],
+        ["", "", "", "ауд. 216", ""],
+    ]
+
+
+def test_sport_csv_grid_is_parsed():
+    """D26: раньше _parse_csv_rows возвращал 0 групп на всех 16 файлах sport."""
+    from scraper.parsers.gsheets_parser import _parse_csv_rows
+
+    groups = _parse_csv_rows(_sport_csv_rows())
+    names = sorted(g["name"] for g in groups)
+    assert names == ["ВОЗ34-ФКБ2601", "ВОЗ34-ФКС2601"], names
+
+    by_name = {g["name"]: g for g in groups}
+    fkb = by_name["ВОЗ34-ФКБ2601"]["schedule"]["odd_week"]["monday"]
+    assert len(fkb) == 1, fkb
+    assert fkb[0]["subject"] == "Физическая культура и спорт"
+    assert "Чернышева" in (fkb[0]["teacher"] or "")
+    assert fkb[0]["room"] is not None, "«с/з №3» должен стать аудиторией"
+
+    fks = by_name["ВОЗ34-ФКС2601"]["schedule"]["odd_week"]["monday"]
+    assert len(fks) == 1, fks
+    assert fks[0]["subject"] == "Анатомия человека"

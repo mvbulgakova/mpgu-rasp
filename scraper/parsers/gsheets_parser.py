@@ -59,6 +59,13 @@ def _parse_csv_rows(rows: list[list[str]]) -> list[dict]:
     if isgo_idx is not None:
         return _parse_isgo(rows, isgo_idx)
 
+    # D26 (audit 2026-08-26): sport публикует ту же сетку, что и PDF-расписания
+    # (день / время / колонки-группы), но сдвинутую вправо на пустые колонки.
+    # Переиспользуем табличный парсер из pdf_parser вместо дублирования логики.
+    grid = _try_mpgu_grid(rows)
+    if grid:
+        return grid
+
     # Классический формат: дни как столбцы
     header_idx = _find_header(rows)
     if header_idx is None:
@@ -102,6 +109,27 @@ def _parse_csv_rows(rows: list[list[str]]) -> list[dict]:
 
 
 # ── формат МПГУ-ИСГО ─────────────────────────────────────────────────────────
+
+def _try_mpgu_grid(rows: list[list[str]]) -> list[dict]:
+    """Пробует прочитать CSV как МПГУ-сетку (день col0 / время col1 / группы col2+).
+
+    Лишние пустые колонки слева отбрасываем — sport-таблицы сдвинуты вправо.
+    Возвращает [] если формат не подошёл, чтобы вызывающий пошёл дальше.
+    """
+    from scraper.parsers.pdf_parser import _is_mpgu_timetable_format, _parse_tables
+
+    # Сколько ведущих колонок пусты во ВСЕХ строках
+    width = max((len(r) for r in rows), default=0)
+    lead = 0
+    while lead < width and all(
+        not (r[lead].strip() if lead < len(r) else "") for r in rows
+    ):
+        lead += 1
+    trimmed = [r[lead:] for r in rows] if lead else rows
+    if not trimmed or not _is_mpgu_timetable_format(trimmed):
+        return []
+    return _parse_tables([trimmed])
+
 
 def _find_isgo_header(rows: list[list[str]]) -> int | None:
     for i, row in enumerate(rows[:20]):

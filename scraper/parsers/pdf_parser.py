@@ -689,7 +689,8 @@ _SPLIT_TIME_END_RE = re.compile(r"^(\d{1,2}[:.]?\d{2})$")
 
 # Fix D9 (audit 2026-08-25): journalism «временные» расписания используют даты
 # «14.09» / «07.09, 21.09» вместо маркеров чёт/нечёт. Такие строки — не тема.
-_DATE_MARKER_RE = re.compile(r"^\s*\d{1,2}[.,/-]\d{2}(?:\s*[,;]\s*\d{1,2}[.,/-]\d{2})*\s*$")
+# NB: даты часто идут с точкой в конце — «26.10., 09.11., 23.11.»
+_DATE_MARKER_RE = re.compile(r"^\s*\d{1,2}[.,/-]\d{2}\.?(?:\s*[,;]\s*\d{1,2}[.,/-]\d{2}\.?)*\s*[,;]?\s*$")
 
 # Fix D22 (audit 2026-08-26): часть PDF (preschool) рендерится с разрядкой,
 # и «ауд.» приезжает как «а уд.». Допускаем пробелы внутри самого токена.
@@ -747,7 +748,7 @@ def _is_metadata_line(line: str) -> bool:
         return True
     # Fix D9: journalism использует «Аудитория 204» вместо «ауд. 204».
     # D24: «, ауд.» без номера (обрезано границей ячейки) — тоже метаданные.
-    if re.search(rf"{_AUD_TOKEN}|\d+\s+корп\.|спортзал|спортивный\s+зал|стадион|зал", s, re.I):
+    if re.search(rf"{_AUD_TOKEN}|\d+\s+корп\.|спортзал|спортивный\s+зал|стадион|зал|с/з|гимнастический", s, re.I):
         return True
     if _WEEK_ODD_MARKER.match(s) or _WEEK_EVEN_MARKER.match(s):
         return True
@@ -1205,7 +1206,8 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
         )
         looks_like_room_only = bool(
             re.search(r"\d+\s+корп\.", line, re.I)
-            or re.search(r"спортзал|спортивный\s+зал|стадион", line, re.I)
+            # D26: sport использует «с/з №3», «гимнастический зал»
+            or re.search(r"спортзал|спортивный\s+зал|стадион|с/з|гимнастический\s+зал", line, re.I)
         )
         has_teacher_marker = bool(
             _TEACHER_MARKER_RE.search(line)
