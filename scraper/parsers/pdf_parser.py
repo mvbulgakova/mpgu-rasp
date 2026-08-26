@@ -1169,6 +1169,15 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
 
     # Очищаем предмет от маркеров типа
     subject = re.sub(r"\([А-ЯЁа-яёA-Za-z.]{2,4}\)", "", subject).strip(" ,.")
+    # Strip leading time-note («С 10:00», «10:40-12:20», «9:00-10:30 ») —
+    # physics PDFs prefix subjects with the actual meeting time when it
+    # differs from the slot's nominal time. Belongs in `notes`, not subject.
+    subject = re.sub(
+        r"^(?:С\s+\d{1,2}[:.]\d{2}|"
+        r"\d{1,2}[:.]\d{2}\s*[-–]\s*\d{1,2}[:.]\d{2}|"
+        r"\d{1,2}[:.]\d{2})\s+",
+        "", subject,
+    ).strip(" ,.")
     if not subject:
         return None
 
