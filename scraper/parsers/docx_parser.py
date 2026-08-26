@@ -111,6 +111,10 @@ class DocxParser(BaseParser):
             for table in tables_raw:
                 if not table:
                     continue
+                grid = _parse_mpgu_grid(table)
+                if grid:
+                    groups.extend(grid)
+                    continue
                 header = [c.lower() for c in table[0]]
                 if _has_day_columns(header):
                     groups.extend(_parse_day_columns(table))
@@ -122,6 +126,43 @@ class DocxParser(BaseParser):
         except Exception as e:
             return ParseResult(groups=[], parser_used="docx", confidence=0.0,
                                warnings=[str(e)])
+
+
+def _collapse_merged(values: list[str]) -> str:
+    """Гасит повтор текста объединённой ячейки в СОСЕДНИХ колонках.
+
+    python-docx отдаёт один и тот же `_Cell` во всех колонках объединённого
+    диапазона, поэтому текст дублируется. Без схлопывания одна группа
+    размножается на несколько колонок и получает ложные profile-суффиксы.
+    Несоседние совпадения (реально одинаковый текст в разных местах) не трогаем.
+    """
+    out: list[str] = []
+    prev = None
+    for v in values:
+        out.append("" if prev is not None and v == prev and v != "" else v)
+        prev = v
+    return out
+
+
+def _parse_mpgu_grid(rows: list[list[str]]) -> list[dict]:
+    """D36: журналистика публикует в .docx ту же сетку, что и PDF-расписания.
+
+    Переиспользуем табличный парсер pdf_parser, а не дублируем логику.
+    Возвращает [] если формат не подошёл — вызывающий идёт дальше.
+    """
+    from scraper.parsers.pdf_parser import _is_mpgu_timetable_format, _parse_tables
+
+    # Схлопываем ТОЛЬКО строки с кодами групп: там повтор объединённой ячейки
+    # плодит фантомные группы. В строках с занятиями повтор осмыслен — он
+    # означает, что пара общая для нескольких групп, и его надо сохранить.
+    code_re = re.compile(r"[А-ЯЁ]{2,6}\d{2}\s*-\s*[А-ЯЁ]{2,6}\d{4}")
+    collapsed = [
+        _collapse_merged(r) if any(code_re.search(c or "") for c in r) else r
+        for r in rows
+    ]
+    if not collapsed or not _is_mpgu_timetable_format(collapsed):
+        return []
+    return _parse_tables([collapsed])
 
 
 def _has_day_columns(header):

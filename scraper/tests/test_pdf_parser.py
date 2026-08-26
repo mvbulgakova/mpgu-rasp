@@ -479,3 +479,16 @@ def test_over_kerned_cell_still_yields_teacher_and_room():
     assert "Мацкевич" in (lesson["teacher"] or "").replace(" ", ""), lesson["teacher"]
     assert lesson["room"] is not None, lesson["room"]
     assert "Доц" not in lesson["subject"].replace(" ", ""), lesson["subject"]
+
+
+def test_date_range_line_goes_to_notes_not_subject():
+    """D37: «С 14.02 по 06.06» — период проведения, а не часть названия.
+    Найдено на journalism .docx после включения MPGU-ветки (13k пар)."""
+    lesson = _parse_timetable_cell(
+        "ИНТЕРНЕТ-ЖУРНАЛИСТИКА (ПЗ)\nС 14.02 по 06.06\n"
+        "Доцент И.Б. Игнатова\nауд. 204",
+        "09:00", "10:30", None)
+    assert lesson is not None
+    assert lesson["subject"] == "ИНТЕРНЕТ-ЖУРНАЛИСТИКА", lesson["subject"]
+    assert "14.02" in lesson["notes"], lesson["notes"]
+    assert lesson["teacher"] == "Доцент И.Б. Игнатова"

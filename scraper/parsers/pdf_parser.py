@@ -728,6 +728,14 @@ _SPLIT_TIME_END_RE = re.compile(r"^(\d{1,2}[:.]?\d{2})$")
 
 # Fix D9 (audit 2026-08-25): journalism «временные» расписания используют даты
 # «14.09» / «07.09, 21.09» вместо маркеров чёт/нечёт. Такие строки — не тема.
+# D37: период проведения отдельной строкой — «С 14.02 по 06.06»,
+# «с 26.11.2026г.», «до 23.10». Это метаданные, а не часть названия.
+_DATE_RANGE_RE = re.compile(
+    r"^\s*(?:с|по|до|от)\s+\d{1,2}[.,/]\d{1,2}(?:[.,/]\d{2,4})?\s*г?\.?"
+    r"(?:\s*(?:по|до)\s+\d{1,2}[.,/]\d{1,2}(?:[.,/]\d{2,4})?\s*г?\.?)?\s*$",
+    re.IGNORECASE,
+)
+
 # NB: даты часто идут с точкой в конце — «26.10., 09.11., 23.11.»
 _DATE_MARKER_RE = re.compile(r"^\s*\d{1,2}[.,/-]\d{2}\.?(?:\s*[,;]\s*\d{1,2}[.,/-]\d{2}\.?)*\s*[,;]?\s*$")
 
@@ -812,6 +820,8 @@ def _is_metadata_line(line: str) -> bool:
     if _WEEK_ODD_MARKER.match(s) or _WEEK_EVEN_MARKER.match(s):
         return True
     if _DATE_MARKER_RE.match(s):
+        return True
+    if _DATE_RANGE_RE.match(s):
         return True
     return False
 
@@ -1315,6 +1325,10 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
 
         # Дата (D9: «14.09», «07.09, 21.09») — не тема, не teacher, не room
         if _DATE_MARKER_RE.match(line):
+            continue
+        # D37: период проведения — сохраняем в notes
+        if _DATE_RANGE_RE.match(line):
+            notes = f"{notes}; {line.strip()}".strip("; ") if notes else line.strip()
             continue
 
     # Очищаем предмет от маркеров типа
