@@ -130,3 +130,19 @@ def test_isgo_cell_treats_double_backslash_as_line_break():
     assert l is not None
     assert "ауд" not in l["subject"].lower(), l["subject"]
     assert l["room"] and "203" in l["room"], l["room"]
+
+
+def test_full_word_lecturer_title_without_space():
+    """D41: «ст.преподаватель кафедры романских языков им.В.Г.Гака
+    А.В.Дробышева» — звание полным словом, без пробела после «ст.», а имя
+    в самом конце, после названия кафедры."""
+    from scraper.parsers.gsheets_parser import _parse_isgo_cell
+
+    l = _parse_isgo_cell(
+        "Мастер-класс «Так ли просто говорить по-испански?» "
+        "ст.преподаватель кафедры романских языков им.В.Г.Гака А.В.Дробышева",
+        "16:00", "17:30")
+    assert l is not None
+    assert l["subject"].startswith("Мастер-класс"), l["subject"]
+    assert "преподаватель" not in l["subject"].lower(), l["subject"]
+    assert l["teacher"] and "Дробышева" in l["teacher"], l["teacher"]
