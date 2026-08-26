@@ -451,6 +451,20 @@ def _try_parse_time_cell(c1: str) -> tuple[str, str] | None:
         t1, t2 = _fmt_time(m.group(1)), _fmt_time(m.group(2))
         if _valid_time(t1) and _valid_time(t2) and t1 < t2:
             return t1, t2
+    # Vertical cell — digits/dash separated by newlines. Join then retry
+    # forward-4-digit and reversed-4-digit patterns.
+    stripped = re.sub(r"\s+", "", c1)
+    if stripped != c1:
+        m = re.search(r"(\d{4})\D+(\d{4})", stripped)
+        if m:
+            t1, t2 = _fmt_time(m.group(1)), _fmt_time(m.group(2))
+            if _valid_time(t1) and _valid_time(t2) and t1 < t2:
+                return t1, t2
+        m = re.search(r"(\d{4})\D+(\d{4})", stripped[::-1])
+        if m:
+            t1, t2 = _fmt_time(m.group(1)), _fmt_time(m.group(2))
+            if _valid_time(t1) and _valid_time(t2) and t1 < t2:
+                return t1, t2
     # Fallback: two HH:MM patterns with up to 25 non-digit chars between (mixed content)
     m = re.search(r"(\d{1,2}[:.]\d{2})\D{0,25}?(\d{1,2}[:.]\d{2})", c1, re.DOTALL)
     if m:
@@ -556,6 +570,16 @@ def _is_mpgu_timetable_format(table: list[list]) -> bool:
             has_day_letter = True
         if re.search(r"\d{4}", c1) or re.search(r"\d{1,2}[:.]\d{2}", c1):
             has_time = True
+        # Vertical time cells (math): «0\n3\n0\n1\n-\n0\n0\n9\n0» — split into
+        # cells and check if concatenated digits form a HHMM-HHMM pair either
+        # forward or reversed.
+        if not has_time and c1:
+            chars = [ch.strip() for ch in c1.split("\n") if ch.strip()]
+            joined = "".join(chars)
+            if re.fullmatch(r"\d{3,4}[-–]\d{3,4}", joined) or re.fullmatch(
+                r"\d{3,4}[-–]\d{3,4}", joined[::-1]
+            ):
+                has_time = True
         if has_day_letter and has_time:
             return True
     return False
