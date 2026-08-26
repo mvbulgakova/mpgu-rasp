@@ -441,3 +441,41 @@ def test_last_lesson_of_a_day_stays_on_that_day():
     assert "Безопасность" in mon["14:20"]
     assert "14:20" not in tue, f"во вторнике её быть не должно: {tue}"
     assert tue.get("09:00", "").startswith("Алгебра"), tue
+
+
+# ── D33/D34/D35: находки построчной сверки preschool ─────────────────────────
+
+
+def test_self_study_day_is_not_a_lesson():
+    """D33: «ДЕНЬ САМООБРАЗОВАНИЯ» (в т.ч. перевёрнутый в вертикальной
+    ячейке) — это пометка, а не пара."""
+    for cell in ("ДЕНЬ САМООБРАЗОВАНИЯ",
+                 "ЯИНАВОЗАРБООМАС ЬНЕД",
+                 "День самообразования"):
+        assert _parse_timetable_cell(cell, "09:00", "10:30", None) is None, cell
+
+
+def test_trailing_type_marker_followed_by_qualifier():
+    """D34: «Иностранный язык, ПЗ (с 26.11.2026г.)» — маркер типа через
+    запятую, а за ним ещё уточнение в скобках."""
+    lesson = _parse_timetable_cell(
+        "Иностранный язык, ПЗ (с 26.11.2026г.)\nДоц. И.И. Иванов\n(ауд. 305)",
+        "09:00", "10:30", None)
+    assert lesson is not None
+    assert lesson["subject"] == "Иностранный язык", lesson["subject"]
+    assert lesson["type"] == "practice"
+    assert "26.11.2026" in lesson["notes"], lesson["notes"]
+
+
+def test_over_kerned_cell_still_yields_teacher_and_room():
+    """D35: preschool рендерит часть ячеек по одному глифу («Д о ц .»).
+    Границы слов в названии восстановить нельзя — их нет и в PDF, — но
+    преподаватель и аудитория обязаны извлечься."""
+    cell = ("В в е д е н и е в п р о ф е с с и о н а л ь н у ю д е я т е л ь н о с т ь , П З\n"
+            "Д о ц . Ж . В . М а ц к е в и ч\n"
+            "( а у д . - 5 0 3)")
+    lesson = _parse_timetable_cell(cell, "09:00", "10:30", None)
+    assert lesson is not None
+    assert "Мацкевич" in (lesson["teacher"] or "").replace(" ", ""), lesson["teacher"]
+    assert lesson["room"] is not None, lesson["room"]
+    assert "Доц" not in lesson["subject"].replace(" ", ""), lesson["subject"]

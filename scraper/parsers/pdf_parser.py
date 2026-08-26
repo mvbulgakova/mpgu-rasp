@@ -427,6 +427,18 @@ def _parse_tables(tables: list[list[list]]) -> list[dict]:
 
 _SKIP_CELLS = {"День самоподготовки", "—", "-", "–"}
 
+# D33: пометки «день самообразования/самоподготовки» — не занятия.
+# Вертикальные ячейки приезжают перевёрнутыми, поэтому проверяем и reverse.
+_SELF_STUDY_RE = re.compile(
+    r"день\s+само(?:образован|подготовк|стоятельн)", re.IGNORECASE
+)
+
+
+def _is_self_study(text: str) -> bool:
+    flat = " ".join(text.split())
+    return bool(_SELF_STUDY_RE.search(flat)
+                or _SELF_STUDY_RE.search(flat[::-1]))
+
 # Код группы МПГУ (с возможными пробелами вокруг дефиса), для сегментации страниц
 _GROUP_CODE_RE = re.compile(r"[А-ЯЁа-яёA-Za-z]{2,6}\d{2}\s*-\s*[А-ЯЁа-яёA-Za-z]{2,6}\d{4}")
 
@@ -739,8 +751,9 @@ _TYPE_WITH_QUALIFIER_RE = re.compile(
     r"\(\s*(ЛК|ПЗ|ЛР|ЛАБ|Лаб|СЕМ|Сем)\.?\s*([^)]*)\)", re.IGNORECASE
 )
 
+# D34: после маркера может стоять уточнение — «, ПЗ (с 26.11.2026г.)».
 _TRAILING_TYPE_RE = re.compile(
-    r"\s*,\s*(ЛК|ПЗ|ЛР|ЛАБ|Лаб|СЕМ|Сем)\.?\s*$", re.IGNORECASE
+    r"\s*,\s*(ЛК|ПЗ|ЛР|ЛАБ|Лаб|СЕМ|Сем)\.?\s*(\([^)]*\))?\s*$", re.IGNORECASE
 )
 
 # Маркеры чётной/нечётной недели на отдельной строке
@@ -754,10 +767,29 @@ _WEEK_EVEN_MARKER = re.compile(
 )
 
 
+# D35 (audit 2026-08-26): часть PDF (preschool) рендерится по одному глифу,
+# и «Доц. Ж.В. Мацкевич» приезжает как «Д о ц . Ж . В . М а ц к е в и ч».
+# Границы слов в НАЗВАНИИ восстановить нельзя — в PDF зазоры между глифами
+# нулевые, — но для распознавания метаданных достаточно склеить одиночные
+# символы и проверить маркеры на склеенной копии.
+_SPACED_GLYPHS_RE = re.compile(r"(?:(?<=^)|(?<=\s))\S(?:\s\S){3,}")
+
+
+def _dekern(line: str) -> str:
+    """Склеивает участки из одиночных символов, разделённых пробелами."""
+    def _join(m):
+        return m.group(0).replace(" ", "")
+    return _SPACED_GLYPHS_RE.sub(_join, line)
+
+
 def _is_metadata_line(line: str) -> bool:
     """True если строка — метаданные занятия (тип, преподаватель, аудитория, маркер недели, дата)."""
     s = line.strip()
     if not s:
+        return True
+    # D35: разряженный рендер — проверяем и склеенную копию строки
+    dk = _dekern(s)
+    if dk != s and _is_metadata_line(dk):
         return True
     if re.match(r"^\([А-ЯЁа-яёA-Za-z.]{2,4}\)$", s):
         return True
@@ -1159,6 +1191,8 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
     lines = [l.strip() for l in content.split("\n") if l.strip()]
     if not lines:
         return None
+    if _is_self_study(content):
+        return None
 
     # Post-08-25 follow-up: строка может паковать subject + преподавателя +
     # аудиторию в одну («Основы экологической культуры (ПЗ), доц. И.Ф.
@@ -1212,7 +1246,11 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
     TYPE_MAP = {"лк": "lecture", "пз": "practice", "лаб": "lab", "лб": "lab",
                 "сем": "seminar", "сем.": "seminar"}
 
-    for line in lines:
+    for raw_line in lines:
+        # D35: для извлечения метаданных работаем со склеенной копией —
+        # в разряженном рендере «Д о ц . Ж . В . М а ц к е в и ч» иначе
+        # не распознаётся ни преподаватель, ни аудитория.
+        line = _dekern(raw_line)
         # Тип занятия в скобках
         m = re.search(r"\(([А-ЯЁA-Zа-яёa-z.]{2,4})\)", line)
         if m:
@@ -1304,6 +1342,9 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
         t = TYPE_MAP.get(m_tt.group(1).lower().rstrip("."))
         if t:
             lesson_type = t
+        qual = (m_tt.group(2) or "").strip("() ")
+        if qual:
+            notes = f"{notes}; {qual}".strip("; ") if notes else qual
         subject = _TRAILING_TYPE_RE.sub("", subject).strip(" ,.")
     # Strip leading time-note («С 10:00», «10:40-12:20», «9:00-10:30 ») —
     # physics PDFs prefix subjects with the actual meeting time when it
