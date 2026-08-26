@@ -317,6 +317,18 @@ _SUBJECT_INITIALS_NAME_RE = re.compile(
 _SUBJECT_DATE_ONLY_RE = re.compile(
     r"^\s*\d{1,2}[.,/-]\d{2}(?:\s*[,;]\s*\d{1,2}[.,/-]\d{2})*\s*$"
 )
+# Follow-up к D1/D9: subject-фрагмент, заканчивающийся русским предлогом
+# («ЭЛЕКТИВНЫЕ КУРСЫ ПО», «ПРОБЛЕМЫ В»), — верный признак wrap-truncation
+# через границу ячейки. Дропаем ТОЛЬКО если lesson без teacher И без room —
+# тогда почти наверняка это огрызок, отделённый от «настоящей» строки.
+_SUBJECT_FRAGMENT_TRAILING_PREPOSITION_RE = re.compile(
+    r"\s+(в|во|на|о|об|для|при|с|со|у|к|ко|по|за|над|под|про|через|из|от|до|"
+    r"без|через|между|среди)\s*$",
+    re.IGNORECASE,
+)
+# «ХУДОЖЕСТВЕННО-», «ЛЕЧЕБНО-» — оборванный составной прилагательный —
+# без метаданных = мусор.
+_SUBJECT_FRAGMENT_TRAILING_HYPHEN_RE = re.compile(r"-\s*$")
 _SUBJECT_LEGEND_MARKERS = (
     "исполнитель",
     "формы проведения",
@@ -348,6 +360,22 @@ def is_garbage_subject(subject: str | None) -> bool:
     for marker in _SUBJECT_LEGEND_MARKERS:
         if marker in sl:
             return True
+    return False
+
+
+def is_fragment_lesson(lesson: dict) -> bool:
+    """True if the lesson's subject is a truncation fragment (ends in a
+    preposition) AND there is no teacher and no room — a strong signal it's
+    a leftover from wrap across a cell boundary, not a real lesson."""
+    subj = (lesson.get("subject") or "").strip()
+    if not subj:
+        return False
+    if lesson.get("teacher") or lesson.get("room"):
+        return False
+    if _SUBJECT_FRAGMENT_TRAILING_PREPOSITION_RE.search(subj):
+        return True
+    if _SUBJECT_FRAGMENT_TRAILING_HYPHEN_RE.search(subj):
+        return True
     return False
 
 
@@ -397,6 +425,8 @@ def sanitize_groups(groups: list[dict]) -> list[dict]:
                 for raw in lessons:
                     lesson = sanitize_lesson(raw)
                     if is_garbage_subject(lesson.get("subject")):
+                        continue
+                    if is_fragment_lesson(lesson):
                         continue
                     key = _lesson_key(lesson)
                     if key in seen:

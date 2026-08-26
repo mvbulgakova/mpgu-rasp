@@ -10,7 +10,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from scraper.normalizer.schedule_normalizer import (
     clean_room, pull_subgroup, sanitize_lesson, sanitize_groups, infer_slot,
-    fix_homoglyphs, is_garbage_subject,
+    fix_homoglyphs, is_garbage_subject, is_fragment_lesson,
 )
 
 
@@ -45,6 +45,39 @@ def test_is_garbage_subject_rejects_footer_and_noise():
     assert is_garbage_subject("05.09, 19.09")
     # А вот «14.09.2026» — не только дата, но и год — не блокируем (безопаснее)
     assert not is_garbage_subject("Занятия начинаются 14.09.2026")
+
+
+def test_is_fragment_lesson_drops_cell_boundary_leftovers():
+    """Follow-up: subject-фрагмент (обрывок предлогом или дефисом) + отсутствие
+    teacher И room = верный признак wrap-truncation через границу ячейки.
+    """
+    # Ends in preposition, no meta → fragment
+    assert is_fragment_lesson({
+        "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО", "teacher": None, "room": None,
+    })
+    assert is_fragment_lesson({
+        "subject": "Занятия по физической культуре в", "teacher": "", "room": "",
+    })
+    # Ends in hyphen, no meta → fragment
+    assert is_fragment_lesson({
+        "subject": "ХУДОЖЕСТВЕННО-", "teacher": None, "room": None,
+    })
+    # SAME endings but HAS teacher → real lesson (rare but possible)
+    assert not is_fragment_lesson({
+        "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО", "teacher": "доц. Иванов", "room": None,
+    })
+    # SAME endings but HAS room → real lesson
+    assert not is_fragment_lesson({
+        "subject": "ХУДОЖЕСТВЕННО-", "teacher": None, "room": "ауд. 100",
+    })
+    # No trailing preposition/hyphen → not a fragment even without meta
+    assert not is_fragment_lesson({
+        "subject": "Физическая культура", "teacher": None, "room": None,
+    })
+    # Empty subject → not a fragment (garbage-subject handles it)
+    assert not is_fragment_lesson({
+        "subject": "", "teacher": None, "room": None,
+    })
 
 
 def test_fix_homoglyphs_latin_to_cyrillic():
