@@ -39,3 +39,7 @@ meta/
 
 # local data-branch worktree for audits
 .data-wt/
+
+# scratchpad: audit dumps, downloaded source files, ad-hoc scripts
+# — never checked in (source PDFs are large and republishable from mpgu.su).
+scratchpad/
