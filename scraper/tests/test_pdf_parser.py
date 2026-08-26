@@ -492,3 +492,56 @@ def test_date_range_line_goes_to_notes_not_subject():
     assert lesson["subject"] == "ИНТЕРНЕТ-ЖУРНАЛИСТИКА", lesson["subject"]
     assert "14.02" in lesson["notes"], lesson["notes"]
     assert lesson["teacher"] == "Доцент И.Б. Игнатова"
+
+
+# ── D43: «над чертой — нечётная, под чертой — чётная» ────────────────────────
+
+
+def _stacked_slot_table():
+    """Слот 12:40 содержит ДВА блока друг под другом (arts/ДПИ).
+
+    В шапке документа стоит легенда «НЕДЕЛЯ НЕЧЕТНАЯ (НАД ЧЕРТОЙ)» /
+    «НЕДЕЛЯ ЧЕТНАЯ (ПОД ЧЕРТОЙ)» — значит это числитель/знаменатель,
+    а не две одновременные пары.
+    """
+    return [
+        ["", "", "РАСПИСАНИЕ УЧЕБНЫХ ЗАНЯТИЙ  НЕДЕЛЯ НЕЧЕТНАЯ (НАД ЧЕРТОЙ)"],
+        ["", "", "НЕДЕЛЯ ЧЕТНАЯ (ПОД ЧЕРТОЙ)"],
+        ["День недели", "Группа/время", "БОР06-ДПИ2301"],
+        ["ПОНЕДЕЛЬНИК", "12:40-14:10",
+         "ХУДОЖЕСТВЕННАЯ КЕРАМИКА (ПЗ)\nдоц. А.А. Ворохоб\n(ауд. 114)"],
+        ["", "", "АКАДЕМИЧЕСКАЯ СКУЛЬПТУРА (ПЗ)\nдоц. А.А. Ворохоб\n(ауд. 114)"],
+    ]
+
+
+def test_stacked_blocks_split_into_odd_and_even_week():
+    """D43: верхний блок — только нечётная неделя, нижний — только чётная.
+
+    До этого D19 клал ОБА блока в ОБЕ недели, удваивая расписание.
+    """
+    from scraper.parsers.pdf_parser import _parse_tables
+
+    groups = _parse_tables([_stacked_slot_table()])
+    assert len(groups) == 1, groups
+    odd = groups[0]["schedule"]["odd_week"]["monday"]
+    even = groups[0]["schedule"]["even_week"]["monday"]
+
+    assert len(odd) == 1, [l["subject"] for l in odd]
+    assert len(even) == 1, [l["subject"] for l in even]
+    assert "КЕРАМИКА" in odd[0]["subject"], odd[0]["subject"]
+    assert "СКУЛЬПТУРА" in even[0]["subject"], even[0]["subject"]
+
+
+def test_without_the_legend_stacked_blocks_stay_on_both_weeks():
+    """Без легенды «над/под чертой» два блока — две параллельные пары
+    (подгруппы), и обе идут каждую неделю. Поведение D19 сохраняется."""
+    from scraper.parsers.pdf_parser import _parse_tables
+
+    table = [r[:] for r in _stacked_slot_table()]
+    table[0] = ["", "", "РАСПИСАНИЕ УЧЕБНЫХ ЗАНЯТИЙ"]
+    table[1] = ["", "", ""]
+    groups = _parse_tables([table])
+    odd = groups[0]["schedule"]["odd_week"]["monday"]
+    even = groups[0]["schedule"]["even_week"]["monday"]
+    assert len(odd) == 2, [l["subject"] for l in odd]
+    assert len(even) == 2, [l["subject"] for l in even]

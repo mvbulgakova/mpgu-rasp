@@ -397,6 +397,26 @@ def _bytes_to_tmp(data: bytes, ext: str) -> str:
     return path
 
 
+# D43 (26.08): часть институтов (arts и др.) печатает в шапке
+# «НЕДЕЛЯ НЕЧЕТНАЯ (НАД ЧЕРТОЙ)» / «НЕДЕЛЯ ЧЕТНАЯ (ПОД ЧЕРТОЙ)».
+# Это значит, что два блока в одном слоте — числитель/знаменатель, а НЕ две
+# одновременные пары: верхний идёт по нечётным неделям, нижний — по чётным.
+_OVER_LINE_RE = re.compile(r"над\s+чертой", re.IGNORECASE)
+_UNDER_LINE_RE = re.compile(r"под\s+чертой", re.IGNORECASE)
+
+
+def _has_over_under_line_legend(tables: list[list[list]]) -> bool:
+    """True, если документ объявляет конвенцию «над/под чертой»."""
+    head = []
+    for t in tables[:3]:
+        for row in t[:12]:
+            for c in row:
+                if c:
+                    head.append(str(c))
+    blob = " ".join(head)
+    return bool(_OVER_LINE_RE.search(blob) and _UNDER_LINE_RE.search(blob))
+
+
 def _parse_tables(tables: list[list[list]]) -> list[dict]:
     """Определяет формат таблицы и парсит группы."""
     valid = [t for t in tables if t and len(t) >= 2]
@@ -411,7 +431,8 @@ def _parse_tables(tables: list[list[list]]) -> list[dict]:
     valid = normalized
 
     if any(_is_mpgu_timetable_format(t) for t in valid):
-        return _parse_mpgu_timetable_pages(valid)
+        return _parse_mpgu_timetable_pages(
+            valid, over_under=_has_over_under_line_legend(valid))
 
     groups = []
     for table in valid:
@@ -624,7 +645,8 @@ def _is_mpgu_timetable_format(table: list[list]) -> bool:
     return False
 
 
-def _parse_mpgu_timetable_pages(tables: list[list[list]]) -> list[dict]:
+def _parse_mpgu_timetable_pages(tables: list[list[list]],
+                                over_under: bool = False) -> list[dict]:
     """Объединяет несколько таблиц одного PDF, возвращает список групп.
 
     Поддерживает:
@@ -654,12 +676,14 @@ def _parse_mpgu_timetable_pages(tables: list[list[list]]) -> list[dict]:
     if len(segments) > 1:
         result: list[dict] = []
         for seg in segments:
-            result.extend(_parse_mpgu_segment(seg, all_tables=tables))
+            result.extend(_parse_mpgu_segment(seg, all_tables=tables,
+                                              over_under=over_under))
         return result
-    return _parse_mpgu_segment(tables, all_tables=tables)
+    return _parse_mpgu_segment(tables, all_tables=tables, over_under=over_under)
 
 
-def _parse_mpgu_segment(tables: list[list[list]], all_tables: list[list[list]]) -> list[dict]:
+def _parse_mpgu_segment(tables: list[list[list]], all_tables: list[list[list]],
+                        over_under: bool = False) -> list[dict]:
     """Парсит один сегмент (одна группа-сетка + её продолжения)."""
     if not tables:
         return []
@@ -708,6 +732,7 @@ def _parse_mpgu_segment(tables: list[list[list]], all_tables: list[list[list]]) 
             table, schedules, col_to_group, default_group,
             data_started=not has_header,
             current_day=current_day, day_acc=day_acc,
+            over_under=over_under,
         )
 
     result = []
@@ -886,6 +911,7 @@ def _fill_mpgu_schedule_multi(
     data_started: bool = False,
     current_day: str | None = None,
     day_acc: list[str] | None = None,
+    over_under: bool = False,
 ) -> tuple[str | None, list[str]]:
     """Читает одну таблицу и добавляет занятия в schedules. Возвращает (current_day, day_acc)."""
     if day_acc is None:
@@ -922,8 +948,15 @@ def _fill_mpgu_schedule_multi(
                     blocks[-1] = blocks[-1] + "\n" + frag
                 else:
                     blocks.append(frag)
-            for content in blocks:
+            # D43: при конвенции «над/под чертой» ДВА блока в слоте — это
+            # числитель и знаменатель, а не две параллельные пары.
+            forced = [None] * len(blocks)
+            if over_under and len(blocks) == 2:
+                forced = ["odd", "even"]
+            for content, force in zip(blocks, forced):
                 for seg_content, week_type in _split_timetable_content(content):
+                    if force is not None and week_type == "both":
+                        week_type = force
                     lesson = _parse_timetable_cell(seg_content, t_start, t_end, None)
                     if lesson:
                         if week_type in ("odd", "both"):
