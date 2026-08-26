@@ -171,16 +171,18 @@ the actual JSON against the source PDF.** This audit is the counter-example.
 
 ## Follow-ups (not fixed in this session)
 
-- **D1 wrap-truncation** — rewrite `_extract_lessons_from_table` to join
-  multi-line cell text via `cell.split("\n")` and reassemble
-  subject/teacher/room correctly. Non-trivial: cell boundary detection also
-  needs to respect subgroup columns.
 - **D4 group-code collision** — either treat two same-name groups on one
   page as two distinct groups (append profile suffix) or explicitly log
-  a warning + issue.
-- **Confidence metric** — count a row as valid ONLY if `len(subject) >= 5`
-  AND subject does not match the D2/D3 garbage patterns. Would immediately
-  drop today's ✅ from 100 % to something meaningful.
+  a warning + issue. Not yet done.
+
+### Fixed after initial write-up
+- ~~**D1 wrap-truncation**~~ — done: subject gathered via successive
+  non-metadata lines until `_is_metadata_line` matches. See
+  `test_pdf_parser.py::test_multiline_subject_wrap_is_joined_*`.
+- ~~**Confidence metric**~~ — done: `_compute_confidence` now counts a
+  lesson only when `len(subject) >= 5` AND `not is_garbage_subject(...)`.
+  Pure-garbage schedules drop from 1.00 to 0.10 so fallback pipeline
+  triggers; clean schedules unchanged.
 
 ## Per-format usability matrix (autumn 2026)
 

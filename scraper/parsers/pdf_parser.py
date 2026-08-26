@@ -1265,14 +1265,26 @@ def _get(row: list, col: int | None) -> str | None:
 
 
 def _compute_confidence(groups: list[dict]) -> float:
+    """Fraction of «valid» lessons across all groups, capped at 1.0.
+
+    Follow-up #3 from audit 2026-08-25: a lesson counts as valid only if its
+    subject is ≥5 chars AND non-garbage (per `is_garbage_subject`). Old metric
+    counted any lesson with a subject string, which made truncated PDFs
+    (D1: subject=«Иностранный») score 1.00 and skip fallback pipeline.
+    """
+    from scraper.normalizer.schedule_normalizer import is_garbage_subject
+
     if not groups:
         return 0.0
-    total_lessons = sum(
-        sum(len(day_lessons) for day_lessons in g["schedule"]["odd_week"].values()) +
-        sum(len(day_lessons) for day_lessons in g["schedule"]["even_week"].values())
-        for g in groups
-    )
-    if total_lessons == 0:
+    valid_lessons = 0
+    for g in groups:
+        for week in ("odd_week", "even_week"):
+            for day_lessons in g["schedule"][week].values():
+                for l in day_lessons:
+                    subj = (l.get("subject") or "").strip()
+                    if len(subj) >= 5 and not is_garbage_subject(subj):
+                        valid_lessons += 1
+    if valid_lessons == 0:
         return 0.1
-    confidence = min(1.0, total_lessons / 30)
+    confidence = min(1.0, valid_lessons / 30)
     return round(confidence, 2)

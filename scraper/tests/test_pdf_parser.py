@@ -9,7 +9,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
-from scraper.parsers.pdf_parser import _parse_timetable_cell
+from scraper.parsers.pdf_parser import _parse_timetable_cell, _compute_confidence
 
 
 def test_multiline_subject_wrap_is_joined_geography_style():
@@ -144,3 +144,43 @@ def test_journalism_senior_lecturer_and_sports_hall():
     assert lesson["type"] == "practice"
     assert "Волхов" in (lesson["teacher"] or "")
     assert lesson["room"] == "Спортивный зал"
+
+
+# ── follow-up #3: stricter confidence metric ──────────────────────────────────
+
+
+def _mkgroup(name: str, subjects: list[str]) -> dict:
+    """Test helper: make a group whose Monday-odd has one lesson per subject."""
+    from scraper.normalizer.schedule_normalizer import make_schedule_skeleton, lesson_obj
+    s = make_schedule_skeleton()
+    for i, subj in enumerate(subjects):
+        s["odd_week"]["monday"].append(
+            lesson_obj(i, "09:00", "10:30", subj, "lecture", None, None)
+        )
+    return {"name": name, "year": 1, "form": "full_time",
+            "degree": "bachelor", "schedule": s}
+
+
+def test_confidence_ignores_short_and_garbage_subjects():
+    """New metric drops truncated subjects («Общая», «Иностранный») and
+    garbage (teacher-only, room-only, footer text) from the numerator.
+    """
+    # 30 real subjects → confidence 1.00
+    good = _mkgroup("Х", ["Экологический мониторинг"] * 30)
+    assert _compute_confidence([good]) == 1.00
+
+    # 30 truncated subjects (all <5 chars) → confidence 0.10
+    trunc = _mkgroup("Х", ["Общая", "Иностр", "Мате"] * 10)  # some <5
+    # "Общая"=5 chars OK; "Иностр"=6 OK; "Мате"=4 NOT OK
+    # 20/30 valid → 0.67
+    assert 0.65 < _compute_confidence([trunc]) < 0.70
+
+    # 30 garbage subjects → confidence 0.10
+    garbage = _mkgroup("Х", ["доц. Иванов И.И.", "ауд. 502",
+                             "Исполнитель: И.А. Курдюков"] * 10)
+    assert _compute_confidence([garbage]) == 0.10
+
+    # No groups → 0.0; empty schedule → 0.1
+    assert _compute_confidence([]) == 0.0
+    empty = _mkgroup("Х", [])
+    assert _compute_confidence([empty]) == 0.10
