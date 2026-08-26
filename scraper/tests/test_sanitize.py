@@ -87,8 +87,10 @@ def test_fix_homoglyphs_latin_to_cyrillic():
 
 
 def test_fix_homoglyphs_leaves_non_homoglyph_latin():
-    # Z and I have no cyrillic look-alike — must stay untouched
-    assert fix_homoglyphs("MZIO34-СТ2501") == "МZIО34-СТ2501"
+    # I/L/N/etc. имеют неоднозначное соответствие — не трогаем.
+    # (Z раньше был в этом списке; реальные источники показали, что МПГУ
+    # использует его как З — см. test_fix_homoglyphs_folds_latin_z_and_v.)
+    assert fix_homoglyphs("MILO34-СТ2501") == "МILО34-СТ2501"
 
 
 def test_sanitize_groups_normalizes_name():
@@ -303,3 +305,26 @@ def test_clean_room_handles_over_kerned_aud_prefix():
     assert clean_room("Аудитория 204") == "204"
     # Залы без «ауд» не трогаем
     assert clean_room("Спортивный зал") == "Спортивный зал"
+
+
+def test_fix_homoglyphs_folds_latin_z_and_v_used_by_mpgu():
+    """D30: МПГУ печатает букву формы обучения ЛАТИНИЦЕЙ.
+
+    Доказательство из скачанных источников (позиция 2 кода, 300 вхождений,
+    кириллицы там нет ни разу):
+      Latin O (177) — во всех файлах «очная форма»        → О
+      Latin Z (118) — только в файлах «заочная форма»     → З
+      Latin V   (5) — только в «очно-заочная форма»       → В
+    Пары подтверждаются семантикой: ВZЗ34-ФЗК… (Ф-З-К = заочная),
+    ВOЗ34-ФКС… (очная).
+
+    Без свёртки 123 кода не находятся поиском — студент вводит кириллицу.
+    """
+    assert fix_homoglyphs("ВZЗ34-ФЗК2601") == "ВЗЗ34-ФЗК2601"
+    assert fix_homoglyphs("ЗZЗ40-АФК2501") == "ЗЗЗ40-АФК2501"
+    assert fix_homoglyphs("БVЭ63-ЮРД2401") == "БВЭ63-ЮРД2401"
+    assert fix_homoglyphs("МVЭ63-ЮСД2401") == "МВЭ63-ЮСД2401"
+    # Результат обязан быть полностью кириллическим
+    for src in ("ВZЗ34-ФЗК2601", "БVЭ63-ЮРД2401", "БOЭ04-ГМУ2501"):
+        out = fix_homoglyphs(src)
+        assert all(ord(c) >= 0x400 or not c.isalpha() for c in out), out
