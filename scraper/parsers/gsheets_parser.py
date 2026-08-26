@@ -264,7 +264,7 @@ def _parse_isgo_cell(content: str, t_start: str, t_end: str) -> dict | None:
     if not content or content in {"-", "–", "—"}:
         return None
     # D40: в Google-таблицах перенос внутри ячейки часто набирают как «\\».
-    normalized = content.replace("\r", "").replace("\\\\", "\n")
+    normalized = content.replace("\r", "").replace("\\", "\n")
     lines = [ln.strip() for ln in normalized.split("\n") if ln.strip()]
     if not lines:
         return None

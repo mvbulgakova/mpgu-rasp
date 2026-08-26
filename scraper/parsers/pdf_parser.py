@@ -1198,6 +1198,9 @@ def _assign_timetable_lessons(
 def _parse_timetable_cell(content: str, t_start: str, t_end: str,
                            subgroup: int | None) -> dict | None:
     """Парсит ячейку занятия: предмет, тип, преподаватель, аудитория."""
+    # D40: перенос строки внутри ячейки Google-таблиц набирают как «\\».
+    # Тот же формат приходит и сюда — через мост CSV → MPGU-сетка (D26).
+    content = content.replace("\\", "\n")
     lines = [l.strip() for l in content.split("\n") if l.strip()]
     if not lines:
         return None
