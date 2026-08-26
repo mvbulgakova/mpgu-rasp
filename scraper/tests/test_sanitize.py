@@ -293,3 +293,13 @@ def _run_all():
 
 if __name__ == "__main__":
     sys.exit(1 if _run_all() else 0)
+
+
+def test_clean_room_handles_over_kerned_aud_prefix():
+    """D22: preschool PDF рендерит «ауд.» с разрядкой как «а уд.»."""
+    from scraper.normalizer.schedule_normalizer import clean_room
+    assert clean_room("а уд. - С/з") == "С/з"
+    assert clean_room("ауд. 303") == "303"
+    assert clean_room("Аудитория 204") == "204"
+    # Залы без «ауд» не трогаем
+    assert clean_room("Спортивный зал") == "Спортивный зал"

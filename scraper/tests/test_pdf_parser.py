@@ -254,3 +254,122 @@ def test_two_stacked_blocks_in_one_slot_both_survive():
     assert len(at_1240) == 2, f"12:40 slot must hold 2 lessons, got {at_1240}"
     assert any("КЕРАМИКА" in s for s in at_1240), at_1240
     assert any("СКУЛЬПТУРА" in s for s in at_1240), at_1240
+
+
+# ── D20/D21/D22: preschool cell shapes ────────────────────────────────────────
+
+
+def test_comma_separated_type_marker_is_stripped():
+    """D20: «История России, ПЗ» — тип через запятую, без скобок."""
+    lesson = _parse_timetable_cell(
+        "История России, ПЗ\nДоц. В.А. Литвиненко\n(ауд. 303)",
+        "09:00", "10:30", None,
+    )
+    assert lesson is not None
+    assert lesson["subject"] == "История России"
+    assert lesson["type"] == "practice"
+    assert lesson["teacher"] == "Доц. В.А. Литвиненко"
+    assert lesson["room"] == "ауд. 303"
+
+
+def test_comma_separated_lecture_marker():
+    lesson = _parse_timetable_cell(
+        "История России, ЛК\nДоц. В.А. Литвиненко\n(ауд.206)",
+        "09:00", "10:30", None,
+    )
+    assert lesson is not None
+    assert lesson["subject"] == "История России"
+    assert lesson["type"] == "lecture"
+
+
+def test_short_senior_lecturer_abbrev_and_kerned_room():
+    """D21 «Ст. пр.» (не «ст. преп.») + D22 over-kerned «(а уд. - С/з)»."""
+    lesson = _parse_timetable_cell(
+        "Физическая культура и спорт, ПЗ\nСт. пр. Н.А. Андросова\n(а уд. - С/з)",
+        "12:40", "14:10", None,
+    )
+    assert lesson is not None
+    assert lesson["subject"] == "Физическая культура и спорт"
+    assert lesson["type"] == "practice"
+    assert "Андросова" in (lesson["teacher"] or ""), lesson["teacher"]
+    assert lesson["room"] is not None, "over-kerned «а уд.» must still yield a room"
+
+
+# ── D23/D24/D25: single-line cell variants found in arts/geography/social ─────
+
+
+def test_type_marker_with_qualifier_in_parens_is_stripped():
+    """D23 (arts): «(ЛК с 14.09.26)» — маркер типа с уточнением внутри скобок."""
+    lesson = _parse_timetable_cell(
+        "ИСТОРИЯ РОССИИ (ЛК с 14.09.26), доц. Александр Георгиевич Смирнов, ауд. 221",
+        "09:00", "10:30", None,
+    )
+    assert lesson is not None
+    assert lesson["subject"] == "ИСТОРИЯ РОССИИ"
+    assert lesson["type"] == "lecture"
+    assert lesson["teacher"] == "доц. Александр Георгиевич Смирнов"
+    assert lesson["room"] == "ауд. 221"
+
+
+def test_truncated_aud_token_does_not_leak_into_teacher():
+    """D24 (geography): «, ауд» без точки и номера — обрезано границей ячейки."""
+    lesson = _parse_timetable_cell(
+        "История России , доц. М.К. Чиняков, ауд", "09:00", "10:30", None,
+    )
+    assert lesson is not None
+    assert lesson["subject"] == "История России"
+    assert lesson["teacher"] == "доц. М.К. Чиняков", lesson["teacher"]
+
+
+def test_space_separated_teacher_and_empty_room_parens():
+    """D25 (social): преподаватель через пробел, «(ауд. )» без номера."""
+    lesson = _parse_timetable_cell(
+        "Финансово-экономический практикум (ПЗ 10) доц. Н.А. Головань (ауд. )",
+        "09:00", "10:30", None,
+    )
+    assert lesson is not None
+    assert lesson["subject"] == "Финансово-экономический практикум"
+    assert lesson["type"] == "practice"
+    assert lesson["teacher"] == "доц. Н.А. Головань", lesson["teacher"]
+
+
+def test_type_qualifier_is_preserved_in_notes():
+    """D23: «(ЛК с 14.09.26)» — дата-квалификатор уходит в notes, не теряется,
+    иначе две пары с разными датами схлопываются дедупом в одну."""
+    a = _parse_timetable_cell(
+        "ИСТОРИЯ РОССИИ (ЛК с 14.09.26), доц. А.Г. Смирнов, ауд. 221",
+        "09:00", "10:30", None)
+    b = _parse_timetable_cell(
+        "ИСТОРИЯ РОССИИ (ЛК по 30.11.26), доц. А.Г. Смирнов, ауд. 221",
+        "09:00", "10:30", None)
+    assert a["subject"] == b["subject"] == "ИСТОРИЯ РОССИИ"
+    assert "14.09.26" in a["notes"], a["notes"]
+    assert "30.11.26" in b["notes"], b["notes"]
+    assert a["notes"] != b["notes"], "разные даты должны остаться различимы"
+
+
+def test_bare_aud_token_without_number_is_metadata():
+    """D24: «САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая), ауд.» — обрезанная аудитория
+    без номера не должна прилипать к названию предмета."""
+    lesson = _parse_timetable_cell(
+        "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая), ауд.", "09:00", "10:30", None)
+    assert lesson is not None
+    assert "ауд" not in lesson["subject"].lower(), lesson["subject"]
+
+
+def test_audirovanie_subject_not_mistaken_for_room():
+    """Защита от ложного срабатывания: «Аудирование» содержит «ауд»."""
+    lesson = _parse_timetable_cell(
+        "Аудирование (ПЗ)\nдоц. И.И. Иванов\nауд. 305", "09:00", "10:30", None)
+    assert lesson is not None
+    assert lesson["subject"] == "Аудирование"
+    assert lesson["room"] == "ауд. 305"
+
+
+def test_room_attached_to_subject_by_space_only():
+    """D24b (arts): «ЖИВОПИСЬ ауд. 412» — аудитория без запятой и скобок."""
+    lesson = _parse_timetable_cell(
+        "ЖИВОПИСЬ ауд. 412\nдоц. С.Г. Брызгалова", "09:00", "10:30", None)
+    assert lesson is not None
+    assert lesson["subject"] == "ЖИВОПИСЬ"
+    assert lesson["room"] == "ауд. 412"

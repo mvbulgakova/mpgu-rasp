@@ -691,6 +691,30 @@ _SPLIT_TIME_END_RE = re.compile(r"^(\d{1,2}[:.]?\d{2})$")
 # «14.09» / «07.09, 21.09» вместо маркеров чёт/нечёт. Такие строки — не тема.
 _DATE_MARKER_RE = re.compile(r"^\s*\d{1,2}[.,/-]\d{2}(?:\s*[,;]\s*\d{1,2}[.,/-]\d{2})*\s*$")
 
+# Fix D22 (audit 2026-08-26): часть PDF (preschool) рендерится с разрядкой,
+# и «ауд.» приезжает как «а уд.». Допускаем пробелы внутри самого токена.
+# NB: длинная альтернатива ПЕРВОЙ, иначе «ауд» съест начало «Аудитория»
+# и номер аудитории потеряется.
+_AUD_TOKEN = r"(?:аудитория|а\s*у\s*д)\.?(?![а-яё])"
+
+# Fix D21: звание «Ст. пр.» (сокращение от «старший преподаватель») —
+# короче, чем «ст. преп.», старый regex его не ловил.
+_TEACHER_MARKER_RE = re.compile(
+    r"\b(проф|доц|асс|ст\.?\s*пр(?:еп)?|преп)\b\.?", re.IGNORECASE
+)
+
+# Fix D20: тип занятия может стоять после запятой без скобок —
+# «История России, ПЗ» (preschool). Скобочный вариант обрабатывается отдельно.
+# D23: тип занятия в скобках вместе с уточнением — «(ЛК с 14.09.26)»,
+# «(ПЗ 10)», «(ЛК только 17.09)». Обычный короткий «(ЛК)» ловится отдельно.
+_TYPE_WITH_QUALIFIER_RE = re.compile(
+    r"\(\s*(ЛК|ПЗ|ЛР|ЛАБ|Лаб|СЕМ|Сем)\.?\s*([^)]*)\)", re.IGNORECASE
+)
+
+_TRAILING_TYPE_RE = re.compile(
+    r"\s*,\s*(ЛК|ПЗ|ЛР|ЛАБ|Лаб|СЕМ|Сем)\.?\s*$", re.IGNORECASE
+)
+
 # Маркеры чётной/нечётной недели на отдельной строке
 _WEEK_ODD_MARKER = re.compile(
     r"^(?:числитель|числ\.?|нечётная|нечетная|нечёт\.?|нечет\.?|н/?)\s*$",
@@ -711,7 +735,7 @@ def _is_metadata_line(line: str) -> bool:
         return True
     # Fix D9: full titles (journalism), в дополнение к abbrev'ам (обычный формат).
     # `\bдоц\b` не совпадает с «Доцент», нужен явный список полных форм.
-    if re.search(r"\b(проф|доц|ст\.?\s*преп|асс|преп)\b", s, re.I):
+    if _TEACHER_MARKER_RE.search(s):
         return True
     if re.match(
         r"^\s*(?:доцент|профессор|ассистент|старший\s+преподаватель|"
@@ -722,7 +746,8 @@ def _is_metadata_line(line: str) -> bool:
     if "//" in s:
         return True
     # Fix D9: journalism использует «Аудитория 204» вместо «ауд. 204».
-    if re.search(r"(ауд\.?\s*\d|аудитория\s+\d|\d+\s+корп\.|спортзал|спортивный\s+зал|стадион|зал)", s, re.I):
+    # D24: «, ауд.» без номера (обрезано границей ячейки) — тоже метаданные.
+    if re.search(rf"{_AUD_TOKEN}|\d+\s+корп\.|спортзал|спортивный\s+зал|стадион|зал", s, re.I):
         return True
     if _WEEK_ODD_MARKER.match(s) or _WEEK_EVEN_MARKER.match(s):
         return True
@@ -1097,21 +1122,29 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
     if not lines:
         return None
 
-    # Post-08-25 follow-up: если вся ячейка — одна строка с subject + teacher
-    # + room через запятую («Основы экологической культуры (ПЗ), доц. И.Ф.
-    # Асауляк, ауд. 107»), разбиваем её на «виртуальные» строки, чтобы
-    # _is_metadata_line не съел subject целиком как метаданные.
-    if len(lines) == 1:
-        one = lines[0]
+    # Post-08-25 follow-up: строка может паковать subject + преподавателя +
+    # аудиторию в одну («Основы экологической культуры (ПЗ), доц. И.Ф.
+    # Асауляк, ауд. 107»). Разбиваем КАЖДУЮ строку на «виртуальные» строки,
+    # иначе _is_metadata_line съест всё вместе как один subject.
+    # NB: применять надо к каждой строке, а не только когда вся ячейка
+    # однострочная — после D19-склейки блок почти всегда многострочный.
+    expanded: list[str] = []
+    for line in lines:
         pieces = re.split(
-            r"(?=\s*,\s*(?:доц|проф|асс|ст\.?\s*(?:преп|пр))\.?\s+[А-ЯЁ])|"
-            r"(?=\s*,\s*(?:аудитория|ауд\.)\s+)|"
-            r"(?=\s*\(\s*(?:аудитория|ауд\.))",
-            one,
+            # преподаватель — после запятой ИЛИ просто после пробела (social)
+            r"(?=[\s,]\s*(?:доц|проф|асс|ассист|ст\.?\s*(?:преп|пр))\.?\s+[А-ЯЁ])|"
+            # аудитория после запятой; допускаем «ауд» без точки и без номера
+            # (D24: обрезано границей ячейки)
+            rf"(?=\s*,\s*{_AUD_TOKEN})|"
+            rf"(?=\s*\(\s*{_AUD_TOKEN})|"
+            # D24b: аудитория приклеена к предмету одним пробелом,
+            # без запятой и скобок («ЖИВОПИСЬ ауд. 412»).
+            rf"(?=\s+{_AUD_TOKEN})",
+            line,
         )
-        pieces = [p.strip(" ,;") for p in pieces if p.strip(" ,;")]
-        if len(pieces) > 1:
-            lines = pieces
+        pieces = [x.strip(" ,;") for x in pieces if x.strip(" ,;")]
+        expanded.extend(pieces or [line])
+    lines = expanded
 
     # Извлекаем подгруппу из любой строки
     if subgroup is None:
@@ -1136,6 +1169,7 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
     lesson_type = "other"
     teacher: str | None = None
     room: str | None = None
+    notes = ""
 
     TYPE_MAP = {"лк": "lecture", "пз": "practice", "лаб": "lab", "лб": "lab",
                 "сем": "seminar", "сем.": "seminar"}
@@ -1167,14 +1201,14 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
         # stops at «Аудитория» because «ауд» matched greedily. `\s*` after the
         # marker allows «ауд.502» (no space) as well as «ауд. 502».
         room_m = re.search(
-            r"\(?\s*(?:аудитория\s+|ауд\.?\s*)([\w\-]+)\)?", line, re.I,
+            rf"\(?\s*(?:{_AUD_TOKEN})\s*[-–]?\s*([\w/]+)\)?", line, re.I,
         )
         looks_like_room_only = bool(
             re.search(r"\d+\s+корп\.", line, re.I)
             or re.search(r"спортзал|спортивный\s+зал|стадион", line, re.I)
         )
         has_teacher_marker = bool(
-            re.search(r"\b(проф|доц|ст\.?\s*преп|асс|преп)\b", line, re.I)
+            _TEACHER_MARKER_RE.search(line)
             or re.match(
                 r"^\s*(?:доцент|профессор|ассистент|старший\s+преподаватель|"
                 r"преподаватель|ведущий\s+преподаватель)\b",
@@ -1190,7 +1224,7 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
                     room = line
             # Even after grabbing room, teacher may be on the same line.
             residual = re.sub(
-                r"\(?\s*(?:аудитория\s+|ауд\.?\s*)[\w\-]+\)?", "", line, flags=re.I
+                rf"\(?\s*(?:{_AUD_TOKEN})\s*[-–]?\s*[\w/]+\)?", "", line, flags=re.I
             ).strip(" ,;")
             if teacher is None and has_teacher_marker and residual:
                 teacher = residual.rstrip(",. ")
@@ -1207,7 +1241,31 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
             continue
 
     # Очищаем предмет от маркеров типа
-    subject = re.sub(r"\([А-ЯЁа-яёA-Za-z.]{2,4}\)", "", subject).strip(" ,.")
+    # D23: «(ЛК с 14.09.26)», «(ПЗ 10)», «(ЛК только 17.09)» — маркер типа
+    # с уточнением. Тип берём из маркера, скобку целиком убираем.
+    m_q = _TYPE_WITH_QUALIFIER_RE.search(subject)
+    if m_q:
+        t = TYPE_MAP.get(m_q.group(1).lower().rstrip("."))
+        if t:
+            lesson_type = t
+        # Квалификатор («с 14.09.26», «по 30.11.26», «10») — реальная
+        # информация о датах/часах: переносим в notes, иначе две пары с
+        # разными датами схлопнутся дедупом в одну.
+        qual = (m_q.group(2) or "").strip(" ,.;")
+        if qual:
+            notes = f"{notes}; {qual}".strip("; ") if notes else qual
+        subject = _TYPE_WITH_QUALIFIER_RE.sub(" ", subject)
+    # Пустые скобки после чистки («(ауд. )») тоже убираем.
+    subject = re.sub(r"\(\s*\)", " ", subject)
+    subject = re.sub(r"\([А-ЯЁа-яёA-Za-z.]{2,4}\)", "", subject)
+    subject = re.sub(r"\s{2,}", " ", subject).strip(" ,.")
+    # D20: «История России, ПЗ» — тип через запятую, без скобок.
+    m_tt = _TRAILING_TYPE_RE.search(subject)
+    if m_tt:
+        t = TYPE_MAP.get(m_tt.group(1).lower().rstrip("."))
+        if t:
+            lesson_type = t
+        subject = _TRAILING_TYPE_RE.sub("", subject).strip(" ,.")
     # Strip leading time-note («С 10:00», «10:40-12:20», «9:00-10:30 ») —
     # physics PDFs prefix subjects with the actual meeting time when it
     # differs from the slot's nominal time. Belongs in `notes`, not subject.
@@ -1220,7 +1278,8 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
     if not subject:
         return None
 
-    return lesson_obj(None, t_start, t_end, subject, lesson_type, teacher, room, subgroup)
+    return lesson_obj(None, t_start, t_end, subject, lesson_type, teacher, room,
+                      subgroup, notes)
 
 
 def _fmt_time(hhmm: str) -> str:

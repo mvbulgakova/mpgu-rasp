@@ -200,7 +200,9 @@ _SUBGROUP_LOOSE_RE = re.compile(
 )
 
 # Префикс "ауд." / "ауд" перед номером аудитории
-_AUD_PREFIX_RE = re.compile(r"ауд(?:итория)?\.?\s*", re.IGNORECASE)
+# D22 (audit 2026-08-26): часть PDF рендерится с разрядкой, и «ауд.»
+# приезжает как «а уд.» — допускаем пробелы внутри токена.
+_AUD_PREFIX_RE = re.compile(r"а\s*у\s*д(?:\s*и\s*т\s*о\s*р\s*и\s*я)?\.?\s*[-–]?\s*", re.IGNORECASE)
 
 
 def pull_subgroup(text: str | None) -> tuple[str | None, int | None]:
@@ -234,7 +236,8 @@ def clean_room(room: str | None) -> str | None:
     if not room:
         return None
     r = room.strip()
-    if "ауд" not in r.lower():
+    # D22: guard тоже должен ловить разрядку («а уд.»), иначе выходим рано.
+    if not _AUD_PREFIX_RE.search(r):
         return r or None
     # Заменяем маркеры "ауд." пробелом, сохраняя несколько аудиторий
     # ("332 / ауд. 333" -> "332 / 333", "411ауд. 302" -> "411 302").
