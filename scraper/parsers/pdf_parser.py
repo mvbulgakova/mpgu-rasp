@@ -989,7 +989,17 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
                 lines[i] = cleaned
                 break
 
-    subject = lines[0]
+    # Fix D1 (audit 2026-08-25): собираем subject из ВСЕХ идущих подряд строк
+    # сверху вниз, пока не встретим метаданные (преподаватель/аудитория/тип).
+    # Многострочные ячейки МПГУ содержат разнос subject через 2-3 строки
+    # ("Практика устной и" \n "письменной речи" \n "английского языка (ПЗ),"),
+    # и брать только lines[0] выдавало усечённый бессмысленный subject.
+    subject_lines: list[str] = []
+    for line in lines:
+        if _is_metadata_line(line):
+            break
+        subject_lines.append(line)
+    subject = " ".join(subject_lines).strip() if subject_lines else lines[0]
     lesson_type = "other"
     teacher: str | None = None
     room: str | None = None
