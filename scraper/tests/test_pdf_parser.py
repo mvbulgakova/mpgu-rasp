@@ -410,3 +410,34 @@ def test_zfo_bare_date_infers_weekday():
     assert len(groups) == 1, groups
     assert len(groups[0]["schedule"]["odd_week"]["monday"]) == 1, \
         groups[0]["schedule"]["odd_week"]
+
+
+# ── D32: последняя пара дня уезжала на следующий день ────────────────────────
+
+
+def test_last_lesson_of_a_day_stays_on_that_day():
+    """D32: в цикле по строкам день определялся ДО flush(), поэтому пары,
+    накопленные в последнем слоте дня, записывались уже в СЛЕДУЮЩИЙ день.
+
+    Найдено сверкой math/001: «Безопасность жизнедеятельности (ПЗ)» в
+    14:20 понедельника оказалась во вторнике.
+    """
+    from scraper.parsers.pdf_parser import _parse_tables
+
+    table = [
+        ["День недели", "Время", "ВОМ34-МКН2501"],
+        ["ПОНЕДЕЛЬНИК", "10:40-12:10", "Программирование (ЛК)\nст. пр. Буданов Н.А., ауд. 207"],
+        ["", "14:20-15:50", "Безопасность жизнедеятельности (ПЗ)\nдоц. Суворов В.В., ауд. 304"],
+        ["ВТОРНИК", "09:00-10:30", "Алгебра (ЛК)\nпроф. Михайлова М.В., ауд. 404"],
+    ]
+    groups = _parse_tables([table])
+    assert len(groups) == 1, groups
+    wk = groups[0]["schedule"]["odd_week"]
+
+    mon = {l["time_start"]: l["subject"] for l in wk["monday"]}
+    tue = {l["time_start"]: l["subject"] for l in wk["tuesday"]}
+
+    assert "14:20" in mon, f"пара 14:20 должна остаться в понедельнике: {mon} / {tue}"
+    assert "Безопасность" in mon["14:20"]
+    assert "14:20" not in tue, f"во вторнике её быть не должно: {tue}"
+    assert tue.get("09:00", "").startswith("Алгебра"), tue

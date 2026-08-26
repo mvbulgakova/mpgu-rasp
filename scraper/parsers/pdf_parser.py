@@ -901,7 +901,11 @@ def _fill_mpgu_schedule_multi(
                 data_started = True
             continue
 
-        # Определяем день
+        # Определяем день.
+        # D32 (audit 2026-08-26): день ОБЯЗАН меняться только после того, как
+        # накопленные пары предыдущего дня записаны. Раньше flush() шёл ниже,
+        # уже с новым current_day, и последняя пара каждого дня уезжала на
+        # следующий (math/001: «Безопасность жизнедеятельности» 14:20 ПН → ВТ).
         if c0:
             raw = c0.replace("\n", "").strip()
             if raw:
@@ -912,6 +916,8 @@ def _fill_mpgu_schedule_multi(
                 if not day:
                     day = _day_from_date_cell(c0)
                 if day:
+                    if day != current_day:
+                        flush()
                     current_day = day
                     day_acc = []
                 elif len(raw) == 1:
@@ -920,6 +926,8 @@ def _fill_mpgu_schedule_multi(
                     candidate = "".join(day_acc)
                     day = normalize_day(candidate.lower())
                     if day:
+                        if day != current_day:
+                            flush()
                         current_day = day
                         day_acc = []
                 # Если len>1 и не день — это, скорее всего, фрагмент (напр. 'ИК'), игнорируем
