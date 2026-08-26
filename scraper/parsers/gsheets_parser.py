@@ -245,7 +245,8 @@ def _parse_isgo(rows: list[list[str]], header_idx: int) -> list[dict]:
 _TEACHER_TITLE_RE = re.compile(
     r"\b(проф|доц|ст\.?\s*преп|асс|преп)\.?\s", re.IGNORECASE
 )
-_ROOM_RE = re.compile(r"\(ауд\.?\s*([\w\-]+)\)", re.IGNORECASE)
+# D39: после номера в скобках может идти пояснение — «(ауд.203, Музей МПГУ)».
+_ROOM_RE = re.compile(r"\(\s*ауд\.?\s*([\w\-/]+)[^)]*\)", re.IGNORECASE)
 _TYPE_BRACKET_RE = re.compile(r"\(([А-ЯЁа-яёA-Za-z./]{2,6})[\s\d/]*\)")
 _TYPE_MAP = {
     "лк": "lecture", "пз": "practice", "лаб": "lab", "лб": "lab",
@@ -262,7 +263,9 @@ def _parse_isgo_cell(content: str, t_start: str, t_end: str) -> dict | None:
     """
     if not content or content in {"-", "–", "—"}:
         return None
-    lines = [ln.strip() for ln in content.replace("\r", "").split("\n") if ln.strip()]
+    # D40: в Google-таблицах перенос внутри ячейки часто набирают как «\\».
+    normalized = content.replace("\r", "").replace("\\\\", "\n")
+    lines = [ln.strip() for ln in normalized.split("\n") if ln.strip()]
     if not lines:
         return None
 
@@ -280,6 +283,10 @@ def _parse_isgo_cell(content: str, t_start: str, t_end: str) -> dict | None:
         rm = _ROOM_RE.search(line)
         if rm and room is None:
             room = rm.group(1)
+        elif room is None:
+            bare = re.match(r"^\s*ауд\.?\s*([\w\-/]+)\s*$", line, re.I)
+            if bare:
+                room = bare.group(1)
 
         if "//" in line:
             parts = line.split("//", 1)
@@ -300,7 +307,10 @@ def _parse_isgo_cell(content: str, t_start: str, t_end: str) -> dict | None:
         subject_raw = first
 
     # Убираем скобки с типом занятия и лишние пробелы; извлекаем подгруппу
-    subject = _TYPE_BRACKET_RE.sub("", subject_raw).strip(" ,.")
+    # D39: скобка с аудиторией не должна оставаться в названии
+    subject = _ROOM_RE.sub(" ", subject_raw)
+    subject = _TYPE_BRACKET_RE.sub("", subject)
+    subject = re.sub(r"\s{2,}", " ", subject).strip(" ,.")
     subject, subgroup = extract_subgroup(subject)
     if not subject:
         return None

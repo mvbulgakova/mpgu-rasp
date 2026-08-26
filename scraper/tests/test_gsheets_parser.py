@@ -102,3 +102,31 @@ def test_sport_csv_grid_is_parsed():
     fks = by_name["ВОЗ34-ФКС2601"]["schedule"]["odd_week"]["monday"]
     assert len(fks) == 1, fks
     assert fks[0]["subject"] == "Анатомия человека"
+
+
+def test_isgo_cell_uses_the_shared_room_extraction():
+    """D39: `_parse_isgo_cell` — третий путь разбора ячейки со своими
+    устаревшими regex. Аудитория в скобках с пояснением («(ауд.203, Музей
+    МПГУ)») оставалась внутри названия."""
+    from scraper.parsers.gsheets_parser import _parse_isgo_cell
+
+    l = _parse_isgo_cell(
+        "Мой МПГУ. Знакомство с историей МПГУ  (ауд.203, Музей МПГУ)",
+        "09:00", "10:30")
+    assert l is not None
+    assert l["subject"] == "Мой МПГУ. Знакомство с историей МПГУ", l["subject"]
+    assert l["room"] and "203" in l["room"], l["room"]
+
+
+def test_isgo_cell_treats_double_backslash_as_line_break():
+    """D40: в Google-таблицах ИСГО перенос внутри ячейки набирают как «\\\\».
+    Из-за этого «\\\\ ауд. 203» в конце оставалось внутри названия."""
+    from scraper.parsers.gsheets_parser import _parse_isgo_cell
+
+    l = _parse_isgo_cell(
+        "Студенческий совет ИСГО: «Многогранны, но едины» "
+        "\\\\ Социальная поддержка\\\\ Профсоюз\\\\ ауд. 203",
+        "09:00", "10:30")
+    assert l is not None
+    assert "ауд" not in l["subject"].lower(), l["subject"]
+    assert l["room"] and "203" in l["room"], l["room"]
