@@ -40,24 +40,32 @@ class ScheduleRepository @Inject constructor(
 
     suspend fun getManifest(instituteId: String) = api.manifest(instituteId)
 
-    suspend fun getGroupSchedule(instituteId: String, groupFile: String): Result<Group> {
+    data class GroupResult(val group: Group, val fromCache: Boolean)
+
+    suspend fun getGroupSchedule(instituteId: String, groupFile: String): Result<GroupResult> {
         val key = "$instituteId/$groupFile"
-        return runCatching {
-            val fresh = api.group(instituteId, groupFile)
-            db.groupCacheDao().upsert(
-                GroupCacheEntity(
-                    cacheKey = key, instituteId = instituteId, groupFile = groupFile,
-                    name = fresh.name,
-                    json = json.encodeToString(GroupScheduleDto.serializer(), fresh.toDto()),
-                    cachedAt = System.currentTimeMillis(),
-                )
-            )
-            fresh
-        }.recoverCatching { err ->
-            if (err !is IOException) throw err
-            val cached = db.groupCacheDao().get(key) ?: throw err
-            json.decodeFromString(GroupScheduleDto.serializer(), cached.json).toDomain()
-        }
+        return runCatching { api.group(instituteId, groupFile) }
+            .map { fresh ->
+                // Cache-write MUST NOT propagate — a full disk or a Room error should
+                // not eat a valid network response and drop the user to «offline».
+                runCatching {
+                    db.groupCacheDao().upsert(
+                        GroupCacheEntity(
+                            cacheKey = key, instituteId = instituteId, groupFile = groupFile,
+                            name = fresh.name,
+                            json = json.encodeToString(GroupScheduleDto.serializer(), fresh.toDto()),
+                            cachedAt = System.currentTimeMillis(),
+                        )
+                    )
+                }
+                GroupResult(fresh, fromCache = false)
+            }
+            .recoverCatching { err ->
+                if (err !is IOException) throw err
+                val cached = db.groupCacheDao().get(key) ?: throw err
+                val group = json.decodeFromString(GroupScheduleDto.serializer(), cached.json).toDomain()
+                GroupResult(group, fromCache = true)
+            }
     }
 
     // Round-trip helper: domain Group → DTO for cache serialization.

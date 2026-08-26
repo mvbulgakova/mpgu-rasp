@@ -49,7 +49,13 @@ class WeekViewModel @Inject constructor(
         viewModelScope.launch {
             _state.value = _state.value.copy(loading = true, error = null)
             repo.getGroupSchedule(instituteId, groupFile)
-                .onSuccess { _state.value = _state.value.copy(group = it, loading = false) }
+                .onSuccess {
+                    _state.value = _state.value.copy(
+                        group = it.group,
+                        loading = false,
+                        offline = it.fromCache,
+                    )
+                }
                 .onFailure { _state.value = _state.value.copy(loading = false, error = it.message) }
         }
     }
