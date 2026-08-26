@@ -43,6 +43,18 @@ def _parse_sheet(sheet) -> list[dict]:
 
 # ── MPGU columnar format ──────────────────────────────────────────────────────
 
+# D10 (audit 2026-08-25): strip decorative suffix like "(101)" that some
+# institutes append to the group code — usually the assigned lecture-hall
+# number. Leaving it in name breaks user search on the app side.
+_CODE_RE = re.compile(r"[А-ЯA-Z]{2,3}\d{2}[-\s]?[А-ЯA-Z]{2,4}\s?\d{4}")
+
+
+def _strip_to_code(text: str) -> str:
+    """Return only the group code portion of `text` (D10 in the parser audit)."""
+    m = _CODE_RE.search(text)
+    return re.sub(r"\s+", "", m.group(0)) if m else text.strip()
+
+
 def _try_mpgu_format(rows: list[list[str]], sheet_title: str = "") -> list[dict]:
     """Detect and parse MPGU columnar schedule (day+time as rows, groups as columns)."""
     header = _find_mpgu_header(rows)
@@ -51,16 +63,7 @@ def _try_mpgu_format(rows: list[list[str]], sheet_title: str = "") -> list[dict]
 
     header_idx, day_col, time_col, data_col = header
     header_row = rows[header_idx]
-
-    # Strip any decorative suffix that follows a valid code:
-    # "ВОИ18-ИПЛ2601 (101)" → "ВОИ18-ИПЛ2601" (D10 in audit 2026-08-25).
-    # The parenthetical is usually room number or subgroup, not part of the
-    # group code — leaving it in name breaks user search on the app side.
-    _CODE = re.compile(r"[А-ЯA-Z]{2,3}\d{2}[-\s]?[А-ЯA-Z]{2,4}\s?\d{4}")
-
-    def _strip_to_code(text: str) -> str:
-        m = _CODE.search(text)
-        return re.sub(r"\s+", "", m.group(0)) if m else text.strip()
+    _CODE = _CODE_RE
 
     group_cols: dict[int, str] = {}
     for col_i in range(data_col, len(header_row)):
