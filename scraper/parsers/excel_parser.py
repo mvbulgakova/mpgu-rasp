@@ -7,6 +7,7 @@ from scraper.parsers.base import BaseParser, ParseResult
 from scraper.normalizer.schedule_normalizer import (
     normalize_day, normalize_lesson_type, normalize_time,
     make_schedule_skeleton, lesson_obj, extract_subgroup, date_str_to_weekday,
+    extract_column_headers,
 )
 
 
@@ -129,9 +130,19 @@ def _try_mpgu_format(rows: list[list[str]], sheet_title: str = "") -> list[dict]
     form = "full_time" if is_fulltime else "correspondence"
 
     if has_multiline and is_fulltime:
-        return _parse_mpgu_fulltime(rows, header_idx, day_col, time_col, group_cols, form, degree)
+        groups = _parse_mpgu_fulltime(rows, header_idx, day_col, time_col, group_cols, form, degree)
     else:
-        return _parse_mpgu_multirow(rows, header_idx, day_col, time_col, group_cols, form, degree)
+        groups = _parse_mpgu_multirow(rows, header_idx, day_col, time_col, group_cols, form, degree)
+
+    # Навигация в клиентах идёт по направлению и профилю: оба поля стоят
+    # в шапке ПО КОЛОНКАМ, ровно над кодами групп.
+    col_meta = extract_column_headers(rows, data_col=data_col)
+    meta_by_name = {name: col_meta.get(ci, {}) for ci, name in group_cols.items()}
+    for g in groups:
+        meta = meta_by_name.get(g["name"], {})
+        g["direction"] = meta.get("direction")
+        g["profile"] = meta.get("profile")
+    return groups
 
 
 def _find_mpgu_header(rows: list[list[str]]) -> tuple | None:

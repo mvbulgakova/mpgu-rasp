@@ -8,6 +8,8 @@ data class GroupScheduleDto(
     val year: Int? = null,
     val form: String? = null,
     val degree: String? = null,
+    val direction: String? = null,
+    val profile: String? = null,
     val schedule: WeekMapDto = WeekMapDto(),
 )
 

@@ -10,7 +10,7 @@ import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
 import ru.mpgu.rasp.data.remote.dto.ManifestGroupDto
 import ru.mpgu.rasp.data.repo.ScheduleRepository
-import ru.mpgu.rasp.util.GroupSearch
+import ru.mpgu.rasp.util.GroupCatalog
 import javax.inject.Inject
 
 @HiltViewModel
@@ -28,9 +28,11 @@ class GroupsViewModel @Inject constructor(
         val error: String? = null,
     ) {
         val filtered: List<ManifestGroupDto>
-            get() = if (query.isBlank()) groups else groups.filter {
-                GroupSearch.searchKey(it.name).contains(GroupSearch.searchKey(query))
-            }
+            get() = GroupCatalog.filter(groups, query)
+
+        /** Институт → направление → профиль → группа. */
+        val catalog: List<GroupCatalog.DirectionNode>
+            get() = GroupCatalog.build(filtered)
     }
 
     private val _state = MutableStateFlow(State())

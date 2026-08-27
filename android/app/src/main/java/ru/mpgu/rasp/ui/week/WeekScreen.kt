@@ -35,7 +35,6 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import ru.mpgu.rasp.R
-import ru.mpgu.rasp.util.WeekParity
 import java.time.DayOfWeek
 import java.time.LocalDate
 import java.time.LocalTime
@@ -61,7 +60,7 @@ fun WeekScreen(
             today = LocalDate.now().dayOfWeek
         }
     }
-    val isTodayInThisWeek = (WeekParity.forDate(LocalDate.now()) == WeekParity.EVEN) == state.showEven
+    val isTodayInThisWeek = state.showingCurrentWeek
 
     Scaffold(
         topBar = {

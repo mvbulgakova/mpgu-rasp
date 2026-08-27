@@ -545,3 +545,33 @@ def test_without_the_legend_stacked_blocks_stay_on_both_weeks():
     even = groups[0]["schedule"]["even_week"]["monday"]
     assert len(odd) == 2, [l["subject"] for l in odd]
     assert len(even) == 2, [l["subject"] for l in even]
+
+
+# ── Направление и профиль как первичные признаки группы ──────────────────────
+
+
+def test_direction_and_profile_are_captured_per_group():
+    """Пользователь выбирает расписание по направлению и профилю, а не по
+    коду группы. Оба поля стоят в шапке ПО КОЛОНКАМ, как и сами группы.
+    """
+    from scraper.parsers.pdf_parser import _parse_tables
+
+    table = [
+        ["Код, наименование направления/специальности", "",
+         "42.03.02 ЖУРНАЛИСТИКА", "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ"],
+        ["Направленность (профиль)", "", "Журналистика",
+         "МХК и дополнительное образование"],
+        ["День недели", "Группа/Время", "БОЖ09-ЖРН2101", "БОЖ09-МХК2101"],
+        ["ПОНЕДЕЛЬНИК", "09:00-10:30", "ИСТОРИЯ (ЛК)\nдоц. И.И. Иванов\nауд. 204",
+         "КОМПОЗИЦИЯ (ПЗ)\nдоц. П.П. Петров\nауд. 310"],
+    ]
+    groups = {g["name"]: g for g in _parse_tables([table])}
+    assert set(groups) == {"БОЖ09-ЖРН2101", "БОЖ09-МХК2101"}, list(groups)
+
+    j = groups["БОЖ09-ЖРН2101"]
+    assert j["direction"] == "42.03.02 ЖУРНАЛИСТИКА", j.get("direction")
+    assert j["profile"] == "Журналистика", j.get("profile")
+
+    m = groups["БОЖ09-МХК2101"]
+    assert m["direction"] == "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ", m.get("direction")
+    assert m["profile"] == "МХК и дополнительное образование", m.get("profile")

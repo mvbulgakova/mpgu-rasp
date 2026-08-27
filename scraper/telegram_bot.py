@@ -18,6 +18,8 @@ import urllib.parse
 import urllib.request
 import datetime as dt
 
+from scraper.academic_calendar import is_odd_week
+
 DATA_BASE = os.environ.get(
     "DATA_BASE", "https://cdn.jsdelivr.net/gh/mvbulgakova/mpgu-rasp@data")
 RUN_SECONDS = int(os.environ.get("RUN_SECONDS", "3300"))  # ~55 минут
@@ -49,7 +51,12 @@ def _esc(s) -> str:
 
 
 def _iso_week_even(d: dt.date) -> bool:
-    return d.isocalendar()[1] % 2 == 0
+    """Чётность недели по календарю МПГУ, а не по ISO-номеру.
+
+    ISO-правило инвертировано весь первый семестр — см.
+    scraper/academic_calendar.
+    """
+    return not is_odd_week(d)
 
 
 def _format_today(group: dict, meta: dict) -> str:

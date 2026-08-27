@@ -10,6 +10,7 @@ from scraper.normalizer.schedule_normalizer import (
     normalize_day, normalize_lesson_type, normalize_time,
     normalize_week_type, make_schedule_skeleton, lesson_obj, TIME_SLOTS,
     extract_subgroup, TEACHER_TITLE_RE, TEACHER_TITLE_SPLIT_RE,
+    extract_column_headers,
 )
 
 CONFIDENCE_THRESHOLD = 0.65
@@ -691,6 +692,7 @@ def _parse_mpgu_segment(tables: list[list[list]], all_tables: list[list[list]],
     # Извлекаем группы из первой МПГУ-таблицы (может быть не tables[0])
     first_mpgu = next((t for t in tables if _is_mpgu_timetable_format(t)), tables[0])
     group_cols, form, degree, year = _extract_timetable_groups(first_mpgu)
+    col_meta = extract_column_headers(first_mpgu)
 
     # Если МПГУ-таблица не содержит кодов групп, ищем в таблицах до неё:
     # в некоторых форматах заголовок с кодами групп предшествует данным,
@@ -701,11 +703,13 @@ def _parse_mpgu_segment(tables: list[list[list]], all_tables: list[list[list]],
             gc0, f0, d0, y0 = _extract_timetable_groups(candidate)
             if gc0 != [("группа", 2)]:
                 group_cols, form, degree, year = gc0, f0, d0, y0
+                col_meta = extract_column_headers(candidate)
                 # Перемапируем индексы колонок: в таблицах данных группы начинаются с col 2
                 min_col = min(col for _, col in group_cols)
                 if min_col > 2:
                     col_offset = min_col - 2
                     group_cols = [(name, col - col_offset) for name, col in group_cols]
+                    col_meta = {ci - col_offset: m for ci, m in col_meta.items()}
                 break
 
     # group_cols: list of (name, col_idx)
@@ -741,8 +745,12 @@ def _parse_mpgu_segment(tables: list[list[list]], all_tables: list[list[list]],
         has_lessons = any(sched["odd_week"][d] for d in sched["odd_week"]) or \
                       any(sched["even_week"][d] for d in sched["even_week"])
         if has_lessons:
+            meta = col_meta.get(col, {})
             result.append({"name": name, "year": year, "form": form,
-                           "degree": degree, "schedule": sched})
+                           "degree": degree,
+                           "direction": meta.get("direction"),
+                           "profile": meta.get("profile"),
+                           "schedule": sched})
     return result
 
 

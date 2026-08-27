@@ -3,6 +3,7 @@ import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
 import { useAppStore } from "./store";
 import {
   useIndex,
+  useWeekCalendar,
   useInstituteManifest,
   useGroupSchedule,
   useTeachersIndex,
@@ -21,7 +22,8 @@ import TeacherScheduleView from "./components/TeacherScheduleView";
 import ExamScheduleView from "./components/ExamScheduleView";
 import UpcomingExamBanner from "./components/UpcomingExamBanner";
 import type { TeacherMeta } from "./types/schedule";
-import { format, getISOWeek } from "date-fns";
+import { format } from "date-fns";
+import { BUILT_IN_CALENDAR, isEvenWeek } from "./util/weekParity";
 import { ru } from "date-fns/locale";
 
 const SUPPORTED_MANIFEST_VERSION = 1;
@@ -49,6 +51,7 @@ function ScheduleApp() {
   const toggleDarkMode = useAppStore((s) => s.toggleDarkMode);
 
   const { data: index, isLoading: indexLoading, isError: indexError, refetch: refetchIndex } = useIndex();
+  const { data: weekCalendar } = useWeekCalendar();
   const cachedIndex = useOfflineCache("index", index);
 
   const {
@@ -89,8 +92,9 @@ function ScheduleApp() {
   useNotifications(cachedGroup?.schedule);
 
   const today = new Date();
-  const weekNum = getISOWeek(today);
-  const isCurrentWeekEven = weekNum % 2 === 0;
+  // Чётность недели — по официальному календарю НАД/ПОД чертой, а не по
+  // ISO-номеру недели: ISO-правило инвертировано весь первый семестр.
+  const isCurrentWeekEven = isEvenWeek(today, weekCalendar ?? BUILT_IN_CALENDAR);
 
   // Устанавливаем текущую неделю при каждом открытии приложения
   useEffect(() => {
@@ -411,14 +415,14 @@ function ScheduleApp() {
                     )}
                     <div className="flex items-center justify-between px-4 py-2 border-b border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800">
                       <span className="text-xs text-gray-500 dark:text-gray-400">
-                        {format(today, "EEEE, d MMMM", { locale: ru })} · {weekNum} неделя
+                        {format(today, "EEEE, d MMMM", { locale: ru })}
                       </span>
                       <span className={`text-xs font-medium px-2 py-0.5 rounded-full ${
                         showEvenWeek === isCurrentWeekEven
                           ? "bg-green-100 text-green-700 dark:bg-green-900/40 dark:text-green-400"
                           : "bg-gray-100 text-gray-500 dark:bg-gray-700 dark:text-gray-400"
                       }`}>
-                        {showEvenWeek ? "чётная" : "нечётная"}{showEvenWeek === isCurrentWeekEven ? " (сейчас)" : ""}
+                        {showEvenWeek ? "чётная · под чертой" : "нечётная · над чертой"}{showEvenWeek === isCurrentWeekEven ? " (сейчас)" : ""}
                       </span>
                     </div>
                     <WeekSchedule schedule={cachedGroup.schedule} showEvenWeek={showEvenWeek} />

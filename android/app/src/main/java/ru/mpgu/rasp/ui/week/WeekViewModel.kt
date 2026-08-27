@@ -11,6 +11,7 @@ import kotlinx.coroutines.launch
 import ru.mpgu.rasp.data.model.Group
 import ru.mpgu.rasp.data.prefs.UserPrefs
 import ru.mpgu.rasp.data.repo.ScheduleRepository
+import ru.mpgu.rasp.util.WeekCalendar
 import ru.mpgu.rasp.util.WeekParity
 import java.net.URLDecoder
 import java.time.LocalDate
@@ -29,17 +30,34 @@ class WeekViewModel @Inject constructor(
 
     data class State(
         val group: Group? = null,
+        val calendar: WeekCalendar = WeekParity.BUILT_IN,
         val showEven: Boolean = WeekParity.forDate(LocalDate.now()) == WeekParity.EVEN,
         val loading: Boolean = true,
         val error: String? = null,
         val offline: Boolean = false,
-    )
+    ) {
+        /** Идёт ли сейчас та неделя, которую показывает экран. */
+        val showingCurrentWeek: Boolean
+            get() = (WeekParity.forDate(LocalDate.now(), calendar) == WeekParity.EVEN) == showEven
+    }
 
     private val _state = MutableStateFlow(State())
     val state: StateFlow<State> = _state.asStateFlow()
 
     init {
         load()
+        viewModelScope.launch {
+            val calendar = repo.getWeekCalendar()
+            // Пользователь мог уже переключить неделю руками — тогда не трогаем.
+            val untouched = _state.value.showEven ==
+                (WeekParity.forDate(LocalDate.now()) == WeekParity.EVEN)
+            _state.value = _state.value.copy(
+                calendar = calendar,
+                showEven = if (untouched) {
+                    WeekParity.forDate(LocalDate.now(), calendar) == WeekParity.EVEN
+                } else _state.value.showEven,
+            )
+        }
         viewModelScope.launch { prefs.setSelection(instituteId, groupFile, groupName) }
     }
 

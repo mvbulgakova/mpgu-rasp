@@ -24,7 +24,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.hilt.navigation.compose.hiltViewModel
 import ru.mpgu.rasp.R
-import ru.mpgu.rasp.util.GroupSearch
+import ru.mpgu.rasp.util.GroupCatalog
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -39,10 +39,8 @@ fun OnboardingScreen(
     // Compute the filter here (not vm.filteredGroups, which reads _groups.value
     // via a plain getter Compose can't track). remember(query, groups) keeps the
     // recomposition dependency chain explicit — updates as either changes.
-    val filteredGroups = remember(query, groups) {
-        if (query.isBlank()) groups
-        else groups.filter { GroupSearch.searchKey(it.name).contains(GroupSearch.searchKey(query)) }
-    }
+    // Ищем и по коду, и по направлению с профилем — студент чаще помнит их.
+    val filteredGroups = remember(query, groups) { GroupCatalog.filter(groups, query) }
 
     Scaffold(topBar = { TopAppBar(title = { Text(stringResource(R.string.onboarding_title)) }) }) { padding ->
         if (picked == null) {
@@ -77,7 +75,9 @@ fun OnboardingScreen(
                         ElevatedCard(modifier = Modifier.fillMaxWidth().clickable { vm.pickGroup(g) { a, b, c -> onPicked(a, b, c) } }) {
                             Column(Modifier.padding(16.dp)) {
                                 Text(g.name, style = MaterialTheme.typography.titleMedium)
-                                g.degree?.let { Text(it, style = MaterialTheme.typography.bodySmall) }
+                                val sub = listOfNotNull(g.profile, g.direction, g.degree)
+                                    .firstOrNull()
+                                sub?.let { Text(it, style = MaterialTheme.typography.bodySmall) }
                             }
                         }
                     }

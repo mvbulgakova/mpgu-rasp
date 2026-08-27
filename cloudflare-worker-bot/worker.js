@@ -57,27 +57,42 @@ export default {
 
 async function handle(text, base) {
   if (text.startsWith("/start") || text.startsWith("/help")) {
-    return "👋 Бот расписания МПГУ.\n\nПришлите код группы — например <b>ВОП40-ПФК2501</b> " +
-      "(можно часть кода) — и я покажу пары на сегодня.";
+    return "👋 Бот расписания МПГУ.\n\nПришлите код группы (<b>ВОП40-ПФК2501</b>), " +
+      "направление или профиль (<b>журналистика</b>) — и я покажу пары на сегодня.";
   }
-  const q = searchKey(text.replace(/^\/\S+\s*/, ""));
-  if (q.length < 3) return "Пришлите код группы (минимум 3 символа), например ВОП40-ПФК2501.";
+  const raw = text.replace(/^\/\S+\s*/, "").trim();
+  const q = searchKey(raw);
+  if (q.length < 3) return "Пришлите код группы, направление или профиль (минимум 3 символа) — например ВОП40-ПФК2501 или «журналистика».";
 
   const index = await getJson(`${base}/meta/groups.json`);
   const all = (index.groups || []);
   const exact = all.filter((g) => g.key === q);
-  const matches = exact.length ? exact : all.filter((g) => g.key.includes(q));
+  // Студент чаще помнит направление и профиль, чем код группы, — ищем и по ним.
+  const plain = raw.toLowerCase();
+  const matches = exact.length
+    ? exact
+    : all.filter((g) =>
+        g.key.includes(q) ||
+        (g.direction || "").toLowerCase().includes(plain) ||
+        (g.profile || "").toLowerCase().includes(plain));
 
-  if (matches.length === 0) return `Группа «${escapeHtml(text)}» не найдена. Проверьте код.`;
+  if (matches.length === 0) return `Ничего не нашёл по запросу «${escapeHtml(text)}». Попробуйте код группы, направление или профиль.`;
   if (matches.length > 1 && exact.length !== 1) {
-    const list = matches.slice(0, 12).map((g) => `• <b>${escapeHtml(g.code)}</b> — ${escapeHtml(g.institute_short)}`).join("\n");
+    const list = matches.slice(0, 12).map((g) => {
+      const where = [g.profile || g.direction, g.institute_short].filter(Boolean).map(escapeHtml).join(" — ");
+      return `• <b>${escapeHtml(g.code)}</b> — ${where}`;
+    }).join("\n");
     const more = matches.length > 12 ? `\n…и ещё ${matches.length - 12}` : "";
-    return `Нашёл несколько групп — уточните код:\n${list}${more}`;
+    return `Нашёл несколько групп — уточните:\n${list}${more}`;
   }
 
   const g = matches[0];
   const group = await getJson(`${base}/institutes/${g.institute}/groups/${encodeURIComponent(g.file)}.json`);
-  return formatToday(group, g);
+  // Календарь НАД/ПОД чертой публикуется вместе с данными: новый учебный
+  // год не требует передеплоя воркера.
+  const calendar = await getJson(`${base}/meta/week_parity.json`)
+    .catch(() => BUILT_IN_WEEK_CALENDAR);
+  return formatToday(group, g, calendar);
 }
 
 async function getJson(url) {
@@ -86,23 +101,46 @@ async function getJson(url) {
   return r.json();
 }
 
-function isEvenWeek(date) {
-  // ISO-номер недели; чётная = знаменатель (even_week)
-  const d = new Date(Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()));
-  const dayNum = (d.getUTCDay() + 6) % 7;
-  d.setUTCDate(d.getUTCDate() - dayNum + 3);
-  const firstThursday = new Date(Date.UTC(d.getUTCFullYear(), 0, 4));
-  const week = 1 + Math.round((d - firstThursday) / 604800000);
-  return week % 2 === 0;
+// НАД чертой = нечётная неделя (odd_week), ПОД чертой = чётная (even_week).
+// Чётность задаёт официальный документ «Расписание недель НАД / ПОД чертой»,
+// а не арифметика: ISO-номер недели инвертирован весь первый семестр (2026
+// год содержит 53 ISO-недели), а строгое чередование рвётся на стыке
+// семестров — 22.02–28.02 и 01.03–07.03 обе ПОД чертой.
+// Свежая таблица лежит в meta/week_parity.json; эта — запасная.
+const BUILT_IN_WEEK_CALENDAR = {
+  anchor: "2026-08-31",
+  weeks: "oeoeoeoeoeoeoeoeoeoeoeoeoe" + "eoeoeoeoeoeoeoeoeoe",
+};
+const DAY_MS = 86400000;
+
+function mondayOf(utcMidnight) {
+  const weekday = (new Date(utcMidnight).getUTCDay() + 6) % 7; // 0 = понедельник
+  return utcMidnight - weekday * DAY_MS;
 }
 
-function formatToday(group, meta) {
+function isEvenWeek(date, calendar = BUILT_IN_WEEK_CALENDAR) {
+  const table = calendar.weeks || "";
+  const [y, m, d] = calendar.anchor.split("-").map(Number);
+  const anchorMonday = mondayOf(Date.UTC(y, m - 1, d));
+  const monday = mondayOf(
+    Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()));
+  const index = Math.round((monday - anchorMonday) / (7 * DAY_MS));
+  if (!table) return (((index % 2) + 2) % 2) !== 0;
+  if (index >= 0 && index < table.length) return table[index] !== "o";
+  // За пределами опубликованного года — чередование от известного края.
+  const known = index < 0 ? table[0] : table[table.length - 1];
+  const distance = index < 0 ? -index : index - (table.length - 1);
+  return !((known === "o") !== (distance % 2 === 1));
+}
+
+function formatToday(group, meta, calendar = BUILT_IN_WEEK_CALENDAR) {
   // Москва = UTC+3
   const now = new Date(Date.now() + 3 * 3600 * 1000);
   const day = DAYS[now.getUTCDay()];
-  const wk = isEvenWeek(now) ? "even_week" : "odd_week";
+  const even = isEvenWeek(now, calendar);
+  const wk = even ? "even_week" : "odd_week";
   const lessons = ((group.schedule || {})[wk] || {})[day] || [];
-  const header = `📅 <b>${escapeHtml(group.name || meta.code)}</b> · ${DAY_RU[day]} · ${isEvenWeek(now) ? "чётная" : "нечётная"} неделя`;
+  const header = `📅 <b>${escapeHtml(group.name || meta.code)}</b> · ${DAY_RU[day]} · ${even ? "под чертой" : "над чертой"}`;
   if (!lessons.length) return `${header}\n\nЗанятий нет 🎉`;
   const body = lessons
     .sort((a, b) => (a.time_start || "").localeCompare(b.time_start || ""))

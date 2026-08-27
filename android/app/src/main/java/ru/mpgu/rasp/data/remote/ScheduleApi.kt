@@ -9,6 +9,7 @@ import ru.mpgu.rasp.data.model.Institute
 import ru.mpgu.rasp.data.remote.dto.GroupScheduleDto
 import ru.mpgu.rasp.data.remote.dto.IndexDto
 import ru.mpgu.rasp.data.remote.dto.ScheduleManifestDto
+import ru.mpgu.rasp.data.remote.dto.WeekParityDto
 import javax.inject.Singleton
 
 @Singleton
@@ -18,6 +19,11 @@ class ScheduleApi(
 ) {
     suspend fun index(): List<Institute> =
         http.get("$baseUrl/meta/index.json").body<IndexDto>().institutes.map { it.toDomain() }
+
+    // Календарь НАД/ПОД чертой публикуется вместе с данными: новый учебный
+    // год не требует релиза приложения.
+    suspend fun weekParity(): WeekParityDto =
+        http.get("$baseUrl/meta/week_parity.json").body()
 
     suspend fun manifest(instituteId: String): ScheduleManifestDto =
         http.get("$baseUrl/institutes/$instituteId/schedule.json").body()

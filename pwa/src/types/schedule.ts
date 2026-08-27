@@ -30,6 +30,10 @@ export interface Group {
   year: number | null;
   form: StudyForm;
   degree: Degree;
+  /** «42.03.02 ЖУРНАЛИСТИКА» — навигация идёт по нему, а не по коду группы */
+  direction?: string | null;
+  /** «Журналистика» — направленность (профиль) */
+  profile?: string | null;
   schedule: WeekSchedule;
 }
 
@@ -40,6 +44,8 @@ export interface GroupMeta {
   year: number | null;
   form: StudyForm;
   degree: Degree;
+  direction?: string | null;
+  profile?: string | null;
 }
 
 export interface InstituteManifest {

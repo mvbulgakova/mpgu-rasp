@@ -11,6 +11,7 @@ from scraper.normalizer.schedule_normalizer import (
     TEACHER_TITLE_RE,
     normalize_day, normalize_lesson_type, normalize_time,
     normalize_week_type, make_schedule_skeleton, lesson_obj, extract_subgroup,
+    extract_column_headers, header_label_key,
 )
 
 
@@ -149,6 +150,37 @@ def _parse_time_str(text: str) -> tuple[str, str] | None:
     return t_start, t_end
 
 
+def _raw_header_cell(rows: list[list[str]], key: str, col: int) -> str | None:
+    """Сырая ячейка шапки — до схлопывания переносов.
+
+    Перенос строки внутри ячейки — единственный надёжный разделитель списка
+    профилей, а `extract_column_headers` его уже потеряла.
+    """
+    for row in rows[:20]:
+        if header_label_key(" ".join(str(c or "") for c in row[:2])) != key:
+            continue
+        if col < len(row) and str(row[col] or "").strip():
+            return row[col]
+    return None
+
+
+def _split_profiles(value: str | None) -> list[str] | None:
+    """Список профилей из одной ячейки, или None если он там один.
+
+    Запятая — разделитель только в ячейке без переносов: внутри одного
+    профиля она встречается («Право и Иностранный язык (английский), очная»).
+    """
+    if not value:
+        return None
+    seps = ["\n"] if "\n" in value else [","]
+    for sep in seps:
+        parts = [p.strip(" ,;") for p in value.split(sep)]
+        parts = [p for p in parts if p]
+        if len(parts) > 1:
+            return parts
+    return None
+
+
 def _parse_isgo(rows: list[list[str]], header_idx: int) -> list[dict]:
     header = rows[header_idx]
 
@@ -235,11 +267,34 @@ def _parse_isgo(rows: list[list[str]], header_idx: int) -> list[dict]:
                     schedules[gname]["odd_week"][current_day].append(lesson)
                     schedules[gname]["even_week"][current_day].append({**lesson})
 
+    # Навигация в клиентах идёт по направлению и профилю — они стоят
+    # в шапке над кодами групп, в тех же колонках.
+    col_meta = extract_column_headers(rows)
+    meta_by_name: dict[str, dict] = {}
+    for ci, codes in group_cols.items():
+        meta = col_meta.get(ci, {})
+        # Колонка ИСГО несёт несколько групп; профили перечислены в том же
+        # порядке и раздаются позиционно — но только если счёт сошёлся.
+        listed = _split_profiles(_raw_header_cell(rows, "profile", ci))
+        for i, name in enumerate(codes):
+            if listed is None:
+                meta_by_name[name] = meta
+            elif len(listed) == len(codes):
+                meta_by_name[name] = dict(meta, profile=listed[i])
+            else:
+                # Список есть, но по группам не раскладывается — отдать его
+                # целиком нельзя: это не профиль ЭТОЙ группы.
+                meta_by_name[name] = dict(meta, profile=None)
+
     result = []
     for name, sched in schedules.items():
         if any(sched["odd_week"][d] for d in sched["odd_week"]):
+            meta = meta_by_name.get(name, {})
             result.append({"name": name, "year": None, "form": "part_time",
-                           "degree": "bachelor", "schedule": sched})
+                           "degree": "bachelor",
+                           "direction": meta.get("direction"),
+                           "profile": meta.get("profile"),
+                           "schedule": sched})
     return result
 
 

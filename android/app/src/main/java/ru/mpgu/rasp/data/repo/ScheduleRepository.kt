@@ -12,7 +12,10 @@ import ru.mpgu.rasp.data.model.Institute
 import ru.mpgu.rasp.data.remote.ScheduleApi
 import ru.mpgu.rasp.data.remote.dto.GroupScheduleDto
 import ru.mpgu.rasp.data.remote.toDomain
+import ru.mpgu.rasp.util.WeekCalendar
+import ru.mpgu.rasp.util.WeekParity
 import java.io.IOException
+import java.time.LocalDate
 import javax.inject.Inject
 import javax.inject.Singleton
 
@@ -39,6 +42,17 @@ class ScheduleRepository @Inject constructor(
     }
 
     suspend fun getManifest(instituteId: String) = api.manifest(instituteId)
+
+    /**
+     * Календарь НАД/ПОД чертой из data-ветки. Если он недоступен (нет сети,
+     * старая data-ветка) — встроенная таблица: показать неделю всё равно
+     * надо, а без сети она не «неизвестна», а просто прошлогодняя.
+     */
+    suspend fun getWeekCalendar(): WeekCalendar = runCatching {
+        val dto = api.weekParity()
+        if (dto.anchor.isBlank() || dto.weeks.isBlank()) WeekParity.BUILT_IN
+        else WeekCalendar(LocalDate.parse(dto.anchor), dto.weeks)
+    }.getOrDefault(WeekParity.BUILT_IN)
 
     data class GroupResult(val group: Group, val fromCache: Boolean)
 

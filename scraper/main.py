@@ -30,6 +30,7 @@ from scraper.parsers.docx_parser import DocxParser
 from scraper.storage.git_storage import GitStorage
 from scraper.normalizer.schedule_normalizer import sanitize_groups
 from scraper.utils.hash_tracker import HashTracker, md5_of_bytes
+from scraper.academic_calendar import week_parity_doc
 
 try:
     from scraper.parsers.pdf_parser import PDFParser
@@ -308,6 +309,10 @@ async def main():
         "academic_year": _current_academic_year(),
         "institutes": index_entries,
     })
+
+    # Чередование НАД/ПОД чертой берётся из официального документа, а не
+    # из ISO-номера недели, — клиенты читают его отсюда.
+    storage.write_week_parity(week_parity_doc())
 
     # Пишем/удаляем файл аномалий
     alerts_path = Path(DATA_PATH) / "meta" / "alerts.json"
