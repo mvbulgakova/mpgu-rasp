@@ -1,0 +1,408 @@
+{
+  "name": "ВВС40-ПДШ2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 Педагогическое образование",
+  "profile": "Педагогика и психология дошкольного образования",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Физическая культура и спорт, ПЗ (14.09.2026г., 09.11.2026г.) -п/г1",
+          "type": "other",
+          "teacher": "Ст. пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психология (общая, возрастная психология и психология развития социальная психология, педагогическая психология)",
+          "type": "practice",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Физическая культура и спорт, ПЗ (14.09.2026г., 09.11.2026г.) -п/г2",
+          "type": "other",
+          "teacher": "Ст. пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология (общая, возрастная психология и психология развития социальная психология, педагогическая психология), ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Введение в профессиональную деятельность, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. Ю.Ю. Березина",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Педагогика (общая, история педагогики, сравнительная педагогика), ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Проф. Ю.А. Дмитриев",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "Доц. Е.Б. Баранникова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Педагогика (общая, история педагогики, сравнительная педагогика)",
+          "type": "practice",
+          "teacher": "Проф. Ю.А. Дмитриев",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:10",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "Доц. Е.Б. Баранникова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Модуль по выбору: Музыкальное образование Модуль по выбору: Художественное образование дошкольников Основы российской государственности",
+          "type": "lecture",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доц. А.М. Черныш",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Основы российской государственности, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "История России, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. А.М. Черныш",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Модуль по выбору: Музыкальное образование Модуль по выбору: Художественное образование дошкольников Иностранный язык",
+          "type": "practice",
+          "teacher": "Доц. Л.В. Баева",
+          "room": "301",
+          "subgroup": null,
+          "notes": "с 18.09.2026г. по 11.12.2026г."
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "Доц. Н.В. Холмогорова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доц. Л.В. Баева",
+          "room": "301",
+          "subgroup": null,
+          "notes": "с 18.09.2026г. по 11.12.2026г."
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Холмогорова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Физическая культура и спорт, ПЗ (14.09.2026г., 09.11.2026г.) -п/г1",
+          "type": "other",
+          "teacher": "Ст. пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психология (общая, возрастная психология и психология развития социальная психология, педагогическая психология)",
+          "type": "practice",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Физическая культура и спорт, ПЗ (14.09.2026г., 09.11.2026г.) -п/г2",
+          "type": "other",
+          "teacher": "Ст. пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология (общая, возрастная психология и психология развития социальная психология, педагогическая психология), ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Введение в профессиональную деятельность, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. Ю.Ю. Березина",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Педагогика (общая, история педагогики, сравнительная педагогика), ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Проф. Ю.А. Дмитриев",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "Доц. Е.Б. Баранникова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Педагогика (общая, история педагогики, сравнительная педагогика)",
+          "type": "practice",
+          "teacher": "Проф. Ю.А. Дмитриев",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:10",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "Доц. Е.Б. Баранникова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Модуль по выбору: Музыкальное образование Модуль по выбору: Художественное образование дошкольников Основы российской государственности",
+          "type": "lecture",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доц. А.М. Черныш",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Основы российской государственности, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "История России, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. А.М. Черныш",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Модуль по выбору: Музыкальное образование Модуль по выбору: Художественное образование дошкольников Иностранный язык",
+          "type": "practice",
+          "teacher": "Доц. Л.В. Баева",
+          "room": "301",
+          "subgroup": null,
+          "notes": "с 18.09.2026г. по 11.12.2026г."
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "Доц. Н.В. Холмогорова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доц. Л.В. Баева",
+          "room": "301",
+          "subgroup": null,
+          "notes": "с 18.09.2026г. по 11.12.2026г."
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Холмогорова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

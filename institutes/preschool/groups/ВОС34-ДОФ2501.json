@@ -1,0 +1,586 @@
+{
+  "name": "ВОС34-ДОФ2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория и методика физического воспитания детей дошкольного возраста ПЗ",
+          "type": "other",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория и методика физического воспитания детей дошкольного возраста ЛК",
+          "type": "other",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П едагогика",
+          "type": "practice",
+          "teacher": "Проф. Е.А. Сурудина",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д е т с к а я п с и х о л о г и я с п р а к т и к у м о м , П З",
+          "type": "other",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория и методика физического воспитания детей дошкольного возраста ПЗ",
+          "type": "other",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "Ст.пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "О с н о в ы п е д и а т р и и и г и г и е н ы детей раннего и дошкольного возраста",
+          "type": "practice",
+          "teacher": "Проф. М.В. Лещенко",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "О с н о в ы п е д и а т р и и и г и г и е н ы д е т е й р а н н е г о и д о ш к о л ь н о г о в о з р а с т а , Л К",
+          "type": "other",
+          "teacher": "Проф. М.В. Лещенко",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "О с н о в ы п е д и а т р и и и г и г и е н ы д е т е й р а н н е г о и д о ш к о л ь н о г о в о з р а с т а , П З",
+          "type": "other",
+          "teacher": "Проф. М.В. Лещенко",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Л о г и к а , Л К / П З",
+          "type": "other",
+          "teacher": "Проф. Д.А. Гусев",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "О с н о в ы п е д и а т р и и и г и г и е н ы д е т е й р а н н е г о и д о ш к о л ь н о г о в о з р а с т а , П З",
+          "type": "other",
+          "teacher": "Проф. М.В. Лещенко",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д е т с к а я п с и х о л о г и я с п р а к т и к у м о м , П З",
+          "type": "other",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и методика развития речи детей дошкольного возраста",
+          "type": "lecture",
+          "teacher": "Доц.В.В. Бацкалёва",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П с и х о л о г и я , П З",
+          "type": "other",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория и методика развития речи детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "Доц.В.В. Бацкалёва",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Н о р м а т и в н о - п р а в о в ы е о с н о в ы п р о ф е с с и о н а л ь н о й д е я т е л ь н о с т и , П З",
+          "type": "other",
+          "teacher": "Ст.пр. М.В. Осиненко",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория и методика развития речи детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "Доц.В.В. Бацкалёва",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "акитк",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "арп и итсон яак )йе",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "сечигога ьлетяед тед анисиЛ яивт",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "деп( .Р.В иицазин сйедомиа акит .цоД",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "агро карп зв оп яа",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "нбечУ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Б е з о п а с н о с т ь ж и з н е д е я т е л ь н о с т и , П З",
+          "type": "other",
+          "teacher": "Проф.М.В. Погодаева",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Общественный проект \"Обучение служением\"",
+          "type": "practice",
+          "teacher": "Ст.пр. С.А. Поликанова",
+          "room": "504",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория и методика физического воспитания детей дошкольного возраста ПЗ",
+          "type": "other",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория и методика физического воспитания детей дошкольного возраста ЛК",
+          "type": "other",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П едагогика",
+          "type": "practice",
+          "teacher": "Проф. Е.А. Сурудина",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д е т с к а я п с и х о л о г и я с п р а к т и к у м о м , П З",
+          "type": "other",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория и методика физического воспитания детей дошкольного возраста ПЗ",
+          "type": "other",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "Ст.пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "О с н о в ы п е д и а т р и и и г и г и е н ы детей раннего и дошкольного возраста",
+          "type": "practice",
+          "teacher": "Проф. М.В. Лещенко",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "О с н о в ы п е д и а т р и и и г и г и е н ы д е т е й р а н н е г о и д о ш к о л ь н о г о в о з р а с т а , Л К",
+          "type": "other",
+          "teacher": "Проф. М.В. Лещенко",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "О с н о в ы п е д и а т р и и и г и г и е н ы д е т е й р а н н е г о и д о ш к о л ь н о г о в о з р а с т а , П З",
+          "type": "other",
+          "teacher": "Проф. М.В. Лещенко",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Л о г и к а , Л К / П З",
+          "type": "other",
+          "teacher": "Проф. Д.А. Гусев",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "О с н о в ы п е д и а т р и и и г и г и е н ы д е т е й р а н н е г о и д о ш к о л ь н о г о в о з р а с т а , П З",
+          "type": "other",
+          "teacher": "Проф. М.В. Лещенко",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д е т с к а я п с и х о л о г и я с п р а к т и к у м о м , П З",
+          "type": "other",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и методика развития речи детей дошкольного возраста",
+          "type": "lecture",
+          "teacher": "Доц.В.В. Бацкалёва",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П с и х о л о г и я , П З",
+          "type": "other",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория и методика развития речи детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "Доц.В.В. Бацкалёва",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Н о р м а т и в н о - п р а в о в ы е о с н о в ы п р о ф е с с и о н а л ь н о й д е я т е л ь н о с т и , П З",
+          "type": "other",
+          "teacher": "Ст.пр. М.В. Осиненко",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория и методика развития речи детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "Доц.В.В. Бацкалёва",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "акитк",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "арп и итсон яак )йе",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "сечигога ьлетяед тед анисиЛ яивт",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "деп( .Р.В иицазин сйедомиа акит .цоД",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "агро карп зв оп яа",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "нбечУ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Б е з о п а с н о с т ь ж и з н е д е я т е л ь н о с т и , П З",
+          "type": "other",
+          "teacher": "Проф.М.В. Погодаева",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Общественный проект \"Обучение служением\"",
+          "type": "practice",
+          "teacher": "Ст.пр. С.А. Поликанова",
+          "room": "504",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

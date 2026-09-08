@@ -1,0 +1,294 @@
+{
+  "name": "МОС40-МОР2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.02 \"Психолого-педагогическое образование",
+  "profile": "программа СпВО \"Международные образовательные системы и технологии детского развития",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология участников образовательного процесса и теории обучения",
+          "type": "lecture",
+          "teacher": "доцент, Г.В. Молчанова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "профессор, Д.А. Гусев",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии полилингвального развития и инкультурации детей",
+          "type": "practice",
+          "teacher": "профессор, Т.П. Авдулова",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии полилингвального развития и инкультурации детей",
+          "type": "lecture",
+          "teacher": "профессор, Т.П. Авдулова",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент, Н.В. Смирнова",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология участников образовательного процесса и теории обучения",
+          "type": "practice",
+          "teacher": "доцент, Г.В. Молчанова",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "профессор, Д.А. Гусев",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "type": "lecture",
+          "teacher": "профессор, Ю.А. Дмитриев",
+          "room": "107",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "type": "practice",
+          "teacher": "профессор, Ю.А. Дмитриев",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методики обучения и воспитания детей дошкольного возраста",
+          "type": "lecture",
+          "teacher": "профессор, Г.Н.Толкачева",
+          "room": "305",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методики обучения и воспитания детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "профессор, Г.Н.Толкачева",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент, Н.В. Смирнова",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология участников образовательного процесса и теории обучения",
+          "type": "lecture",
+          "teacher": "доцент, Г.В. Молчанова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "профессор, Д.А. Гусев",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии полилингвального развития и инкультурации детей",
+          "type": "practice",
+          "teacher": "профессор, Т.П. Авдулова",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии полилингвального развития и инкультурации детей",
+          "type": "lecture",
+          "teacher": "профессор, Т.П. Авдулова",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент, Н.В. Смирнова",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология участников образовательного процесса и теории обучения",
+          "type": "practice",
+          "teacher": "доцент, Г.В. Молчанова",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "профессор, Д.А. Гусев",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "type": "lecture",
+          "teacher": "профессор, Ю.А. Дмитриев",
+          "room": "107",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "type": "practice",
+          "teacher": "профессор, Ю.А. Дмитриев",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методики обучения и воспитания детей дошкольного возраста",
+          "type": "lecture",
+          "teacher": "профессор, Г.Н.Толкачева",
+          "room": "305",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методики обучения и воспитания детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "профессор, Г.Н.Толкачева",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент, Н.В. Смирнова",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

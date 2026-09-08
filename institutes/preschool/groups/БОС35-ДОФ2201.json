@@ -1,0 +1,718 @@
+{
+  "name": "БОС35-ДОФ2201",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+  "profile": "Дошкольное образование и Дополнительное образование (раннее физическое равитие)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Музыкальное воспитание дошкольников",
+          "type": "practice",
+          "teacher": "Проф. Л.Н. Комиссарова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Музыкальное воспитание дошкольников",
+          "type": "practice",
+          "teacher": "Проф. Л.Н. Комиссарова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Проектирование и мониторинг образовательной деятельности по физическому развитию детей, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. Т.А. Семёнова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы режиссуры детских физкультурно-оздоровительных мероприятий",
+          "type": "practice",
+          "teacher": "Проф. Ю.И. Родин",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Проектирование и мониторинг образовательной деятельности по физическому развитию детей",
+          "type": "practice",
+          "teacher": "Доц. Т.А. Семёнова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "О с н о в ы р е ж и с с у р ы д е т с к и х ф и з культурно-оздоровительных мероприятий",
+          "type": "practice",
+          "teacher": "Проф. Ю.И. Родин",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Л и т е р атура для семейного чтения",
+          "type": "lecture",
+          "teacher": "Доц. Н.Ю. Богатырева",
+          "room": "306",
+          "subgroup": null,
+          "notes": "2 8 . 0 9 . 2026 г., 26.10.2026 г., 23.11.2026 г."
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Литература для семейного чтения",
+          "type": "practice",
+          "teacher": "Доц. Н.Ю. Богатырева",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "атоба ак",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "иткар р яакс авеч",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "п аклоТ ьлета яанн",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Н.Г водел евтсд",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "форП сси-он овзио",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "рП чуан",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы режиссуры детских физкультурно-оздоровительных мероприятий",
+          "type": "lecture",
+          "teacher": "Проф. Ю.И. Родин",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Инновации в дошкольном образовании, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. О.А. Комарова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Инновации в дошкольном образовании",
+          "type": "practice",
+          "teacher": "Доц. О.А. Комарова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Воспитание дошкольников в поликультурной образовательной среде",
+          "type": "practice",
+          "teacher": "Проф. Н.Ю. Склярова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Имидж и публикационная деятельность инструктора по физической культуре",
+          "type": "lecture",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Имидж и публикационная деятельность инструктора по физической культуре",
+          "type": "practice",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Актуальные практики раннего физического развития",
+          "type": "lecture",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Имидж и публикационная деятельность инструктора по физической культуре",
+          "type": "practice",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Актуальные практики раннего физического развития",
+          "type": "practice",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "йетед аки оп а",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ткарп киткарп юинати нидоР я",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ан пс .И я",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНАВО",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЗАРБ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "невтсдо аксечиг ов .Ю умок .фор",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "АС ЬН",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "огадеп сечизиф зиорП",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Музыкальное воспитание дошкольников",
+          "type": "practice",
+          "teacher": "Проф. Л.Н. Комиссарова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Музыкальное воспитание дошкольников",
+          "type": "practice",
+          "teacher": "Проф. Л.Н. Комиссарова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Проектирование и мониторинг образовательной деятельности по физическому развитию детей, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. Т.А. Семёнова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы режиссуры детских физкультурно-оздоровительных мероприятий",
+          "type": "practice",
+          "teacher": "Проф. Ю.И. Родин",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Проектирование и мониторинг образовательной деятельности по физическому развитию детей",
+          "type": "practice",
+          "teacher": "Доц. Т.А. Семёнова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "О с н о в ы р е ж и с с у р ы д е т с к и х ф и з культурно-оздоровительных мероприятий",
+          "type": "practice",
+          "teacher": "Проф. Ю.И. Родин",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Л и т е р атура для семейного чтения",
+          "type": "lecture",
+          "teacher": "Доц. Н.Ю. Богатырева",
+          "room": "306",
+          "subgroup": null,
+          "notes": "2 8 . 0 9 . 2026 г., 26.10.2026 г., 23.11.2026 г."
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Литература для семейного чтения",
+          "type": "practice",
+          "teacher": "Доц. Н.Ю. Богатырева",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "атоба ак",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "иткар р яакс авеч",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "п аклоТ ьлета яанн",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Н.Г водел евтсд",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "форП сси-он овзио",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "рП чуан",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы режиссуры детских физкультурно-оздоровительных мероприятий",
+          "type": "lecture",
+          "teacher": "Проф. Ю.И. Родин",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Инновации в дошкольном образовании, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. О.А. Комарова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Инновации в дошкольном образовании",
+          "type": "practice",
+          "teacher": "Доц. О.А. Комарова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Воспитание дошкольников в поликультурной образовательной среде",
+          "type": "practice",
+          "teacher": "Проф. Н.Ю. Склярова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Имидж и публикационная деятельность инструктора по физической культуре",
+          "type": "lecture",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Имидж и публикационная деятельность инструктора по физической культуре",
+          "type": "practice",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Актуальные практики раннего физического развития",
+          "type": "lecture",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Имидж и публикационная деятельность инструктора по физической культуре",
+          "type": "practice",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Актуальные практики раннего физического развития",
+          "type": "practice",
+          "teacher": "Доц. М.Ю. Парамонова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "йетед аки оп а",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ткарп киткарп юинати нидоР я",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ан пс .И я",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНАВО",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЗАРБ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "невтсдо аксечиг ов .Ю умок .фор",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "АС ЬН",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "огадеп сечизиф зиорП",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

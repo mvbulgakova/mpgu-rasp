@@ -1,0 +1,630 @@
+{
+  "name": "ВОС34-ДОШ2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 Педагогическое образование",
+  "profile": "Дошкольное образование и Дополнительное образование (музыка/изобразительное искусство)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доц. В.А. Литвиненко",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст. пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доц. В.А. Литвиненко",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "Доц. В.А. Литвиненко",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст. пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П/Г - ДОПОЛНИТЕЛЬНОЕ ОБРАЗОВАНИЕ (МУЗЫКА) Класс основного музыкального инструмента",
+          "type": "practice",
+          "teacher": "Доц. Р.В. Чистяков",
+          "room": "муз",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Приобщение к искусству детей дошкольного возраста, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц.Г.Е.Жукова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Приобщение к искусству детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "Доц.Г.Е.Жукова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "Доц. Н.В. Холмогорова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П/Г - ДОПОЛНИТЕЛЬНОЕ ОБРАЗОВАНИЕ (МУЗЫКА) Класс основного музыкального инструмента",
+          "type": "practice",
+          "teacher": "Доц. Р.В. Чистяков",
+          "room": "муз",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Холмогорова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Музейная педагогика и духовно-нравственное воспитание, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. Н.П. Мельникова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Холмогорова",
+          "room": "307",
+          "subgroup": null,
+          "notes": "09.12.2026г. и 23.12.2026г."
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Музейная педагогика и духовно-нравственное воспитание",
+          "type": "practice",
+          "teacher": "Доц. Н.П. Мельникова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Введение в профессиональную деятельность, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. Ж.В. Мацкевич",
+          "room": "503",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "О с н о в ы р о с с и й с к о й г о с у д а р с т в е н н о с т и , П З",
+          "type": "other",
+          "teacher": "Ст.пр.О.В.Игнатова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "В в е д е н и е в п р о ф е с с и о н а л ь н у ю д е я т е л ь н о с т ь , П З",
+          "type": "other",
+          "teacher": "Доц.Ж.В.Мацкевич",
+          "room": "503",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Смирнова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Смирнова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П/Г - ДОПОЛНИТЕЛЬНОЕ ОБРАЗОВАНИЕ (МУЗЫКА) Музыкально-теоретические дисциплины",
+          "type": "lecture",
+          "teacher": "Доц. Р.В. Чистяков",
+          "room": "504",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П/Г - ДОПОЛНИТЕЛЬНОЕ ОБРАЗОВАНИЕ (ИЗОБРАЗИТЕЛЬНОЕ ИСКУССТВО) Живопись",
+          "type": "practice",
+          "teacher": "Доц. Е.Р. Фадеева",
+          "room": "502",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "П/Г - ДОПОЛНИТЕЛЬНОЕ ОБРАЗОВАНИЕ (МУЗЫКА) Музыкально-теоретические дисциплины, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. Р.В. Чистяков",
+          "room": "504",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "П/Г - ДОПОЛНИТЕЛЬНОЕ ОБРАЗОВАНИЕ (ИЗОБРАЗИТЕЛЬНОЕ ИСКУССТВО) Живопись",
+          "type": "practice",
+          "teacher": "Доц. Е.Р. Фадеева",
+          "room": "502",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "П/Г - ДОПОЛНИТЕЛЬНОЕ ОБРАЗОВАНИЕ (МУЗЫКА) Хоровой класс (академический, фольклорный)",
+          "type": "practice",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доц. В.А. Литвиненко",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст. пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доц. В.А. Литвиненко",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "Доц. В.А. Литвиненко",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст. пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П/Г - ДОПОЛНИТЕЛЬНОЕ ОБРАЗОВАНИЕ (МУЗЫКА) Класс основного музыкального инструмента",
+          "type": "practice",
+          "teacher": "Доц. Р.В. Чистяков",
+          "room": "муз",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Приобщение к искусству детей дошкольного возраста, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц.Г.Е.Жукова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Приобщение к искусству детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "Доц.Г.Е.Жукова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "Доц. Н.В. Холмогорова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П/Г - ДОПОЛНИТЕЛЬНОЕ ОБРАЗОВАНИЕ (МУЗЫКА) Класс основного музыкального инструмента",
+          "type": "practice",
+          "teacher": "Доц. Р.В. Чистяков",
+          "room": "муз",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Холмогорова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Музейная педагогика и духовно-нравственное воспитание, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. Н.П. Мельникова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Холмогорова",
+          "room": "307",
+          "subgroup": null,
+          "notes": "09.12.2026г. и 23.12.2026г."
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Музейная педагогика и духовно-нравственное воспитание",
+          "type": "practice",
+          "teacher": "Доц. Н.П. Мельникова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Введение в профессиональную деятельность, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. Ж.В. Мацкевич",
+          "room": "503",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "О с н о в ы р о с с и й с к о й г о с у д а р с т в е н н о с т и , П З",
+          "type": "other",
+          "teacher": "Ст.пр.О.В.Игнатова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "В в е д е н и е в п р о ф е с с и о н а л ь н у ю д е я т е л ь н о с т ь , П З",
+          "type": "other",
+          "teacher": "Доц.Ж.В.Мацкевич",
+          "room": "503",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Смирнова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Смирнова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П/Г - ДОПОЛНИТЕЛЬНОЕ ОБРАЗОВАНИЕ (МУЗЫКА) Музыкально-теоретические дисциплины",
+          "type": "lecture",
+          "teacher": "Доц. Р.В. Чистяков",
+          "room": "504",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П/Г - ДОПОЛНИТЕЛЬНОЕ ОБРАЗОВАНИЕ (ИЗОБРАЗИТЕЛЬНОЕ ИСКУССТВО) Живопись",
+          "type": "practice",
+          "teacher": "Доц. Е.Р. Фадеева",
+          "room": "502",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "П/Г - ДОПОЛНИТЕЛЬНОЕ ОБРАЗОВАНИЕ (МУЗЫКА) Музыкально-теоретические дисциплины, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. Р.В. Чистяков",
+          "room": "504",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "П/Г - ДОПОЛНИТЕЛЬНОЕ ОБРАЗОВАНИЕ (ИЗОБРАЗИТЕЛЬНОЕ ИСКУССТВО) Живопись",
+          "type": "practice",
+          "teacher": "Доц. Е.Р. Фадеева",
+          "room": "502",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "П/Г - ДОПОЛНИТЕЛЬНОЕ ОБРАЗОВАНИЕ (МУЗЫКА) Хоровой класс (академический, фольклорный)",
+          "type": "practice",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

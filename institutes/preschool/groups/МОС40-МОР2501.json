@@ -1,0 +1,294 @@
+{
+  "name": "МОС40-МОР2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.02 \"Психолого-педагогическое образование",
+  "profile": "программа СпВО \"Международные образовательные системы и технологии детского развития",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "профессор, А.В. Пищелко",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии познавательного и физического развития детей",
+          "type": "lecture",
+          "teacher": "профессор, Л.И. Павлова",
+          "room": "205",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология индивидуальных различий и конструирование индивидуальных образовательных маршрутов",
+          "type": "lecture",
+          "teacher": "доцент, Г.Р. Хузеева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии познавательного и физического развития детей",
+          "type": "practice",
+          "teacher": "профессор, Л.И. Павлова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы нейродидактики с практикумом",
+          "type": "lecture",
+          "teacher": "доцент, Г.Р. Хузеева",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология индивидуальных различий и конструирование индивидуальных образовательных маршрутов",
+          "type": "practice",
+          "teacher": "доцент, Г.Р. Хузеева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Технологии коррекционно-развивающей работы с детьми",
+          "type": "practice",
+          "teacher": "доцент, Г.В. Молчанова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "профессор, А.В. Пищелко",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология индивидуальных различий и конструирование индивидуальных образовательных маршрутов",
+          "type": "practice",
+          "teacher": "доцент, Г.Р. Хузеева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доцент, Е.Б. Баранникова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Технологии коррекционно-развивающей работы с детьми",
+          "type": "lecture",
+          "teacher": "доцент, Г.В. Молчанова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Технологии коррекционно-развивающей работы с детьми",
+          "type": "practice",
+          "teacher": "доцент, Г.В. Молчанова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "профессор, А.В. Пищелко",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии познавательного и физического развития детей",
+          "type": "lecture",
+          "teacher": "профессор, Л.И. Павлова",
+          "room": "205",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология индивидуальных различий и конструирование индивидуальных образовательных маршрутов",
+          "type": "lecture",
+          "teacher": "доцент, Г.Р. Хузеева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии познавательного и физического развития детей",
+          "type": "practice",
+          "teacher": "профессор, Л.И. Павлова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы нейродидактики с практикумом",
+          "type": "lecture",
+          "teacher": "доцент, Г.Р. Хузеева",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология индивидуальных различий и конструирование индивидуальных образовательных маршрутов",
+          "type": "practice",
+          "teacher": "доцент, Г.Р. Хузеева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Технологии коррекционно-развивающей работы с детьми",
+          "type": "practice",
+          "teacher": "доцент, Г.В. Молчанова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "профессор, А.В. Пищелко",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология индивидуальных различий и конструирование индивидуальных образовательных маршрутов",
+          "type": "practice",
+          "teacher": "доцент, Г.Р. Хузеева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доцент, Е.Б. Баранникова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Технологии коррекционно-развивающей работы с детьми",
+          "type": "lecture",
+          "teacher": "доцент, Г.В. Молчанова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Технологии коррекционно-развивающей работы с детьми",
+          "type": "practice",
+          "teacher": "доцент, Г.В. Молчанова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

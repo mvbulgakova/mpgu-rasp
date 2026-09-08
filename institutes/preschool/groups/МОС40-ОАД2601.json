@@ -1,0 +1,338 @@
+{
+  "name": "МОС40-ОАД2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.02 \"Психолого-педагогическое образование",
+  "profile": "программа СпВО \"Организация и администрирование в дошкольном образовании",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология участников образовательного процесса и теории обучения",
+          "type": "lecture",
+          "teacher": "доцент,Г.В.Молчанова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "профессор,Д.А.Гусев",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Ф и л о с о фия научного познания",
+          "type": "practice",
+          "teacher": "профессор,Д.А.Гусев",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "П с и х о л о г и я у ч а с т н и к о в о б р азовательного процесса и теории обучения",
+          "type": "practice",
+          "teacher": "доцент,Г.В.Молчанова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "П с и х о л о г и я у ч а с т н и к о в о б р а з о в а т е л ь н о г о п р о ц е с с а и т е о р и и о б у ч е н и я",
+          "type": "practice",
+          "teacher": "доцент, Г.В. Молчанова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Ф о р м и р о в а н и е п с и х о л о г и ч е с к и к о м ф ортной и безопасной образовательной среды",
+          "type": "lecture",
+          "teacher": "доцент, В.Р. Лисина",
+          "room": "305",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Формирование психологически комфортной и безопасной образовательной среды",
+          "type": "practice",
+          "teacher": "доцент, В.Р. Лисина",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Н аучные основы управления образовательной организацией",
+          "type": "lecture",
+          "teacher": "доцент",
+          "room": "204",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовое обеспечение дошкольного образования",
+          "type": "lecture",
+          "teacher": "профессор, Л.М. Волобуева",
+          "room": "204",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Научные основы управления образовательной организацией",
+          "type": "practice",
+          "teacher": "доцент, О.В",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Нормативно-правовое обеспечение дошкольного образования",
+          "type": "practice",
+          "teacher": "профессор,Л.М.Волобуева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "И н ф о р м а ц и о н н ы е т е х н о л о г и и в п р о ф е с с и о н а л ь н о й д е я т е л ь н о с т и",
+          "type": "other",
+          "teacher": "(ЛК/ПЗ)профессор,Ю.А.Дмитриев",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "И н ф о р м а ц и о н н ы е т е х н о л о г и и в п р о ф е с с и о н а л ь н о й д е я т е л ь н о с т и",
+          "type": "practice",
+          "teacher": "(ПЗ)профессор,Ю.А.Дмитриев",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент, Н.В. Смирнова",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология участников образовательного процесса и теории обучения",
+          "type": "lecture",
+          "teacher": "доцент,Г.В.Молчанова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "профессор,Д.А.Гусев",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Ф и л о с о фия научного познания",
+          "type": "practice",
+          "teacher": "профессор,Д.А.Гусев",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "П с и х о л о г и я у ч а с т н и к о в о б р азовательного процесса и теории обучения",
+          "type": "practice",
+          "teacher": "доцент,Г.В.Молчанова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "П с и х о л о г и я у ч а с т н и к о в о б р а з о в а т е л ь н о г о п р о ц е с с а и т е о р и и о б у ч е н и я",
+          "type": "practice",
+          "teacher": "доцент, Г.В. Молчанова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Ф о р м и р о в а н и е п с и х о л о г и ч е с к и к о м ф ортной и безопасной образовательной среды",
+          "type": "lecture",
+          "teacher": "доцент, В.Р. Лисина",
+          "room": "305",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Формирование психологически комфортной и безопасной образовательной среды",
+          "type": "practice",
+          "teacher": "доцент, В.Р. Лисина",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Н аучные основы управления образовательной организацией",
+          "type": "lecture",
+          "teacher": "доцент",
+          "room": "204",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовое обеспечение дошкольного образования",
+          "type": "lecture",
+          "teacher": "профессор, Л.М. Волобуева",
+          "room": "204",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Научные основы управления образовательной организацией",
+          "type": "practice",
+          "teacher": "доцент, О.В",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Нормативно-правовое обеспечение дошкольного образования",
+          "type": "practice",
+          "teacher": "профессор,Л.М.Волобуева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "И н ф о р м а ц и о н н ы е т е х н о л о г и и в п р о ф е с с и о н а л ь н о й д е я т е л ь н о с т и",
+          "type": "other",
+          "teacher": "(ЛК/ПЗ)профессор,Ю.А.Дмитриев",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "И н ф о р м а ц и о н н ы е т е х н о л о г и и в п р о ф е с с и о н а л ь н о й д е я т е л ь н о с т и",
+          "type": "practice",
+          "teacher": "(ПЗ)профессор,Ю.А.Дмитриев",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент, Н.В. Смирнова",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

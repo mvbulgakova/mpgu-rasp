@@ -1,0 +1,382 @@
+{
+  "name": "МОС40-РАЗ2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.02 \"Психолого-педагогическое образование",
+  "profile": "программа СпВО \"Развивающие технологии в дошкольном и дополнительном образовании (физическое воспитание/художественно-эстетическое воспитание)",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "К у л ь т у р н о - д о с у г о в а я д е я т е л ь н о с т ь .и о р г а н и з а ц уи дя в о с п и т ы в а ю щей среды",
+          "type": "lecture",
+          "teacher": "доцент,Г.ЕЖукова,(а.107)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "С о ц и а л ь н о е в з а и м о д е й с т в и е в п о л и к у л ь т у р н о м о б щ е с т в е ( Л К )",
+          "type": "lecture",
+          "teacher": "профессор, А.В. Пищелко",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Р а з в и т и е т в о р ч е с к и х фс п о с о б н о с т е й и р а б о т а ас о д а р е н н ы м и д е т ь м и п р о е с с о р , Н . А . Р а ч к о в с к я (",
+          "type": "lecture",
+          "teacher": null,
+          "room": "405",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Р а з в и т и е т в о р ч е с к и х с п о с о б н о с т е й и р а б о т а с о д а р е н н ы м и д е т ь м и ( П З )",
+          "type": "practice",
+          "teacher": "профессор,Н.А.Рачковская",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "З д о р цо в ь е ,с Ое м Гь .и и д гает йс нк ои вй ,ф (аи ут дн .е 1с ( 7Л К ) д о е н т . Ч у а 0 )",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "С о ц и а л ь н о е в з а ои м о д е й с т в .и е в п о л еи лк у ол ь т у р н о м о б щ е с т в е ( П З ) п р ф е с с о р , А В . П и щ к (",
+          "type": "practice",
+          "teacher": null,
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии продуктивных видов деятельности детей дошкольного возраста",
+          "type": "lecture",
+          "teacher": "доцент, Ж.В. Мацкевич",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Н о р м а т и в н о - п р а в о в о е о б е с п е ч ое рн ги ае ии с ат цр иа ит е (Лги Кч )е с к о е п л а н и р о в а н и е р а з в и т и я н з",
+          "type": "other",
+          "teacher": "доцент, О.В. Никифорова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Нормативно-правовое обеспечение и стратегическое планирование развития организации",
+          "type": "practice",
+          "teacher": "доцент, О.В. Никифорова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "еА к а д е м и Бч е с к а я р и т о р и (к а д( П З ) д о ц н т , Е . Б . а р а н н и к о в а , а у . 3 0 5 )",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "А тк ,а Ед е м и ч е с к а я р и т о р и к уа ( П З ) д о ц е н . Б . Б а р а н н и к о в а , ( а д . 3 0 5 )",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "З д до р цо в нь те с е м ь и и гд ае йт с к и й ф и т н е с ( П З ) о е , О . Г . Ч у н о в а (",
+          "type": "practice",
+          "teacher": null,
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Т е х н о л о г и и п р о д у к т и в н ы х ,в Жи д .о в д е я т е )л ь н о с т и д е т е й д о ш к о л ь н о г о в о з р а с т а ( аП З д о ц е н т В . М ц к е в и ч (",
+          "type": "other",
+          "teacher": null,
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Т е х н о л о г и и п р о д у к т и в н ы х в и д о в д е я т Зе )л ь н о с т и д е т е й д о ш к о л ь н о г о в о з р а с т а ( П",
+          "type": "other",
+          "teacher": "доцент,Ж.В.Мацкевич",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "В з а и м о д е й с т в и е с ,п е д Ла г о г а ем и и р о д и т е л я м и ( Л К ) п р о ф е с с о р О . . З в р е в а (",
+          "type": "lecture",
+          "teacher": null,
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Культурно-досуговая деятельность и организация воспитывающей среды",
+          "type": "practice",
+          "teacher": "доцент, Г.Е. Жукова",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "К у л ь т у р н о - д о с у г о в а я д е я т е л ь н о с т ь .и о р г а н и з а ц уи дя в о с п и т ы в а ю щей среды",
+          "type": "lecture",
+          "teacher": "доцент,Г.ЕЖукова,(а.107)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "С о ц и а л ь н о е в з а и м о д е й с т в и е в п о л и к у л ь т у р н о м о б щ е с т в е ( Л К )",
+          "type": "lecture",
+          "teacher": "профессор, А.В. Пищелко",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Р а з в и т и е т в о р ч е с к и х фс п о с о б н о с т е й и р а б о т а ас о д а р е н н ы м и д е т ь м и п р о е с с о р , Н . А . Р а ч к о в с к я (",
+          "type": "lecture",
+          "teacher": null,
+          "room": "405",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Р а з в и т и е т в о р ч е с к и х с п о с о б н о с т е й и р а б о т а с о д а р е н н ы м и д е т ь м и ( П З )",
+          "type": "practice",
+          "teacher": "профессор,Н.А.Рачковская",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "З д о р цо в ь е ,с Ое м Гь .и и д гает йс нк ои вй ,ф (аи ут дн .е 1с ( 7Л К ) д о е н т . Ч у а 0 )",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "С о ц и а л ь н о е в з а ои м о д е й с т в .и е в п о л еи лк у ол ь т у р н о м о б щ е с т в е ( П З ) п р ф е с с о р , А В . П и щ к (",
+          "type": "practice",
+          "teacher": null,
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии продуктивных видов деятельности детей дошкольного возраста",
+          "type": "lecture",
+          "teacher": "доцент, Ж.В. Мацкевич",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Н о р м а т и в н о - п р а в о в о е о б е с п е ч ое рн ги ае ии с ат цр иа ит е (Лги Кч )е с к о е п л а н и р о в а н и е р а з в и т и я н з",
+          "type": "other",
+          "teacher": "доцент, О.В. Никифорова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Нормативно-правовое обеспечение и стратегическое планирование развития организации",
+          "type": "practice",
+          "teacher": "доцент, О.В. Никифорова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "еА к а д е м и Бч е с к а я р и т о р и (к а д( П З ) д о ц н т , Е . Б . а р а н н и к о в а , а у . 3 0 5 )",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "А тк ,а Ед е м и ч е с к а я р и т о р и к уа ( П З ) д о ц е н . Б . Б а р а н н и к о в а , ( а д . 3 0 5 )",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "З д до р цо в нь те с е м ь и и гд ае йт с к и й ф и т н е с ( П З ) о е , О . Г . Ч у н о в а (",
+          "type": "practice",
+          "teacher": null,
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Т е х н о л о г и и п р о д у к т и в н ы х ,в Жи д .о в д е я т е )л ь н о с т и д е т е й д о ш к о л ь н о г о в о з р а с т а ( аП З д о ц е н т В . М ц к е в и ч (",
+          "type": "other",
+          "teacher": null,
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Т е х н о л о г и и п р о д у к т и в н ы х в и д о в д е я т Зе )л ь н о с т и д е т е й д о ш к о л ь н о г о в о з р а с т а ( П",
+          "type": "other",
+          "teacher": "доцент,Ж.В.Мацкевич",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "В з а и м о д е й с т в и е с ,п е д Ла г о г а ем и и р о д и т е л я м и ( Л К ) п р о ф е с с о р О . . З в р е в а (",
+          "type": "lecture",
+          "teacher": null,
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Культурно-досуговая деятельность и организация воспитывающей среды",
+          "type": "practice",
+          "teacher": "доцент, Г.Е. Жукова",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

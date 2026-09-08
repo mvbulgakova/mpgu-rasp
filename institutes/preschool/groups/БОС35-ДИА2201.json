@@ -1,0 +1,652 @@
+{
+  "name": "БОС35-ДИА2201",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+  "profile": "Дошкольное образование и Иностранный язык (английский)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Музыкальное воспитание дошкольников",
+          "type": "lecture",
+          "teacher": "Проф. Л.Н. Комиссарова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Инновации в дошкольном образовании, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Проф. А.В. Антонова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Музыкальное воспитание дошкольников",
+          "type": "practice",
+          "teacher": "Проф. Л.Н. Комиссарова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Инновации в дошкольном образовании",
+          "type": "practice",
+          "teacher": "Проф. А.В. Антонова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Музыкальное воспитание дошкольников",
+          "type": "practice",
+          "teacher": "Проф. Л.Н. Комиссарова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Современная литература для детей и подростков",
+          "type": "practice",
+          "teacher": "Доц. Н.Ю. Богатырева",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Современная литература для детей и подростков",
+          "type": "lecture",
+          "teacher": "Доц. Н.Ю. Богатырева",
+          "room": "306",
+          "subgroup": null,
+          "notes": "14.09.2026 г., 12.10.2026 г., 09.11.2026 г."
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "атоба ак",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "иткар р яакс авеч",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "п аклоТ ьлета яанн",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Н.Г водел евтсд",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "форП сси-он овзио",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "рП чуан",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Воспитание дошкольников в поликультурной образовательной среде",
+          "type": "practice",
+          "teacher": "Проф. Н.Ю. Склярова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Проектирование и мониторинг образовательной деятельности по речевому развитию детей",
+          "type": "practice",
+          "teacher": "Доц. О.О. Кузнецова",
+          "room": "406",
+          "subgroup": null,
+          "notes": "23.09.2026 г. и 21.10.2026 г."
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Воспитание дошкольников в поликультурной образовательной среде",
+          "type": "lecture",
+          "teacher": "Проф. Н.Ю. Склярова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Проектирование и мониторинг образовательной деятельности по речевому развитию детей",
+          "type": "lecture",
+          "teacher": "Доц. О.О. Кузнецова",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Проектирование и мониторинг образовательной деятельности по речевому развитию детей",
+          "type": "practice",
+          "teacher": "Доц. О.О. Кузнецова",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Коммуникативный практикум английского языка",
+          "type": "practice",
+          "teacher": "Ст.пр. А.Я. Маламуд",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Коммуникативный практикум английского языка",
+          "type": "practice",
+          "teacher": "Ст.пр. А.Я. Маламуд",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Коммуникативный практикум английского языка",
+          "type": "practice",
+          "teacher": "Ст.пр. А.Я. Маламуд",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "йетед аки оп а",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Литература стран изучаемого языка",
+          "type": "practice",
+          "teacher": "Ст.пр. А.Я. Маламуд",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "юинавоз ткарп киткарп окненис я",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ан О ар я",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Литература стран изучаемого языка",
+          "type": "practice",
+          "teacher": "Ст.пр. А.Я. Маламуд",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Литература стран изучаемого языка",
+          "type": "practice",
+          "teacher": "Ст.пр. А.Я. Маламуд",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "огадеп тС чызяон зиорП",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Музыкальное воспитание дошкольников",
+          "type": "lecture",
+          "teacher": "Проф. Л.Н. Комиссарова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Инновации в дошкольном образовании, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Проф. А.В. Антонова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Музыкальное воспитание дошкольников",
+          "type": "practice",
+          "teacher": "Проф. Л.Н. Комиссарова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Инновации в дошкольном образовании",
+          "type": "practice",
+          "teacher": "Проф. А.В. Антонова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Музыкальное воспитание дошкольников",
+          "type": "practice",
+          "teacher": "Проф. Л.Н. Комиссарова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Современная литература для детей и подростков",
+          "type": "practice",
+          "teacher": "Доц. Н.Ю. Богатырева",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Современная литература для детей и подростков",
+          "type": "lecture",
+          "teacher": "Доц. Н.Ю. Богатырева",
+          "room": "306",
+          "subgroup": null,
+          "notes": "14.09.2026 г., 12.10.2026 г., 09.11.2026 г."
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "атоба ак",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "иткар р яакс авеч",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "п аклоТ ьлета яанн",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Н.Г водел евтсд",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "форП сси-он овзио",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "рП чуан",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Воспитание дошкольников в поликультурной образовательной среде",
+          "type": "practice",
+          "teacher": "Проф. Н.Ю. Склярова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Проектирование и мониторинг образовательной деятельности по речевому развитию детей",
+          "type": "practice",
+          "teacher": "Доц. О.О. Кузнецова",
+          "room": "406",
+          "subgroup": null,
+          "notes": "23.09.2026 г. и 21.10.2026 г."
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Воспитание дошкольников в поликультурной образовательной среде",
+          "type": "lecture",
+          "teacher": "Проф. Н.Ю. Склярова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Проектирование и мониторинг образовательной деятельности по речевому развитию детей",
+          "type": "lecture",
+          "teacher": "Доц. О.О. Кузнецова",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Проектирование и мониторинг образовательной деятельности по речевому развитию детей",
+          "type": "practice",
+          "teacher": "Доц. О.О. Кузнецова",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Коммуникативный практикум английского языка",
+          "type": "practice",
+          "teacher": "Ст.пр. А.Я. Маламуд",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Коммуникативный практикум английского языка",
+          "type": "practice",
+          "teacher": "Ст.пр. А.Я. Маламуд",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Коммуникативный практикум английского языка",
+          "type": "practice",
+          "teacher": "Ст.пр. А.Я. Маламуд",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "йетед аки оп а",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Литература стран изучаемого языка",
+          "type": "practice",
+          "teacher": "Ст.пр. А.Я. Маламуд",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "юинавоз ткарп киткарп окненис я",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ан О ар я",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Литература стран изучаемого языка",
+          "type": "practice",
+          "teacher": "Ст.пр. А.Я. Маламуд",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Литература стран изучаемого языка",
+          "type": "practice",
+          "teacher": "Ст.пр. А.Я. Маламуд",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "огадеп тС чызяон зиорП",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

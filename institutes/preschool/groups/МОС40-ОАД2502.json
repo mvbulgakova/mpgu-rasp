@@ -1,0 +1,94 @@
+{
+  "name": "МОС40-ОАД2502",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.02 \"Психолого-педагогическое образование",
+  "profile": "Организация и администрирование в дошкольном образовании",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "08:15",
+          "time_end": "10:30",
+          "subject": "Психолого-педагогическое сопровождение воспитания нравственности и патриотизма в детском",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:15",
+          "time_end": "10:30",
+          "subject": "возрасте",
+          "type": "lecture",
+          "teacher": "профессор, Т.П.Авдулова",
+          "room": null,
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доцент, Е.Б. Баранникова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "08:15",
+          "time_end": "10:30",
+          "subject": "Психолого-педагогическое сопровождение воспитания нравственности и патриотизма в детском",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:15",
+          "time_end": "10:30",
+          "subject": "возрасте",
+          "type": "lecture",
+          "teacher": "профессор, Т.П.Авдулова",
+          "room": null,
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доцент, Е.Б. Баранникова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

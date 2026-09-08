@@ -1,0 +1,474 @@
+{
+  "name": "ВОС34-ДОФ2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст. пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Художественное конструирование и 3-D моделирование",
+          "type": "lecture",
+          "teacher": "Доц.Е.К. Брыкина",
+          "room": "502",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Художественное конструирование и 3-D моделирование",
+          "type": "practice",
+          "teacher": "Доц.Е.К. Брыкина",
+          "room": "502",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "Доц. В.А. Литвиненко",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы педиатрии и гигиены детей раннего и дошкольного возраста",
+          "type": "lecture",
+          "teacher": "Проф. М.В. Лещенко",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Формирование ценностных ориентаций специалиста по физической культуре, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц.Т.А. Семёнова",
+          "room": "408",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы педиатрии и гигиены детей раннего и дошкольного возраста, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Проф. М.В. Лещенко",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Формирование ценностных ориентаций специалиста по физической культуре",
+          "type": "practice",
+          "teacher": "Доц.Т.А. Семёнова",
+          "room": "408",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы педиатрии и гигиены детей раннего и дошкольного возраста",
+          "type": "practice",
+          "teacher": "Проф. М.В. Лещенко",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии командообразования, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. О.А. Сорокина",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История физической культуры и спорта, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. М.Ю.Парамонова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст. пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История физической культуры и спорта",
+          "type": "practice",
+          "teacher": "Доц.М.Ю.Парамонова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы российской государственности, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доц. Н. В. Смирнова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "И н о с т р а н н ы й я з ы к , П З",
+          "type": "other",
+          "teacher": "Доц. Н.В. Смирнова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "Доц. Н.В. Холмогорова",
+          "room": "506",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "В о з р а с т н а я а н а т о м и я , ф и з и о л о г и я и к у л ь т у р а з д о р о в ь я , П З",
+          "type": "other",
+          "teacher": "Доц. Н.В. Холмогорова",
+          "room": "506",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст. пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Художественное конструирование и 3-D моделирование",
+          "type": "lecture",
+          "teacher": "Доц.Е.К. Брыкина",
+          "room": "502",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Художественное конструирование и 3-D моделирование",
+          "type": "practice",
+          "teacher": "Доц.Е.К. Брыкина",
+          "room": "502",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "Доц. В.А. Литвиненко",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы педиатрии и гигиены детей раннего и дошкольного возраста",
+          "type": "lecture",
+          "teacher": "Проф. М.В. Лещенко",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Формирование ценностных ориентаций специалиста по физической культуре, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц.Т.А. Семёнова",
+          "room": "408",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы педиатрии и гигиены детей раннего и дошкольного возраста, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Проф. М.В. Лещенко",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Формирование ценностных ориентаций специалиста по физической культуре",
+          "type": "practice",
+          "teacher": "Доц.Т.А. Семёнова",
+          "room": "408",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы педиатрии и гигиены детей раннего и дошкольного возраста",
+          "type": "practice",
+          "teacher": "Проф. М.В. Лещенко",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии командообразования, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. О.А. Сорокина",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История физической культуры и спорта, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Доц. М.Ю.Парамонова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст. пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История физической культуры и спорта",
+          "type": "practice",
+          "teacher": "Доц.М.Ю.Парамонова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы российской государственности, ЛК/ПЗ",
+          "type": "other",
+          "teacher": "Ст.пр. О.В. Игнатова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доц. Н. В. Смирнова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "И н о с т р а н н ы й я з ы к , П З",
+          "type": "other",
+          "teacher": "Доц. Н.В. Смирнова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "Доц. Н.В. Холмогорова",
+          "room": "506",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "В о з р а с т н а я а н а т о м и я , ф и з и о л о г и я и к у л ь т у р а з д о р о в ь я , П З",
+          "type": "other",
+          "teacher": "Доц. Н.В. Холмогорова",
+          "room": "506",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

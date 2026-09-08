@@ -1,0 +1,404 @@
+{
+  "name": "МОС40-ПСИ2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.02 \"Психолого-педагогическое образование",
+  "profile": "программа СпВО \"Психолого-педагогическое сопровождение развития ребенка",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология участников образовательного процесса и теории обучения",
+          "type": "lecture",
+          "teacher": "доцент,Г.В.Молчанова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "профессор,Д.А.Гусев",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П с и х о л о г ия участников образовательного процесса и теории обучения",
+          "type": "practice",
+          "teacher": "доцент,Г.В.Молчанова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П с и х о л о г ия участников образовательного процесса и теории обучения",
+          "type": "practice",
+          "teacher": "доцент,Г.В. Молчанова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "профессор,Д.А.Гусев",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "профессор, Д.А. Гусев",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "З а к о н о м е р н о с т и и о с о б е н н о с т и в о з р а с т н о г о (р а з дв и т 0и 1я л и ч н ости",
+          "type": "lecture",
+          "teacher": "доцент,О.Н.Истратова,ау.3)",
+          "room": null,
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Т е х н о л о г и и х у д Ло ж е с т Зв )е н н о - т ев со р ч е с к .о г о р а з в и т и я д ве ат ,е (й уд до .ш 2к 0о 4л ь н о г о в о з раста ( К / П п р о ф с о р , Л Н . К о м и с с а р о а )",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "З а к о н о м е р н о с т и и о с ео б те ,н Он о с т и в о з р а с т н о г о ур а .з 3в 0и 1т )и я л и ч н о с т и ( П З ) д о ц н .Н . И с т р а т о в а , ( а д",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Т е х н о л о г и и х у д о ж е с т пв е он фн ео с- т в ро р Лч е Нс к о Кг о р иа з в и т ои я д е ат уе й д о ш к о л ь н о г о в о з р а с т а ( П З ) р с о , . . о м с с а р в а , ( д . 2 0 4 )",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент,Н.В.Смирнова",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "И н о с т р а н н ы й я з ы к д л я с п е ц и а л ь н ы х ц е л е й ( П З )",
+          "type": "practice",
+          "teacher": "доцент,Н.В.Смирнова",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "type": "practice",
+          "teacher": "(ПЗ)профессор,Ю.А.Дмитриев",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "И н ф о р м а ц и о н н ы е т е х н о л о г и и в п р о ф е с с и о н а л ь н о й д е я т е л ь н о с т и",
+          "type": "practice",
+          "teacher": "(ПЗ)профессор,Ю.А.Дмитриев",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии речевого и физического развития детей дошкольного возраста",
+          "type": "lecture",
+          "teacher": "профессор, Ю.И. Родин",
+          "room": "403",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Т е хнологии речевого и физического развития детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "профессор, Ю.И. Родин",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент, Н.В. Смирнова",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология участников образовательного процесса и теории обучения",
+          "type": "lecture",
+          "teacher": "доцент,Г.В.Молчанова",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "профессор,Д.А.Гусев",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П с и х о л о г ия участников образовательного процесса и теории обучения",
+          "type": "practice",
+          "teacher": "доцент,Г.В.Молчанова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П с и х о л о г ия участников образовательного процесса и теории обучения",
+          "type": "practice",
+          "teacher": "доцент,Г.В. Молчанова",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "профессор,Д.А.Гусев",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "профессор, Д.А. Гусев",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "З а к о н о м е р н о с т и и о с о б е н н о с т и в о з р а с т н о г о (р а з дв и т 0и 1я л и ч н ости",
+          "type": "lecture",
+          "teacher": "доцент,О.Н.Истратова,ау.3)",
+          "room": null,
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Т е х н о л о г и и х у д Ло ж е с т Зв )е н н о - т ев со р ч е с к .о г о р а з в и т и я д ве ат ,е (й уд до .ш 2к 0о 4л ь н о г о в о з раста ( К / П п р о ф с о р , Л Н . К о м и с с а р о а )",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "З а к о н о м е р н о с т и и о с ео б те ,н Он о с т и в о з р а с т н о г о ур а .з 3в 0и 1т )и я л и ч н о с т и ( П З ) д о ц н .Н . И с т р а т о в а , ( а д",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Т е х н о л о г и и х у д о ж е с т пв е он фн ео с- т в ро р Лч е Нс к о Кг о р иа з в и т ои я д е ат уе й д о ш к о л ь н о г о в о з р а с т а ( П З ) р с о , . . о м с с а р в а , ( д . 2 0 4 )",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент,Н.В.Смирнова",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "И н о с т р а н н ы й я з ы к д л я с п е ц и а л ь н ы х ц е л е й ( П З )",
+          "type": "practice",
+          "teacher": "доцент,Н.В.Смирнова",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Информационные технологии в профессиональной деятельности",
+          "type": "practice",
+          "teacher": "(ПЗ)профессор,Ю.А.Дмитриев",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "И н ф о р м а ц и о н н ы е т е х н о л о г и и в п р о ф е с с и о н а л ь н о й д е я т е л ь н о с т и",
+          "type": "practice",
+          "teacher": "(ПЗ)профессор,Ю.А.Дмитриев",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии речевого и физического развития детей дошкольного возраста",
+          "type": "lecture",
+          "teacher": "профессор, Ю.И. Родин",
+          "room": "403",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Т е хнологии речевого и физического развития детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "профессор, Ю.И. Родин",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент, Н.В. Смирнова",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

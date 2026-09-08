@@ -89,6 +89,17 @@
       "updated_at": "2026-09-08T23:13:41.342725+00:00",
       "status": "ok",
       "parser_used": "nextcloud"
+    },
+    {
+      "id": "preschool",
+      "name": "Факультет дошкольной педагогики и психологии",
+      "short_name": "ФДПиП",
+      "campus": "ФДПиП",
+      "campus_address": "Госпитальный Вал, 4",
+      "groups_count": 30,
+      "updated_at": "2026-09-08T23:17:17.734365+00:00",
+      "status": "ok",
+      "parser_used": "pdfplumber"
     }
   ]
 }

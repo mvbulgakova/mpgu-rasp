@@ -1,0 +1,272 @@
+{
+  "name": "МОС40-РАЗ2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.02 \"Психолого-педагогическое образование",
+  "profile": "программа СпВО \"Развивающие технологии в дошкольном и дополнительном образовании (физическое воспитание/художественно- эстетическое воспитание)",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "профессор,Д.А.Гусев",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методическое сопровождение художественно-эстетического развития детей",
+          "type": "lecture",
+          "teacher": "профессор, Л.Н. Комиссарова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методическое сопровождение познавательного развития детей",
+          "type": "lecture",
+          "teacher": "профессор Л.И. Павлова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "М е т о д и ч е с к ое сопровождение художественно-эстетического развития детей",
+          "type": "practice",
+          "teacher": "(ПЗ)профессор,Л.Н.Комиссарова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "М е т о д и ч еское сопровождение познавательного развития детей",
+          "type": "practice",
+          "teacher": "профессор Л.И. Павлова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Ф и л о с о ф и я н аучного познания",
+          "type": "practice",
+          "teacher": "профессор, Д.А. Гусев",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "профессор, Д.А. Гусев",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "И н о с т р а н н ы й ,я з ы Вк д Сл мя с рп не оц ви аа ,л (ь ан уды х 0ц 3ел е й д о ц е н т Н . . и . 3 )",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "М е т о д и ч е с к о е с о п р о в о ж д е н и е ис о ц и а л ь н о - ак ,По (м м у н и к а т и в н о г о и р е ч е в о г о р а з в т и я д е лт е й ( З у) д о ц е н т В . В . Б а ц к а ё в а д . 4 0 5 )",
+          "type": "practice",
+          "teacher": "Методическоесопровождениефизическогоразвитиядетей(ПЗ)доцент",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент, Н.В. Смирнова",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методическое сопровождение социально-коммуникативного и речевого развития детей",
+          "type": "lecture",
+          "teacher": "доцент, В.В. Бацкалёва",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "профессор,Д.А.Гусев",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методическое сопровождение художественно-эстетического развития детей",
+          "type": "lecture",
+          "teacher": "профессор, Л.Н. Комиссарова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методическое сопровождение познавательного развития детей",
+          "type": "lecture",
+          "teacher": "профессор Л.И. Павлова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "М е т о д и ч е с к ое сопровождение художественно-эстетического развития детей",
+          "type": "practice",
+          "teacher": "(ПЗ)профессор,Л.Н.Комиссарова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "М е т о д и ч еское сопровождение познавательного развития детей",
+          "type": "practice",
+          "teacher": "профессор Л.И. Павлова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Ф и л о с о ф и я н аучного познания",
+          "type": "practice",
+          "teacher": "профессор, Д.А. Гусев",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "профессор, Д.А. Гусев",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "И н о с т р а н н ы й ,я з ы Вк д Сл мя с рп не оц ви аа ,л (ь ан уды х 0ц 3ел е й д о ц е н т Н . . и . 3 )",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "М е т о д и ч е с к о е с о п р о в о ж д е н и е ис о ц и а л ь н о - ак ,По (м м у н и к а т и в н о г о и р е ч е в о г о р а з в т и я д е лт е й ( З у) д о ц е н т В . В . Б а ц к а ё в а д . 4 0 5 )",
+          "type": "practice",
+          "teacher": "Методическоесопровождениефизическогоразвитиядетей(ПЗ)доцент",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент, Н.В. Смирнова",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методическое сопровождение социально-коммуникативного и речевого развития детей",
+          "type": "lecture",
+          "teacher": "доцент, В.В. Бацкалёва",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

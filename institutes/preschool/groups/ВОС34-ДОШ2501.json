@@ -1,0 +1,850 @@
+{
+  "name": "ВОС34-ДОШ2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 Педагогическое образование",
+  "profile": "Дошкольное образование и Дополнительное о б р а з о в а ние (музыка/изобразительное искусство)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П е д а г о г и к а , Л К",
+          "type": "other",
+          "teacher": "Проф. Е.А. Сурудина",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Э л е к т и в н ы е к у р с ы п о ф и з и ч е с к о й к у л ь т у р е и с п о р т у , П З",
+          "type": "other",
+          "teacher": "Ст.пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д е т с к а я п с и х о л о г и я с п р актикумом",
+          "type": "lecture",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "П е д а г о г и к а , П З",
+          "type": "other",
+          "teacher": "Проф. Е.А. Сурудина",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д е т с к а я п с и х о л о г и я с п р а к т и к у м о м , П З",
+          "type": "other",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Э л е к т и в н ы е к у р с ы п о ф и з и ч е с к о й к у л ь т у р е и с п о р т у , П З",
+          "type": "other",
+          "teacher": "Ст.пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П е д а г о г и к а д о п о л н и т е л ь н о г о о б р а з о в а н и я , П З",
+          "type": "other",
+          "teacher": "Асс. В.Н. Суворова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Педагогика дополнительного образования",
+          "type": "lecture",
+          "teacher": "Доц. Г.Е. Жукова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "П е д а г о г и к а д о п о л н и т е л ь н о г о о б р а з о в а н и я , П З",
+          "type": "other",
+          "teacher": "Асс. В.Н. Суворова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика дополнительного образования",
+          "type": "lecture",
+          "teacher": "Доц. Г.Е. Жукова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "П е д а г о г и к а д о п о л н и т е л ь н о г о о б р а з о в а н и я , П З",
+          "type": "other",
+          "teacher": "Асс. В.Н. Суворова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Класс основного музыкального инструмента",
+          "type": "practice",
+          "teacher": "Доц. Р.В. Чистяков",
+          "room": "муз",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социализация и языковая адаптация несовершеннолетних граждан и детей с миграционной историей, ЛК/ПЗ Декан, к.н. Е.А. Омельченко",
+          "type": "other",
+          "teacher": "Асс. В.Д. Решетникова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социализация и языковая адаптация несовершеннолетних граждан и детей с миграционной историей, ЛК/ПЗ Декан, к.н. Е.А. Омельченко",
+          "type": "other",
+          "teacher": "Асс. В.Д. Решетникова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст.пр. М.В. Осиненко",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Художественно-творческое развитие детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "Доц. Н.П. Мельникова",
+          "room": "502",
+          "subgroup": null,
+          "notes": "п/г - ИЗО"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Художественно-творческое развитие детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "Доц. Н.П. Мельникова",
+          "room": "502",
+          "subgroup": null,
+          "notes": "п/г - ИЗО"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология",
+          "type": "lecture",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Художественно-творческое развитие детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "Доц. Н.П. Мельникова",
+          "room": "502",
+          "subgroup": null,
+          "notes": "п/г - ИЗО"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Класс основного музыкального инструмента",
+          "type": "practice",
+          "teacher": "Доц. Р.В. Чистяков",
+          "room": "муз",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "еинечу )ы",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "лоп( тобар акитк ато йо",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "бар ксьлета арп и итсо яакс яак )й /",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "сечигога ньлетяед етед ьлетавод воделсси / авокуЖ аволив яив",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "агро Д карп окыван зв уан( оп яа ак",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "нбечУ иткарп хынчивр яа",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "нбечУ еп",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Проф. М.В. Погодаева",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Музыкально-теоретические дисциплины",
+          "type": "lecture",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "108",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "Проф. М.В. Погодаева",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Музыкально-теоретические дисциплины",
+          "type": "practice",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "506",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Хоровой класс (академический, фольклорный)",
+          "type": "practice",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "108",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Музыкально-теоретические дисциплины",
+          "type": "practice",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "506",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Класс сольного пения",
+          "type": "practice",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "108",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Хоровой класс (академический, фольклорный)",
+          "type": "practice",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "108",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Класс сольного пения",
+          "type": "practice",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "108",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П е д а г о г и к а , Л К",
+          "type": "other",
+          "teacher": "Проф. Е.А. Сурудина",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Э л е к т и в н ы е к у р с ы п о ф и з и ч е с к о й к у л ь т у р е и с п о р т у , П З",
+          "type": "other",
+          "teacher": "Ст.пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д е т с к а я п с и х о л о г и я с п р актикумом",
+          "type": "lecture",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "П е д а г о г и к а , П З",
+          "type": "other",
+          "teacher": "Проф. Е.А. Сурудина",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д е т с к а я п с и х о л о г и я с п р а к т и к у м о м , П З",
+          "type": "other",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Э л е к т и в н ы е к у р с ы п о ф и з и ч е с к о й к у л ь т у р е и с п о р т у , П З",
+          "type": "other",
+          "teacher": "Ст.пр. Н.А. Андросова",
+          "room": "С/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "П е д а г о г и к а д о п о л н и т е л ь н о г о о б р а з о в а н и я , П З",
+          "type": "other",
+          "teacher": "Асс. В.Н. Суворова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Педагогика дополнительного образования",
+          "type": "lecture",
+          "teacher": "Доц. Г.Е. Жукова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "П е д а г о г и к а д о п о л н и т е л ь н о г о о б р а з о в а н и я , П З",
+          "type": "other",
+          "teacher": "Асс. В.Н. Суворова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика дополнительного образования",
+          "type": "lecture",
+          "teacher": "Доц. Г.Е. Жукова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "П е д а г о г и к а д о п о л н и т е л ь н о г о о б р а з о в а н и я , П З",
+          "type": "other",
+          "teacher": "Асс. В.Н. Суворова",
+          "room": "501",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Класс основного музыкального инструмента",
+          "type": "practice",
+          "teacher": "Доц. Р.В. Чистяков",
+          "room": "муз",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социализация и языковая адаптация несовершеннолетних граждан и детей с миграционной историей, ЛК/ПЗ Декан, к.н. Е.А. Омельченко",
+          "type": "other",
+          "teacher": "Асс. В.Д. Решетникова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социализация и языковая адаптация несовершеннолетних граждан и детей с миграционной историей, ЛК/ПЗ Декан, к.н. Е.А. Омельченко",
+          "type": "other",
+          "teacher": "Асс. В.Д. Решетникова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст.пр. М.В. Осиненко",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Художественно-творческое развитие детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "Доц. Н.П. Мельникова",
+          "room": "502",
+          "subgroup": null,
+          "notes": "п/г - ИЗО"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Художественно-творческое развитие детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "Доц. Н.П. Мельникова",
+          "room": "502",
+          "subgroup": null,
+          "notes": "п/г - ИЗО"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология",
+          "type": "lecture",
+          "teacher": "Доц. М.А. Бахотская",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Художественно-творческое развитие детей дошкольного возраста",
+          "type": "practice",
+          "teacher": "Доц. Н.П. Мельникова",
+          "room": "502",
+          "subgroup": null,
+          "notes": "п/г - ИЗО"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Класс основного музыкального инструмента",
+          "type": "practice",
+          "teacher": "Доц. Р.В. Чистяков",
+          "room": "муз",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "еинечу )ы",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "лоп( тобар акитк ато йо",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "бар ксьлета арп и итсо яакс яак )й /",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "сечигога ньлетяед етед ьлетавод воделсси / авокуЖ аволив яив",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "агро Д карп окыван зв уан( оп яа ак",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "нбечУ иткарп хынчивр яа",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "нбечУ еп",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Проф. М.В. Погодаева",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Музыкально-теоретические дисциплины",
+          "type": "lecture",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "108",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "Проф. М.В. Погодаева",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Музыкально-теоретические дисциплины",
+          "type": "practice",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "506",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Хоровой класс (академический, фольклорный)",
+          "type": "practice",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "108",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Музыкально-теоретические дисциплины",
+          "type": "practice",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "506",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Класс сольного пения",
+          "type": "practice",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "108",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Хоровой класс (академический, фольклорный)",
+          "type": "practice",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "108",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Класс сольного пения",
+          "type": "practice",
+          "teacher": "Доц. М.В. Уткина",
+          "room": "108",
+          "subgroup": null,
+          "notes": "п/г - МУЗО"
+        }
+      ],
+      "saturday": []
+    }
+  }
+}
