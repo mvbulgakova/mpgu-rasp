@@ -1,0 +1,518 @@
+{
+  "name": "БОМ38-ПРИ2410",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "09.03.03 - Прикладная информатика",
+  "profile": "Прикладная информатика в социально-экономических системах",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Информационные системы в бухгалтерском учете",
+          "type": "lab",
+          "teacher": "доц. Ковалев Е.Е",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Проектирование информационных систем",
+          "type": "lab",
+          "teacher": "доц. Ковалев Е.Е",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Проектирование информационных систем",
+          "type": "lecture",
+          "teacher": "доц. Ковалев Е.Е",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория алгоритмов",
+          "type": "practice",
+          "teacher": "доц. Инишева Н.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационные системы в бухгалтерском учете",
+          "type": "lecture",
+          "teacher": "доц. Ковалев Е.Е., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Компьютерное моделирование",
+          "type": "practice",
+          "teacher": "проф. Бродский Ю.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Компьютерное моделирование",
+          "type": "practice",
+          "teacher": "проф. Бродский Ю.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Шаронова О.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математическое и имитационное моделирование",
+          "type": "lecture",
+          "teacher": "доц. Шишарина Е.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математическое и имитационное моделирование",
+          "type": "practice",
+          "teacher": "доц. Шишарина Е.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математическое и имитационное моделирование",
+          "type": "practice",
+          "teacher": "доц. Шишарина Е.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория алгоритмов",
+          "type": "lecture",
+          "teacher": "доц. Инишева Н.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Информационные системы в государственном управлении",
+          "type": "lecture",
+          "teacher": "ст. пр. Ковалева Н.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "teacher": "доц. Шаронова О.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационные системы в государственном управлении",
+          "type": "practice",
+          "teacher": "ст. пр. Ковалева Н.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория алгоритмов",
+          "type": "practice",
+          "teacher": "доц. Инишева Н.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Системы электронного документооборота",
+          "type": "lecture",
+          "teacher": "ст. пр. Ковалева Н.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "teacher": "доц. Шаронова О.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Системы электронного документооборота",
+          "type": "lab",
+          "teacher": "ст. пр. Ковалева Н.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Информационные системы в бухгалтерском учете",
+          "type": "lab",
+          "teacher": "доц. Ковалев Е.Е",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Проектирование информационных систем",
+          "type": "lab",
+          "teacher": "доц. Ковалев Е.Е",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Проектирование информационных систем",
+          "type": "lecture",
+          "teacher": "доц. Ковалев Е.Е",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория алгоритмов",
+          "type": "practice",
+          "teacher": "доц. Инишева Н.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационные системы в бухгалтерском учете",
+          "type": "lecture",
+          "teacher": "доц. Ковалев Е.Е., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Компьютерное моделирование",
+          "type": "practice",
+          "teacher": "проф. Бродский Ю.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Компьютерное моделирование",
+          "type": "practice",
+          "teacher": "проф. Бродский Ю.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Шаронова О.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математическое и имитационное моделирование",
+          "type": "lecture",
+          "teacher": "доц. Шишарина Е.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математическое и имитационное моделирование",
+          "type": "practice",
+          "teacher": "доц. Шишарина Е.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математическое и имитационное моделирование",
+          "type": "practice",
+          "teacher": "доц. Шишарина Е.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория алгоритмов",
+          "type": "lecture",
+          "teacher": "доц. Инишева Н.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Информационные системы в государственном управлении",
+          "type": "lecture",
+          "teacher": "ст. пр. Ковалева Н.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "teacher": "доц. Шаронова О.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационные системы в государственном управлении",
+          "type": "practice",
+          "teacher": "ст. пр. Ковалева Н.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория алгоритмов",
+          "type": "practice",
+          "teacher": "доц. Инишева Н.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Системы электронного документооборота",
+          "type": "lecture",
+          "teacher": "ст. пр. Ковалева Н.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "teacher": "доц. Шаронова О.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Системы электронного документооборота",
+          "type": "lab",
+          "teacher": "ст. пр. Ковалева Н.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

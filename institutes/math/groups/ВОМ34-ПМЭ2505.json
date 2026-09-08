@@ -1,0 +1,390 @@
+{
+  "name": "ВОМ34-ПМЭ2505",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 - Педагогическое образование",
+  "profile": "Математика и Экономика",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Суворов В.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Микроэкономика",
+          "type": "practice",
+          "teacher": "проф. Адельфинский А.О",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы предпринимательства",
+          "type": "practice",
+          "teacher": "доц. Николаев М.В",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "проф. Михайлова М.В",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математический анализ",
+          "type": "practice",
+          "teacher": "ассист. Олейник А.А",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Деньги, кредит, банки",
+          "type": "practice",
+          "teacher": "доц. Кожукалова О.Ю",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Шатаева О.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "05.11"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "доц. Тесля О.Ю",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Шатаева О.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "по 22.10"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "доц. Горбенко И.А",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Экономика фирмы",
+          "type": "practice",
+          "teacher": "ст. пр. Москвитин А.Г",
+          "room": "401",
+          "subgroup": null,
+          "notes": "10.10, 21.11, 19.12"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Экономика фирмы",
+          "type": "practice",
+          "teacher": "ст. пр. Москвитин А.Г",
+          "room": "401",
+          "subgroup": null,
+          "notes": "по 26.09, 24.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Экономика фирмы",
+          "type": "practice",
+          "teacher": "ст. пр. Москвитин А.Г",
+          "room": "401",
+          "subgroup": null,
+          "notes": "24.10"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Суворов В.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Микроэкономика",
+          "type": "practice",
+          "teacher": "проф. Адельфинский А.О",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы предпринимательства",
+          "type": "practice",
+          "teacher": "доц. Николаев М.В",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "проф. Михайлова М.В",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математический анализ",
+          "type": "practice",
+          "teacher": "ассист. Олейник А.А",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Деньги, кредит, банки",
+          "type": "practice",
+          "teacher": "доц. Кожукалова О.Ю",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Шатаева О.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "05.11"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "доц. Тесля О.Ю",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Шатаева О.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "по 22.10"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "доц. Горбенко И.А",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Экономика фирмы",
+          "type": "practice",
+          "teacher": "ст. пр. Москвитин А.Г",
+          "room": "401",
+          "subgroup": null,
+          "notes": "10.10, 21.11, 19.12"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Экономика фирмы",
+          "type": "practice",
+          "teacher": "ст. пр. Москвитин А.Г",
+          "room": "401",
+          "subgroup": null,
+          "notes": "по 26.09, 24.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Экономика фирмы",
+          "type": "practice",
+          "teacher": "ст. пр. Москвитин А.Г",
+          "room": "401",
+          "subgroup": null,
+          "notes": "24.10"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "name": "ВОМ34-ПИМ2408",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 - Педагогическое образование",
+  "profile": "Информатика и Математика",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "lecture",
+          "teacher": "доц. Инишева Н.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Инишева Н.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "lecture",
+          "teacher": "доц. Инишева Н.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "доц. Горбенко И.А., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психолого-педагогические основы обучения математике и информатике",
+          "type": "lecture",
+          "teacher": "проф. Егупова М.В",
+          "room": "407",
+          "subgroup": null,
+          "notes": "по 09.12"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "practice",
+          "teacher": "ст. пр. Шевченко Т.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": "09.09, 23.09, 07.10, 18.11, 02.12"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психолого-педагогические основы обучения математике и информатике",
+          "type": "lab",
+          "teacher": "проф. Егупова М.В., 1",
+          "room": "407",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Архитектура компьютера",
+          "type": "lecture",
+          "teacher": "ст. пр. Овчарова П.С",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Инишева Н.В",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "teacher": "доц. Инишева Н.В",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элементарная математика",
+          "type": "practice",
+          "teacher": "доц. Субботина И.В",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "practice",
+          "teacher": "доц. Инишева Н.В",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Архитектура компьютера",
+          "type": "lab",
+          "teacher": "ст. пр. Овчарова П.С.",
+          "room": "211",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория чисел",
+          "type": "lecture",
+          "teacher": "доц. Крупицын Е.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория чисел",
+          "type": "practice",
+          "teacher": "доц. Крупицын Е.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Архитектура компьютера",
+          "type": "lab",
+          "teacher": "ст. пр. Овчарова П.С.",
+          "room": "211",
+          "subgroup": 2,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "lecture",
+          "teacher": "доц. Инишева Н.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Инишева Н.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "lecture",
+          "teacher": "доц. Инишева Н.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "доц. Горбенко И.А., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психолого-педагогические основы обучения математике и информатике",
+          "type": "lecture",
+          "teacher": "проф. Егупова М.В",
+          "room": "407",
+          "subgroup": null,
+          "notes": "по 09.12"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "practice",
+          "teacher": "ст. пр. Шевченко Т.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": "09.09, 23.09, 07.10, 18.11, 02.12"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психолого-педагогические основы обучения математике и информатике",
+          "type": "lab",
+          "teacher": "проф. Егупова М.В., 1",
+          "room": "407",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Архитектура компьютера",
+          "type": "lecture",
+          "teacher": "ст. пр. Овчарова П.С",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Инишева Н.В",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "teacher": "доц. Инишева Н.В",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элементарная математика",
+          "type": "practice",
+          "teacher": "доц. Субботина И.В",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "practice",
+          "teacher": "доц. Инишева Н.В",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Архитектура компьютера",
+          "type": "lab",
+          "teacher": "ст. пр. Овчарова П.С.",
+          "room": "211",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория чисел",
+          "type": "lecture",
+          "teacher": "доц. Крупицын Е.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория чисел",
+          "type": "practice",
+          "teacher": "доц. Крупицын Е.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Архитектура компьютера",
+          "type": "lab",
+          "teacher": "ст. пр. Овчарова П.С.",
+          "room": "211",
+          "subgroup": 2,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

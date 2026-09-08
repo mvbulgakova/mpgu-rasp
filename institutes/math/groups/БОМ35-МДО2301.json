@@ -1,0 +1,362 @@
+{
+  "name": "БОМ35-МДО2301",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 - Педагогическое образование (с двумя профилями подготовки)",
+  "profile": "Математика и Дополнительное образование (информатика и робототехника)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Архитектура компьютера",
+          "type": "lecture",
+          "teacher": "доц. Муратова Д.А",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Компьютерные сети и Web-технологии",
+          "type": "lecture",
+          "teacher": "доц. Иванова Н.Ю",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Архитектура компьютера",
+          "type": "lab",
+          "teacher": "доц. Муратова Д.А",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория функций действительного переменного",
+          "type": "practice",
+          "teacher": "доц. Лукьянова Е.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения математике",
+          "type": "lecture",
+          "teacher": "проф. Фирстова Н.И",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Программные роботы",
+          "type": "lab",
+          "teacher": "доц. Шишарина Е.В",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Графические библиотеки языка C++",
+          "type": "lab",
+          "teacher": "ассист. Матвеев А.С",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Программные роботы",
+          "type": "lab",
+          "teacher": "доц. Шишарина Е.В",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория функций действительного переменного",
+          "type": "lecture",
+          "teacher": "доц. Быкова О.Н",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теоретические основы информатики",
+          "type": "lab",
+          "teacher": "доц. Муравьева О.В",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методические основы дополнительного образования в области информатики",
+          "type": "lecture",
+          "teacher": "доц. Нателаури Н.К",
+          "room": "208",
+          "subgroup": null,
+          "notes": "/лаб"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Элементарная математика",
+          "type": "other",
+          "teacher": "проф. Смирнова И.М",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теоретические основы информатики",
+          "type": "lecture",
+          "teacher": "доц. Муравьева О.В",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Графические библиотеки языка C++",
+          "type": "lab",
+          "teacher": "ассист. Матвеев А.С",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теоретические основы информатики",
+          "type": "lab",
+          "teacher": "доц. Муравьева О.В",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Архитектура компьютера",
+          "type": "lecture",
+          "teacher": "доц. Муратова Д.А",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Компьютерные сети и Web-технологии",
+          "type": "lecture",
+          "teacher": "доц. Иванова Н.Ю",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Архитектура компьютера",
+          "type": "lab",
+          "teacher": "доц. Муратова Д.А",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория функций действительного переменного",
+          "type": "practice",
+          "teacher": "доц. Лукьянова Е.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения математике",
+          "type": "lecture",
+          "teacher": "проф. Фирстова Н.И",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Программные роботы",
+          "type": "lab",
+          "teacher": "доц. Шишарина Е.В",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Графические библиотеки языка C++",
+          "type": "lab",
+          "teacher": "ассист. Матвеев А.С",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Программные роботы",
+          "type": "lab",
+          "teacher": "доц. Шишарина Е.В",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория функций действительного переменного",
+          "type": "lecture",
+          "teacher": "доц. Быкова О.Н",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теоретические основы информатики",
+          "type": "lab",
+          "teacher": "доц. Муравьева О.В",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методические основы дополнительного образования в области информатики",
+          "type": "lecture",
+          "teacher": "доц. Нателаури Н.К",
+          "room": "208",
+          "subgroup": null,
+          "notes": "/лаб"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Элементарная математика",
+          "type": "other",
+          "teacher": "проф. Смирнова И.М",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теоретические основы информатики",
+          "type": "lecture",
+          "teacher": "доц. Муравьева О.В",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Графические библиотеки языка C++",
+          "type": "lab",
+          "teacher": "ассист. Матвеев А.С",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теоретические основы информатики",
+          "type": "lab",
+          "teacher": "доц. Муравьева О.В",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

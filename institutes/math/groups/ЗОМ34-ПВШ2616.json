@@ -1,0 +1,230 @@
+{
+  "name": "ЗОМ34-ПВШ2616",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.01 - Педагогическое образование",
+  "profile": "Математика и информатика в высшей школе",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математические модели методы и теории",
+          "type": "lecture",
+          "teacher": "проф. Деза Е.И",
+          "room": "206",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "доц. Филатова М.И",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Фундаментальные вопросы современного математического анализа",
+          "type": "practice",
+          "teacher": "проф. Геворкян П.С",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Фундаментальные вопросы алгебры и теории чисел",
+          "type": "lecture",
+          "teacher": "проф. Царев А.В",
+          "room": "207",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Цифровые технологии в науке и образовании",
+          "type": "lab",
+          "teacher": "доц. Маняхина В.Г",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доц. Пескова И.М",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания в высшей школе",
+          "type": "practice",
+          "teacher": "доц. Чуйкова Н.В",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Структуры данных, языки и методы программирования",
+          "type": "lab",
+          "teacher": "проф. Жданов С.А., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания в высшей школе",
+          "type": "practice",
+          "teacher": "доц. Чуйкова Н.В",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математические модели методы и теории",
+          "type": "lecture",
+          "teacher": "проф. Деза Е.И",
+          "room": "206",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "доц. Филатова М.И",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Фундаментальные вопросы современного математического анализа",
+          "type": "practice",
+          "teacher": "проф. Геворкян П.С",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Фундаментальные вопросы алгебры и теории чисел",
+          "type": "lecture",
+          "teacher": "проф. Царев А.В",
+          "room": "207",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Цифровые технологии в науке и образовании",
+          "type": "lab",
+          "teacher": "доц. Маняхина В.Г",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доц. Пескова И.М",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания в высшей школе",
+          "type": "practice",
+          "teacher": "доц. Чуйкова Н.В",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Структуры данных, языки и методы программирования",
+          "type": "lab",
+          "teacher": "проф. Жданов С.А., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания в высшей школе",
+          "type": "practice",
+          "teacher": "доц. Чуйкова Н.В",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

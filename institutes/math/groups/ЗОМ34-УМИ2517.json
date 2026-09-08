@@ -1,0 +1,252 @@
+{
+  "name": "ЗОМ34-УМИ2517",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.01 - Педагогическое образование",
+  "profile": "Углубленное и профильное обучение математике и информатике",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 5.1 Основания школьного курса геометрии",
+          "type": "lab",
+          "teacher": "проф. Атанасян С.Л",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Сальникова О.А",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 2.1 Олимпиадные задачи по теории чисел",
+          "type": "lab",
+          "teacher": "доц. Чанга М.Е",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 3.1 Вопросы итоговой аттестации по математике",
+          "type": "lab",
+          "teacher": "доц. Сергеева И.Е",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Д/В 1.1 Системы линейных уравнений и матрицы",
+          "type": "lab",
+          "teacher": "доц. Цыбуля Л.М",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Д/В 4.1 Олимпиадные задачи по алгебре",
+          "type": "lab",
+          "teacher": "проф. Фомин А.А",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Д/В 3.2 Практикум по решению задач теории вероятностей",
+          "type": "lab",
+          "teacher": "доц. Алфимова А.С",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Д/В 3.2 Практикум по решению задач теории вероятностей",
+          "type": "lab",
+          "teacher": "доц. Алфимова А.С",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д/В 2.2 Олимпиадные задачи по программированию",
+          "type": "lab",
+          "teacher": "ст. пр. Бобров В.А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д/В 2.2 Олимпиадные задачи по программированию",
+          "type": "lab",
+          "teacher": "ст. пр. Бобров В.А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 5.1 Основания школьного курса геометрии",
+          "type": "lab",
+          "teacher": "проф. Атанасян С.Л",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Сальникова О.А",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 2.1 Олимпиадные задачи по теории чисел",
+          "type": "lab",
+          "teacher": "доц. Чанга М.Е",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 3.1 Вопросы итоговой аттестации по математике",
+          "type": "lab",
+          "teacher": "доц. Сергеева И.Е",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Д/В 1.1 Системы линейных уравнений и матрицы",
+          "type": "lab",
+          "teacher": "доц. Цыбуля Л.М",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Д/В 4.1 Олимпиадные задачи по алгебре",
+          "type": "lab",
+          "teacher": "проф. Фомин А.А",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Д/В 3.2 Практикум по решению задач теории вероятностей",
+          "type": "lab",
+          "teacher": "доц. Алфимова А.С",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Д/В 3.2 Практикум по решению задач теории вероятностей",
+          "type": "lab",
+          "teacher": "доц. Алфимова А.С",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д/В 2.2 Олимпиадные задачи по программированию",
+          "type": "lab",
+          "teacher": "ст. пр. Бобров В.А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д/В 2.2 Олимпиадные задачи по программированию",
+          "type": "lab",
+          "teacher": "ст. пр. Бобров В.А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

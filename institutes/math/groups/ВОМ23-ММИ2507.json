@@ -1,0 +1,364 @@
+{
+  "name": "ВОМ23-ММИ2507",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "01.03.01 - Математика",
+  "profile": "Преподавание математики",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "ассист. Артемов Д.Ю",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "teacher": "проф. Матвеев Е.М",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Языки и методы программирования",
+          "type": "lecture",
+          "teacher": "доц. Муратова Д.А",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Возрастная анатомия физиология и гигиена",
+          "type": "lecture",
+          "teacher": "проф. Лещенко М.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Языки и методы программирования",
+          "type": "lab",
+          "teacher": "ассист. Матвеев А.С.",
+          "room": "108",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дискретная математика",
+          "type": "other",
+          "teacher": "ассист. Тихонов С.О",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дискретная математика",
+          "type": "lecture",
+          "teacher": "проф. Деза Е.И",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Языки и методы программирования",
+          "type": "lab",
+          "teacher": "ассист. Матвеев А.С.",
+          "room": "108",
+          "subgroup": 2,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геометрия",
+          "type": "lecture",
+          "teacher": "доц. Никифорова А.В",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математический анализ",
+          "type": "practice",
+          "teacher": "доц. Лукьянова Е.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История науки: математика",
+          "type": "practice",
+          "teacher": "доц. Субботина И.В",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "доц. Никифорова А.В",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Алгебра",
+          "type": "lecture",
+          "teacher": "проф. Михайлова М.В",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Нормативно-правовые и этические основы педагогической деятельности",
+          "type": "lecture",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "ассист. Артемов Д.Ю",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "teacher": "проф. Матвеев Е.М",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Языки и методы программирования",
+          "type": "lecture",
+          "teacher": "доц. Муратова Д.А",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Возрастная анатомия физиология и гигиена",
+          "type": "lecture",
+          "teacher": "проф. Лещенко М.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Языки и методы программирования",
+          "type": "lab",
+          "teacher": "ассист. Матвеев А.С.",
+          "room": "108",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дискретная математика",
+          "type": "other",
+          "teacher": "ассист. Тихонов С.О",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дискретная математика",
+          "type": "lecture",
+          "teacher": "проф. Деза Е.И",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Языки и методы программирования",
+          "type": "lab",
+          "teacher": "ассист. Матвеев А.С.",
+          "room": "108",
+          "subgroup": 2,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геометрия",
+          "type": "lecture",
+          "teacher": "доц. Никифорова А.В",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математический анализ",
+          "type": "practice",
+          "teacher": "доц. Лукьянова Е.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История науки: математика",
+          "type": "practice",
+          "teacher": "доц. Субботина И.В",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "доц. Никифорова А.В",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Алгебра",
+          "type": "lecture",
+          "teacher": "проф. Михайлова М.В",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Нормативно-правовые и этические основы педагогической деятельности",
+          "type": "lecture",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

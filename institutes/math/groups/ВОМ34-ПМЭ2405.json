@@ -1,0 +1,408 @@
+{
+  "name": "ВОМ34-ПМЭ2405",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 - Педагогическое образование",
+  "profile": "Математика и Экономика",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Шаронова О.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "доц. Кузнецова Г.Д., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дискретная математика",
+          "type": "practice",
+          "teacher": "ассист. Тихонов С.О., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "доц. Горбенко И.А., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "practice",
+          "teacher": "ст. пр. Шевченко Т.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": "09.09, 23.09, 07.10, 18.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "lecture",
+          "teacher": "ст. пр. Шевченко Т.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": "09.09, 23.09, 07.10, 18.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психолого-педагогические основы обучения математике",
+          "type": "lecture",
+          "teacher": "проф. Егупова М.В",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дискретная математика",
+          "type": "lecture",
+          "teacher": "проф. Деза Е.И",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психолого-педагогические основы обучения математике",
+          "type": "practice",
+          "teacher": "проф. Егупова М.В",
+          "room": "404",
+          "subgroup": null,
+          "notes": "кроме 09.09, 23.09, 07.10, 18.11"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Шаронова О.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Шаронова О.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "lecture",
+          "teacher": "проф. Тимофеева И.Л., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "practice",
+          "teacher": "проф. Тимофеева И.Л., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория чисел",
+          "type": "practice",
+          "teacher": "доц. Крупицын Е.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элементарная математика",
+          "type": "practice",
+          "teacher": "доц. Буслаев А.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Шаронова О.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "доц. Кузнецова Г.Д., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дискретная математика",
+          "type": "practice",
+          "teacher": "ассист. Тихонов С.О., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "доц. Горбенко И.А., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "practice",
+          "teacher": "ст. пр. Шевченко Т.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": "09.09, 23.09, 07.10, 18.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "lecture",
+          "teacher": "ст. пр. Шевченко Т.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": "09.09, 23.09, 07.10, 18.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психолого-педагогические основы обучения математике",
+          "type": "lecture",
+          "teacher": "проф. Егупова М.В",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дискретная математика",
+          "type": "lecture",
+          "teacher": "проф. Деза Е.И",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психолого-педагогические основы обучения математике",
+          "type": "practice",
+          "teacher": "проф. Егупова М.В",
+          "room": "404",
+          "subgroup": null,
+          "notes": "кроме 09.09, 23.09, 07.10, 18.11"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Шаронова О.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Шаронова О.В., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "lecture",
+          "teacher": "проф. Тимофеева И.Л., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "practice",
+          "teacher": "проф. Тимофеева И.Л., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория чисел",
+          "type": "practice",
+          "teacher": "доц. Крупицын Е.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элементарная математика",
+          "type": "practice",
+          "teacher": "доц. Буслаев А.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

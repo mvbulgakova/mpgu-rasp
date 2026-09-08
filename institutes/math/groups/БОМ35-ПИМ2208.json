@@ -1,0 +1,430 @@
+{
+  "name": "БОМ35-ПИМ2208",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 - Педагогическое образование (с двумя профилями подготовки)",
+  "profile": "Информатика и Математика",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения информатике",
+          "type": "lecture",
+          "teacher": "проф. Самылкина Н.Н",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии искусственного интеллекта",
+          "type": "lecture",
+          "teacher": "проф. Шибзухов З.М",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Образовательные технологии в обучении математике",
+          "type": "lab",
+          "teacher": "доц. Нателаури Н.К.",
+          "room": null,
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения информатике",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": null,
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 1.1 Дополнительные главы теории чисел",
+          "type": "practice",
+          "teacher": "доц. Чанга М.Е., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Д/В 2.1 Методика организации внеурочной деятельности по информатике и информационным технологиям",
+          "type": "lab",
+          "teacher": "доц. Павлов Д.И",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Образовательные технологии в обучении математике",
+          "type": "lecture",
+          "teacher": "доц. Нателаури Н.К",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Д/В 2.1 Методика организации внеурочной деятельности по информатике и информационным технологиям",
+          "type": "lab",
+          "teacher": "доц. Павлов Д.И., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии искусственного интеллекта",
+          "type": "lab",
+          "teacher": "ассист. Приходько Ю.Д",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Технологии воспитания средствами учебного предмета",
+          "type": "practice",
+          "teacher": "проф. Фирстова Н.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Д/В 3.1 Дополнительные главы дискретной математики",
+          "type": "lab",
+          "teacher": "ассист. Тихонов С.О",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Информационная безопасность и защита информации",
+          "type": "lecture",
+          "teacher": "доц. Чанга М.Е., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения математике",
+          "type": "lecture",
+          "teacher": "проф. Фирстова Н.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Информационная безопасность и защита информации",
+          "type": "lab",
+          "teacher": "доц. Чанга М.Е., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д/В 4.1 Разработка электронных образовательных ресурсов на платформе МЭШ",
+          "type": "lab",
+          "teacher": "проф. Маняхина В.Г",
+          "room": "210",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д/В 4.1 Разработка электронных образовательных ресурсов на платформе МЭШ",
+          "type": "lab",
+          "teacher": "проф. Маняхина В.Г",
+          "room": "210",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения математике",
+          "type": "practice",
+          "teacher": "проф. Фирстова Н.И",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Элементарная математика",
+          "type": "practice",
+          "teacher": "доц. Буслаев А.В",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения информатике",
+          "type": "lecture",
+          "teacher": "проф. Самылкина Н.Н",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии искусственного интеллекта",
+          "type": "lecture",
+          "teacher": "проф. Шибзухов З.М",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Образовательные технологии в обучении математике",
+          "type": "lab",
+          "teacher": "доц. Нателаури Н.К.",
+          "room": null,
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения информатике",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": null,
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 1.1 Дополнительные главы теории чисел",
+          "type": "practice",
+          "teacher": "доц. Чанга М.Е., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Д/В 2.1 Методика организации внеурочной деятельности по информатике и информационным технологиям",
+          "type": "lab",
+          "teacher": "доц. Павлов Д.И",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Образовательные технологии в обучении математике",
+          "type": "lecture",
+          "teacher": "доц. Нателаури Н.К",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Д/В 2.1 Методика организации внеурочной деятельности по информатике и информационным технологиям",
+          "type": "lab",
+          "teacher": "доц. Павлов Д.И., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии искусственного интеллекта",
+          "type": "lab",
+          "teacher": "ассист. Приходько Ю.Д",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Технологии воспитания средствами учебного предмета",
+          "type": "practice",
+          "teacher": "проф. Фирстова Н.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Д/В 3.1 Дополнительные главы дискретной математики",
+          "type": "lab",
+          "teacher": "ассист. Тихонов С.О",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Информационная безопасность и защита информации",
+          "type": "lecture",
+          "teacher": "доц. Чанга М.Е., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения математике",
+          "type": "lecture",
+          "teacher": "проф. Фирстова Н.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Информационная безопасность и защита информации",
+          "type": "lab",
+          "teacher": "доц. Чанга М.Е., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д/В 4.1 Разработка электронных образовательных ресурсов на платформе МЭШ",
+          "type": "lab",
+          "teacher": "проф. Маняхина В.Г",
+          "room": "210",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д/В 4.1 Разработка электронных образовательных ресурсов на платформе МЭШ",
+          "type": "lab",
+          "teacher": "проф. Маняхина В.Г",
+          "room": "210",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения математике",
+          "type": "practice",
+          "teacher": "проф. Фирстова Н.И",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Элементарная математика",
+          "type": "practice",
+          "teacher": "доц. Буслаев А.В",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

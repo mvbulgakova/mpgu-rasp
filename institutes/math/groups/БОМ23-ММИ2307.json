@@ -1,0 +1,474 @@
+{
+  "name": "БОМ23-ММИ2307",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "01.03.01 - Математика",
+  "profile": "Преподавание математики и информатики",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Комплексный анализ",
+          "type": "lecture",
+          "teacher": "проф. Брайчев Г.Г., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Компьютерное моделирование",
+          "type": "lab",
+          "teacher": "проф. Бродский Ю.И., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Компьютерное моделирование",
+          "type": "lab",
+          "teacher": "проф. Бродский Ю.И., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Компьютерное моделирование",
+          "type": "lecture",
+          "teacher": "проф. Бродский Ю.И., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии искусственного интеллекта",
+          "type": "lab",
+          "teacher": "проф. Шибзухов З.М.",
+          "room": "el",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Комплексный анализ",
+          "type": "practice",
+          "teacher": "проф. Брайчев Г.Г., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "lecture",
+          "teacher": "доц. Тимохина Ю.Е",
+          "room": "407",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "lecture",
+          "teacher": "проф. Авдокушин Е.Ф",
+          "room": "407",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дополнительные вопросы теории функций действительного переменного",
+          "type": "lecture",
+          "teacher": "доц. Быкова О.Н",
+          "room": "404",
+          "subgroup": null,
+          "notes": "/ПР"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Прикладные вопросы алгебры",
+          "type": "other",
+          "teacher": "ассист. Самсонов А.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Геометрия над алгебрами",
+          "type": "other",
+          "teacher": "доц. Игнаточкина Л.А",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "1 70",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "12 4",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геометрия над алгебрами",
+          "type": "other",
+          "teacher": "доц. Игнаточкина Л.А",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Многомерная геометрия",
+          "type": "other",
+          "teacher": "ст. пр. Селин Г.Ю",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Дополнительные главы методики обучения математике и информатике",
+          "type": "practice",
+          "teacher": "доц. Нателаури Н.К",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Прикладные вопросы геометрии",
+          "type": "other",
+          "teacher": "доц. Игнаточкина Л.А",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дополнительные главы методики обучения математике и информатике",
+          "type": "other",
+          "teacher": "доц. Нателаури Н.К",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Алфимова А.С",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математическая статистика",
+          "type": "lab",
+          "teacher": "доц. Алфимова А.С",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Комплексный анализ",
+          "type": "lecture",
+          "teacher": "проф. Брайчев Г.Г., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Компьютерное моделирование",
+          "type": "lab",
+          "teacher": "проф. Бродский Ю.И., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Компьютерное моделирование",
+          "type": "lab",
+          "teacher": "проф. Бродский Ю.И., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Компьютерное моделирование",
+          "type": "lecture",
+          "teacher": "проф. Бродский Ю.И., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии искусственного интеллекта",
+          "type": "lab",
+          "teacher": "проф. Шибзухов З.М.",
+          "room": "el",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Комплексный анализ",
+          "type": "practice",
+          "teacher": "проф. Брайчев Г.Г., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "lecture",
+          "teacher": "доц. Тимохина Ю.Е",
+          "room": "407",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "lecture",
+          "teacher": "проф. Авдокушин Е.Ф",
+          "room": "407",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дополнительные вопросы теории функций действительного переменного",
+          "type": "lecture",
+          "teacher": "доц. Быкова О.Н",
+          "room": "404",
+          "subgroup": null,
+          "notes": "/ПР"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Прикладные вопросы алгебры",
+          "type": "other",
+          "teacher": "ассист. Самсонов А.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Геометрия над алгебрами",
+          "type": "other",
+          "teacher": "доц. Игнаточкина Л.А",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "1 70",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "12 4",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геометрия над алгебрами",
+          "type": "other",
+          "teacher": "доц. Игнаточкина Л.А",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Многомерная геометрия",
+          "type": "other",
+          "teacher": "ст. пр. Селин Г.Ю",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Дополнительные главы методики обучения математике и информатике",
+          "type": "practice",
+          "teacher": "доц. Нателаури Н.К",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Прикладные вопросы геометрии",
+          "type": "other",
+          "teacher": "доц. Игнаточкина Л.А",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дополнительные главы методики обучения математике и информатике",
+          "type": "other",
+          "teacher": "доц. Нателаури Н.К",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Алфимова А.С",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математическая статистика",
+          "type": "lab",
+          "teacher": "доц. Алфимова А.С",
+          "room": "108",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

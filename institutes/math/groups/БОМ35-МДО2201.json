@@ -1,0 +1,386 @@
+{
+  "name": "БОМ35-МДО2201",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 - Педагогическое образование (с двумя профилями подготовки)",
+  "profile": "Математика и Дополнительное образование (программирование и робототехника)",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Технологии искусственного интеллекта",
+          "type": "lab",
+          "teacher": "ассист. Приходько Ю.Д",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методические основы дополнительного образования в области информатики",
+          "type": "lab",
+          "teacher": "доц. Нателаури Н.К.",
+          "room": null,
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Кибербезопасность",
+          "type": "practice",
+          "teacher": "доц. Ковалев Е.Е., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д/В 1.1 Прикладные вопросы теории чисел",
+          "type": "practice",
+          "teacher": "доц. Чанга М.Е., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии искусственного интеллекта",
+          "type": "lecture",
+          "teacher": "проф. Шибзухов З.М",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д/В 2.1 Нестандартные методы решения задач в курсе математики средней школы",
+          "type": "practice",
+          "teacher": "проф. Фирстова Н.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д/В 3.1 Методика организации внеурочной деятельности по информатике и информационным технологиям",
+          "type": "lab",
+          "teacher": "доц. Павлов Д.И., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 4.1 Основы теории абелевых групп",
+          "type": "practice",
+          "teacher": "проф. Фомин А.А., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Д/В 5.1 Основы школьного курса геометрии",
+          "type": "practice",
+          "teacher": "проф. Атанасян С.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д/В 6.1 Дополнительные главы дискретной математики",
+          "type": "lab",
+          "teacher": "ассист. Тихонов С.О",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методические основы дополнительного образования в области информатики",
+          "type": "lecture",
+          "teacher": "доц. Нателаури Н.К",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 1.1 Прикладные вопросы теории чисел",
+          "type": "practice",
+          "teacher": "доц. Чанга М.Е., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Д/В 7.1 Наглядная геометрия",
+          "type": "practice",
+          "teacher": "проф. Смирнов В.А",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии воспитания средствами учебного предмета",
+          "type": "practice",
+          "teacher": "проф. Фирстова Н.И",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элементарная математика",
+          "type": "practice",
+          "teacher": "проф. Седова Е.А",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д/В 1.2 Специальные числа натурального ряда",
+          "type": "practice",
+          "teacher": "доц. Крупицын Е.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Технологии искусственного интеллекта",
+          "type": "lab",
+          "teacher": "ассист. Приходько Ю.Д",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методические основы дополнительного образования в области информатики",
+          "type": "lab",
+          "teacher": "доц. Нателаури Н.К.",
+          "room": null,
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Кибербезопасность",
+          "type": "practice",
+          "teacher": "доц. Ковалев Е.Е., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д/В 1.1 Прикладные вопросы теории чисел",
+          "type": "practice",
+          "teacher": "доц. Чанга М.Е., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии искусственного интеллекта",
+          "type": "lecture",
+          "teacher": "проф. Шибзухов З.М",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д/В 2.1 Нестандартные методы решения задач в курсе математики средней школы",
+          "type": "practice",
+          "teacher": "проф. Фирстова Н.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д/В 3.1 Методика организации внеурочной деятельности по информатике и информационным технологиям",
+          "type": "lab",
+          "teacher": "доц. Павлов Д.И., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 4.1 Основы теории абелевых групп",
+          "type": "practice",
+          "teacher": "проф. Фомин А.А., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Д/В 5.1 Основы школьного курса геометрии",
+          "type": "practice",
+          "teacher": "проф. Атанасян С.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д/В 6.1 Дополнительные главы дискретной математики",
+          "type": "lab",
+          "teacher": "ассист. Тихонов С.О",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методические основы дополнительного образования в области информатики",
+          "type": "lecture",
+          "teacher": "доц. Нателаури Н.К",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 1.1 Прикладные вопросы теории чисел",
+          "type": "practice",
+          "teacher": "доц. Чанга М.Е., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Д/В 7.1 Наглядная геометрия",
+          "type": "practice",
+          "teacher": "проф. Смирнов В.А",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии воспитания средствами учебного предмета",
+          "type": "practice",
+          "teacher": "проф. Фирстова Н.И",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элементарная математика",
+          "type": "practice",
+          "teacher": "проф. Седова Е.А",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д/В 1.2 Специальные числа натурального ряда",
+          "type": "practice",
+          "teacher": "доц. Крупицын Е.С",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

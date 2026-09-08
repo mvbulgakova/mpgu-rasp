@@ -1,0 +1,500 @@
+{
+  "name": "ВОМ34-МКН2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 - Педагогическое образование",
+  "profile": "Математика и Компьютерные науки",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "доц. Суворов В.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Программирование",
+          "type": "lecture",
+          "teacher": "ст. пр. Буданов Н.А",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Суворов В.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационные системы",
+          "type": "lab",
+          "teacher": "доц. Соболева М.Л.",
+          "room": "209",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Информационные системы",
+          "type": "lab",
+          "teacher": "доц. Соболева М.Л",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геометрия",
+          "type": "lecture",
+          "teacher": "проф. Атанасян С.Л",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии цифрового образования",
+          "type": "lecture",
+          "teacher": "доц. Маняхина В.Г",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "доц. Тесля О.Ю",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "lecture",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": "с 29.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "teacher": "проф. Матвеев Е.М",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "teacher": "проф. Матвеев Е.М",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "с 05.11"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "доц. Горбенко И.А",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология",
+          "type": "lecture",
+          "teacher": "доц. Горбенко И.А",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии цифрового образования",
+          "type": "lab",
+          "teacher": "доц. Иванова Н.Ю.",
+          "room": "108",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Алгебра",
+          "type": "lecture",
+          "teacher": "доц. Шилин И.А",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "доц. Шилин И.А",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Учебная практика (ознакомительная практика по профилю Компьютерные науки)",
+          "type": "other",
+          "teacher": "ассист. Матвеев А.С",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "доц. Суворов В.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Программирование",
+          "type": "lecture",
+          "teacher": "ст. пр. Буданов Н.А",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Суворов В.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационные системы",
+          "type": "lab",
+          "teacher": "доц. Соболева М.Л.",
+          "room": "209",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Информационные системы",
+          "type": "lab",
+          "teacher": "доц. Соболева М.Л",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геометрия",
+          "type": "lecture",
+          "teacher": "проф. Атанасян С.Л",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии цифрового образования",
+          "type": "lecture",
+          "teacher": "доц. Маняхина В.Г",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "доц. Тесля О.Ю",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "lecture",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": "с 29.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "teacher": "проф. Матвеев Е.М",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "teacher": "проф. Матвеев Е.М",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "с 05.11"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "доц. Горбенко И.А",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология",
+          "type": "lecture",
+          "teacher": "доц. Горбенко И.А",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии цифрового образования",
+          "type": "lab",
+          "teacher": "доц. Иванова Н.Ю.",
+          "room": "108",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Алгебра",
+          "type": "lecture",
+          "teacher": "доц. Шилин И.А",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "доц. Шилин И.А",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Учебная практика (ознакомительная практика по профилю Компьютерные науки)",
+          "type": "other",
+          "teacher": "ассист. Матвеев А.С",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

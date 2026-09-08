@@ -1,0 +1,298 @@
+{
+  "name": "ВВМ34-МДО2401",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 - Педагогическое образование",
+  "profile": "Математика и Дополнительное образование (информатика и технологии искусственного интеллекта)",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "lecture",
+          "teacher": "доц. Сергеева И.Е",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психолого-педагогические основы обучения математике",
+          "type": "lecture",
+          "teacher": "проф. Егупова М.В",
+          "room": "301",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "practice",
+          "teacher": "доц. Сергеева И.Е",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Психолого-педагогические основы обучения математике",
+          "type": "lecture",
+          "teacher": "проф. Егупова М.В",
+          "room": "301",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Инишева Н.В",
+          "room": "207",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Практикум по решению задач на ЭВМ",
+          "type": "lab",
+          "teacher": "доц. Стесева О.И",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "301Г",
+          "subgroup": null,
+          "notes": "по 16.10"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "301Г",
+          "subgroup": null,
+          "notes": "по 16.10"
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное поведение",
+          "type": "lecture",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "207Г",
+          "subgroup": null,
+          "notes": "/ПЗ с 31.10"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория чисел",
+          "type": "lecture",
+          "teacher": "доц. Иконникова Т.К",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "lecture",
+          "teacher": "ст. пр. Шевченко Т.С",
+          "room": "305",
+          "subgroup": null,
+          "notes": "/ПЗ 12.09, 26.09, 24.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "lecture",
+          "teacher": "ст. пр. Шевченко Т.С",
+          "room": "305",
+          "subgroup": null,
+          "notes": "/ПЗ 12.09, 26.09, 24.10"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "lecture",
+          "teacher": "доц. Сергеева И.Е",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психолого-педагогические основы обучения математике",
+          "type": "lecture",
+          "teacher": "проф. Егупова М.В",
+          "room": "301",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "practice",
+          "teacher": "доц. Сергеева И.Е",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Психолого-педагогические основы обучения математике",
+          "type": "lecture",
+          "teacher": "проф. Егупова М.В",
+          "room": "301",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Инишева Н.В",
+          "room": "207",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Практикум по решению задач на ЭВМ",
+          "type": "lab",
+          "teacher": "доц. Стесева О.И",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "301Г",
+          "subgroup": null,
+          "notes": "по 16.10"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "301Г",
+          "subgroup": null,
+          "notes": "по 16.10"
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное поведение",
+          "type": "lecture",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "207Г",
+          "subgroup": null,
+          "notes": "/ПЗ с 31.10"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория чисел",
+          "type": "lecture",
+          "teacher": "доц. Иконникова Т.К",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "lecture",
+          "teacher": "ст. пр. Шевченко Т.С",
+          "room": "305",
+          "subgroup": null,
+          "notes": "/ПЗ 12.09, 26.09, 24.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "lecture",
+          "teacher": "ст. пр. Шевченко Т.С",
+          "room": "305",
+          "subgroup": null,
+          "notes": "/ПЗ 12.09, 26.09, 24.10"
+        }
+      ]
+    }
+  }
+}

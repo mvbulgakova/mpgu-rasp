@@ -1,0 +1,320 @@
+{
+  "name": "ЗОМ34-СТО2611",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.01 - Педагогическое образование",
+  "profile": "Современные технологии обучения математике и информатике в информационной образовательной среде",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Цифровые технологии в образовании",
+          "type": "lecture",
+          "teacher": "проф. Федосов А.Ю.",
+          "room": "208",
+          "subgroup": 1,
+          "notes": "/лаб"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доц. Глазунова Т.С.",
+          "room": "205",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "доц. Филатова М.И",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методическая подготовка учителя математики",
+          "type": "lecture",
+          "teacher": "доц. Соколова Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология и педагогика обучения математике и информатике",
+          "type": "lecture",
+          "teacher": "проф. Егупова М.В",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Методическая подготовка учителя математики",
+          "type": "practice",
+          "teacher": "доц. Соколова Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Психология и педагогика обучения математике и информатике",
+          "type": "practice",
+          "teacher": "проф. Егупова М.В",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "20:50",
+          "subject": "Философия научного познания 4.09;11.09;12.09",
+          "type": "lecture",
+          "teacher": "доц. Филатова М.И., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методическая подготовка учителя информатики",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "210",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методическая подготовка учителя информатики",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "210",
+          "subgroup": 1,
+          "notes": "по 24.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методическая подготовка учителя информатики",
+          "type": "lecture",
+          "teacher": "проф. Самылкина Н.Н",
+          "room": "301",
+          "subgroup": null,
+          "notes": "по 31.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методическая подготовка учителя информатики",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "210",
+          "subgroup": 2,
+          "notes": "по 31.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методическая подготовка учителя информатики",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "210",
+          "subgroup": 2,
+          "notes": "по 24.10"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Цифровые технологии в образовании",
+          "type": "lecture",
+          "teacher": "проф. Федосов А.Ю.",
+          "room": "208",
+          "subgroup": 1,
+          "notes": "/лаб"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доц. Глазунова Т.С.",
+          "room": "205",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "доц. Филатова М.И",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методическая подготовка учителя математики",
+          "type": "lecture",
+          "teacher": "доц. Соколова Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология и педагогика обучения математике и информатике",
+          "type": "lecture",
+          "teacher": "проф. Егупова М.В",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Методическая подготовка учителя математики",
+          "type": "practice",
+          "teacher": "доц. Соколова Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Психология и педагогика обучения математике и информатике",
+          "type": "practice",
+          "teacher": "проф. Егупова М.В",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "20:50",
+          "subject": "Философия научного познания 4.09;11.09;12.09",
+          "type": "lecture",
+          "teacher": "доц. Филатова М.И., el.mpgu.su",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методическая подготовка учителя информатики",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "210",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методическая подготовка учителя информатики",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "210",
+          "subgroup": 1,
+          "notes": "по 24.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методическая подготовка учителя информатики",
+          "type": "lecture",
+          "teacher": "проф. Самылкина Н.Н",
+          "room": "301",
+          "subgroup": null,
+          "notes": "по 31.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методическая подготовка учителя информатики",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "210",
+          "subgroup": 2,
+          "notes": "по 31.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методическая подготовка учителя информатики",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "210",
+          "subgroup": 2,
+          "notes": "по 24.10"
+        }
+      ]
+    }
+  }
+}

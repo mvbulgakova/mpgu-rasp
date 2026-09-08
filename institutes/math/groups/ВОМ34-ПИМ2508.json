@@ -1,0 +1,562 @@
+{
+  "name": "ВОМ34-ПИМ2508",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 - Педагогическое образование",
+  "profile": "Информатика и Математика",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Суворов В.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "доц. Суворов В.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Алгебра",
+          "type": "lecture",
+          "teacher": "доц. Карташова А.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математический анализ",
+          "type": "practice",
+          "teacher": "доц. Удовенко Л.Н",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "доц. Карташова А.В",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Информационные системы",
+          "type": "lecture",
+          "teacher": "доц. Соболева М.Л",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "доц. Арсеньева О.Е",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Информационные системы",
+          "type": "lab",
+          "teacher": "доц. Соболева М.Л.",
+          "room": "209",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Геометрия",
+          "type": "lecture",
+          "teacher": "доц. Арсеньева О.Е",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Информационные системы",
+          "type": "lab",
+          "teacher": "ассист. Приходько Ю.Д",
+          "room": "210",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "teacher": "проф. Матвеев Е.М",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Программирование",
+          "type": "lab",
+          "teacher": "ст. пр. Бобров В.А.",
+          "room": "209",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Программирование",
+          "type": "lecture",
+          "teacher": "ст. пр. Бобров В.А",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "lecture",
+          "teacher": "доц. Шатаева О.В",
+          "room": "205",
+          "subgroup": null,
+          "notes": "по 15.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Шатаева О.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "по 22.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика (ознакомительная практика по профилю Математика)",
+          "type": "other",
+          "teacher": "доц. Тесля О.Ю",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Шатаева О.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "05.11"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Программирование",
+          "type": "lab",
+          "teacher": "ст. пр. Бобров В.А.",
+          "room": "209",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология",
+          "type": "lecture",
+          "teacher": "доц. Горбенко И.А",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "доц. Горбенко И.А",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Суворов В.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "доц. Суворов В.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Алгебра",
+          "type": "lecture",
+          "teacher": "доц. Карташова А.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математический анализ",
+          "type": "practice",
+          "teacher": "доц. Удовенко Л.Н",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "доц. Карташова А.В",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Информационные системы",
+          "type": "lecture",
+          "teacher": "доц. Соболева М.Л",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "доц. Арсеньева О.Е",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Информационные системы",
+          "type": "lab",
+          "teacher": "доц. Соболева М.Л.",
+          "room": "209",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Геометрия",
+          "type": "lecture",
+          "teacher": "доц. Арсеньева О.Е",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Информационные системы",
+          "type": "lab",
+          "teacher": "ассист. Приходько Ю.Д",
+          "room": "210",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "teacher": "проф. Матвеев Е.М",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Программирование",
+          "type": "lab",
+          "teacher": "ст. пр. Бобров В.А.",
+          "room": "209",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Программирование",
+          "type": "lecture",
+          "teacher": "ст. пр. Бобров В.А",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "lecture",
+          "teacher": "доц. Шатаева О.В",
+          "room": "205",
+          "subgroup": null,
+          "notes": "по 15.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Шатаева О.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "по 22.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика (ознакомительная практика по профилю Математика)",
+          "type": "other",
+          "teacher": "доц. Тесля О.Ю",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Шатаева О.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "05.11"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Программирование",
+          "type": "lab",
+          "teacher": "ст. пр. Бобров В.А.",
+          "room": "209",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология",
+          "type": "lecture",
+          "teacher": "доц. Горбенко И.А",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "доц. Горбенко И.А",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

@@ -23,6 +23,17 @@
       "updated_at": "2026-09-08T23:12:30.962373+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
+    },
+    {
+      "id": "math",
+      "name": "Институт математики и информатики",
+      "short_name": "ИМиИ",
+      "campus": "ИМиИ",
+      "campus_address": "ул. Краснопрудная, 14",
+      "groups_count": 25,
+      "updated_at": "2026-09-08T23:12:46.500446+00:00",
+      "status": "ok",
+      "parser_used": "pdfplumber"
     }
   ]
 }

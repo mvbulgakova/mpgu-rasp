@@ -1,0 +1,296 @@
+{
+  "name": "ЗОМ34-СТО2511",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.01 - Педагогическое образование",
+  "profile": "Современные технологии обучения математике и информатике в информационной образовательной среде",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Сальникова О.А",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методические основы обучения решению математических задач в школе",
+          "type": "practice",
+          "teacher": "доц. Соколова Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методы решения задач курса алгебры и начал математического анализа в школе (углубленный уровень)",
+          "type": "practice",
+          "teacher": "проф. Седова Е.А",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 1.1 Системы динамической математики",
+          "type": "lab",
+          "teacher": "доц. Нателаури Н.К",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Д/В 2.1 Методика обучения вероятности и статистике в школе",
+          "type": "lab",
+          "teacher": "доц. Орлова Т.С",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Практикум по алгоритмизации и программированию",
+          "type": "lab",
+          "teacher": "ст. пр. Бутарев К.В.",
+          "room": "210",
+          "subgroup": 1,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. Еремин Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "19.09"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. Еремин Е.В",
+          "room": "301",
+          "subgroup": null,
+          "notes": "12.09, 26.09"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. Еремин Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "19.09"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. Еремин Е.В",
+          "room": "301",
+          "subgroup": null,
+          "notes": "12.09, 26.09, 10.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. Еремин Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "10.10, 21.11"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. Еремин Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "21.11"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Сальникова О.А",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методические основы обучения решению математических задач в школе",
+          "type": "practice",
+          "teacher": "доц. Соколова Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методы решения задач курса алгебры и начал математического анализа в школе (углубленный уровень)",
+          "type": "practice",
+          "teacher": "проф. Седова Е.А",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 1.1 Системы динамической математики",
+          "type": "lab",
+          "teacher": "доц. Нателаури Н.К",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Д/В 2.1 Методика обучения вероятности и статистике в школе",
+          "type": "lab",
+          "teacher": "доц. Орлова Т.С",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Практикум по алгоритмизации и программированию",
+          "type": "lab",
+          "teacher": "ст. пр. Бутарев К.В.",
+          "room": "210",
+          "subgroup": 1,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. Еремин Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "19.09"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. Еремин Е.В",
+          "room": "301",
+          "subgroup": null,
+          "notes": "12.09, 26.09"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. Еремин Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "19.09"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. Еремин Е.В",
+          "room": "301",
+          "subgroup": null,
+          "notes": "12.09, 26.09, 10.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. Еремин Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "10.10, 21.11"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. Еремин Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "21.11"
+        }
+      ]
+    }
+  }
+}

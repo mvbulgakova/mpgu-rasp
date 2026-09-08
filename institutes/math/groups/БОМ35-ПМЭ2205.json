@@ -1,0 +1,452 @@
+{
+  "name": "БОМ35-ПМЭ2205",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 - Педагогическое образование (с двумя профилями подготовки)",
+  "profile": "Математика и Экономика",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д/В 1.1 Дополнительные главы дискретной математики",
+          "type": "practice",
+          "teacher": "доц. Хилюк Е.А",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Кибербезопасность",
+          "type": "practice",
+          "teacher": "доц. Ковалев Е.Е",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д/В 1.1 Дополнительные главы дискретной математики",
+          "type": "practice",
+          "teacher": "доц. Хилюк Е.А",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Кибербезопасность",
+          "type": "practice",
+          "teacher": "доц. Ковалев Е.Е",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Институциональная экономика",
+          "type": "practice",
+          "teacher": "проф. Лихачев М.О",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Мировая экономика и международные отношения",
+          "type": "lecture",
+          "teacher": "проф. Авдокушин Е.Ф",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Институциональная экономика",
+          "type": "lecture",
+          "teacher": "проф. Лихачев М.О",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Мировая экономика и международные отношения",
+          "type": "practice",
+          "teacher": "проф. Авдокушин Е.Ф",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д/В 1.2 Разработка электронных образовательных ресурсов на платформе МЭШ",
+          "type": "lab",
+          "teacher": "проф. Маняхина В.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Образовательные технологии в обучении математике и экономике",
+          "type": "practice",
+          "teacher": "доц. Нателаури Н.К",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии воспитания средствами учебного предмета",
+          "type": "practice",
+          "teacher": "проф. Фирстова Н.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии воспитания средствами учебного предмета",
+          "type": "practice",
+          "teacher": "проф. Фирстова Н.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Образовательные технологии в обучении математике и экономике",
+          "type": "lecture",
+          "teacher": "доц. Нателаури Н.К",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элементарная математика",
+          "type": "practice",
+          "teacher": "доц. Субботина И.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Элементарная математика",
+          "type": "lecture",
+          "teacher": "доц. Субботина И.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Образовательные технологии в обучении математике и экономике",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социально-экономическая статистика",
+          "type": "lecture",
+          "teacher": "ст. пр. Москвитин А.Г",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социально-экономическая статистика",
+          "type": "practice",
+          "teacher": "ст. пр. Москвитин А.Г",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социально-экономическая статистика",
+          "type": "practice",
+          "teacher": "ст. пр. Москвитин А.Г",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д/В 1.1 Дополнительные главы дискретной математики",
+          "type": "practice",
+          "teacher": "доц. Хилюк Е.А",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Кибербезопасность",
+          "type": "practice",
+          "teacher": "доц. Ковалев Е.Е",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д/В 1.1 Дополнительные главы дискретной математики",
+          "type": "practice",
+          "teacher": "доц. Хилюк Е.А",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Кибербезопасность",
+          "type": "practice",
+          "teacher": "доц. Ковалев Е.Е",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Институциональная экономика",
+          "type": "practice",
+          "teacher": "проф. Лихачев М.О",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Мировая экономика и международные отношения",
+          "type": "lecture",
+          "teacher": "проф. Авдокушин Е.Ф",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Институциональная экономика",
+          "type": "lecture",
+          "teacher": "проф. Лихачев М.О",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Мировая экономика и международные отношения",
+          "type": "practice",
+          "teacher": "проф. Авдокушин Е.Ф",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д/В 1.2 Разработка электронных образовательных ресурсов на платформе МЭШ",
+          "type": "lab",
+          "teacher": "проф. Маняхина В.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Образовательные технологии в обучении математике и экономике",
+          "type": "practice",
+          "teacher": "доц. Нателаури Н.К",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии воспитания средствами учебного предмета",
+          "type": "practice",
+          "teacher": "проф. Фирстова Н.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии воспитания средствами учебного предмета",
+          "type": "practice",
+          "teacher": "проф. Фирстова Н.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Образовательные технологии в обучении математике и экономике",
+          "type": "lecture",
+          "teacher": "доц. Нателаури Н.К",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элементарная математика",
+          "type": "practice",
+          "teacher": "доц. Субботина И.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Элементарная математика",
+          "type": "lecture",
+          "teacher": "доц. Субботина И.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Образовательные технологии в обучении математике и экономике",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социально-экономическая статистика",
+          "type": "lecture",
+          "teacher": "ст. пр. Москвитин А.Г",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социально-экономическая статистика",
+          "type": "practice",
+          "teacher": "ст. пр. Москвитин А.Г",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социально-экономическая статистика",
+          "type": "practice",
+          "teacher": "ст. пр. Москвитин А.Г",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

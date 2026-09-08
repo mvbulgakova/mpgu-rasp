@@ -1,0 +1,298 @@
+{
+  "name": "ВОМ23-ММИ2407",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "01.03.01 - Математика",
+  "profile": "Преподавание математики",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Функциональный анализ",
+          "type": "practice",
+          "teacher": "доц. Лукьянова Е.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "practice",
+          "teacher": "доц. Лукьянова Е.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теоретические основы информатики",
+          "type": "lab",
+          "teacher": "доц. Муравьева О.В",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту 2 п/гр, улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Функциональный анализ",
+          "type": "practice",
+          "teacher": "доц. Лукьянова Е.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психолого-педагогические основы образовательной деятельности",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Численные методы",
+          "type": "lab",
+          "teacher": "проф. Деза Е.И.",
+          "room": "210",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория чисел",
+          "type": "practice",
+          "teacher": "доц. Иконникова Т.К",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения и воспитания (математика и информатика)",
+          "type": "practice",
+          "teacher": "доц. Нателаури Н.К.",
+          "room": "208",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дифференциальная геометрия и топология",
+          "type": "practice",
+          "teacher": "доц. Игнаточкина Л.А",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения и воспитания (математика и информатика)",
+          "type": "practice",
+          "teacher": "доц. Нателаури Н.К.",
+          "room": "208",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту 1 п/гр, улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Функциональный анализ",
+          "type": "practice",
+          "teacher": "доц. Лукьянова Е.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Математическая логика и теория алгоритмов",
+          "type": "practice",
+          "teacher": "доц. Лукьянова Е.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теоретические основы информатики",
+          "type": "lab",
+          "teacher": "доц. Муравьева О.В",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту 2 п/гр, улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Функциональный анализ",
+          "type": "practice",
+          "teacher": "доц. Лукьянова Е.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психолого-педагогические основы образовательной деятельности",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Численные методы",
+          "type": "lab",
+          "teacher": "проф. Деза Е.И.",
+          "room": "210",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория чисел",
+          "type": "practice",
+          "teacher": "доц. Иконникова Т.К",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения и воспитания (математика и информатика)",
+          "type": "practice",
+          "teacher": "доц. Нателаури Н.К.",
+          "room": "208",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дифференциальная геометрия и топология",
+          "type": "practice",
+          "teacher": "доц. Игнаточкина Л.А",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения и воспитания (математика и информатика)",
+          "type": "practice",
+          "teacher": "доц. Нателаури Н.К.",
+          "room": "208",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту 1 п/гр, улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}
