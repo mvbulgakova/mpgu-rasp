@@ -1,5 +1,17 @@
 {
   "generated_at": "2026-09-08T23:12:24.247794+00:00",
   "academic_year": "2026-2027",
-  "institutes": []
+  "institutes": [
+    {
+      "id": "sport",
+      "name": "Институт физической культуры, спорта и здоровья",
+      "short_name": "ИФКСиЗ",
+      "campus": "КГФ",
+      "campus_address": "пр-т Вернадского, 88",
+      "groups_count": 15,
+      "updated_at": "2026-09-08T23:12:26.943283+00:00",
+      "status": "ok",
+      "parser_used": "gsheets"
+    }
+  ]
 }

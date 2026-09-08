@@ -1,0 +1,806 @@
+{
+  "name": "БОЗ35-ФБЖ2201",
+  "year": 5,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ (с двумя профилями подготовки)",
+  "profile": "Физическая культура и Безопасность жизнедеятельности",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-ФБЖ2201 (30)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания предмета \"Физическая культура\"",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания предмета \"Физическая культура\"",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "218",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания предмета \"Физическая культура\"",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания предмета \"Физическая культура\"",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "218",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Спортивная медицина",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Спортивная медицина",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "221",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "lecture",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "lecture",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": "221",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "practice",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-ФБЖ2201 (30)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Комплексная безопасность образовательной организации",
+          "type": "lecture",
+          "teacher": "проф. Газизулин Т.Г",
+          "room": "КГФ",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Комплексная безопасность образовательной организации",
+          "type": "lecture",
+          "teacher": "проф. Газизулин Т.Г",
+          "room": "КГФ",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Природные опасности и защита от них",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Старцев А.М",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Проектирование просветительских программ по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Природные опасности и защита от них",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Старцев А.М",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Проектирование просветительских программ по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-ФБЖ2201 (30)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Кибербезопасность",
+          "type": "lecture",
+          "teacher": "ст. преп. Савин М.Э",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Кибербезопасность",
+          "type": "lecture",
+          "teacher": "ст. преп. Савин М.Э",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Проектирование просветительских программ по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Проектирование просветительских программ по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-ФБЖ2201 (30)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Проектирование просветительских программ по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Проектирование просветительских программ по физической",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "культуре , Гроф. Гросс И.Л",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "practice",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Проектирование просветительских программ по физической",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "культуре , Гроф. Гросс И.Л",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Спортивная медицина",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "practice",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Спортивная медицина",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-ФБЖ2201 (30)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-ФБЖ2201 (30)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания предмета \"Физическая культура\"",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания предмета \"Физическая культура\"",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "218",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания предмета \"Физическая культура\"",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания предмета \"Физическая культура\"",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "218",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Спортивная медицина",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Спортивная медицина",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "221",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "lecture",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "lecture",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": "221",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "practice",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-ФБЖ2201 (30)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Комплексная безопасность образовательной организации",
+          "type": "lecture",
+          "teacher": "проф. Газизулин Т.Г",
+          "room": "КГФ",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Комплексная безопасность образовательной организации",
+          "type": "lecture",
+          "teacher": "проф. Газизулин Т.Г",
+          "room": "КГФ",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Природные опасности и защита от них",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Старцев А.М",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Проектирование просветительских программ по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Природные опасности и защита от них",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Старцев А.М",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Проектирование просветительских программ по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-ФБЖ2201 (30)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Кибербезопасность",
+          "type": "lecture",
+          "teacher": "ст. преп. Савин М.Э",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Кибербезопасность",
+          "type": "lecture",
+          "teacher": "ст. преп. Савин М.Э",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Проектирование просветительских программ по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Проектирование просветительских программ по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-ФБЖ2201 (30)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Проектирование просветительских программ по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Проектирование просветительских программ по физической",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "культуре , Гроф. Гросс И.Л",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "practice",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Проектирование просветительских программ по физической",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "культуре , Гроф. Гросс И.Л",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Спортивная медицина",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "practice",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Спортивная медицина",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-ФБЖ2201 (30)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

@@ -1,0 +1,608 @@
+{
+  "name": "ВОЗ34-ФКС2502",
+  "year": 2,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+  "profile": "Физическая культура и Спортивная подготовка",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Гимнастика с методикой преподавания",
+          "type": "lecture",
+          "teacher": "ст. преп. Дворянова С.А",
+          "room": "гимнастический зал",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Правовые основы профессиональной деятельности в сфере физической культуры и спорта",
+          "type": "practice",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "101",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Профессиональная деятельность педагога по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гилев Г.А",
+          "room": "215",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Профессиональная деятельность педагога по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гилев Г.А",
+          "room": "215",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЭК по физической культуре и спорту: Футбол",
+          "type": "other",
+          "teacher": "доц. Машков К.Ю",
+          "room": "с/з №1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВOЗ34-ФКС2502 (24)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "асс. Стельмах Е.Г",
+          "room": "214",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Легкая атлетика с методикой преподавания",
+          "type": "lecture",
+          "teacher": "доц. Столяр Л.М",
+          "room": "с/з №1",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Легкая атлетика с методикой преподавания",
+          "type": "lecture",
+          "teacher": "доц. Столяр Л.М",
+          "room": "с/з №1",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "teacher": "проф. Левикова С.И",
+          "room": "214",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "lecture",
+          "teacher": "ст.преп. Игнатова О.В",
+          "room": "216",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Спортивные и подвижные игры с методикой преподавания",
+          "type": "lecture",
+          "teacher": "доц. Терентьев В.В",
+          "room": "с/з №3",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВOЗ34-ФКС2502 (24)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВOЗ34-ФКС2502 (24)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "- 12:15",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Плавание с методикой преподавания",
+          "type": "practice",
+          "teacher": "доц. Усачев Н.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "с 16.09 до 09.12"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "бассейн СОШ №1741",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ул. Никулинская, д.5, корп.3",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Тарасова Ю.А",
+          "room": "101",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и методика физического воспитания",
+          "type": "practice",
+          "teacher": "ст. преп. Ерина Ю.И",
+          "room": "214",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и методика физического воспитания",
+          "type": "practice",
+          "teacher": "ст. преп. Ерина Ю.И",
+          "room": "101",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВOЗ34-ФКС2502 (24)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ДЕНЬ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРАКТИЧЕСКОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПОДГОТОВКИ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВOЗ34-ФКС2502 (24)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Гимнастика с методикой преподавания",
+          "type": "lecture",
+          "teacher": "ст. преп. Дворянова С.А",
+          "room": "гимнастический зал",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Правовые основы профессиональной деятельности в сфере физической культуры и спорта",
+          "type": "practice",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "101",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Профессиональная деятельность педагога по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гилев Г.А",
+          "room": "215",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Профессиональная деятельность педагога по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гилев Г.А",
+          "room": "215",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЭК по физической культуре и спорту: Футбол",
+          "type": "other",
+          "teacher": "доц. Машков К.Ю",
+          "room": "с/з №1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВOЗ34-ФКС2502 (24)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "асс. Стельмах Е.Г",
+          "room": "214",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Легкая атлетика с методикой преподавания",
+          "type": "lecture",
+          "teacher": "доц. Столяр Л.М",
+          "room": "с/з №1",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Легкая атлетика с методикой преподавания",
+          "type": "lecture",
+          "teacher": "доц. Столяр Л.М",
+          "room": "с/з №1",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "teacher": "проф. Левикова С.И",
+          "room": "214",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "lecture",
+          "teacher": "ст.преп. Игнатова О.В",
+          "room": "216",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Спортивные и подвижные игры с методикой преподавания",
+          "type": "lecture",
+          "teacher": "доц. Терентьев В.В",
+          "room": "с/з №3",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВOЗ34-ФКС2502 (24)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВOЗ34-ФКС2502 (24)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "- 12:15",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Плавание с методикой преподавания",
+          "type": "practice",
+          "teacher": "доц. Усачев Н.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "с 16.09 до 09.12"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "бассейн СОШ №1741",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ул. Никулинская, д.5, корп.3",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Тарасова Ю.А",
+          "room": "101",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и методика физического воспитания",
+          "type": "practice",
+          "teacher": "ст. преп. Ерина Ю.И",
+          "room": "214",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и методика физического воспитания",
+          "type": "practice",
+          "teacher": "ст. преп. Ерина Ю.И",
+          "room": "101",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВOЗ34-ФКС2502 (24)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ДЕНЬ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРАКТИЧЕСКОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПОДГОТОВКИ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВOЗ34-ФКС2502 (24)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

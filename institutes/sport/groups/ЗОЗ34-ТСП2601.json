@@ -1,0 +1,544 @@
+{
+  "name": "ЗОЗ34-ТСП2601",
+  "year": 1,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+  "profile": "Теория спорта и технологии спортивной подготовки",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЗOЗ34-ТСП2601",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доц. Калита М.Е",
+          "room": "216",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "доц. Горохов С.А",
+          "room": "214",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доц. Калита М.Е",
+          "room": "216",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "доц. Горохов С.А",
+          "room": "214",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доц. Калита М.Е",
+          "room": "216",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "доц. Горохов С.А",
+          "room": "214",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЗOЗ34-ТСП2601",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория периодизации спортивной тренировки и ее практическое приложение",
+          "type": "lecture",
+          "teacher": "проф. Ким Т.К",
+          "room": "213",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Управление учебно-тренировочным процессом",
+          "type": "lecture",
+          "teacher": "проф. Сафошин А.В",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Управление учебно-тренировочным процессом",
+          "type": "lecture",
+          "teacher": "проф. Сафошин А.В",
+          "room": "218",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЗOЗ34-ТСП2601",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЗOЗ34-ТСП2601",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Научно-методическое, программно-нормативное и информационное обеспечение подготовки спортсменов различной квалификации",
+          "type": "lecture",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "214",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Научно-методическое, программно-нормативное и информационное обеспечение подготовки спортсменов различной квалификации",
+          "type": "lecture",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "214",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЗOЗ34-ТСП2601",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Общая теория спорта и ее прикладные аспекты",
+          "type": "lecture",
+          "teacher": "проф. Овчинников В.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Общая теория спорта и ее прикладные аспекты",
+          "type": "lecture",
+          "teacher": "проф. Овчинников В.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "наименование дисциплины (форма проведения занятия) должность и ФИО",
+          "type": "other",
+          "teacher": "преподавателя",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "1 неделя (ЧЕТНАЯ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "2 неделя (НЕЧЕТНАЯ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЗOЗ34-ТСП2601",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доц. Калита М.Е",
+          "room": "216",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "доц. Горохов С.А",
+          "room": "214",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доц. Калита М.Е",
+          "room": "216",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "доц. Горохов С.А",
+          "room": "214",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доц. Калита М.Е",
+          "room": "216",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "доц. Горохов С.А",
+          "room": "214",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЗOЗ34-ТСП2601",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория периодизации спортивной тренировки и ее практическое приложение",
+          "type": "lecture",
+          "teacher": "проф. Ким Т.К",
+          "room": "213",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Управление учебно-тренировочным процессом",
+          "type": "lecture",
+          "teacher": "проф. Сафошин А.В",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Управление учебно-тренировочным процессом",
+          "type": "lecture",
+          "teacher": "проф. Сафошин А.В",
+          "room": "218",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЗOЗ34-ТСП2601",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЗOЗ34-ТСП2601",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Научно-методическое, программно-нормативное и информационное обеспечение подготовки спортсменов различной квалификации",
+          "type": "lecture",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "214",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Научно-методическое, программно-нормативное и информационное обеспечение подготовки спортсменов различной квалификации",
+          "type": "lecture",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "214",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЗOЗ34-ТСП2601",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Общая теория спорта и ее прикладные аспекты",
+          "type": "lecture",
+          "teacher": "проф. Овчинников В.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Общая теория спорта и ее прикладные аспекты",
+          "type": "lecture",
+          "teacher": "проф. Овчинников В.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "наименование дисциплины (форма проведения занятия) должность и ФИО",
+          "type": "other",
+          "teacher": "преподавателя",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "1 неделя (ЧЕТНАЯ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "2 неделя (НЕЧЕТНАЯ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

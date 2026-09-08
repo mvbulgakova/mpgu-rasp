@@ -1,0 +1,586 @@
+{
+  "name": "ЗОЗ34-ТСП2501",
+  "year": 2,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+  "profile": "Теория спорта и технологии спортивной подготовки",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Медико-биологическое обеспечение учебно-тренировочного процесса и спортивных соревнований",
+          "type": "practice",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "101",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методы и методология научного исследования в сфере физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "проф, Гилев Г.А",
+          "room": "215",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Медико-биологическое обеспечение учебно-тренировочного процесса и спортивных соревнований",
+          "type": "practice",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "101",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Методы и методология научного исследования в сфере физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "проф, Гилев Г.А",
+          "room": "215",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЗOЗ34-ТСП2501",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Горбунова",
+          "room": "218",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Горбунова",
+          "room": "218",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЗOЗ34-ТСП2501",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Медико-биологическое обеспечение учебно-тренировочного процесса и спортивных соревнований",
+          "type": "lecture",
+          "teacher": "доц. Петрова Н.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЗOЗ34-ТСП2501",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Физкультурно-спортивные сооружения",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "213",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Профилированная теория и методика игровых видов спорта",
+          "type": "lecture",
+          "teacher": "доц. Егоров А.В",
+          "room": "с/з №3",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Профилированная теория и методика циклических видов спорта",
+          "type": "lecture",
+          "teacher": "доц. Столяр Л.М",
+          "room": "с/з №1",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Физкультурно-спортивные сооружения",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "213",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Профилированная теория и методика игровых видов спорта",
+          "type": "lecture",
+          "teacher": "доц. Егоров А.В",
+          "room": "с/з №3",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Профилированная теория и методика циклических видов спорта",
+          "type": "practice",
+          "teacher": "доц. Столяр Л.М",
+          "room": "с/з №1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЗOЗ34-ТСП2501",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Общая теория спорта и ее прикладные аспекты",
+          "type": "lecture",
+          "teacher": "проф. Овчинников В.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Общая теория спорта и ее прикладные аспекты",
+          "type": "lecture",
+          "teacher": "проф. Овчинников В.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "наименование дисциплины (форма проведения занятия) должность и ФИО",
+          "type": "other",
+          "teacher": "преподавателя",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "1 неделя (ЧЕТНАЯ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "2 неделя (НЕЧЕТНАЯ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Медико-биологическое обеспечение учебно-тренировочного процесса и спортивных соревнований",
+          "type": "practice",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "101",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методы и методология научного исследования в сфере физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "проф, Гилев Г.А",
+          "room": "215",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Медико-биологическое обеспечение учебно-тренировочного процесса и спортивных соревнований",
+          "type": "practice",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "101",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Методы и методология научного исследования в сфере физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "проф, Гилев Г.А",
+          "room": "215",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЗOЗ34-ТСП2501",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Горбунова",
+          "room": "218",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Горбунова",
+          "room": "218",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЗOЗ34-ТСП2501",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Медико-биологическое обеспечение учебно-тренировочного процесса и спортивных соревнований",
+          "type": "lecture",
+          "teacher": "доц. Петрова Н.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЗOЗ34-ТСП2501",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Физкультурно-спортивные сооружения",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "213",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Профилированная теория и методика игровых видов спорта",
+          "type": "lecture",
+          "teacher": "доц. Егоров А.В",
+          "room": "с/з №3",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Профилированная теория и методика циклических видов спорта",
+          "type": "lecture",
+          "teacher": "доц. Столяр Л.М",
+          "room": "с/з №1",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Физкультурно-спортивные сооружения",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "213",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Профилированная теория и методика игровых видов спорта",
+          "type": "lecture",
+          "teacher": "доц. Егоров А.В",
+          "room": "с/з №3",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Профилированная теория и методика циклических видов спорта",
+          "type": "practice",
+          "teacher": "доц. Столяр Л.М",
+          "room": "с/з №1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЗOЗ34-ТСП2501",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Общая теория спорта и ее прикладные аспекты",
+          "type": "lecture",
+          "teacher": "проф. Овчинников В.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Общая теория спорта и ее прикладные аспекты",
+          "type": "lecture",
+          "teacher": "проф. Овчинников В.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "наименование дисциплины (форма проведения занятия) должность и ФИО",
+          "type": "other",
+          "teacher": "преподавателя",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "1 неделя (ЧЕТНАЯ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "2 неделя (НЕЧЕТНАЯ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

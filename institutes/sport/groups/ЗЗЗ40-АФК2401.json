@@ -1,0 +1,358 @@
+{
+  "name": "ЗЗЗ40-АФК2401",
+  "year": 1,
+  "form": "correspondence",
+  "degree": "master",
+  "direction": "44.04.02 ПСИХОЛОГО-ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+  "profile": "Адаптивная физическая культура и современные методики реабилитации",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Взаимодействие с лицами с ОВЗ и инвалидностью в социальной и профессиональных сферах",
+          "type": "lecture",
+          "teacher": "проф. Евтушенко И.В",
+          "room": "my.mts-link.ru/j/58897487/24012129229",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Оздоровительные технологии",
+          "type": "lecture",
+          "teacher": "доц. Куксова М.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология развития",
+          "type": "lecture",
+          "teacher": "проф. Воробьев С.В",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Взаимодействие с лицами с ОВЗ и инвалидностью в социальной и профессиональных сферах",
+          "type": "lecture",
+          "teacher": "проф. Евтушенко И.В",
+          "room": "my.mts-link.ru/j/58897487/24012129229",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Оздоровительные технологии",
+          "type": "lecture",
+          "teacher": "доц. Куксова М.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология развития",
+          "type": "lecture",
+          "teacher": "проф. Воробьев С.В",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Взаимодействие с лицами с ОВЗ и инвалидностью в социальной и профессиональных сферах",
+          "type": "lecture",
+          "teacher": "проф. Евтушенко И.В",
+          "room": "my.mts-link.ru/j/58897487/24012129229",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЗZЗ40-АФК2401",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психология развития",
+          "type": "lecture",
+          "teacher": "проф. Воробьев С.В",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Оздоровительные технологии",
+          "type": "lecture",
+          "teacher": "доц. Куксова М.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "наименование дисциплины (форма проведения занятия) должность и ФИО",
+          "type": "other",
+          "teacher": "преподавателя",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "заместитель директора по учебной работе: Шонус Д.Х",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "44.04.02 ПСИХОЛОГО-ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "«Адаптивная физическая культура и современные методики реабилитации»",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "с 01.09.2026-06.12.2026",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Взаимодействие с лицами с ОВЗ и инвалидностью в социальной и профессиональных сферах",
+          "type": "lecture",
+          "teacher": "проф. Евтушенко И.В",
+          "room": "my.mts-link.ru/j/58897487/24012129229",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Оздоровительные технологии",
+          "type": "lecture",
+          "teacher": "доц. Куксова М.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология развития",
+          "type": "lecture",
+          "teacher": "проф. Воробьев С.В",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Взаимодействие с лицами с ОВЗ и инвалидностью в социальной и профессиональных сферах",
+          "type": "lecture",
+          "teacher": "проф. Евтушенко И.В",
+          "room": "my.mts-link.ru/j/58897487/24012129229",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Оздоровительные технологии",
+          "type": "lecture",
+          "teacher": "доц. Куксова М.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология развития",
+          "type": "lecture",
+          "teacher": "проф. Воробьев С.В",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Взаимодействие с лицами с ОВЗ и инвалидностью в социальной и профессиональных сферах",
+          "type": "lecture",
+          "teacher": "проф. Евтушенко И.В",
+          "room": "my.mts-link.ru/j/58897487/24012129229",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЗZЗ40-АФК2401",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психология развития",
+          "type": "lecture",
+          "teacher": "проф. Воробьев С.В",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Оздоровительные технологии",
+          "type": "lecture",
+          "teacher": "доц. Куксова М.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "наименование дисциплины (форма проведения занятия) должность и ФИО",
+          "type": "other",
+          "teacher": "преподавателя",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "заместитель директора по учебной работе: Шонус Д.Х",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "44.04.02 ПСИХОЛОГО-ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "«Адаптивная физическая культура и современные методики реабилитации»",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "с 01.09.2026-06.12.2026",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
