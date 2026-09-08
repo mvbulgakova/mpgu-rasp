@@ -1,11 +1,11 @@
 """Cell-by-cell audit dump: parser output for every group + every lesson.
 
-Run: python3 scratchpad/dump_all_lessons.py > scratchpad/audit_all.txt
+Run: python3 -m scraper.tools.dump_all_lessons > scratchpad/audit_all.txt
 """
 import sys
 from pathlib import Path
 
-sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from scraper.parsers.pdf_parser import PDFParser
 from scraper.parsers.excel_parser import ExcelParser

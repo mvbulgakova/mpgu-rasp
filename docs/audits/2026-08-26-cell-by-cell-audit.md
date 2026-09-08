@@ -14,7 +14,8 @@ D9 fix` и обнаружила три класса дефектов, невид
 | **journalism** | `2-kurs-zhurnalistika.pdf` | pdf | 3 | 40 | там же |
 | **history** | `dnevnoe-2026-2027-1-semestr-2.xlsx` | excel | 42 | 2 311 | там же |
 
-Автогенерация дампа: `python3 scratchpad/dump_all_lessons.py`.
+Автогенерация дампа: `python3 -m scraper.tools.dump_all_lessons > scratchpad/audit_all.txt`
+(сам дамп — 2700 строк машинного вывода — в репозитории не хранится).
 
 ## Новые дефекты (D11, D12, D13) и фиксы
 
