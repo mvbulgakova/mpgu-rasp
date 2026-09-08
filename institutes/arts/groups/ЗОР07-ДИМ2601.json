@@ -1,0 +1,116 @@
+{
+  "name": "ЗОР07-ДИМ2601",
+  "year": 1,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "54.04.01 Дизайн",
+  "profile": "54.04.01 Дизайн мультимедиа",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "АНИМАЦИЯ",
+          "type": "lecture",
+          "teacher": "доц. Ксения Владимировна Зотова",
+          "room": "208",
+          "subgroup": null,
+          "notes": "только 12.09, затем ПЗ с 19.09"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "lecture",
+          "teacher": "проф. Нина Анатольевна Дмитриева",
+          "room": "s-02.dot.mpgu.su/html5client/ или https://el.mpgu.su/mod/bigbluebuttonbn/view.php?id=325932",
+          "subgroup": null,
+          "notes": "только 19.09, 3.10, 17.10, 31.10, 14.11, 28.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "АНИМАЦИЯ",
+          "type": "lecture",
+          "teacher": "доц. Ксения Владимировна Зотова",
+          "room": "208",
+          "subgroup": null,
+          "notes": "только 12.09, затем ПЗ с 19.09"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "practice",
+          "teacher": "проф. Нина Анатольевна Дмитриева",
+          "room": "s-02.dot.mpgu.su/html5client/ или https://el.mpgu.su/mod/bigbluebuttonbn/view.php?id=325932",
+          "subgroup": null,
+          "notes": "только 19.09, 3.10, 17.10, 31.10, 14.11, 28.11"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "АНИМАЦИЯ",
+          "type": "lecture",
+          "teacher": "доц. Ксения Владимировна Зотова",
+          "room": "208",
+          "subgroup": null,
+          "notes": "только 12.09, затем ПЗ с 19.09"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "lecture",
+          "teacher": "проф. Нина Анатольевна Дмитриева",
+          "room": "s-02.dot.mpgu.su/html5client/ или https://el.mpgu.su/mod/bigbluebuttonbn/view.php?id=325932",
+          "subgroup": null,
+          "notes": "только 19.09, 3.10, 17.10, 31.10, 14.11, 28.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "АНИМАЦИЯ",
+          "type": "lecture",
+          "teacher": "доц. Ксения Владимировна Зотова",
+          "room": "208",
+          "subgroup": null,
+          "notes": "только 12.09, затем ПЗ с 19.09"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "practice",
+          "teacher": "проф. Нина Анатольевна Дмитриева",
+          "room": "s-02.dot.mpgu.su/html5client/ или https://el.mpgu.su/mod/bigbluebuttonbn/view.php?id=325932",
+          "subgroup": null,
+          "notes": "только 19.09, 3.10, 17.10, 31.10, 14.11, 28.11"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "name": "ЗОР34-ИИХ2601",
+  "year": 1,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.01 Педагогическое образование",
+  "profile": "44.04.01 Изобразительное искусство в художественном образовании",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "type": "lecture",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "317",
+          "subgroup": null,
+          "notes": "только 15.09, затем ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТЕОРИЯ И ПРАКТИКА ИЗОБРАЗИТЕЛЬНОЙ ДЕЯТЕЛЬНОСТИ ДЕТЕЙ",
+          "type": "lecture",
+          "teacher": "проф. Сергей Евгеньевич Игнатьев",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 22.09 по 17.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ",
+          "type": "other",
+          "teacher": "ЖИВОПИСИ (ЛК только 15.09, затем ПЗ) проф",
+          "room": "408",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "type": "lecture",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "317",
+          "subgroup": null,
+          "notes": "только 15.09, затем ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТЕОРИЯ И ПРАКТИКА ИЗОБРАЗИТЕЛЬНОЙ ДЕЯТЕЛЬНОСТИ ДЕТЕЙ",
+          "type": "practice",
+          "teacher": "проф. Сергей Евгеньевич Игнатьев",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 22.09"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
+          "type": "practice",
+          "teacher": "проф. Леонид",
+          "room": "408",
+          "subgroup": null,
+          "notes": "с 15.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "type": "lecture",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "317",
+          "subgroup": null,
+          "notes": "только 15.09, затем ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
+          "type": "practice",
+          "teacher": "проф. Леонид",
+          "room": "408",
+          "subgroup": null,
+          "notes": "с 15.09"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "УЧЕБНАЯ ПРАКТИКА",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Г Р Е В Т Е Ч",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ",
+          "type": "other",
+          "teacher": "ЖИВОПИСИ (ЛК только 17.09, затем ПЗ) проф",
+          "room": "408",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
+          "type": "practice",
+          "teacher": "проф. Леонид Георгиевич Медведев",
+          "room": "408",
+          "subgroup": null,
+          "notes": "с 17.09"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "СОВРЕМЕННЫЕ КОНЦЕПЦИИ В ХУДОЖЕСТВЕННОМ ОБРАЗОВАНИИ",
+          "type": "lecture",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 10.09"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "type": "lecture",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "317",
+          "subgroup": null,
+          "notes": "только 17.09, затем ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
+          "type": "practice",
+          "teacher": "проф. Леонид Георгиевич Медведев",
+          "room": "408",
+          "subgroup": null,
+          "notes": "с 17.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "СОВРЕМЕННЫЕ КОНЦЕПЦИИ В ХУДОЖЕСТВЕННОМ ОБРАЗОВАНИИ",
+          "type": "practice",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 10.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "type": "lecture",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "317",
+          "subgroup": null,
+          "notes": "только 17.09, затем ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "type": "practice",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "А Ц И Т Я П",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "lecture",
+          "teacher": "проф. Нина Анатольевна Дмитриева, (дист)",
+          "room": "teams.live.com/l/community/FEAx7IWUm7nIefDiAI",
+          "subgroup": null,
+          "notes": "с 3.10 по 31.10"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "lecture",
+          "teacher": "проф. Нина Анатольевна Дмитриева, (дист)",
+          "room": "teams.live.com/l/community/FEAx7IWUm7nIefDiAI",
+          "subgroup": null,
+          "notes": "с 26.09 по 24.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "practice",
+          "teacher": "проф. Нина Анатольевна Дмитриева, (дист)",
+          "room": "teams.live.com/l/community/FEAx7IWUm7nIefDiAI",
+          "subgroup": null,
+          "notes": "с 3.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "practice",
+          "teacher": "проф. Нина Анатольевна Дмитриева, (дист)",
+          "room": "teams.live.com/l/community/FEAx7IWUm7nIefDiAI",
+          "subgroup": null,
+          "notes": "с 26.09"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "type": "lecture",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "317",
+          "subgroup": null,
+          "notes": "только 15.09, затем ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТЕОРИЯ И ПРАКТИКА ИЗОБРАЗИТЕЛЬНОЙ ДЕЯТЕЛЬНОСТИ ДЕТЕЙ",
+          "type": "lecture",
+          "teacher": "проф. Сергей Евгеньевич Игнатьев",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 22.09 по 17.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ",
+          "type": "other",
+          "teacher": "ЖИВОПИСИ (ЛК только 15.09, затем ПЗ) проф",
+          "room": "408",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "type": "lecture",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "317",
+          "subgroup": null,
+          "notes": "только 15.09, затем ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТЕОРИЯ И ПРАКТИКА ИЗОБРАЗИТЕЛЬНОЙ ДЕЯТЕЛЬНОСТИ ДЕТЕЙ",
+          "type": "practice",
+          "teacher": "проф. Сергей Евгеньевич Игнатьев",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 22.09"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
+          "type": "practice",
+          "teacher": "проф. Леонид",
+          "room": "408",
+          "subgroup": null,
+          "notes": "с 15.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "type": "lecture",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "317",
+          "subgroup": null,
+          "notes": "только 15.09, затем ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
+          "type": "practice",
+          "teacher": "проф. Леонид",
+          "room": "408",
+          "subgroup": null,
+          "notes": "с 15.09"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "УЧЕБНАЯ ПРАКТИКА",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Г Р Е В Т Е Ч",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ",
+          "type": "other",
+          "teacher": "ЖИВОПИСИ (ЛК только 17.09, затем ПЗ) проф",
+          "room": "408",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
+          "type": "practice",
+          "teacher": "проф. Леонид Георгиевич Медведев",
+          "room": "408",
+          "subgroup": null,
+          "notes": "с 17.09"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "СОВРЕМЕННЫЕ КОНЦЕПЦИИ В ХУДОЖЕСТВЕННОМ ОБРАЗОВАНИИ",
+          "type": "lecture",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 10.09"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "type": "lecture",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "317",
+          "subgroup": null,
+          "notes": "только 17.09, затем ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
+          "type": "practice",
+          "teacher": "проф. Леонид Георгиевич Медведев",
+          "room": "408",
+          "subgroup": null,
+          "notes": "с 17.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "СОВРЕМЕННЫЕ КОНЦЕПЦИИ В ХУДОЖЕСТВЕННОМ ОБРАЗОВАНИИ",
+          "type": "practice",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 10.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "type": "lecture",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "317",
+          "subgroup": null,
+          "notes": "только 17.09, затем ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "type": "practice",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "lecture",
+          "teacher": "проф. Нина Анатольевна Дмитриева, (дист)",
+          "room": "teams.live.com/l/community/FEAx7IWUm7nIefDiAI",
+          "subgroup": null,
+          "notes": "с 3.10 по 31.10"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "lecture",
+          "teacher": "проф. Нина Анатольевна Дмитриева, (дист)",
+          "room": "teams.live.com/l/community/FEAx7IWUm7nIefDiAI",
+          "subgroup": null,
+          "notes": "с 26.09 по 24.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "practice",
+          "teacher": "проф. Нина Анатольевна Дмитриева, (дист)",
+          "room": "teams.live.com/l/community/FEAx7IWUm7nIefDiAI",
+          "subgroup": null,
+          "notes": "с 3.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "practice",
+          "teacher": "проф. Нина Анатольевна Дмитриева, (дист)",
+          "room": "teams.live.com/l/community/FEAx7IWUm7nIefDiAI",
+          "subgroup": null,
+          "notes": "с 26.09"
+        }
+      ]
+    }
+  }
+}

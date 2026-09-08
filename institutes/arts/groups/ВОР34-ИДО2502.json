@@ -1,0 +1,531 @@
+{
+  "name": "ВОР34-ИДО2502",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 Педагогическое образование (БВО)",
+  "profile": "Изобразительное искусство и дополнительное образование",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Александр Иванович Филимонов",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Александр Иванович Филимонов",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "practice",
+          "teacher": "проф. Светлана Николаевна Морозюк",
+          "room": "216",
+          "subgroup": null,
+          "notes": "с 14.09"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "ст. преп. Елена Александровна Толстая",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "ст. преп. Елена Александровна Толстая",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "БЕЗОПАСНОСТЬ ЖИЗНЕДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "доц. Мариам Рустамовна Максиняева",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 13.10 по 24.11"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПЕРСПЕКТИВА",
+          "type": "practice",
+          "teacher": "проф. Елена Игоревна Корзинова",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Александр Иванович Филимонов",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПЕРСПЕКТИВА",
+          "type": "practice",
+          "teacher": "проф. Елена Игоревна Корзинова",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Александр Иванович Филимонов",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "ст.преп. Антон Юрьевич Бурнашов",
+          "room": "спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПЕДАГОГИКА",
+          "type": "practice",
+          "teacher": "доц. Любовь Михайловна Кузьмина",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 17.09"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "проф. Наталья Ростиславовна Геворгян",
+          "room": "teams.microsoft.com/meet/343694117036306?p=twBat1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИСТОРИЯ ВИЗУАЛЬНО-ПРОСТРАНСТВЕННЫХ ИСКУССТВ",
+          "type": "practice",
+          "teacher": "доц. Анна Фрунзеевна",
+          "room": "221",
+          "subgroup": null,
+          "notes": "с 04.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "проф. Наталья Ростиславовна Геворгян",
+          "room": "teams.microsoft.com/meet/3436941170",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "проф. Наталья Ростиславовна Геворгян",
+          "room": "teams.microsoft.com/meet/343694117036306?p=twBat1",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Светлана Геннадьевна Брызгалова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Светлана Геннадьевна Брызгалова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Анастасия Юрьевна Быданова",
+          "room": "304",
+          "subgroup": null,
+          "notes": "с 5.09"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Анастасия Юрьевна Быданова",
+          "room": "304",
+          "subgroup": null,
+          "notes": "с 5.09"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Александр Иванович Филимонов",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Александр Иванович Филимонов",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "practice",
+          "teacher": "проф. Светлана Николаевна Морозюк",
+          "room": "216",
+          "subgroup": null,
+          "notes": "с 14.09"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "ст. преп. Елена Александровна Толстая",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "ст. преп. Елена Александровна Толстая",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ И АНТИКОРРУПЦИОННОЕ ПОВЕДЕНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Наталья Васильевна Черноусова",
+          "room": "207",
+          "subgroup": null,
+          "notes": "только 22.09, 6.10, 20.10, 3.11, 17.11"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПЕРСПЕКТИВА",
+          "type": "practice",
+          "teacher": "проф. Елена Игоревна Корзинова",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Александр Иванович Филимонов",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПЕРСПЕКТИВА",
+          "type": "practice",
+          "teacher": "проф. Елена Игоревна Корзинова",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Александр Иванович Филимонов",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "ст.преп. Антон Юрьевич Бурнашов",
+          "room": "спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "проф. Наталья Ростиславовна Геворгян",
+          "room": "teams.microsoft.com/meet/3436941170",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "БЕЗОПАСНОСТЬ ЖИЗНЕДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "доц. Мариам Рустамовна Максиняева",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 9.10 по 20.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "проф. Наталья Ростиславовна Геворгян",
+          "room": "teams.microsoft.com/meet/343694117036306?p=twBat1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИСТОРИЯ ВИЗУАЛЬНО-ПРОСТРАНСТВЕННЫХ ИСКУССТВ",
+          "type": "practice",
+          "teacher": "доц. Анна Фрунзеевна",
+          "room": "221",
+          "subgroup": null,
+          "notes": "с 04.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТЕХНОЛОГИИ ОКАЗАНИЯ ПЕРВОЙ ПОМОЩИ",
+          "type": "practice",
+          "teacher": "доц. Игорь Анатольевич Кузнецов",
+          "room": "212",
+          "subgroup": null,
+          "notes": "только 10.09, 24.09, 8.10, 22.10, 5.11"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "проф. Наталья Ростиславовна Геворгян",
+          "room": "teams.microsoft.com/meet/343694117036306?p=twBat1",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Светлана Геннадьевна Брызгалова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Светлана Геннадьевна Брызгалова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Анастасия Юрьевна Быданова",
+          "room": "304",
+          "subgroup": null,
+          "notes": "с 5.09"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Анастасия Юрьевна Быданова",
+          "room": "304",
+          "subgroup": null,
+          "notes": "с 5.09"
+        }
+      ]
+    }
+  }
+}

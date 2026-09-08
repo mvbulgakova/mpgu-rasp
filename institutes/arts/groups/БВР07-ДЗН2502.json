@@ -1,0 +1,388 @@
+{
+  "name": "БВР07-ДЗН2502",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "54.03.01 Дизайн",
+  "profile": "Дизайн",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "АКАДЕМИЧЕСКАЯ ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "асс. Алена Игоревна Удалова",
+          "room": "417",
+          "subgroup": null,
+          "notes": "с 14.09 по 23.11"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКАЯ ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "асс. Алена Игоревна Удалова",
+          "room": "412",
+          "subgroup": null,
+          "notes": "с 14.09 по 23.11"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ И ЭТИЧЕСКИЕ ОСНОВЫ ПЕДАГОГИЧЕСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "ст.преп. Наталья Васильевна Черноусова",
+          "room": "220",
+          "subgroup": null,
+          "notes": "только 6.10, 20.10, 3.11, 17.11"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ГРАФИЧЕСКОЕ СОПРОВОЖДЕНИЕ ПРОЕКТА",
+          "type": "practice",
+          "teacher": "ст.преп. Анастасия Юрьевна Быданова, (дист)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЦИФРОВЫЕ ТЕХНОЛОГИИ В ДИЗАЙНЕ (ВЕКТОРНАЯ ГРАФИКА)",
+          "type": "practice",
+          "teacher": "доц. Илья Юрьевич Демьяненко, (дист) https:",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПРОЕКТИРОВАНИЕ В КОММУНИКАТИВНОМ ДИЗАЙНЕ",
+          "type": "practice",
+          "teacher": "проф. Галина Михайловна Салтыкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПРОЕКТИРОВАНИЕ В КОММУНИКАТИВНОМ ДИЗАЙНЕ",
+          "type": "practice",
+          "teacher": "проф. Галина Михайловна Салтыкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ШРИФТ В ДИЗАЙНЕ",
+          "type": "practice",
+          "teacher": "асс. Паршина Клара Валерьевна",
+          "room": "209",
+          "subgroup": null,
+          "notes": "до 21.11"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БЕЗОПАСНОСТЬ ЖИЗНЕДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "доц. Мариам Рустамовна Максиняева",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 9.10 по 4.12"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Борис Дариспанович Танделов",
+          "room": "317",
+          "subgroup": null,
+          "notes": "с 18.09"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "other",
+          "teacher": null,
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "other",
+          "teacher": null,
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Борис Дариспанович Танделов",
+          "room": "316",
+          "subgroup": null,
+          "notes": "с 18.09"
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "АКАДЕМИЧЕСКАЯ ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "асс. Алена Игоревна Удалова",
+          "room": "417",
+          "subgroup": null,
+          "notes": "с 14.09 по 23.11"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКАЯ ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "асс. Алена Игоревна Удалова",
+          "room": "412",
+          "subgroup": null,
+          "notes": "с 14.09 по 23.11"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ И ЭТИЧЕСКИЕ ОСНОВЫ ПЕДАГОГИЧЕСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "ст.преп. Наталья Васильевна Черноусова",
+          "room": "220",
+          "subgroup": null,
+          "notes": "только 6.10, 20.10, 3.11, 17.11"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ГРАФИЧЕСКОЕ СОПРОВОЖДЕНИЕ ПРОЕКТА",
+          "type": "practice",
+          "teacher": "ст.преп. Анастасия Юрьевна Быданова, (дист)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЦИФРОВЫЕ ТЕХНОЛОГИИ В ДИЗАЙНЕ (ВЕКТОРНАЯ ГРАФИКА)",
+          "type": "practice",
+          "teacher": "доц. Илья Юрьевич Демьяненко, (дист) https:",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПРОЕКТИРОВАНИЕ В КОММУНИКАТИВНОМ ДИЗАЙНЕ",
+          "type": "practice",
+          "teacher": "проф. Галина Михайловна Салтыкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПРОЕКТИРОВАНИЕ В КОММУНИКАТИВНОМ ДИЗАЙНЕ",
+          "type": "practice",
+          "teacher": "проф. Галина Михайловна Салтыкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ШРИФТ В ДИЗАЙНЕ",
+          "type": "practice",
+          "teacher": "асс. Паршина Клара Валерьевна",
+          "room": "209",
+          "subgroup": null,
+          "notes": "до 21.11"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БЕЗОПАСНОСТЬ ЖИЗНЕДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "доц. Мариам Рустамовна Максиняева",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 9.10 по 4.12"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Борис Дариспанович Танделов",
+          "room": "317",
+          "subgroup": null,
+          "notes": "с 18.09"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "other",
+          "teacher": null,
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "other",
+          "teacher": null,
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Борис Дариспанович Танделов",
+          "room": "316",
+          "subgroup": null,
+          "notes": "с 18.09"
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

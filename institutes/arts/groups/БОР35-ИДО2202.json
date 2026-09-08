@@ -1,0 +1,498 @@
+{
+  "name": "БОР35-ИДО2202",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 Педагогическое образование (с двумя профилями обучения)",
+  "profile": "Изобразительное искусство и дополнительное образование",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "проф. Виктор Петрович Копцев",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "проф. Виктор Петрович Копцев",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "КИБЕРБЕЗОПАСНОСТЬ",
+          "type": "practice",
+          "teacher": "ст.преп. Елена Игоревна Истомина (дист)",
+          "room": null,
+          "subgroup": null,
+          "notes": "только 16.09, 30.09, 14.10, 28.10, 11.11"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПЕЧАТНАЯ ГРАФИКА",
+          "type": "practice",
+          "teacher": "асс. Дарья Сергеевна Миронайте",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПЕЧАТНАЯ ГРАФИКА",
+          "type": "practice",
+          "teacher": "асс. Дарья Сергеевна Миронайте",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Анна Павловна Каретникова",
+          "room": "320",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Анна Павловна Каретникова",
+          "room": "320",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ДЕКОРАТИВНОЕ ИСКУССТВО",
+          "type": "practice",
+          "teacher": "доц. Елена Николаевна Корнеева",
+          "room": "118",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "доц. Елена Александровна Старикова",
+          "room": "411",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ДЕКОРАТИВНОЕ ИСКУССТВО",
+          "type": "practice",
+          "teacher": "доц. Елена Николаевна Корнеева",
+          "room": "118",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "доц. Елена Александровна Старикова",
+          "room": "411",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ДЕКОРАТИВНОЕ ИСКУССТВО",
+          "type": "practice",
+          "teacher": "доц. Елена Николаевна Корнеева",
+          "room": "118",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "доц. Елена Александровна Старикова",
+          "room": "411",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ДЕКОРАТИВНОЕ ИСКУССТВО",
+          "type": "practice",
+          "teacher": "доц. Елена Николаевна Корнеева",
+          "room": "118",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Елена Юрьевна Павловская",
+          "room": "419",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Елена Юрьевна Павловская",
+          "room": "419",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "МЕТОДИКА ПРЕДПРОФЕССИОНАЛЬНОЙ ПОДГОТОВКИ В ОБЛАСТИ ИЗОБРАЗИТЕЛЬНОГО ИСКУССТВА",
+          "type": "practice",
+          "teacher": "проф. Наиля Ахатовна Долгоаршинных",
+          "room": "221",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "КЕРАМИКА",
+          "type": "practice",
+          "teacher": "ст.преп. Ольга Александровна Кубышкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Анна Павловна Каретникова",
+          "room": "320",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Анна Павловна Каретникова",
+          "room": "320",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "НАЦИОНАЛЬНО-КУЛЬТУРНЫЕ ТРАДИЦИИ РОССИИ",
+          "type": "practice",
+          "teacher": "доц. Алёна Владимировна Григораш",
+          "room": "304",
+          "subgroup": null,
+          "notes": "только 19.09, 4.10, 17.10, 31.10 14.11"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "проф. Виктор Петрович Копцев",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "проф. Виктор Петрович Копцев",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "КИБЕРБЕЗОПАСНОСТЬ",
+          "type": "practice",
+          "teacher": "ст.преп. Елена Игоревна Истомина (дист)",
+          "room": null,
+          "subgroup": null,
+          "notes": "только 16.09, 30.09, 14.10, 28.10, 11.11"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПЕЧАТНАЯ ГРАФИКА",
+          "type": "practice",
+          "teacher": "асс. Дарья Сергеевна Миронайте",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПЕЧАТНАЯ ГРАФИКА",
+          "type": "practice",
+          "teacher": "асс. Дарья Сергеевна Миронайте",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Анна Павловна Каретникова",
+          "room": "320",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Анна Павловна Каретникова",
+          "room": "320",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ДЕКОРАТИВНОЕ ИСКУССТВО",
+          "type": "practice",
+          "teacher": "доц. Елена Николаевна Корнеева",
+          "room": "118",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "доц. Елена Александровна Старикова",
+          "room": "411",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ДЕКОРАТИВНОЕ ИСКУССТВО",
+          "type": "practice",
+          "teacher": "доц. Елена Николаевна Корнеева",
+          "room": "118",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "доц. Елена Александровна Старикова",
+          "room": "411",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ДЕКОРАТИВНОЕ ИСКУССТВО",
+          "type": "practice",
+          "teacher": "доц. Елена Николаевна Корнеева",
+          "room": "118",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "доц. Елена Александровна Старикова",
+          "room": "411",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ДЕКОРАТИВНОЕ ИСКУССТВО",
+          "type": "practice",
+          "teacher": "доц. Елена Николаевна Корнеева",
+          "room": "118",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Елена Юрьевна Павловская",
+          "room": "419",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Елена Юрьевна Павловская",
+          "room": "419",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "КЕРАМИКА",
+          "type": "practice",
+          "teacher": "ст.преп. Ольга Александровна Кубышкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "КЕРАМИКА",
+          "type": "practice",
+          "teacher": "ст.преп. Ольга Александровна Кубышкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Анна Павловна Каретникова",
+          "room": "320",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Анна Павловна Каретникова",
+          "room": "320",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "НАЦИОНАЛЬНО-КУЛЬТУРНЫЕ ТРАДИЦИИ РОССИИ",
+          "type": "practice",
+          "teacher": "доц. Алёна Владимировна Григораш",
+          "room": "304",
+          "subgroup": null,
+          "notes": "только 19.09, 4.10, 17.10, 31.10 14.11"
+        }
+      ]
+    }
+  }
+}

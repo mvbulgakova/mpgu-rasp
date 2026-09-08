@@ -1,0 +1,342 @@
+{
+  "name": "БВР07-ДЗН2402",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "54.03.01 Дизайн",
+  "profile": "Дизайн",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВИДЕОМОНТАЖ (21.09, 5.10, 19.10, 2.11, 16.11)",
+          "type": "other",
+          "teacher": "доц. Илья Юрьевич Демьяненко, https:",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ДИЗАЙН)",
+          "type": "practice",
+          "teacher": "проф. Галина Михайловна Салтыкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "other",
+          "teacher": null,
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Борис Дариспанович Танделов",
+          "room": "317",
+          "subgroup": null,
+          "notes": "с 16.09"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "other",
+          "teacher": null,
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Борис Дариспанович Танделов",
+          "room": "319",
+          "subgroup": null,
+          "notes": "с 16.09"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Борис Дариспанович Танделов",
+          "room": "319",
+          "subgroup": null,
+          "notes": "с 9.09"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПРОЕКТИРОВАНИЕ КОРПОРАТИВНОГО СТИЛЯ",
+          "type": "practice",
+          "teacher": "проф. Галина Михайловна Салтыкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "АКАДЕМИЧЕСКАЯ ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "проф. Виктор Петрович Копцев",
+          "room": "414",
+          "subgroup": null,
+          "notes": "до 28.11"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "АКАДЕМИЧЕСКАЯ ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "проф. Виктор Петрович Копцев",
+          "room": "412",
+          "subgroup": null,
+          "notes": "до 5.12"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКАЯ ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "проф. Виктор Петрович Копцев",
+          "room": "414",
+          "subgroup": null,
+          "notes": "до 28.11"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКАЯ ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "проф. Виктор Петрович Копцев",
+          "room": "412",
+          "subgroup": null,
+          "notes": "до 5.12"
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЦИФРОВЫЕ ТЕХНОЛОГИИ В ДИЗАЙНЕ (3D ВИЗУАЛИЗАЦИЯ)",
+          "type": "practice",
+          "teacher": "доц. Григорий Павлович Блуднов",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ХУДОЖЕСТВЕННО-ТЕХНИЧЕСКОЕ РЕДАКТИРОВАНИЕ",
+          "type": "practice",
+          "teacher": "асс. Паршина Клара Валерьевна",
+          "room": "209",
+          "subgroup": null,
+          "notes": "только 19.09, 3.10, 17.10, 31.10 14.11"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВИДЕОМОНТАЖ (21.09, 5.10, 19.10, 2.11, 16.11)",
+          "type": "other",
+          "teacher": "доц. Илья Юрьевич Демьяненко, https:",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ДИЗАЙН)",
+          "type": "practice",
+          "teacher": "проф. Галина Михайловна Салтыкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "other",
+          "teacher": null,
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Борис Дариспанович Танделов",
+          "room": "317",
+          "subgroup": null,
+          "notes": "с 9.09"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "other",
+          "teacher": null,
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Борис Дариспанович Танделов",
+          "room": "319",
+          "subgroup": null,
+          "notes": "с 16.09"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКИЙ РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Борис Дариспанович Танделов",
+          "room": "319",
+          "subgroup": null,
+          "notes": "с 9.09"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПРОЕКТИРОВАНИЕ КОРПОРАТИВНОГО СТИЛЯ",
+          "type": "practice",
+          "teacher": "проф. Галина Михайловна Салтыкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "АКАДЕМИЧЕСКАЯ ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "проф. Виктор Петрович Копцев",
+          "room": "414",
+          "subgroup": null,
+          "notes": "до 28.11"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "АКАДЕМИЧЕСКАЯ ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "проф. Виктор Петрович Копцев",
+          "room": "412",
+          "subgroup": null,
+          "notes": "до 5.12"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКАЯ ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "проф. Виктор Петрович Копцев",
+          "room": "414",
+          "subgroup": null,
+          "notes": "до 28.11"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКАЯ ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "проф. Виктор Петрович Копцев",
+          "room": "412",
+          "subgroup": null,
+          "notes": "до 5.12"
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЦИФРОВЫЕ ТЕХНОЛОГИИ В ДИЗАЙНЕ (3D ВИЗУАЛИЗАЦИЯ)",
+          "type": "practice",
+          "teacher": "доц. Григорий Павлович Блуднов",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ХУДОЖЕСТВЕННО-ТЕХНИЧЕСКОЕ РЕДАКТИРОВАНИЕ",
+          "type": "practice",
+          "teacher": "асс. Паршина Клара Валерьевна",
+          "room": "209",
+          "subgroup": null,
+          "notes": "только 19.09, 3.10, 17.10, 31.10 14.11"
+        }
+      ]
+    }
+  }
+}

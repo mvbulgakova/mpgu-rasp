@@ -1,0 +1,1006 @@
+{
+  "name": "ВОР34-ИДО2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 Педагогическое образование (БВО)",
+  "profile": "Изобразительное искусство и дополнительное образование",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "доц. Александр Георгиевич Смирнов",
+          "room": "telemost.360.yandex.ru/j/5975447444",
+          "subgroup": null,
+          "notes": "с 14.09.26"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "доц. Александр Георгиевич Смирнов",
+          "room": "telemost.360.yandex.ru/j/5975447444",
+          "subgroup": null,
+          "notes": "с 14.09.26"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "доц. Александр Георгиевич Смирнов",
+          "room": "telemost.360.yandex.ru/j/5975447444",
+          "subgroup": null,
+          "notes": "с 14.09.26 по 21.12.26"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая) ЖИВОПИСЬ",
+          "type": "lecture",
+          "teacher": "доц Константин Михайлович Зубрилин",
+          "room": "220",
+          "subgroup": null,
+          "notes": "только 21.09"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РИСУНОК",
+          "type": "lecture",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "220",
+          "subgroup": null,
+          "notes": "только 14.09"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 29.09"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "проф. Рауф Чинчорович Барциц",
+          "room": "320",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЦВЕТОВЕДЕНИЕ И КОЛОРИСТИКА",
+          "type": "practice",
+          "teacher": "ст. преп.. Юлия Алексеевна Николаева",
+          "room": "212",
+          "subgroup": null,
+          "notes": "с 15.09"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЦВЕТОВЕДЕНИЕ И КОЛОРИСТИКА",
+          "type": "practice",
+          "teacher": "ст. преп.. Юлия Алексеевна Николаева",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "проф. Рауф Чинчорович Барциц",
+          "room": "320",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "проф. Наталья Ростиславовна Геворгян",
+          "room": "410",
+          "subgroup": null,
+          "notes": "с 15.09"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "проф. Наталья Ростиславовна Геворгян",
+          "room": "410",
+          "subgroup": null,
+          "notes": "с 22.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 15.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "319",
+          "subgroup": null,
+          "notes": "с 15.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "проф. Наталья Ростиславовна Геворгян",
+          "room": "410",
+          "subgroup": null,
+          "notes": "с 15.09"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "проф. Наталья Ростиславовна Геворгян",
+          "room": "410",
+          "subgroup": null,
+          "notes": "с 22.09"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "319",
+          "subgroup": null,
+          "notes": "с 15.09"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА",
+          "type": "other",
+          "teacher": null,
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА",
+          "type": "other",
+          "teacher": null,
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ЦВЕТОВЕДЕНИЕ И КОЛОРИСТИКА",
+          "type": "lecture",
+          "teacher": "доц. Михаил Людвикович Кагане",
+          "room": "220",
+          "subgroup": null,
+          "notes": "только 24.09"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЦВЕТОВЕДЕНИЕ И КОЛОРИСТИКА",
+          "type": "lecture",
+          "teacher": "доц. Михаил Людвикович Кагане",
+          "room": "220",
+          "subgroup": null,
+          "notes": "только 17.09"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЦВЕТОВЕДЕНИЕ И КОЛОРИСТИКА",
+          "type": "practice",
+          "teacher": "доц. Михаил Людвикович Кагане",
+          "room": null,
+          "subgroup": null,
+          "notes": "с 24.09"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "доц. Игорь Анатольевич Кузнецов",
+          "room": "221",
+          "subgroup": null,
+          "notes": "с 1.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЦВЕТОВЕДЕНИЕ И КОЛОРИСТИКА",
+          "type": "practice",
+          "teacher": "доц. Михаил Людвикович Кагане",
+          "room": null,
+          "subgroup": null,
+          "notes": "с 1.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Мария Леонидовна Макарова",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Мария Леонидовна Макарова",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 25.09 по 20.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 25.09 по 20.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 25.09 по 20.11"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "доц. Наталия Юрьевна Бурнашова",
+          "room": "спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Елена Юрьевна Павловская",
+          "room": "419",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Елена Юрьевна Павловская",
+          "room": "419",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВВЕДЕНИЕ В ПРОФЕССИЮ",
+          "type": "practice",
+          "teacher": "доц. Наталья Викторовна Курбатова",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 3.10"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВВЕДЕНИЕ В ПРОФЕССИЮ",
+          "type": "practice",
+          "teacher": "доц. Наталья Викторовна Курбатова",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 26.09"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "доц. Александр Георгиевич Смирнов",
+          "room": "telemost.360.yandex.ru/j/5975447444",
+          "subgroup": null,
+          "notes": "с 14.09.26"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "доц. Александр Георгиевич Смирнов",
+          "room": "telemost.360.yandex.ru/j/5975447444",
+          "subgroup": null,
+          "notes": "с 14.09.26"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "доц. Александр Георгиевич Смирнов",
+          "room": "telemost.360.yandex.ru/j/5975447444",
+          "subgroup": null,
+          "notes": "с 14.09.26 по 21.12.26"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая) ЖИВОПИСЬ",
+          "type": "lecture",
+          "teacher": "доц Константин Михайлович Зубрилин",
+          "room": "220",
+          "subgroup": null,
+          "notes": "только 21.09"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РИСУНОК",
+          "type": "lecture",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "220",
+          "subgroup": null,
+          "notes": "только 14.09"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 29.09"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "проф. Рауф Чинчорович Барциц",
+          "room": "320",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЦВЕТОВЕДЕНИЕ И КОЛОРИСТИКА",
+          "type": "practice",
+          "teacher": "ст. преп.. Юлия Алексеевна Николаева",
+          "room": "212",
+          "subgroup": null,
+          "notes": "с 15.09"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЦВЕТОВЕДЕНИЕ И КОЛОРИСТИКА",
+          "type": "practice",
+          "teacher": "ст. преп.. Юлия Алексеевна Николаева",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "проф. Рауф Чинчорович Барциц",
+          "room": "320",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "проф. Наталья Ростиславовна Геворгян",
+          "room": "410",
+          "subgroup": null,
+          "notes": "с 15.09"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "проф. Наталья Ростиславовна Геворгян",
+          "room": "410",
+          "subgroup": null,
+          "notes": "с 22.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 15.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "319",
+          "subgroup": null,
+          "notes": "с 15.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "проф. Наталья Ростиславовна Геворгян",
+          "room": "410",
+          "subgroup": null,
+          "notes": "с 15.09"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "проф. Наталья Ростиславовна Геворгян",
+          "room": "410",
+          "subgroup": null,
+          "notes": "с 22.09"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "319",
+          "subgroup": null,
+          "notes": "с 15.09"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА",
+          "type": "other",
+          "teacher": null,
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА",
+          "type": "other",
+          "teacher": null,
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ЦВЕТОВЕДЕНИЕ И КОЛОРИСТИКА",
+          "type": "lecture",
+          "teacher": "доц. Михаил Людвикович Кагане",
+          "room": "220",
+          "subgroup": null,
+          "notes": "только 24.09"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЦВЕТОВЕДЕНИЕ И КОЛОРИСТИКА",
+          "type": "lecture",
+          "teacher": "доц. Михаил Людвикович Кагане",
+          "room": "220",
+          "subgroup": null,
+          "notes": "только 17.09"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЦВЕТОВЕДЕНИЕ И КОЛОРИСТИКА",
+          "type": "practice",
+          "teacher": "доц. Михаил Людвикович Кагане",
+          "room": null,
+          "subgroup": null,
+          "notes": "с 24.09"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "доц. Игорь Анатольевич Кузнецов",
+          "room": "221",
+          "subgroup": null,
+          "notes": "с 1.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЦВЕТОВЕДЕНИЕ И КОЛОРИСТИКА",
+          "type": "practice",
+          "teacher": "доц. Михаил Людвикович Кагане",
+          "room": null,
+          "subgroup": null,
+          "notes": "с 1.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Мария Леонидовна Макарова",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Мария Леонидовна Макарова",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 25.09 по 20.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 25.09 по 20.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 25.09 по 20.11"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "доц. Наталия Юрьевна Бурнашова",
+          "room": "спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Елена Юрьевна Павловская",
+          "room": "419",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Елена Юрьевна Павловская",
+          "room": "419",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВВЕДЕНИЕ В ПРОФЕССИЮ",
+          "type": "practice",
+          "teacher": "доц. Наталья Викторовна Курбатова",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 3.10"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВВЕДЕНИЕ В ПРОФЕССИЮ",
+          "type": "practice",
+          "teacher": "доц. Наталья Викторовна Курбатова",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 26.09"
+        }
+      ]
+    }
+  }
+}

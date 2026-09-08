@@ -1,0 +1,320 @@
+{
+  "name": "БВР07-ДЗН2301",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "54.03.01 Дизайн",
+  "profile": "Дизайн",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПСИХОЛОГИЯ ТВОРЧЕСТВА",
+          "type": "lecture",
+          "teacher": "проф. Олег Евгеньевич Баксанский",
+          "room": "411",
+          "subgroup": null,
+          "notes": "только 14.09, 28.09 затем ПЗ 12.10"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ ВЕБ-ДИЗАЙНА",
+          "type": "lecture",
+          "teacher": "доц. Тамара Степановна Северова",
+          "room": "210",
+          "subgroup": null,
+          "notes": "13.10, 27.10, 10.11, 24.11, затем ПЗ 8.12"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПСИХОЛОГИЯ ТВОРЧЕСТВА",
+          "type": "practice",
+          "teacher": "проф. Олег Евгеньевич Баксанский",
+          "room": "411",
+          "subgroup": null,
+          "notes": "только 14.09, 28.09, 12.10, 26.10"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ ВЕБ-ДИЗАЙНА",
+          "type": "practice",
+          "teacher": "доц. Тамара Степановна Северова",
+          "room": "210",
+          "subgroup": null,
+          "notes": "только 13.10, 27.10, 10.11, 24.11, 8.12"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕХНОЛОГИЯ СОЗДАНИЯ РЕКЛАМНОГО ОБРАЗА",
+          "type": "practice",
+          "teacher": "доц. Илья Юрьевич Демьяненко",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": "до 14.12"
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "доц. Светлана Ивановна Гудилина",
+          "room": "el.mpgu.su/course/view.php?id=389",
+          "subgroup": null,
+          "notes": "только 17.09, затем ПЗ 1.10, 15.10"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ МЕДИАОБРАЗОВАНИЯ",
+          "type": "practice",
+          "teacher": "доц. Светлана Ивановна Гудилина",
+          "room": "el.mpgu.su/course/view.php?id=389",
+          "subgroup": null,
+          "notes": "только 17.09, 1.10, 15.10"
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "СКУЛЬПТУРА",
+          "type": "practice",
+          "teacher": "доц. Александр Анатольевич Ворохоб",
+          "room": "114",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СКУЛЬПТУРА",
+          "type": "practice",
+          "teacher": "доц. Александр Анатольевич Ворохоб",
+          "room": "114",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ТИПОГРАФИКА",
+          "type": "practice",
+          "teacher": "асс. Паршина Клара Валерьевна",
+          "room": "209",
+          "subgroup": null,
+          "notes": "до 14.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТИПОГРАФИКА",
+          "type": "practice",
+          "teacher": "асс. Паршина Клара Валерьевна",
+          "room": "209",
+          "subgroup": null,
+          "notes": "до 14.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРОЕКТИРОВАНИЕ СЕРИЙНОЙ ПРОДУКЦИИ",
+          "type": "lecture",
+          "teacher": "проф. Галина Михайловна Салтыкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРОЕКТИРОВАНИЕ СЕРИЙНОЙ ПРОДУКЦИИ",
+          "type": "practice",
+          "teacher": "проф. Галина Михайловна Салтыкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПСИХОЛОГИЯ ТВОРЧЕСТВА",
+          "type": "lecture",
+          "teacher": "проф. Олег Евгеньевич Баксанский",
+          "room": "411",
+          "subgroup": null,
+          "notes": "только 14.09, 28.09 затем ПЗ 12.10"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОЛЛАЖИРОВАНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Дарья Алексеевна Васильева",
+          "room": "x02.pk.mpgu.su/b/k7r-apm-ogr",
+          "subgroup": null,
+          "notes": "до 3.11"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕХНОЛОГИЯ СОЗДАНИЯ РЕКЛАМНОГО ОБРАЗА",
+          "type": "lecture",
+          "teacher": "доц. Илья Юрьевич Демьяненко",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": "7.09, 21.09, 5.10, 19.10, затем ПЗ до 14.12"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КОЛЛАЖИРОВАНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Дарья Алексеевна Васильева",
+          "room": "x02.pk.mpgu.su/b/k7r-apm-ogr",
+          "subgroup": null,
+          "notes": "до 3.11"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕХНОЛОГИЯ СОЗДАНИЯ РЕКЛАМНОГО ОБРАЗА",
+          "type": "practice",
+          "teacher": "доц. Илья Юрьевич Демьяненко",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": "до 14.12"
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ СОЦИАЛЬНОЙ ЭКОЛОГИИ",
+          "type": "lecture",
+          "teacher": "ст.преп. Юлия Игоревна Ермакова",
+          "room": "us05web.zoom.us/j/83154656450?pwd=cUhDT05QZGszbUQwYTROa3YzV2J0QT",
+          "subgroup": null,
+          "notes": "только 10.09, затем ПЗ 24.09, 8.10"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ СОЦИАЛЬНОЙ ЭКОЛОГИИ",
+          "type": "practice",
+          "teacher": "ст.преп. Юлия Игоревна Ермакова",
+          "room": "us05web.zoom.us/j/83154656450?pwd=cUhDT05QZGszbUQwYTROa3YzV2J0QT",
+          "subgroup": null,
+          "notes": "только 10.09, 24.09, 8.10"
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФОТОГРАФИКА",
+          "type": "practice",
+          "teacher": "доц. Александр Владимирович Рузаев",
+          "room": "207",
+          "subgroup": null,
+          "notes": "с 11.09 по 6.11"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ФОТОГРАФИКА",
+          "type": "practice",
+          "teacher": "доц. Александр Владимирович Рузаев",
+          "room": "207",
+          "subgroup": null,
+          "notes": "с 11.09 по 6.11"
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ТИПОГРАФИКА",
+          "type": "practice",
+          "teacher": "асс. Паршина Клара Валерьевна",
+          "room": "209",
+          "subgroup": null,
+          "notes": "до 14.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТИПОГРАФИКА",
+          "type": "practice",
+          "teacher": "асс. Паршина Клара Валерьевна",
+          "room": "209",
+          "subgroup": null,
+          "notes": "до 14.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРОЕКТИРОВАНИЕ СЕРИЙНОЙ ПРОДУКЦИИ",
+          "type": "practice",
+          "teacher": "проф. Галина Михайловна Салтыкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРОЕКТИРОВАНИЕ СЕРИЙНОЙ ПРОДУКЦИИ (КУРСОВОЙ ПРОЕКТ)",
+          "type": "other",
+          "teacher": "проф. Галина Михайловна Салтыкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

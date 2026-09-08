@@ -1,0 +1,520 @@
+{
+  "name": "ВОР34-ИДО2402",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 Педагогическое образование (БВО)",
+  "profile": "Изобразительное искусство и дополнительное образование",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "доц. Елена Александровна Старикова",
+          "room": "216",
+          "subgroup": null,
+          "notes": "с 8.09 по 3.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "АНАТОМИЧЕСКИЙ РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Александр Иванович Филимонов",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "АНАТОМИЧЕСКИЙ РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Александр Иванович Филимонов",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Дмитрий Владимирович Волков",
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Дмитрий Владимирович Волков",
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "ст.преп. Антон Юрьевич Бурнашов",
+          "room": "спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Николай Алексеевич Кирсанов",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "ст.преп. Юлия Алексеевна Николаева",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Николай Алексеевич Кирсанов",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "ст.преп. Юлия Алексеевна Николаева",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ ИЗОБРАЗИТЕЛЬНОМУ ИСКУССТВУ",
+          "type": "practice",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 16.09 до 25.11"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ ИЗОБРАЗИТЕЛЬНОМУ ИСКУССТВУ",
+          "type": "practice",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 9.09"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПЕДАГОГИКА",
+          "type": "practice",
+          "teacher": "доц. Любовь Михайловна Кузьмина",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Анастасия Юрьевна Быданова",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ ГОСУДАРСТВЕННОЙ ПОЛИТИКИ В СФЕРЕ МЕЖЭТНИЧЕСКИХ И МЕЖКОНФЕССИОНАЛЬНЫХ ОТНОШЕНИЙ",
+          "type": "practice",
+          "teacher": "ст.преп. Айказ Маисович Микаелян",
+          "room": "209",
+          "subgroup": null,
+          "notes": "только 17.09, 1.10, 15.10, 29.10, 12.11"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "ст.преп. Антон Юрьевич Бурнашов",
+          "room": "спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКТИК",
+          "type": "practice",
+          "teacher": "доц. Марина Сергеевна Сотникова",
+          "room": "216",
+          "subgroup": null,
+          "notes": "с 18.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Анастасия Юрьевна Быданова, дист",
+          "room": "telemost.yandex.ru/j/78981938411338",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "доц. Елена Александровна Старикова",
+          "room": "216",
+          "subgroup": null,
+          "notes": "с 8.09 по 3.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "доц. Елена Александровна Старикова",
+          "room": "216",
+          "subgroup": null,
+          "notes": "с 8.09 по 3.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Дмитрий Владимирович Волков",
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Дмитрий Владимирович Волков",
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Дмитрий Владимирович Волков",
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "ст.преп. Антон Юрьевич Бурнашов",
+          "room": "спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Николай Алексеевич Кирсанов",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "ст.преп. Юлия Алексеевна Николаева",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Николай Алексеевич Кирсанов",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "ст.преп. Юлия Алексеевна Николаева",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ ВИЗУАЛЬНО-ПРОСТРАНСТВЕННЫХ ИСКУССТВ",
+          "type": "practice",
+          "teacher": "доц. Елена Александровна Андреева",
+          "room": "216",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ ИЗОБРАЗИТЕЛЬНОМУ ИСКУССТВУ",
+          "type": "practice",
+          "teacher": "доц. Александр Сергеевич Хлебников",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 9.09"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПЕДАГОГИКА",
+          "type": "practice",
+          "teacher": "доц. Любовь Михайловна Кузьмина",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Анастасия Юрьевна Быданова",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ ГОСУДАРСТВЕННОЙ ПОЛИТИКИ В СФЕРЕ МЕЖЭТНИЧЕСКИХ И МЕЖКОНФЕССИОНАЛЬНЫХ ОТНОШЕНИЙ",
+          "type": "practice",
+          "teacher": "ст.преп. Айказ Маисович Микаелян",
+          "room": "209",
+          "subgroup": null,
+          "notes": "только 17.09, 1.10, 15.10, 29.10, 12.11"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Анастасия Юрьевна Быданова, дист",
+          "room": "telemost.yandex.ru/j/78981938411338",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
