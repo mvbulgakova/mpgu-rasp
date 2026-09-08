@@ -1,0 +1,1248 @@
+{
+  "name": "БОИ35-ИИН2304",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения истории",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения истории",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения истории",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения истории",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дисциплины по выбору:",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Источниковедение истории России",
+          "type": "other",
+          "teacher": "доц. Горский В.В",
+          "room": "334",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Источниковедение истории древнего мира и средних веков",
+          "type": "other",
+          "teacher": "доц. Куликова Ю.В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Источниковедение новой и новейшей истории",
+          "type": "other",
+          "teacher": "доц. Рафалюк С.Ю",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплины по выбору: Источниковедение истории России",
+          "type": "practice",
+          "teacher": "доц. Горский В.В",
+          "room": "334",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Источниковедение новейшей отечественной истории",
+          "type": "other",
+          "teacher": "проф. Половецкий С.Д",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Источниковедение истории древнего мира и средних веков",
+          "type": "other",
+          "teacher": "доц. Куликова Ю.В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Источниковедение новой и новейшей истории",
+          "type": "other",
+          "teacher": "доц. Рафалюк С.Ю",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплины по выбору: Источниковедение истории России",
+          "type": "practice",
+          "teacher": "доц. Горский В.В",
+          "room": "334",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Источниковедение новейшей отечественной истории",
+          "type": "other",
+          "teacher": "проф. Половецкий С.Д",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Источниковедение истории древнего мира и средних веков",
+          "type": "other",
+          "teacher": "доц. Куликова Ю.В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Источниковедение новой и новейшей истории",
+          "type": "other",
+          "teacher": "доц. Рафалюк С.Ю",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практика устной и письменной речи АЯ",
+          "type": "practice",
+          "teacher": "доц. Григорян А.В",
+          "room": "336",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практика устной и письменной речи АЯ",
+          "type": "practice",
+          "teacher": "доц. Григорян А.В",
+          "room": "336",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практика устной и письменной речи АЯ",
+          "type": "practice",
+          "teacher": "доц. Григорян А.В",
+          "room": "336",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практика устной и письменной речи АЯ",
+          "type": "practice",
+          "teacher": "доц. Григорян А.В",
+          "room": "336",
+          "subgroup": 2,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дисциплины по выбору (ЛК/ПЗ): Технологии воспитания средствами учебного предмета",
+          "type": "lecture",
+          "teacher": "доц. Несмелова М.Л",
+          "room": "326",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору (ЛК/ПЗ):",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Деловое общение",
+          "type": "other",
+          "teacher": "доц. Александрова Г.В",
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплины по выбору (ЛК/ПЗ): Технологии воспитания средствами учебного предмета",
+          "type": "lecture",
+          "teacher": "доц. Несмелова М.Л",
+          "room": "326",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору (ЛК/ПЗ):",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Деловое общение",
+          "type": "other",
+          "teacher": "доц. Александрова Г.В",
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплины по выбору (ЛК/ПЗ): Технологии воспитания средствами учебного предмета",
+          "type": "lecture",
+          "teacher": "доц. Несмелова М.Л",
+          "room": "326",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практика устной и письменной речи АЯ",
+          "type": "practice",
+          "teacher": "доц. Григорян А.В",
+          "room": "336",
+          "subgroup": 2,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Коммуникативный практикум английского языка",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплины по выбору:",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Историография истории России",
+          "type": "other",
+          "teacher": "доц. Сергованцев Д.Н",
+          "room": "313",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплины по выбору:",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Историография истории России",
+          "type": "other",
+          "teacher": "доц. Сергованцев Д.Н",
+          "room": "313",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплины по выбору:",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Историография истории России",
+          "type": "other",
+          "teacher": "доц. Сергованцев Д.Н",
+          "room": "313",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплины по выбору:",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Историография новейшей отечественной истории",
+          "type": "other",
+          "teacher": "доц. Еньшина А.А",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дисциплина по выбору (ЛК/ПЗ):",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Формирование современной образовательной среды",
+          "type": "other",
+          "teacher": "ст. пр. Тарабукин И.М",
+          "room": "322",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору (ЛК/ПЗ):",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Формирование современной образовательной среды",
+          "type": "other",
+          "teacher": "ст. пр. Тарабукин И.М",
+          "room": "322",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплины по выбору: Медиасловесность",
+          "type": "lecture",
+          "teacher": "доц. Секриеру А.М",
+          "room": "332",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии работы в МЭШ",
+          "type": "other",
+          "teacher": "ст. пр. Тарабукин И.М",
+          "room": "322",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплины по выбору: Медиасловесность",
+          "type": "practice",
+          "teacher": "доц. Секриеру А.М",
+          "room": "332",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии работы в МЭШ",
+          "type": "other",
+          "teacher": "ст. пр. Тарабукин И.М",
+          "room": "322",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Историография новейшей отечественной истории",
+          "type": "other",
+          "teacher": "доц. Еньшина А.А",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дисциплина по выбору (ЛК/ПЗ):",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Информационная безопасность",
+          "type": "other",
+          "teacher": "ст. пр. Истомина Е.И",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Кибербезопасность",
+          "type": "other",
+          "teacher": "ст. пр. Истомина Е.И",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору (ЛК/ПЗ):",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационная безопасность",
+          "type": "other",
+          "teacher": "ст. пр. Истомина Е.И",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Кибербезопасность",
+          "type": "other",
+          "teacher": "ст. пр. Истомина Е.И",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору (ЛК/ПЗ):",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Информационная безопасность",
+          "type": "other",
+          "teacher": "ст. пр. Истомина Е.И",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Кибербезопасность",
+          "type": "other",
+          "teacher": "ст. пр. Истомина Е.И",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения истории",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения истории",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения истории",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения истории",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дисциплины по выбору:",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Источниковедение истории России",
+          "type": "other",
+          "teacher": "доц. Горский В.В",
+          "room": "334",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Источниковедение истории древнего мира и средних веков",
+          "type": "other",
+          "teacher": "доц. Куликова Ю.В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Источниковедение новой и новейшей истории",
+          "type": "other",
+          "teacher": "доц. Рафалюк С.Ю",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплины по выбору: Источниковедение истории России",
+          "type": "practice",
+          "teacher": "доц. Горский В.В",
+          "room": "334",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Источниковедение новейшей отечественной истории",
+          "type": "other",
+          "teacher": "проф. Половецкий С.Д",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Источниковедение истории древнего мира и средних веков",
+          "type": "other",
+          "teacher": "доц. Куликова Ю.В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Источниковедение новой и новейшей истории",
+          "type": "other",
+          "teacher": "доц. Рафалюк С.Ю",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплины по выбору: Источниковедение истории России",
+          "type": "practice",
+          "teacher": "доц. Горский В.В",
+          "room": "334",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Источниковедение новейшей отечественной истории",
+          "type": "other",
+          "teacher": "проф. Половецкий С.Д",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Источниковедение истории древнего мира и средних веков",
+          "type": "other",
+          "teacher": "доц. Куликова Ю.В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Источниковедение новой и новейшей истории",
+          "type": "other",
+          "teacher": "доц. Рафалюк С.Ю",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практика устной и письменной речи АЯ",
+          "type": "practice",
+          "teacher": "доц. Григорян А.В",
+          "room": "336",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практика устной и письменной речи АЯ",
+          "type": "practice",
+          "teacher": "доц. Григорян А.В",
+          "room": "336",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практика устной и письменной речи АЯ",
+          "type": "practice",
+          "teacher": "доц. Григорян А.В",
+          "room": "336",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практика устной и письменной речи АЯ",
+          "type": "practice",
+          "teacher": "доц. Григорян А.В",
+          "room": "336",
+          "subgroup": 2,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дисциплины по выбору (ЛК/ПЗ): Технологии воспитания средствами учебного предмета",
+          "type": "lecture",
+          "teacher": "доц. Несмелова М.Л",
+          "room": "326",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору (ЛК/ПЗ):",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Деловое общение",
+          "type": "other",
+          "teacher": "доц. Александрова Г.В",
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплины по выбору (ЛК/ПЗ): Технологии воспитания средствами учебного предмета",
+          "type": "lecture",
+          "teacher": "доц. Несмелова М.Л",
+          "room": "326",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору (ЛК/ПЗ):",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Деловое общение",
+          "type": "other",
+          "teacher": "доц. Александрова Г.В",
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплины по выбору (ЛК/ПЗ): Технологии воспитания средствами учебного предмета",
+          "type": "lecture",
+          "teacher": "доц. Несмелова М.Л",
+          "room": "326",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практика устной и письменной речи АЯ",
+          "type": "practice",
+          "teacher": "доц. Григорян А.В",
+          "room": "336",
+          "subgroup": 2,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Коммуникативный практикум английского языка",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплины по выбору:",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Историография истории России",
+          "type": "other",
+          "teacher": "доц. Сергованцев Д.Н",
+          "room": "313",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплины по выбору:",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Историография истории России",
+          "type": "other",
+          "teacher": "доц. Сергованцев Д.Н",
+          "room": "313",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплины по выбору:",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Историография истории России",
+          "type": "other",
+          "teacher": "доц. Сергованцев Д.Н",
+          "room": "313",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплины по выбору:",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Историография новейшей отечественной истории",
+          "type": "other",
+          "teacher": "доц. Еньшина А.А",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дисциплина по выбору (ЛК/ПЗ):",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Формирование современной образовательной среды",
+          "type": "other",
+          "teacher": "ст. пр. Тарабукин И.М",
+          "room": "322",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору (ЛК/ПЗ):",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Формирование современной образовательной среды",
+          "type": "other",
+          "teacher": "ст. пр. Тарабукин И.М",
+          "room": "322",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплины по выбору: Медиасловесность",
+          "type": "lecture",
+          "teacher": "доц. Секриеру А.М",
+          "room": "332",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии работы в МЭШ",
+          "type": "other",
+          "teacher": "ст. пр. Тарабукин И.М",
+          "room": "322",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплины по выбору: Медиасловесность",
+          "type": "practice",
+          "teacher": "доц. Секриеру А.М",
+          "room": "332",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии работы в МЭШ",
+          "type": "other",
+          "teacher": "ст. пр. Тарабукин И.М",
+          "room": "322",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Историография новейшей отечественной истории",
+          "type": "other",
+          "teacher": "доц. Еньшина А.А",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дисциплина по выбору (ЛК/ПЗ):",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Информационная безопасность",
+          "type": "other",
+          "teacher": "ст. пр. Истомина Е.И",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Кибербезопасность",
+          "type": "other",
+          "teacher": "ст. пр. Истомина Е.И",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору (ЛК/ПЗ):",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационная безопасность",
+          "type": "other",
+          "teacher": "ст. пр. Истомина Е.И",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Кибербезопасность",
+          "type": "other",
+          "teacher": "ст. пр. Истомина Е.И",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору (ЛК/ПЗ):",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Информационная безопасность",
+          "type": "other",
+          "teacher": "ст. пр. Истомина Е.И",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Кибербезопасность",
+          "type": "other",
+          "teacher": "ст. пр. Истомина Е.И",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  },
+  "direction": "44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+  "profile": "История и Иностранный язык (английский)"
+}

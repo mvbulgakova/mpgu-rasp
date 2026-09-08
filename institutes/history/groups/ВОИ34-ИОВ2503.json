@@ -1,0 +1,1006 @@
+{
+  "name": "ВОИ34-ИОВ2503",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Хитров Д. А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Хитров Д. А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "ст. пр. Сазонов Д. В",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История стран Запада в Средние века",
+          "type": "practice",
+          "teacher": "доц. Лощилова Т. Н",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "ст. пр. Сазонов Д. В",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Введение в философию",
+          "type": "lecture",
+          "teacher": "доц. Макарьев И. В",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История стран Запада в Средние века",
+          "type": "practice",
+          "teacher": "доц. Лощилова Т. Н",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История стран Запада в Средние века",
+          "type": "lecture",
+          "teacher": "доц. Лощилова Т. Н",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История стран Запада в Средние века",
+          "type": "practice",
+          "teacher": "доц. Лощилова Т. Н",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История стран Запада в Средние века",
+          "type": "practice",
+          "teacher": "доц. Лощилова Т. Н",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "доц. Карпенко А. В",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Карпенко А. В",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": "ст. пр. Куква Р.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Карпенко А. В",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": "ст. пр. Куква Р.В. спорт. зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "проф. Морозюк С. Н",
+          "room": "340",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "проф. Морозюк С. Н",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История стран Востока в Средние века",
+          "type": "practice",
+          "teacher": "проф. Захаров А. О",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "ст. пр. Сазонов Д. В",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": "ст. пр. Куква Р.В. спорт. зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Введение в философию",
+          "type": "practice",
+          "teacher": "доц. Макарьев И. В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История стран Востока в Средние века",
+          "type": "lecture",
+          "teacher": "проф. Захаров А. О",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология",
+          "type": "lecture",
+          "teacher": "проф. Морозюк С. Н",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "проф. Морозюк С. Н",
+          "room": "340",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История стран Востока в Средние века",
+          "type": "practice",
+          "teacher": "проф. Захаров А. О",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "ст. пр. Сазонов Д. В",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Введение в философию",
+          "type": "practice",
+          "teacher": "доц. Макарьев И. В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Фомина О. С",
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "проф. Газизулин Т. Г",
+          "room": "333",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Фомина О. С",
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "проф. Газизулин Т. Г",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "lecture",
+          "teacher": "доц. Цветкова Е. А",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Фомина О.С",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "НПО ПД",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П. В",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "ст. пр. Фомина О. С",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Введение в философию",
+          "type": "practice",
+          "teacher": "доц. Макарьев И. В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "ст. пр. Сазонов Д. В",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Фомина О. С",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "НПО ПД",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П. В",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "ст. пр. Фомина О. С",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Захаров В. Ю",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "НПО ПД",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П. В",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "ст. пр. Фомина О. С",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Захаров В. Ю",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Хитров Д. А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Хитров Д. А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "ст. пр. Сазонов Д. В",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История стран Запада в Средние века",
+          "type": "practice",
+          "teacher": "доц. Лощилова Т. Н",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "ст. пр. Сазонов Д. В",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Введение в философию",
+          "type": "lecture",
+          "teacher": "доц. Макарьев И. В",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История стран Запада в Средние века",
+          "type": "practice",
+          "teacher": "доц. Лощилова Т. Н",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История стран Запада в Средние века",
+          "type": "lecture",
+          "teacher": "доц. Лощилова Т. Н",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История стран Запада в Средние века",
+          "type": "practice",
+          "teacher": "доц. Лощилова Т. Н",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История стран Запада в Средние века",
+          "type": "practice",
+          "teacher": "доц. Лощилова Т. Н",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "доц. Карпенко А. В",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Карпенко А. В",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": "ст. пр. Куква Р.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Карпенко А. В",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": "ст. пр. Куква Р.В. спорт. зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "проф. Морозюк С. Н",
+          "room": "340",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "проф. Морозюк С. Н",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История стран Востока в Средние века",
+          "type": "practice",
+          "teacher": "проф. Захаров А. О",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "ст. пр. Сазонов Д. В",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": "ст. пр. Куква Р.В. спорт. зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Введение в философию",
+          "type": "practice",
+          "teacher": "доц. Макарьев И. В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История стран Востока в Средние века",
+          "type": "lecture",
+          "teacher": "проф. Захаров А. О",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология",
+          "type": "lecture",
+          "teacher": "проф. Морозюк С. Н",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "проф. Морозюк С. Н",
+          "room": "340",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История стран Востока в Средние века",
+          "type": "practice",
+          "teacher": "проф. Захаров А. О",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "ст. пр. Сазонов Д. В",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Введение в философию",
+          "type": "practice",
+          "teacher": "доц. Макарьев И. В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Фомина О. С",
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "проф. Газизулин Т. Г",
+          "room": "333",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Фомина О. С",
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "проф. Газизулин Т. Г",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "lecture",
+          "teacher": "доц. Цветкова Е. А",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Фомина О.С",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "НПО ПД",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П. В",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "ст. пр. Фомина О. С",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Введение в философию",
+          "type": "practice",
+          "teacher": "доц. Макарьев И. В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "ст. пр. Сазонов Д. В",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Фомина О. С",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "НПО ПД",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П. В",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "ст. пр. Фомина О. С",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Захаров В. Ю",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "НПО ПД",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П. В",
+          "room": "323",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "ст. пр. Фомина О. С",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Захаров В. Ю",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  },
+  "direction": "44.03.01 Педагогическое образование",
+  "profile": "История и Обществознание. Организация воспитательной деятельности"
+}

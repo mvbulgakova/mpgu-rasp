@@ -1,0 +1,452 @@
+{
+  "name": "БОИ18-ИПЛ2402",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Новейшая история стран Азии и Африки",
+          "type": "lecture",
+          "teacher": "проф. Никонов О. А",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Иностранный язык в сфере профессиональной коммуникации",
+          "type": "practice",
+          "teacher": "доц. Кандаурова Л. О",
+          "room": "331",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Новейшая история стран Азии и Африки",
+          "type": "practice",
+          "teacher": "проф. Никонов О. А",
+          "room": "332",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Новейшая история стран Европы и Америки",
+          "type": "practice",
+          "teacher": "проф. Белоусова К. А",
+          "room": "336",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Новейшая история стран Европы и Америки",
+          "type": "practice",
+          "teacher": "проф. Белоусова К. А",
+          "room": "336",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Новейшая отечественная история",
+          "type": "lecture",
+          "teacher": "проф. Цветков В. Ж",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору:",
+          "type": "lecture",
+          "teacher": "доц. Новоторцева А. М",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплина по выбору:",
+          "type": "practice",
+          "teacher": "доц. Новоторцева А. М",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Новейшая отечественная история",
+          "type": "practice",
+          "teacher": "проф. Попов В. П",
+          "room": "340",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Новейшая отечественная история",
+          "type": "practice",
+          "teacher": "проф. Попов В. П",
+          "room": "340",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ДПВ: История культуры дореволюционной России",
+          "type": "lecture",
+          "teacher": "проф. Короткова М.В",
+          "room": "322",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплина по выбору:",
+          "type": "practice",
+          "teacher": "доц. Новоторцева А. М",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ДПВ: История культуры дореволюционной России",
+          "type": "practice",
+          "teacher": "проф. Короткова М. В",
+          "room": "322",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Новейшая история стран Европы и Америки",
+          "type": "lecture",
+          "teacher": "проф. Белоусова К. А",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения истории",
+          "type": "lecture",
+          "teacher": "доц. Мальшакова И. Л",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": "ст. пр. Саженев Д.Ю. спорт. зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": "ст. пр. Саженев Д.Ю. спорт. зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения истории",
+          "type": "practice",
+          "teacher": "доц. Мальшакова И. Л",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ДПВ: История культуры дореволюционной России",
+          "type": "practice",
+          "teacher": "проф. Короткова М. В",
+          "room": "322",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Новейшая история стран Азии и Африки",
+          "type": "lecture",
+          "teacher": "проф. Никонов О. А",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Иностранный язык в сфере профессиональной коммуникации",
+          "type": "practice",
+          "teacher": "доц. Кандаурова Л. О",
+          "room": "331",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Новейшая история стран Азии и Африки",
+          "type": "practice",
+          "teacher": "проф. Никонов О. А",
+          "room": "332",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Новейшая история стран Европы и Америки",
+          "type": "practice",
+          "teacher": "проф. Белоусова К. А",
+          "room": "336",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Новейшая история стран Европы и Америки",
+          "type": "practice",
+          "teacher": "проф. Белоусова К. А",
+          "room": "336",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Новейшая отечественная история",
+          "type": "lecture",
+          "teacher": "проф. Цветков В. Ж",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору:",
+          "type": "lecture",
+          "teacher": "доц. Новоторцева А. М",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплина по выбору:",
+          "type": "practice",
+          "teacher": "доц. Новоторцева А. М",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Новейшая отечественная история",
+          "type": "practice",
+          "teacher": "проф. Попов В. П",
+          "room": "340",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Новейшая отечественная история",
+          "type": "practice",
+          "teacher": "проф. Попов В. П",
+          "room": "340",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ДПВ: История культуры дореволюционной России",
+          "type": "lecture",
+          "teacher": "проф. Короткова М.В",
+          "room": "322",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплина по выбору:",
+          "type": "practice",
+          "teacher": "доц. Новоторцева А. М",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ДПВ: История культуры дореволюционной России",
+          "type": "practice",
+          "teacher": "проф. Короткова М. В",
+          "room": "322",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Новейшая история стран Европы и Америки",
+          "type": "lecture",
+          "teacher": "проф. Белоусова К. А",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения истории",
+          "type": "lecture",
+          "teacher": "доц. Мальшакова И. Л",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": "ст. пр. Саженев Д.Ю. спорт. зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": "ст. пр. Саженев Д.Ю. спорт. зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения истории",
+          "type": "practice",
+          "teacher": "доц. Мальшакова И. Л",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ДПВ: История культуры дореволюционной России",
+          "type": "practice",
+          "teacher": "проф. Короткова М. В",
+          "room": "322",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    }
+  },
+  "direction": "46.03.01 История",
+  "profile": "Историческая политология"
+}

@@ -1,0 +1,533 @@
+{
+  "institute_id": "history",
+  "institute_name": "Институт истории и политики",
+  "short_name": "ИИиП",
+  "academic_year": "2026-2027",
+  "updated_at": "2026-09-08T23:12:54.066275+00:00",
+  "parser_used": "excel",
+  "version": 1,
+  "groups": [
+    {
+      "name": "ВОИ18-ИПЛ2601",
+      "file": "ВОИ18-ИПЛ2601",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "46.03.01 История",
+      "profile": "Историческая политология"
+    },
+    {
+      "name": "ВОИ18-ИПЛ2602",
+      "file": "ВОИ18-ИПЛ2602",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "46.03.01 История",
+      "profile": "Историческая политология"
+    },
+    {
+      "name": "ВОИ34-ИОВ2603",
+      "file": "ВОИ34-ИОВ2603",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Обществознание. Организация воспитательной деятельности"
+    },
+    {
+      "name": "ВОИ34-ИОВ2604",
+      "file": "ВОИ34-ИОВ2604",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Обществознание. Организация воспитательной деятельности"
+    },
+    {
+      "name": "ВОИ34-ИОВ2605",
+      "file": "ВОИ34-ИОВ2605",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Обществознание. Организация воспитательной деятельности"
+    },
+    {
+      "name": "ВОИ34-ИИН2606",
+      "file": "ВОИ34-ИИН2606",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Иностранный язык (английский)"
+    },
+    {
+      "name": "ВОИ34-ИИН2607",
+      "file": "ВОИ34-ИИН2607",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Иностранный язык (английский)"
+    },
+    {
+      "name": "ВОЙ37-ППТ2609",
+      "file": "ВОЙ37-ППТ2609",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "41.03.04 Политология",
+      "profile": "Политическая аналитика и политические технологии"
+    },
+    {
+      "name": "БОИ18-ИПЛ2501",
+      "file": "БОИ18-ИПЛ2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "46.03.01 История",
+      "profile": "Историческая политология"
+    },
+    {
+      "name": "БОИ18-ИПЛ2502",
+      "file": "БОИ18-ИПЛ2502",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "46.03.01 История",
+      "profile": "Историческая политология"
+    },
+    {
+      "name": "ВОИ34-ИОВ2503",
+      "file": "ВОИ34-ИОВ2503",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Обществознание. Организация воспитательной деятельности"
+    },
+    {
+      "name": "ВОИ34-ИОВ2504",
+      "file": "ВОИ34-ИОВ2504",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Обществознание. Организация воспитательной деятельности"
+    },
+    {
+      "name": "ВОИ34-ИОВ2505",
+      "file": "ВОИ34-ИОВ2505",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Обществознание. Организация воспитательной деятельности"
+    },
+    {
+      "name": "ВОИ34-ИИН2506",
+      "file": "ВОИ34-ИИН2506",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Иностранный язык (английский)"
+    },
+    {
+      "name": "ВОИ34-ИИН2507",
+      "file": "ВОИ34-ИИН2507",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Иностранный язык (английский)"
+    },
+    {
+      "name": "БОИ18-ИПЛ2401",
+      "file": "БОИ18-ИПЛ2401",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "46.03.01 История",
+      "profile": "Историческая политология"
+    },
+    {
+      "name": "БОИ18-ИПЛ2402",
+      "file": "БОИ18-ИПЛ2402",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "46.03.01 История",
+      "profile": "Историческая политология"
+    },
+    {
+      "name": "ВОИ34-ИОВ2404",
+      "file": "ВОИ34-ИОВ2404",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Обществознание. Организация воспитательной деятельности"
+    },
+    {
+      "name": "ВОИ34-ИОВ2405",
+      "file": "ВОИ34-ИОВ2405",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Обществознание. Организация воспитательной деятельности"
+    },
+    {
+      "name": "ВОИ34-ИОВ2406",
+      "file": "ВОИ34-ИОВ2406",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Обществознание. Организация воспитательной деятельности"
+    },
+    {
+      "name": "ВОИ34-ИИН2407",
+      "file": "ВОИ34-ИИН2407",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Иностранный язык (английский)"
+    },
+    {
+      "name": "ВОИ34-ИИН2408",
+      "file": "ВОИ34-ИИН2408",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Иностранный язык (английский)"
+    },
+    {
+      "name": "БОИ18-ИПЛ2301",
+      "file": "БОИ18-ИПЛ2301",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "46.03.01 История",
+      "profile": "Историческая политология"
+    },
+    {
+      "name": "БОИ35-ИОБ2302",
+      "file": "БОИ35-ИОБ2302",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+      "profile": "История и Обществознание"
+    },
+    {
+      "name": "БОИ35-ИОБ2303",
+      "file": "БОИ35-ИОБ2303",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+      "profile": "История и Обществознание"
+    },
+    {
+      "name": "БОИ35-ИИН2304",
+      "file": "БОИ35-ИИН2304",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+      "profile": "История и Иностранный язык (английский)"
+    },
+    {
+      "name": "ВОИ34-ИОВ2305",
+      "file": "ВОИ34-ИОВ2305",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Обществознание. Организация воспитательной деятельности"
+    },
+    {
+      "name": "ВОИ34-ИОВ2306",
+      "file": "ВОИ34-ИОВ2306",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Обществознание. Организация воспитательной деятельности"
+    },
+    {
+      "name": "БОИ37-ППТ2308",
+      "file": "БОИ37-ППТ2308",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "41.03.04 Политология",
+      "profile": "Политическая аналитика и политические технологии"
+    },
+    {
+      "name": "БОИ35-ИОБ2202",
+      "file": "БОИ35-ИОБ2202",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОИ35-ИОБ2203",
+      "file": "БОИ35-ИОБ2203",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОИ35-ИОБ2204",
+      "file": "БОИ35-ИОБ2204",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОИ35-ИИН2206",
+      "file": "БОИ35-ИИН2206",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": "История и Иностранный язык (английский)"
+    },
+    {
+      "name": "БОИ35-ИИН2207",
+      "file": "БОИ35-ИИН2207",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": "История и Иностранный язык (английский)"
+    },
+    {
+      "name": "БОИ35-ИПР2208",
+      "file": "БОИ35-ИПР2208",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": "История и Право"
+    },
+    {
+      "name": "ЗОИ34-ИНП2601",
+      "file": "ЗОИ34-ИНП2601",
+      "year": null,
+      "form": "full_time",
+      "degree": "master",
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Историческая наука и политология"
+    },
+    {
+      "name": "ЗОИ34-ИНП2602",
+      "file": "ЗОИ34-ИНП2602",
+      "year": null,
+      "form": "full_time",
+      "degree": "master",
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Историческая наука и политология"
+    },
+    {
+      "name": "ЗОИ34-ИВШ2603",
+      "file": "ЗОИ34-ИВШ2603",
+      "year": null,
+      "form": "full_time",
+      "degree": "master",
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Историческое образование в высшей школе"
+    },
+    {
+      "name": "ЗОИ34-РКМ2604",
+      "file": "ЗОИ34-РКМ2604",
+      "year": null,
+      "form": "full_time",
+      "degree": "master",
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Регионоведение Китая и музейная педагогика"
+    },
+    {
+      "name": "ЗОИ34-ИВШ2501",
+      "file": "ЗОИ34-ИВШ2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "master",
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Историческое образование в высшей школе"
+    },
+    {
+      "name": "ЗОИ34-ИНП2502",
+      "file": "ЗОИ34-ИНП2502",
+      "year": null,
+      "form": "full_time",
+      "degree": "master",
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Историческая наука и историческое просвещение"
+    },
+    {
+      "name": "ЗОИ34-УПР2503",
+      "file": "ЗОИ34-УПР2503",
+      "year": null,
+      "form": "full_time",
+      "degree": "master",
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Управление профессиональным ростом учителя истории"
+    },
+    {
+      "name": "МОИ37-ППП2504",
+      "file": "МОИ37-ППП2504",
+      "year": null,
+      "form": "full_time",
+      "degree": "master",
+      "direction": "41.04.04 Политология",
+      "profile": "Политическое прогнозирование и проектирование"
+    },
+    {
+      "name": "ВВИ34-ИСТ2601",
+      "file": "ВВИ34-ИСТ2601",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История"
+    },
+    {
+      "name": "ВВИ34-ИСТ2602",
+      "file": "ВВИ34-ИСТ2602",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История"
+    },
+    {
+      "name": "ВВИ34-ИСТ2501",
+      "file": "ВВИ34-ИСТ2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История"
+    },
+    {
+      "name": "ВВИ34-ИСТ2502",
+      "file": "ВВИ34-ИСТ2502",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История"
+    },
+    {
+      "name": "БВИ34-ИСТ2401",
+      "file": "БВИ34-ИСТ2401",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История"
+    },
+    {
+      "name": "БВИ34-ИСТ2301",
+      "file": "БВИ34-ИСТ2301",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История"
+    },
+    {
+      "name": "БВИ34-ИСТ2201",
+      "file": "БВИ34-ИСТ2201",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История"
+    },
+    {
+      "name": "ВЗИ34-ИСТ2601",
+      "file": "ВЗИ34-ИСТ2601",
+      "year": null,
+      "form": "correspondence",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История"
+    },
+    {
+      "name": "ВЗИ34-ИСТ2602",
+      "file": "ВЗИ34-ИСТ2602",
+      "year": null,
+      "form": "correspondence",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История"
+    },
+    {
+      "name": "ВЗИ34-ИСТ2501",
+      "file": "ВЗИ34-ИСТ2501",
+      "year": null,
+      "form": "correspondence",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История"
+    },
+    {
+      "name": "ВЗИ34-ИСТ2502",
+      "file": "ВЗИ34-ИСТ2502",
+      "year": null,
+      "form": "correspondence",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История"
+    },
+    {
+      "name": "БЗИ34-ИСТ2401",
+      "file": "БЗИ34-ИСТ2401",
+      "year": null,
+      "form": "correspondence",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История"
+    },
+    {
+      "name": "БЗИ34-ИСТ-2201",
+      "file": "БЗИ34-ИСТ-2201",
+      "year": null,
+      "form": "correspondence",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История"
+    },
+    {
+      "name": "ЗЗИ34-УПР2601",
+      "file": "ЗЗИ34-УПР2601",
+      "year": null,
+      "form": "correspondence",
+      "degree": "bachelor",
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Управление профессиональным ростом учителя истории"
+    },
+    {
+      "name": "МЗИ34-УПР2401",
+      "file": "МЗИ34-УПР2401",
+      "year": null,
+      "form": "correspondence",
+      "degree": "bachelor",
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Управление профессиональным ростом учителя истории"
+    }
+  ]
+}

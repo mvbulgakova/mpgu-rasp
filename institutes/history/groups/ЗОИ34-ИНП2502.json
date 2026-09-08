@@ -1,0 +1,250 @@
+{
+  "name": "ЗОИ34-ИНП2502",
+  "year": null,
+  "form": "full_time",
+  "degree": "master",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплины по выбору: Социальная и экономическая история России",
+          "type": "lecture",
+          "teacher": "проф. Лачаева М.Ю",
+          "room": "312",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплины по выбору: Социальная и экономическая история России",
+          "type": "practice",
+          "teacher": "проф. Лачаева М.Ю",
+          "room": "312",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Дисциплины по выбору:",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "История семьи",
+          "type": "seminar",
+          "teacher": "доц. Еремин В.С",
+          "room": "332",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ДПВ (ЛК/ПЗ): Модернизация традиционного общества стран Азии и Африки в новое и новейшее время",
+          "type": "lecture",
+          "teacher": "проф. Никонов О.А",
+          "room": "333",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "ДПВ (ЛК/ПЗ): Военная история России",
+          "type": "lecture",
+          "teacher": "доц. Горский В.В",
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "ст. пр. Мельничук Е.С",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "ст. пр. Мельничук Е.С",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ДПВ: Социально-экономическое многообразие современного мира",
+          "type": "lecture",
+          "teacher": "доц. Бурлаков А.Н",
+          "room": "335",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ДПВ: Социально-экономическое многообразие современного мира",
+          "type": "lecture",
+          "teacher": "доц. Бурлаков А.Н",
+          "room": "335",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплины по выбору: Социальная и экономическая история России",
+          "type": "lecture",
+          "teacher": "проф. Лачаева М.Ю",
+          "room": "312",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплины по выбору: Социальная и экономическая история России",
+          "type": "practice",
+          "teacher": "проф. Лачаева М.Ю",
+          "room": "312",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Дисциплины по выбору:",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "История семьи",
+          "type": "seminar",
+          "teacher": "доц. Еремин В.С",
+          "room": "332",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ДПВ (ЛК/ПЗ): Модернизация традиционного общества стран Азии и Африки в новое и новейшее время",
+          "type": "lecture",
+          "teacher": "проф. Никонов О.А",
+          "room": "333",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "ДПВ (ЛК/ПЗ): Военная история России",
+          "type": "lecture",
+          "teacher": "доц. Горский В.В",
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "ст. пр. Мельничук Е.С",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "ст. пр. Мельничук Е.С",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ДПВ: Социально-экономическое многообразие современного мира",
+          "type": "lecture",
+          "teacher": "доц. Бурлаков А.Н",
+          "room": "335",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ДПВ: Социально-экономическое многообразие современного мира",
+          "type": "lecture",
+          "teacher": "доц. Бурлаков А.Н",
+          "room": "335",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  },
+  "direction": "44.04.01 Педагогическое образование",
+  "profile": "Историческая наука и историческое просвещение"
+}

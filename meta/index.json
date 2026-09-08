@@ -34,6 +34,17 @@
       "updated_at": "2026-09-08T23:12:46.500446+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
+    },
+    {
+      "id": "history",
+      "name": "Институт истории и политики",
+      "short_name": "ИИиП",
+      "campus": "КГФ",
+      "campus_address": "пр-т Вернадского, 88",
+      "groups_count": 58,
+      "updated_at": "2026-09-08T23:12:54.066275+00:00",
+      "status": "ok",
+      "parser_used": "excel"
     }
   ]
 }

@@ -1,0 +1,456 @@
+{
+  "name": "ВОИ34-ИОВ2406",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Новейшая отечественная история",
+          "type": "practice",
+          "teacher": "асс. Воробьев А. В",
+          "room": "345",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Новейшая история стран Европы и Америки",
+          "type": "practice",
+          "teacher": "доц. Бурлаков А. Н",
+          "room": "336",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История Новейшего времени стран Азии и Африки",
+          "type": "lecture",
+          "teacher": "проф. Никонов О. А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Тимохина Ю. Е",
+          "room": "335",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "доц. Тимохина Ю. Е",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Новейшая отечественная история",
+          "type": "lecture",
+          "teacher": "проф. Цветков В. Ж",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения истории",
+          "type": "practice",
+          "teacher": "асс. Морозова Н. Н",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История Новейшего времени стран Азии и Африки",
+          "type": "lecture",
+          "teacher": "проф. Никонов О. А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения истории",
+          "type": "lecture",
+          "teacher": "доц. Саплина Е. В",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения истории",
+          "type": "lecture",
+          "teacher": "доц. Саплина Е. В",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История Новейшего времени стран Европы и Америки",
+          "type": "lecture",
+          "teacher": "проф. Белоусова К. А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История Новейшего времени стран Азии и Африки",
+          "type": "practice",
+          "teacher": "доц. Гарин А. А",
+          "room": "338",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "проф. Морозюк С. Н",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Новейшая отечественная история",
+          "type": "practice",
+          "teacher": "асс. Воробьев А. В",
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Новейшая история стран Европы и Америки",
+          "type": "practice",
+          "teacher": "доц. Бурлаков А. Н",
+          "room": "336",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология воспитательных практик",
+          "type": "lecture",
+          "teacher": "проф. Морозюк С. Н",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология воспитательных практик",
+          "type": "lecture",
+          "teacher": "проф. Морозюк С. Н",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Новейшая отечественная история",
+          "type": "practice",
+          "teacher": "асс. Воробьев А. В",
+          "room": "345",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Новейшая история стран Европы и Америки",
+          "type": "practice",
+          "teacher": "доц. Бурлаков А. Н",
+          "room": "336",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История Новейшего времени стран Азии и Африки",
+          "type": "lecture",
+          "teacher": "проф. Никонов О. А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Тимохина Ю. Е",
+          "room": "335",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "доц. Тимохина Ю. Е",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Новейшая отечественная история",
+          "type": "lecture",
+          "teacher": "проф. Цветков В. Ж",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения истории",
+          "type": "practice",
+          "teacher": "асс. Морозова Н. Н",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История Новейшего времени стран Азии и Африки",
+          "type": "lecture",
+          "teacher": "проф. Никонов О. А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения истории",
+          "type": "lecture",
+          "teacher": "доц. Саплина Е. В",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения истории",
+          "type": "lecture",
+          "teacher": "доц. Саплина Е. В",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История Новейшего времени стран Европы и Америки",
+          "type": "lecture",
+          "teacher": "проф. Белоусова К. А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История Новейшего времени стран Азии и Африки",
+          "type": "practice",
+          "teacher": "доц. Гарин А. А",
+          "room": "338",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "проф. Морозюк С. Н",
+          "room": "329",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Новейшая отечественная история",
+          "type": "practice",
+          "teacher": "асс. Воробьев А. В",
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Новейшая история стран Европы и Америки",
+          "type": "practice",
+          "teacher": "доц. Бурлаков А. Н",
+          "room": "336",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология воспитательных практик",
+          "type": "lecture",
+          "teacher": "проф. Морозюк С. Н",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология воспитательных практик",
+          "type": "lecture",
+          "teacher": "проф. Морозюк С. Н",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  },
+  "direction": "44.03.01 Педагогическое образование",
+  "profile": "История и Обществознание. Организация воспитательной деятельности"
+}

@@ -1,0 +1,608 @@
+{
+  "name": "БОИ18-ИПЛ2502",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": "ст. пр. Саженев Д.Ю. спорт. зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "проф. Газизулин Т. Г",
+          "room": "333",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История стран Запада в Средние века",
+          "type": "practice",
+          "teacher": "доц. Беляев М. П",
+          "room": "302",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "проф. Газизулин Т. Г",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Политология",
+          "type": "practice",
+          "teacher": "доц. Мусина Р. И",
+          "room": "326",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Захаров В. Ю",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Захаров В. Ю",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Политология",
+          "type": "practice",
+          "teacher": "доц. Мусина Р. И",
+          "room": "326",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "ст. пр. Сазонов Д. В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "ст. пр. Сазонов Д. В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История стран Запада в Средние века",
+          "type": "practice",
+          "teacher": "доц. Беляев М. П",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История стран Запада в Средние века",
+          "type": "lecture",
+          "teacher": "доц. Беляев М. П",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": "ст. пр. Саженев Д.Ю. спорт. зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые и этические основые педагогической деятельности",
+          "type": "lecture",
+          "teacher": "ст. пр. Харламов П. В",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История стран Востока в Средние века",
+          "type": "practice",
+          "teacher": "проф. Захаров А. О",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "НПиЭО педагогической деятельности",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П. В",
+          "room": "333",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Курукин И. В",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История стран Востока в Средние века",
+          "type": "lecture",
+          "teacher": "проф. Захаров А. О",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Курукин И. В",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Политология",
+          "type": "practice",
+          "teacher": "доц. Мусина Р. И",
+          "room": "326",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Политология",
+          "type": "lecture",
+          "teacher": "доц. Мусина Р. И",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психолого-педагогические основы образовательной деятельности",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "доц. Цветкова Е. А",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Курукин И. В",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психолого-педагогические основы образовательной деятельности",
+          "type": "practice",
+          "teacher": "доц. Долинская Л.А",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": "ст. пр. Саженев Д.Ю. спорт. зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "проф. Газизулин Т. Г",
+          "room": "333",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История стран Запада в Средние века",
+          "type": "practice",
+          "teacher": "доц. Беляев М. П",
+          "room": "302",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "проф. Газизулин Т. Г",
+          "room": "200-1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Политология",
+          "type": "practice",
+          "teacher": "доц. Мусина Р. И",
+          "room": "326",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Захаров В. Ю",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Захаров В. Ю",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Политология",
+          "type": "practice",
+          "teacher": "доц. Мусина Р. И",
+          "room": "326",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "ст. пр. Сазонов Д. В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "ст. пр. Сазонов Д. В",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История стран Запада в Средние века",
+          "type": "practice",
+          "teacher": "доц. Беляев М. П",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История стран Запада в Средние века",
+          "type": "lecture",
+          "teacher": "доц. Беляев М. П",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "lecture",
+          "teacher": "ст. пр. Саженев Д.Ю. спорт. зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые и этические основые педагогической деятельности",
+          "type": "lecture",
+          "teacher": "ст. пр. Харламов П. В",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История стран Востока в Средние века",
+          "type": "practice",
+          "teacher": "проф. Захаров А. О",
+          "room": "324",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "НПиЭО педагогической деятельности",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П. В",
+          "room": "333",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Курукин И. В",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История стран Востока в Средние века",
+          "type": "lecture",
+          "teacher": "проф. Захаров А. О",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Курукин И. В",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Политология",
+          "type": "practice",
+          "teacher": "доц. Мусина Р. И",
+          "room": "326",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Политология",
+          "type": "lecture",
+          "teacher": "доц. Мусина Р. И",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психолого-педагогические основы образовательной деятельности",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "доц. Цветкова Е. А",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "lecture",
+          "teacher": "проф. Курукин И. В",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психолого-педагогические основы образовательной деятельности",
+          "type": "practice",
+          "teacher": "доц. Долинская Л.А",
+          "room": "327",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  },
+  "direction": "46.03.01 История",
+  "profile": "Историческая политология"
+}

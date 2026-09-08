@@ -1,0 +1,456 @@
+{
+  "name": "ВОИ34-ИОВ2603",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России (с древнейших времен до конца XVII века)",
+          "type": "practice",
+          "teacher": "доц. Конюхов К. Р",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России (с древнейших времен до конца XVII века)",
+          "type": "practice",
+          "teacher": "доц. Конюхов К. Р",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История древнего Востока",
+          "type": "practice",
+          "teacher": "ст. пр. Левин Н. И",
+          "room": "312",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Россинская Е. А",
+          "room": "335",
+          "subgroup": 1,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Вспомогательные исторические дисциплины",
+          "type": "practice",
+          "teacher": "доц. Колесникова Е. А",
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России (с древнейших времен до конца XVII века)",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Россинская Е.А",
+          "room": "334",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Специальные исторические дисциплины",
+          "type": "practice",
+          "teacher": "доц. Юркина Н. Н",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "доц. Мусина Р. И",
+          "room": "312",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Специальные исторические дисциплины",
+          "type": "practice",
+          "teacher": "доц. Юркина Н. Н",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "ст. пр. Куква Р.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История древнего Востока",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "проф. Красноперова Н. А",
+          "room": "332",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "доц. Мусина Р. И",
+          "room": "326",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Вспомогательные исторические дисциплины",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Вспомогательные исторические дисциплины",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "доц. Красноперова Н. А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "доц. Красноперова Н. А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России (с древнейших времен до конца XVII века)",
+          "type": "practice",
+          "teacher": "доц. Конюхов К. Р",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России (с древнейших времен до конца XVII века)",
+          "type": "practice",
+          "teacher": "доц. Конюхов К. Р",
+          "room": "311",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История древнего Востока",
+          "type": "practice",
+          "teacher": "ст. пр. Левин Н. И",
+          "room": "312",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Россинская Е. А",
+          "room": "335",
+          "subgroup": 1,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Вспомогательные исторические дисциплины",
+          "type": "practice",
+          "teacher": "доц. Колесникова Е. А",
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России (с древнейших времен до конца XVII века)",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Россинская Е.А",
+          "room": "334",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Специальные исторические дисциплины",
+          "type": "practice",
+          "teacher": "доц. Юркина Н. Н",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "доц. Мусина Р. И",
+          "room": "312",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Специальные исторические дисциплины",
+          "type": "practice",
+          "teacher": "доц. Юркина Н. Н",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "ст. пр. Куква Р.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История древнего Востока",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "проф. Красноперова Н. А",
+          "room": "332",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "доц. Мусина Р. И",
+          "room": "326",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Вспомогательные исторические дисциплины",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Вспомогательные исторические дисциплины",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "доц. Красноперова Н. А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "доц. Красноперова Н. А",
+          "room": "209",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  },
+  "direction": "44.03.01 Педагогическое образование",
+  "profile": "История и Обществознание. Организация воспитательной деятельности"
+}
