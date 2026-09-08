@@ -1,0 +1,404 @@
+{
+  "name": "ВОБ34-ББЖ2501",
+  "year": 2,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 Педагогическое образование",
+  "profile": "Биология и Безопасность жизнедеятельности",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Кравченко (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОРГАНИЗАЦИОННО-ПРАВОВЫЕ ОСНОВЫ ОБЕСПЕЧЕНИЯ БЕЗОПАСНОСТИ ЖИЗНЕДЕЯТЕЛЬНОСТИ",
+          "type": "lecture",
+          "teacher": "Профессор Н.Е Симонов (504",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТИ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Кравченко (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТИ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Кравченко (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ И АНТИКОРРУПЦИОННОЕ ПОВЕДЕНИЕ – 9.09, 23.09, 7.10, 21.10",
+          "type": "practice",
+          "teacher": "Профессор Е.Л. Болотова (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЗООЛОГИЯ ПОЗВОНОЧНЫХ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Мосалов",
+          "room": "3 корп. 307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "Ст. преп. Б.О. Суровягин (Спортзал)",
+          "room": "Ст. преп. Б.О. Суровягин (Спортзал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "СИСТЕМАТИКА РАСТЕНИЙ И ГРИБОВ",
+          "type": "lab",
+          "teacher": "Доцент Н.М. Ключникова",
+          "room": "3 корп. 210",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "АНАЛИТИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент М.А. Шляхова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ /",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Коротеев (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОБЕСПЕЧЕНИЕ БЕЗОПАСНОСТИ В ПРИРОДНОЙ И ТЕХНОГЕННОЙ СРЕДАХ",
+          "type": "lecture",
+          "teacher": "Доцент А.А. Чистяков (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПЕДАГОГИКА",
+          "type": "practice",
+          "teacher": "Доцент А.В. Карпенко (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "lab",
+          "teacher": "Доцент Л.В. Корнева (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "АНАЛИТИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент М.А. Шляхова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.М. Коротеев (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОБЕСПЕЧЕНИЕ БЕЗОПАСНОСТИ В ПРИРОДНОЙ И ТЕХНОГЕННОЙ СРЕДАХ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Чистяков (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОБЕСПЕЧЕНИЕ БЕЗОПАСНОСТИ В ПРИРОДНОЙ И ТЕХНОГЕННОЙ СРЕДАХ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Чистяков (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Кравченко (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОРГАНИЗАЦИОННО-ПРАВОВЫЕ ОСНОВЫ ОБЕСПЕЧЕНИЯ БЕЗОПАСНОСТИ ЖИЗНЕДЕЯТЕЛЬНОСТИ",
+          "type": "lecture",
+          "teacher": "Профессор Н.Е Симонов (504",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТИ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Кравченко (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ ИНФОРМАЦИОННОЙ БЕЗОПАСНОСТИ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Кравченко (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ И АНТИКОРРУПЦИОННОЕ ПОВЕДЕНИЕ – 9.09, 23.09, 7.10, 21.10",
+          "type": "practice",
+          "teacher": "Профессор Е.Л. Болотова (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЗООЛОГИЯ ПОЗВОНОЧНЫХ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Мосалов",
+          "room": "3 корп. 307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "Ст. преп. Б.О. Суровягин (Спортзал)",
+          "room": "Ст. преп. Б.О. Суровягин (Спортзал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "СИСТЕМАТИКА РАСТЕНИЙ И ГРИБОВ",
+          "type": "lab",
+          "teacher": "Доцент Н.М. Ключникова",
+          "room": "3 корп. 210",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "АНАЛИТИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент М.А. Шляхова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ /",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Коротеев (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОБЕСПЕЧЕНИЕ БЕЗОПАСНОСТИ В ПРИРОДНОЙ И ТЕХНОГЕННОЙ СРЕДАХ",
+          "type": "lecture",
+          "teacher": "Доцент А.А. Чистяков (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПЕДАГОГИКА",
+          "type": "practice",
+          "teacher": "Доцент А.В. Карпенко (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "lab",
+          "teacher": "Доцент Л.В. Корнева (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "АНАЛИТИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент М.А. Шляхова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.М. Коротеев (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОБЕСПЕЧЕНИЕ БЕЗОПАСНОСТИ В ПРИРОДНОЙ И ТЕХНОГЕННОЙ СРЕДАХ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Чистяков (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОБЕСПЕЧЕНИЕ БЕЗОПАСНОСТИ В ПРИРОДНОЙ И ТЕХНОГЕННОЙ СРЕДАХ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Чистяков (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

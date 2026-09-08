@@ -1,0 +1,786 @@
+{
+  "name": "БОБ35-БИА2201",
+  "year": 5,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "Биология и Иностранный язык (английский)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ АНТРОПОГЕНЕЗА",
+          "type": "practice",
+          "teacher": "Доцент А.И. Бокова (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ АНТРОПОГЕНЕЗА",
+          "type": "practice",
+          "teacher": "Доцент А.И. Бокова (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ АНТРОПОГЕНЕЗА",
+          "type": "practice",
+          "teacher": "Доцент А.И. Бокова (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ АНТРОПОГЕНЕЗА",
+          "type": "practice",
+          "teacher": "Доцент А.И. Бокова (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ",
+          "type": "practice",
+          "teacher": "Ст. преп. Т.А. Смирнова (504",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ",
+          "type": "practice",
+          "teacher": "Ст. преп. Т.А. Смирнова (504",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ СОЦИАЛЬНОЙ ЭКОЛОГИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.А. Мосалов (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИОНАЛЬНОЕ ПРИРОДОПОЛЬЗОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент А.А. Мосалов (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ",
+          "type": "lecture",
+          "teacher": "Ст. преп. Т.А. Смирнова (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КОММУНИКАТИВНЫЙ ПРАКТИКУМ АНГЛИЙ- СКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Доцент И.М. Пескова (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИО- НАЛЬНОЕ ПРИРОДОПОЛЬЗО- ВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (410",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИО- НАЛЬНОЕ ПРИРОДОПОЛЬЗО- ВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (410",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "КОММУНИКАТИВНЫЙ ПРАКТИКУМ АНГЛИЙ- СКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Доцент И.М. Пескова (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.А. Вергун (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ АНТРОПОГЕНЕЗА",
+          "type": "lecture",
+          "teacher": "Профессор Н.А. Кузнецова (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПРАВА РЕБЕНКА – 9.09, 23.09, 7.10, 21.10, 18.11",
+          "type": "practice",
+          "teacher": "Профессор Е.Л. Болотова (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "КОММУНИКАТИВНЫЙ ПРАК- ТИКУМ АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Ст. преп. М.В. Ковинева (513",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ",
+          "type": "practice",
+          "teacher": "Ст. преп. Т.А. Смирнова (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЭВОЛЮЦИЯ",
+          "type": "lecture",
+          "teacher": "Профессор Н.А. Кузнецова (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "КОММУНИКАТИВНЫЙ ПРАК- ТИКУМ АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Ст. преп. М.В. Ковинева (513",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Доцент Д.А. Шитиков (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "КОММУНИКАТИВНЫЙ ПРАК- ТИКУМ АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Ст. преп. М.В. Ковинева (513",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Доцент Д.А. Шитиков (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Доцент Д.А. Шитиков (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИО- НАЛЬНОЕ ПРИРОДОПОЛЬЗОВА- НИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ СОЦИАЛЬНОЙ ЭКОЛОГИИ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИ- ОНАЛЬНОЕ ПРИРОДОПОЛЬ- ЗОВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИ- ОНАЛЬНОЕ ПРИРОДОПОЛЬ- ЗОВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРАВА РЕБЕНКА – 12.09, 26.09",
+          "type": "lecture",
+          "teacher": "Профессор Е.Л. Болотова (304",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРАВА РЕБЕНКА – 12.09, 26.09",
+          "type": "lecture",
+          "teacher": "Профессор Е.Л. Болотова (304",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ АНТРОПОГЕНЕЗА",
+          "type": "practice",
+          "teacher": "Доцент А.И. Бокова (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ АНТРОПОГЕНЕЗА",
+          "type": "practice",
+          "teacher": "Доцент А.И. Бокова (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ АНТРОПОГЕНЕЗА",
+          "type": "practice",
+          "teacher": "Доцент А.И. Бокова (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ АНТРОПОГЕНЕЗА",
+          "type": "practice",
+          "teacher": "Доцент А.И. Бокова (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ",
+          "type": "practice",
+          "teacher": "Ст. преп. Т.А. Смирнова (504",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ",
+          "type": "practice",
+          "teacher": "Ст. преп. Т.А. Смирнова (504",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ СОЦИАЛЬНОЙ ЭКОЛОГИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.А. Мосалов (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИОНАЛЬНОЕ ПРИРОДОПОЛЬЗОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент А.А. Мосалов (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ",
+          "type": "lecture",
+          "teacher": "Ст. преп. Т.А. Смирнова (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КОММУНИКАТИВНЫЙ ПРАКТИКУМ АНГЛИЙ- СКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Доцент И.М. Пескова (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИО- НАЛЬНОЕ ПРИРОДОПОЛЬЗО- ВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (410",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИО- НАЛЬНОЕ ПРИРОДОПОЛЬЗО- ВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (410",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "КОММУНИКАТИВНЫЙ ПРАКТИКУМ АНГЛИЙ- СКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Доцент И.М. Пескова (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.А. Вергун (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ АНТРОПОГЕНЕЗА",
+          "type": "lecture",
+          "teacher": "Профессор Н.А. Кузнецова (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПРАВА РЕБЕНКА – 9.09, 23.09, 7.10, 21.10, 18.11",
+          "type": "practice",
+          "teacher": "Профессор Е.Л. Болотова (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "КОММУНИКАТИВНЫЙ ПРАК- ТИКУМ АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Ст. преп. М.В. Ковинева (513",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ",
+          "type": "practice",
+          "teacher": "Ст. преп. Т.А. Смирнова (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЭВОЛЮЦИЯ",
+          "type": "lecture",
+          "teacher": "Профессор Н.А. Кузнецова (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "КОММУНИКАТИВНЫЙ ПРАК- ТИКУМ АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Ст. преп. М.В. Ковинева (513",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Доцент Д.А. Шитиков (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "КОММУНИКАТИВНЫЙ ПРАК- ТИКУМ АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Ст. преп. М.В. Ковинева (513",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Доцент Д.А. Шитиков (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Доцент Д.А. Шитиков (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИО- НАЛЬНОЕ ПРИРОДОПОЛЬЗОВА- НИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ СОЦИАЛЬНОЙ ЭКОЛОГИИ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИ- ОНАЛЬНОЕ ПРИРОДОПОЛЬ- ЗОВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИ- ОНАЛЬНОЕ ПРИРОДОПОЛЬ- ЗОВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРАВА РЕБЕНКА – 12.09, 26.09",
+          "type": "lecture",
+          "teacher": "Профессор Е.Л. Болотова (304",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРАВА РЕБЕНКА – 12.09, 26.09",
+          "type": "lecture",
+          "teacher": "Профессор Е.Л. Болотова (304",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

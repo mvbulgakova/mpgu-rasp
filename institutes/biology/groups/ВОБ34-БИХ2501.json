@@ -1,0 +1,404 @@
+{
+  "name": "ВОБ34-БИХ2501",
+  "year": 2,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 Педагогическое образование",
+  "profile": "Биология и Химия",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЗООЛОГИЯ ПОЗВОНОЧНЫХ",
+          "type": "lab",
+          "teacher": "Доцент Д.А. Шитиков (307",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "АНАЛИТИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Профессор Г.З. Казиев",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "СИСТЕМАТИКА РАСТЕНИЙ И ГРИБОВ",
+          "type": "lab",
+          "teacher": "Доцент Н.Г. Куранова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ И АНТИКОРРУПЦИОННОЕ ПОВЕДЕНИЕ – 13.01",
+          "type": "practice",
+          "teacher": "Профессор Е.Л. Болотова (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "АНАЛИТИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент М.А. Шляхова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Ст. преп. С.Е. Мосюров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "АНАЛИТИЧЕСКАЯ ХИМИЯ",
+          "type": "lecture",
+          "teacher": "Профессор Г.З. Казиев (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "АНАЛИТИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент М.А. Шляхова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "СИСТЕМАТИКА РАСТЕНИЙ И ГРИБОВ",
+          "type": "lab",
+          "teacher": "Доцент Н.М. Ключникова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Ст. преп. С.Е. Мосюров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПЕДАГОГИКА",
+          "type": "practice",
+          "teacher": "Доцент А.В. Карпенко (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "lab",
+          "teacher": "Доцент Л.В. Корнева (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЗООЛОГИЯ ПОЗВОНОЧНЫХ",
+          "type": "lab",
+          "teacher": "Ст. преп. Т.С. Ковинька",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lecture",
+          "teacher": "Ст. преп. С.Е. Мосюров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "Ст. преп. Б.О. Суровягин (Спортзал)",
+          "room": "Ст. преп. Б.О. Суровягин (Спортзал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Ст. преп. С.Е. Мосюров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Ст. преп. С.Е. Мосюров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЗООЛОГИЯ ПОЗВОНОЧНЫХ",
+          "type": "lab",
+          "teacher": "Доцент Д.А. Шитиков (307",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "АНАЛИТИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Профессор Г.З. Казиев",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "СИСТЕМАТИКА РАСТЕНИЙ И ГРИБОВ",
+          "type": "lab",
+          "teacher": "Доцент Н.Г. Куранова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ И АНТИКОРРУПЦИОННОЕ ПОВЕДЕНИЕ – 13.01",
+          "type": "practice",
+          "teacher": "Профессор Е.Л. Болотова (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "АНАЛИТИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент М.А. Шляхова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Ст. преп. С.Е. Мосюров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "АНАЛИТИЧЕСКАЯ ХИМИЯ",
+          "type": "lecture",
+          "teacher": "Профессор Г.З. Казиев (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "АНАЛИТИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент М.А. Шляхова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "СИСТЕМАТИКА РАСТЕНИЙ И ГРИБОВ",
+          "type": "lab",
+          "teacher": "Доцент Н.М. Ключникова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Ст. преп. С.Е. Мосюров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПЕДАГОГИКА",
+          "type": "practice",
+          "teacher": "Доцент А.В. Карпенко (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "lab",
+          "teacher": "Доцент Л.В. Корнева (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЗООЛОГИЯ ПОЗВОНОЧНЫХ",
+          "type": "lab",
+          "teacher": "Ст. преп. Т.С. Ковинька",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lecture",
+          "teacher": "Ст. преп. С.Е. Мосюров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "Ст. преп. Б.О. Суровягин (Спортзал)",
+          "room": "Ст. преп. Б.О. Суровягин (Спортзал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Ст. преп. С.Е. Мосюров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Ст. преп. С.Е. Мосюров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

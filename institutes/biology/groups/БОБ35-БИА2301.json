@@ -1,0 +1,430 @@
+{
+  "name": "БОБ35-БИА2301",
+  "year": 4,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "Биология и Иностранный язык (английский)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В ПРОЦЕССЕ ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Доцент С.Р. Бахарева (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В ПРОЦЕССЕ ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Доцент С.Р. Бахарева (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В ПРОЦЕССЕ ОБУЧЕНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент С.Р. Бахарева (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОБЩАЯ ЭКОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Профессор И.А. Жигарев (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЛИТЕРАТУРА СТРАН ИЗУЧАЕМОГО ЯЗЫКА",
+          "type": "lecture",
+          "teacher": "Доцент П.С. Дронов (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lab",
+          "teacher": "Доцент Т.А. Тарновская (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЛИТЕРАТУРА СТРАН ИЗУЧАЕМОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Доцент П.С. Дронов (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "КОММУНИКАТИВНЫЙ ПРАКТИКУМ АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Ст. преп. М.В. Ковинева (513",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "МИКРОБИОЛОГИЯ С ОСНОВАМИ ВИРУСОЛОГИИ",
+          "type": "lecture",
+          "teacher": "Доцент Н.Г. Куранова (304",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "КОММУНИКАТИВНЫЙ ПРАКТИКУМ АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Ст. преп. М.В. Ковинева (513",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОБЩАЯ ЭКОЛОГИЯ",
+          "type": "lab",
+          "teacher": "Профессор И.А. Жигарев (307",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "МИКРОБИОЛОГИЯ С ОСНОВАМИ ВИРУСОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент Н.Г. Куранова (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ИНОСТРАННЫЙ ЯЗЫК)",
+          "type": "lecture",
+          "teacher": "Доцент Е.О. Забенькина (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕ- ДЕНИЯ –19.09, 03.10",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ИНОСТРАННЫЙ ЯЗЫК)",
+          "type": "practice",
+          "teacher": "Доцент Е.О. Забенькина (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕ- ДЕНИЯ – 19.09, 03.10",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ – 12.09, 26.09, 10.10",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Тарновская (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ИНОСТРАННЫЙ ЯЗЫК)",
+          "type": "practice",
+          "teacher": "Доцент Е.О. Забенькина (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В ПРОЦЕССЕ ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Доцент С.Р. Бахарева (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В ПРОЦЕССЕ ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Доцент С.Р. Бахарева (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В ПРОЦЕССЕ ОБУЧЕНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент С.Р. Бахарева (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОБЩАЯ ЭКОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Профессор И.А. Жигарев (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЛИТЕРАТУРА СТРАН ИЗУЧАЕМОГО ЯЗЫКА",
+          "type": "lecture",
+          "teacher": "Доцент П.С. Дронов (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lab",
+          "teacher": "Доцент Т.А. Тарновская (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЛИТЕРАТУРА СТРАН ИЗУЧАЕМОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Доцент П.С. Дронов (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "КОММУНИКАТИВНЫЙ ПРАКТИКУМ АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Ст. преп. М.В. Ковинева (513",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "МИКРОБИОЛОГИЯ С ОСНОВАМИ ВИРУСОЛОГИИ",
+          "type": "lecture",
+          "teacher": "Доцент Н.Г. Куранова (304",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "КОММУНИКАТИВНЫЙ ПРАКТИКУМ АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Ст. преп. М.В. Ковинева (513",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОБЩАЯ ЭКОЛОГИЯ",
+          "type": "lab",
+          "teacher": "Профессор И.А. Жигарев (307",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "МИКРОБИОЛОГИЯ С ОСНОВАМИ ВИРУСОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент Н.Г. Куранова (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ИНОСТРАННЫЙ ЯЗЫК)",
+          "type": "lecture",
+          "teacher": "Доцент Е.О. Забенькина (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕ- ДЕНИЯ –19.09, 03.10",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ИНОСТРАННЫЙ ЯЗЫК)",
+          "type": "practice",
+          "teacher": "Доцент Е.О. Забенькина (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕ- ДЕНИЯ – 19.09, 03.10",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ – 12.09, 26.09, 10.10",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Тарновская (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ИНОСТРАННЫЙ ЯЗЫК)",
+          "type": "practice",
+          "teacher": "Доцент Е.О. Забенькина (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

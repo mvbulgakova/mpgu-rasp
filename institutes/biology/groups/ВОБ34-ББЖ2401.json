@@ -1,0 +1,96 @@
+{
+  "name": "ВОБ34-ББЖ2401",
+  "year": 3,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "БИОХИМИЯ",
+          "type": "lecture",
+          "teacher": "Профессор Н.М. Кутузова (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БИОХИМИЯ",
+          "type": "lab",
+          "teacher": "Профессор Н.М. Кутузова (513",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (БИОЛОГИЯ)",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Перелович (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "БИОХИМИЯ",
+          "type": "lecture",
+          "teacher": "Профессор Н.М. Кутузова (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БИОХИМИЯ",
+          "type": "lab",
+          "teacher": "Профессор Н.М. Кутузова (513",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (БИОЛОГИЯ)",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Перелович (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

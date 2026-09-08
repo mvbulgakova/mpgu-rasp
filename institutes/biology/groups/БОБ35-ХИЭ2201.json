@@ -1,0 +1,432 @@
+{
+  "name": "БОБ35-ХИЭ2201",
+  "year": 5,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+  "profile": "Химия и Экология",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОРГАНИЗАЦИЯ ЭКСКУРСИЙ ПО ЭКОЛОГИИ",
+          "type": "practice",
+          "teacher": "Доцент Н.А. Богданов (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОРГАНИЗАЦИЯ ЭКСКУРСИЙ ПО ЭКОЛОГИИ",
+          "type": "lecture",
+          "teacher": "Доцент Н.А. Богданов (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ХИМИЧЕСКОЕ ЗАГРЯЗНЕНИЕ БИОСФЕРЫ",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Орешкина (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ХИМИЧЕСКОЕ ЗАГРЯЗНЕНИЕ БИОСФЕРЫ",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Орешкина (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "СТРОЕНИЕ МОЛЕКУЛ",
+          "type": "lecture",
+          "teacher": "Доцент Д.Д. Харлампиди (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИКО-ХИМИЧЕСКИЕ ОСНОВЫ ЭКОЛОГИЧЕСКОГО МОНИТОРИНГА",
+          "type": "lab",
+          "teacher": "Доцент М.А. Шляхова (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИКО-ХИМИЧЕСКИЕ ОСНОВЫ ЭКОЛОГИЧЕСКОГО МОНИТОРИНГА",
+          "type": "lab",
+          "teacher": "Доцент М.А. Шляхова (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ХИМИЯ ВЫСОКОМОЛЕКУЛЯРНЫХ СОЕДИНЕНИЙ /",
+          "type": "lecture",
+          "teacher": "Профессор М.К. Грачев (104",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ХИМИЯ ВЫСОКОМОЛЕКУЛЯРНЫХ СОЕДИНЕНИЙ",
+          "type": "practice",
+          "teacher": "Профессор М.К. Грачев (104",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРАВА РЕБЕНКА –16.09, 30.09, 14.10, 28.10, 11.11",
+          "type": "practice",
+          "teacher": "Профессор Е.Л. Болотова (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТЕХНОЛОГИИ ЗДОРОВЬЕСБЕРЕЖЕНИЯ – 4 недели; – 5 недель",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Холмогорова (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "СТРОЕНИЕ МОЛЕКУЛ",
+          "type": "practice",
+          "teacher": "Доцент Д.Д. Харлампиди (401",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИКО-ХИМИЧЕСКИЕ ОСНОВЫ ЭКОЛОГИЧЕСКОГО МОНИТОРИНГА",
+          "type": "lecture",
+          "teacher": "Профессор Г.З. Казиев (401",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ХИМИЧЕСКОЕ ЗАГРЯЗНЕНИЕ БИОСФЕРЫ",
+          "type": "lab",
+          "teacher": "Асс. Е.В. Китушина (дистант)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ХИМИЧЕСКОЕ ЗАГРЯЗНЕНИЕ БИОСФЕРЫ",
+          "type": "lab",
+          "teacher": "Асс. Е.В. Китушина (дистант)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ХИМИЧЕСКОЕ ЗАГРЯЗНЕНИЕ БИОСФЕРЫ",
+          "type": "lab",
+          "teacher": "Асс. Е.В. Китушина (дистант)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРАВА РЕБЕНКА – 12.09, 26.09",
+          "type": "lecture",
+          "teacher": "Профессор Е.Л. Болотова (304",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРАВА РЕБЕНКА – 12.09, 26.09",
+          "type": "lecture",
+          "teacher": "Профессор Е.Л. Болотова (304",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОРГАНИЗАЦИЯ ЭКСКУРСИЙ ПО ЭКОЛОГИИ",
+          "type": "practice",
+          "teacher": "Доцент Н.А. Богданов (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОРГАНИЗАЦИЯ ЭКСКУРСИЙ ПО ЭКОЛОГИИ",
+          "type": "lecture",
+          "teacher": "Доцент Н.А. Богданов (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ХИМИЧЕСКОЕ ЗАГРЯЗНЕНИЕ БИОСФЕРЫ",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Орешкина (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ХИМИЧЕСКОЕ ЗАГРЯЗНЕНИЕ БИОСФЕРЫ",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Орешкина (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "СТРОЕНИЕ МОЛЕКУЛ",
+          "type": "lecture",
+          "teacher": "Доцент Д.Д. Харлампиди (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИКО-ХИМИЧЕСКИЕ ОСНОВЫ ЭКОЛОГИЧЕСКОГО МОНИТОРИНГА",
+          "type": "lab",
+          "teacher": "Доцент М.А. Шляхова (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИКО-ХИМИЧЕСКИЕ ОСНОВЫ ЭКОЛОГИЧЕСКОГО МОНИТОРИНГА",
+          "type": "lab",
+          "teacher": "Доцент М.А. Шляхова (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ХИМИЯ ВЫСОКОМОЛЕКУЛЯРНЫХ СОЕДИНЕНИЙ /",
+          "type": "lecture",
+          "teacher": "Профессор М.К. Грачев (104",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ХИМИЯ ВЫСОКОМОЛЕКУЛЯРНЫХ СОЕДИНЕНИЙ",
+          "type": "practice",
+          "teacher": "Профессор М.К. Грачев (104",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРАВА РЕБЕНКА –16.09, 30.09, 14.10, 28.10, 11.11",
+          "type": "practice",
+          "teacher": "Профессор Е.Л. Болотова (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТЕХНОЛОГИИ ЗДОРОВЬЕСБЕРЕЖЕНИЯ – 4 недели; – 5 недель",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Холмогорова (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "СТРОЕНИЕ МОЛЕКУЛ",
+          "type": "practice",
+          "teacher": "Доцент Д.Д. Харлампиди (401",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИКО-ХИМИЧЕСКИЕ ОСНОВЫ ЭКОЛОГИЧЕСКОГО МОНИТОРИНГА",
+          "type": "lecture",
+          "teacher": "Профессор Г.З. Казиев (401",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ХИМИЧЕСКОЕ ЗАГРЯЗНЕНИЕ БИОСФЕРЫ",
+          "type": "lab",
+          "teacher": "Асс. Е.В. Китушина (дистант)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ХИМИЧЕСКОЕ ЗАГРЯЗНЕНИЕ БИОСФЕРЫ",
+          "type": "lab",
+          "teacher": "Асс. Е.В. Китушина (дистант)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ХИМИЧЕСКОЕ ЗАГРЯЗНЕНИЕ БИОСФЕРЫ",
+          "type": "lab",
+          "teacher": "Асс. Е.В. Китушина (дистант)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРАВА РЕБЕНКА – 12.09, 26.09",
+          "type": "lecture",
+          "teacher": "Профессор Е.Л. Болотова (304",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРАВА РЕБЕНКА – 12.09, 26.09",
+          "type": "lecture",
+          "teacher": "Профессор Е.Л. Болотова (304",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

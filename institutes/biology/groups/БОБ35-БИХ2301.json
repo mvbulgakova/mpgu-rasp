@@ -1,0 +1,498 @@
+{
+  "name": "БОБ35-БИХ2301",
+  "year": 4,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "Биология и Химия",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИД- НАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.В. Орешкина (501",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИД- НАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.В. Орешкина (501",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.В. Орешкина (501",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В ПРОЦЕССЕ ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Доцент С.Р. Бахарева (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.В. Орешкина (501",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В ПРОЦЕССЕ ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Доцент С.Р. Бахарева (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.В. Орешкина (501",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ХИМИЯ)",
+          "type": "lecture",
+          "teacher": "Профессор П.А. Оржековский (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТЕОРИЯ И МЕТОДИКА ОБУЧЕ- НИЯ ХИМИИ",
+          "type": "lab",
+          "teacher": "Доцент М.Д. Трухина (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.В. Орешкина (501",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.В. Орешкина (501",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТЕОРИЯ И МЕТОДИКА ОБУЧЕ- НИЯ ХИМИИ",
+          "type": "lab",
+          "teacher": "Доцент М.Д. Трухина (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ТЕОРИЯ И МЕТОДИКА ОБУЧЕ- НИЯ ХИМИИ",
+          "type": "lab",
+          "teacher": "Доцент М.Д. Трухина (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Лобанов (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lab",
+          "teacher": "Доцент Т.А. Тарновская (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "МИКРОБИОЛОГИЯ С ОСНОВАМИ ВИРУСОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент Н.Г. Куранова (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОБЩАЯ ЭКОЛОГИЯ",
+          "type": "lab",
+          "teacher": "Профессор И.А. Жигарев (307",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕ- НИЯ – 19.09, 03.10",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕ- НИЯ – 19.09, 03.10",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕ- НИЯ – 14.11, 28.11, 12.12",
+          "type": "practice",
+          "teacher": "Доцент Д.В. Свирин (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕ- НИЯ – 28.11, 12.12",
+          "type": "practice",
+          "teacher": "Доцент Д.В. Свирин (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИД- НАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.В. Орешкина (501",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИД- НАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.В. Орешкина (501",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.В. Орешкина (501",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В ПРОЦЕССЕ ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Доцент С.Р. Бахарева (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.В. Орешкина (501",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В ПРОЦЕССЕ ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Доцент С.Р. Бахарева (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.В. Орешкина (501",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ХИМИЯ)",
+          "type": "lecture",
+          "teacher": "Профессор П.А. Оржековский (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТЕОРИЯ И МЕТОДИКА ОБУЧЕ- НИЯ ХИМИИ",
+          "type": "lab",
+          "teacher": "Доцент М.Д. Трухина (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.В. Орешкина (501",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.В. Орешкина (501",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТЕОРИЯ И МЕТОДИКА ОБУЧЕ- НИЯ ХИМИИ",
+          "type": "lab",
+          "teacher": "Доцент М.Д. Трухина (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ТЕОРИЯ И МЕТОДИКА ОБУЧЕ- НИЯ ХИМИИ",
+          "type": "lab",
+          "teacher": "Доцент М.Д. Трухина (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Лобанов (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lab",
+          "teacher": "Доцент Т.А. Тарновская (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "МИКРОБИОЛОГИЯ С ОСНОВАМИ ВИРУСОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент Н.Г. Куранова (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОБЩАЯ ЭКОЛОГИЯ",
+          "type": "lab",
+          "teacher": "Профессор И.А. Жигарев (307",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕ- НИЯ – 19.09, 03.10",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕ- НИЯ – 19.09, 03.10",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕ- НИЯ – 14.11, 28.11, 12.12",
+          "type": "practice",
+          "teacher": "Доцент Д.В. Свирин (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕ- НИЯ – 28.11, 12.12",
+          "type": "practice",
+          "teacher": "Доцент Д.В. Свирин (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

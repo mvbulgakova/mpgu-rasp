@@ -1,0 +1,516 @@
+{
+  "name": "БВБ34-БИО2301",
+  "year": 4,
+  "form": "correspondence",
+  "degree": "bachelor",
+  "direction": "44.03.01 Педагогическое образование",
+  "profile": "Биология",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕНИЯ – 14.09, 28.09",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕХНОЛОГИИ ОКАЗАНИЯ ПЕРВОЙ ПОМОЩИ – 07.09, 21.09; – 05.10, 19.10, 02.11",
+          "type": "lecture",
+          "teacher": "Ст. преп. Н.С. Дубровская (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕНИЯ – 14.09, 28.09",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕХНОЛОГИИ ОКАЗАНИЯ ПЕРВОЙ ПОМОЩИ – 07.09, 21.09; – 05.10, 19.10",
+          "type": "lecture",
+          "teacher": "Ст. преп. Н.С. Дубровская (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ – 1 неделя",
+          "type": "practice",
+          "teacher": "Доцент С.Р. Бахарева (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В ПРОЦЕССЕ ОБУЧЕНИЯ БИОЛОГИИ – 5 недель; – 3 недели",
+          "type": "lecture",
+          "teacher": "Доцент С.Р. Бахарева (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ – 4 недели; – 4 недели",
+          "type": "lecture",
+          "teacher": "Доцент С.Р. Бахарева (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В ПРОЦЕССЕ ОБУЧЕНИЯ БИОЛОГИИ – 7 недель",
+          "type": "practice",
+          "teacher": "Доцент С.Р. Бахарева (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ – 8 недель",
+          "type": "practice",
+          "teacher": "Доцент С.Р. Бахарева (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛО- ГИЯ И КУЛЬТУРА ЗДОРОВЬЯ – 17.10, 31.10, 14.11",
+          "type": "lab",
+          "teacher": "Доцент Т.А. Тарновская (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЗИОЛОГИЯ ЧЕЛОВЕКА И ЖИВОТ- НЫХ – 5.09, 19.09",
+          "type": "lecture",
+          "teacher": "Доцент А.Г. Бочкарева (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ГЕНЕТИКА",
+          "type": "lab",
+          "teacher": "Доцент Т.В. Мазяркина (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЗИОЛОГИЯ ЧЕЛОВЕКА И ЖИВОТНЫХ",
+          "type": "lab",
+          "teacher": "Доцент А.Г. Бочкарева (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИОЛОГИЯ ЧЕЛОВЕКА И ЖИВОТ- НЫХ – 5.09, 19.09, 3.10",
+          "type": "lecture",
+          "teacher": "Доцент А.Г. Бочкарева (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ГЕНЕТИКА",
+          "type": "lab",
+          "teacher": "Доцент Т.В. Мазяркина (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИОЛОГИЯ ЧЕЛОВЕКА И ЖИВОТНЫХ",
+          "type": "lab",
+          "teacher": "Доцент А.Г. Бочкарева (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ГЕНЕТИКА – 5.09, 19.09, 3.10",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Мазяркина (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИОЛОГИЯ ЧЕЛОВЕКА И ЖИВОТНЫХ",
+          "type": "lab",
+          "teacher": "Доцент А.Г. Бочкарева (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ГЕНЕТИКА",
+          "type": "lab",
+          "teacher": "Доцент Т.В. Мазяркина (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ГЕНЕТИКА – 5.09, 19.09",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Мазяркина (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИЗИОЛОГИЯ ЧЕЛОВЕКА И ЖИВОТНЫХ",
+          "type": "lab",
+          "teacher": "Доцент А.Г. Бочкарева (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ГЕНЕТИКА",
+          "type": "lab",
+          "teacher": "Доцент Т.В. Мазяркина (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕНИЯ – 14.09, 28.09",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕХНОЛОГИИ ОКАЗАНИЯ ПЕРВОЙ ПОМОЩИ – 07.09, 21.09; – 05.10, 19.10, 02.11",
+          "type": "lecture",
+          "teacher": "Ст. преп. Н.С. Дубровская (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕНИЯ – 14.09, 28.09",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕХНОЛОГИИ ОКАЗАНИЯ ПЕРВОЙ ПОМОЩИ – 07.09, 21.09; – 05.10, 19.10",
+          "type": "lecture",
+          "teacher": "Ст. преп. Н.С. Дубровская (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ – 1 неделя",
+          "type": "practice",
+          "teacher": "Доцент С.Р. Бахарева (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В ПРОЦЕССЕ ОБУЧЕНИЯ БИОЛОГИИ – 5 недель; – 3 недели",
+          "type": "lecture",
+          "teacher": "Доцент С.Р. Бахарева (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ – 4 недели; – 4 недели",
+          "type": "lecture",
+          "teacher": "Доцент С.Р. Бахарева (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В ПРОЦЕССЕ ОБУЧЕНИЯ БИОЛОГИИ – 7 недель",
+          "type": "practice",
+          "teacher": "Доцент С.Р. Бахарева (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ – 8 недель",
+          "type": "practice",
+          "teacher": "Доцент С.Р. Бахарева (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛО- ГИЯ И КУЛЬТУРА ЗДОРОВЬЯ – 17.10, 31.10, 14.11",
+          "type": "lab",
+          "teacher": "Доцент Т.А. Тарновская (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЗИОЛОГИЯ ЧЕЛОВЕКА И ЖИВОТ- НЫХ – 5.09, 19.09",
+          "type": "lecture",
+          "teacher": "Доцент А.Г. Бочкарева (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ГЕНЕТИКА",
+          "type": "lab",
+          "teacher": "Доцент Т.В. Мазяркина (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЗИОЛОГИЯ ЧЕЛОВЕКА И ЖИВОТНЫХ",
+          "type": "lab",
+          "teacher": "Доцент А.Г. Бочкарева (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИОЛОГИЯ ЧЕЛОВЕКА И ЖИВОТ- НЫХ – 5.09, 19.09, 3.10",
+          "type": "lecture",
+          "teacher": "Доцент А.Г. Бочкарева (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ГЕНЕТИКА",
+          "type": "lab",
+          "teacher": "Доцент Т.В. Мазяркина (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИОЛОГИЯ ЧЕЛОВЕКА И ЖИВОТНЫХ",
+          "type": "lab",
+          "teacher": "Доцент А.Г. Бочкарева (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ГЕНЕТИКА – 5.09, 19.09, 3.10",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Мазяркина (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИОЛОГИЯ ЧЕЛОВЕКА И ЖИВОТНЫХ",
+          "type": "lab",
+          "teacher": "Доцент А.Г. Бочкарева (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ГЕНЕТИКА",
+          "type": "lab",
+          "teacher": "Доцент Т.В. Мазяркина (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ГЕНЕТИКА – 5.09, 19.09",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Мазяркина (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИЗИОЛОГИЯ ЧЕЛОВЕКА И ЖИВОТНЫХ",
+          "type": "lab",
+          "teacher": "Доцент А.Г. Бочкарева (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ГЕНЕТИКА",
+          "type": "lab",
+          "teacher": "Доцент Т.В. Мазяркина (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

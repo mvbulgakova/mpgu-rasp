@@ -1,0 +1,263 @@
+{
+  "institute_id": "biology",
+  "institute_name": "Институт биологии и химии",
+  "short_name": "ИБиХ",
+  "academic_year": "2026-2027",
+  "updated_at": "2026-09-08T23:13:41.342725+00:00",
+  "parser_used": "nextcloud",
+  "version": 1,
+  "groups": [
+    {
+      "name": "ВОБ01-БЭК2601",
+      "file": "ВОБ01-БЭК2601",
+      "year": 1,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "ВОБ35-БИА2601",
+      "file": "ВОБ35-БИА2601",
+      "year": 1,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "Биология и Иностранный язык (английский)",
+      "profile": null
+    },
+    {
+      "name": "ВОБ35-БИХ2601",
+      "file": "ВОБ35-БИХ2601",
+      "year": 1,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "Биология и Химия",
+      "profile": null
+    },
+    {
+      "name": "ВОБ35-ББЖ2601",
+      "file": "ВОБ35-ББЖ2601",
+      "year": 1,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "Биология и, Безопасность, жизнедеятельности",
+      "profile": null
+    },
+    {
+      "name": "ВОБ35-ХИМ2601",
+      "file": "ВОБ35-ХИМ2601",
+      "year": 1,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "Химия",
+      "profile": null
+    },
+    {
+      "name": "ВОБ01-БЭК2501",
+      "file": "ВОБ01-БЭК2501",
+      "year": 2,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": "Биоэкология"
+    },
+    {
+      "name": "ВОБ34-БИА2501",
+      "file": "ВОБ34-БИА2501",
+      "year": 2,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Биология и Иностранный язык (английский)"
+    },
+    {
+      "name": "ВОБ34-БИХ2501",
+      "file": "ВОБ34-БИХ2501",
+      "year": 2,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Биология и Химия"
+    },
+    {
+      "name": "ВОБ34-ББЖ2501",
+      "file": "ВОБ34-ББЖ2501",
+      "year": 2,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Биология и Безопасность жизнедеятельности"
+    },
+    {
+      "name": "БОБ01-БЭК2401",
+      "file": "БОБ01-БЭК2401",
+      "year": 3,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": "Биоэкология"
+    },
+    {
+      "name": "ВОБ34-ББЖ2401",
+      "file": "ВОБ34-ББЖ2401",
+      "year": 3,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "ВОБ34-БИА2401",
+      "file": "ВОБ34-БИА2401",
+      "year": 3,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "ВОБ34-БИХ2401",
+      "file": "ВОБ34-БИХ2401",
+      "year": 3,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОБ35-БИА2301",
+      "file": "БОБ35-БИА2301",
+      "year": 4,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": "Биология и Иностранный язык (английский)"
+    },
+    {
+      "name": "БОБ35-БИХ2301",
+      "file": "БОБ35-БИХ2301",
+      "year": 4,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": "Биология и Химия"
+    },
+    {
+      "name": "БВБ34-БИО2301",
+      "file": "БВБ34-БИО2301",
+      "year": 4,
+      "form": "correspondence",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Биология"
+    },
+    {
+      "name": "БОБ01-БЭК2301",
+      "file": "БОБ01-БЭК2301",
+      "year": 4,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": "Биоэкология"
+    },
+    {
+      "name": "БОБ59-ХИМ2301",
+      "file": "БОБ59-ХИМ2301",
+      "year": 4,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": "Химия"
+    },
+    {
+      "name": "БОБ35-ХИЭ2301",
+      "file": "БОБ35-ХИЭ2301",
+      "year": 4,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": "Химия и Экология"
+    },
+    {
+      "name": "БОБ35-БИА2201",
+      "file": "БОБ35-БИА2201",
+      "year": 5,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": "Биология и Иностранный язык (английский)"
+    },
+    {
+      "name": "БОБ35-БИХ2201",
+      "file": "БОБ35-БИХ2201",
+      "year": 5,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": "Биология и Химия"
+    },
+    {
+      "name": "БВБ34-БИО2201",
+      "file": "БВБ34-БИО2201",
+      "year": 5,
+      "form": "correspondence",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Биология"
+    },
+    {
+      "name": "БОБ35-ХИЭ2201",
+      "file": "БОБ35-ХИЭ2201",
+      "year": 5,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+      "profile": "Химия и Экология"
+    },
+    {
+      "name": "ЗОБ34-БПК2601",
+      "file": "ЗОБ34-БПК2601",
+      "year": 1,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Биологическое образование в профильных классах"
+    },
+    {
+      "name": "ЗОБ34-СТБ2601",
+      "file": "ЗОБ34-СТБ2601",
+      "year": 1,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Современные технологии биологического и химического образования"
+    },
+    {
+      "name": "ЗОБ34-СБХ2501",
+      "file": "ЗОБ34-СБХ2501",
+      "year": 2,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Современные технологии биологического и химического образования"
+    },
+    {
+      "name": "ЗОБ34-БПК2501",
+      "file": "ЗОБ34-БПК2501",
+      "year": 2,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Биологическое образование в профильных классах"
+    },
+    {
+      "name": "ЗЗБ34-ОТБ2401",
+      "file": "ЗЗБ34-ОТБ2401",
+      "year": 3,
+      "form": "correspondence",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": "Образовательные технологии безопасности жизнедеятельности"
+    }
+  ]
+}

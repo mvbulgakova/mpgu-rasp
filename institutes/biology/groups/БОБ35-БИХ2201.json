@@ -1,0 +1,540 @@
+{
+  "name": "БОБ35-БИХ2201",
+  "year": 5,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "Биология и Химия",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОРГАНИЧЕСКИЙ СИНТЕЗ",
+          "type": "lab",
+          "teacher": "Доцент А.М. Коротеев (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Доцент А.И. Бокова (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОРГАНИЧЕСКИЙ СИНТЕЗ",
+          "type": "lab",
+          "teacher": "Доцент А.М. Коротеев (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Доцент А.И. Бокова (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОРГАНИЧЕСКИЙ СИНТЕЗ",
+          "type": "lab",
+          "teacher": "Доцент А.М. Коротеев (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОРГАНИЧЕСКИЙ СИНТЕЗ",
+          "type": "lab",
+          "teacher": "Доцент А.М. Коротеев (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Профессор Н.А. Кузнецова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИО- НАЛЬНОЕ ПРИРОДОПОЛЬЗО- ВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (410",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Профессор Н.А. Кузнецова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИ- ОНАЛЬНОЕ ПРИРОДОПОЛЬ- ЗОВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (410",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ АНТРОПОГЕНЕЗА",
+          "type": "practice",
+          "teacher": "Профессор Н.А. Кузнецова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИ- ОНАЛЬНОЕ ПРИРОДОПОЛЬ- ЗОВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (410",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПРАВА РЕБЕНКА –16.09, 30.09, 14.10, 28.10, 11.11",
+          "type": "practice",
+          "teacher": "Профессор Е.Л. Болотова (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ",
+          "type": "practice",
+          "teacher": "Ст. преп. Т.А. Смирнова (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ",
+          "type": "practice",
+          "teacher": "Ст. преп. Т.А. Смирнова (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ АНТРОПОГЕНЕЗА",
+          "type": "practice",
+          "teacher": "Профессор Н.А. Кузнецова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИО- НАЛЬНОЕ ПРИРОДОПОЛЬЗО- ВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ СОЦИАЛЬНОЙ ЭКОЛОГИИ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Доцент А.И. Бокова (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОРГАНИЧЕСКИЙ СИНТЕЗ",
+          "type": "lab",
+          "teacher": "Доцент А.М. Коротеев (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Доцент А.И. Бокова (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОРГАНИЧЕСКИЙ СИНТЕЗ",
+          "type": "lab",
+          "teacher": "Доцент А.М. Коротеев (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Доцент А.И. Бокова (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОРГАНИЧЕСКИЙ СИНТЕЗ",
+          "type": "lab",
+          "teacher": "Доцент А.М. Коротеев (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ БИОТЕХНОЛОГИИ",
+          "type": "lab",
+          "teacher": "Доцент А.А. Вергун (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОРГАНИЧЕСКИЙ СИНТЕЗ",
+          "type": "lab",
+          "teacher": "Доцент А.М. Коротеев (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Профессор Н.А. Кузнецова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИО- НАЛЬНОЕ ПРИРОДОПОЛЬЗО- ВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (410",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Профессор Н.А. Кузнецова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИ- ОНАЛЬНОЕ ПРИРОДОПОЛЬ- ЗОВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (410",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ АНТРОПОГЕНЕЗА",
+          "type": "practice",
+          "teacher": "Профессор Н.А. Кузнецова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИ- ОНАЛЬНОЕ ПРИРОДОПОЛЬ- ЗОВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (410",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПРАВА РЕБЕНКА –16.09, 30.09, 14.10, 28.10, 11.11",
+          "type": "practice",
+          "teacher": "Профессор Е.Л. Болотова (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ",
+          "type": "practice",
+          "teacher": "Ст. преп. Т.А. Смирнова (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ",
+          "type": "practice",
+          "teacher": "Ст. преп. Т.А. Смирнова (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ АНТРОПОГЕНЕЗА",
+          "type": "practice",
+          "teacher": "Профессор Н.А. Кузнецова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИО- НАЛЬНОЕ ПРИРОДОПОЛЬЗО- ВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ СОЦИАЛЬНОЙ ЭКОЛОГИИ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТЕОРИЯ ЭВОЛЮЦИИ",
+          "type": "lab",
+          "teacher": "Доцент А.И. Бокова (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

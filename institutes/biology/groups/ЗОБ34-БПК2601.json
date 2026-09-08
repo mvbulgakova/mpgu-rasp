@@ -1,0 +1,560 @@
+{
+  "name": "ЗОБ34-БПК2601",
+  "year": 1,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.01 Педагогическое образование",
+  "profile": "Биологическое образование в профильных классах",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СОВРЕМЕННЫЕ ПРОБЛЕМЫ ТЕОРИИ ЭВОЛЮЦИИ – 2 недели; – 2 недели",
+          "type": "lecture",
+          "teacher": "Профессор Н.А. Кузнецова (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПЕДАГОГИКА И ПСИХОЛОГИЯ ШКОЛЫ – 6 недель; – 2 недели",
+          "type": "lecture",
+          "teacher": "Профессор М.А. Гончаров (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СОВРЕМЕННЫЕ ПРОБЛЕМЫ ТЕОРИИ ЭВОЛЮЦИИ – 4 недели",
+          "type": "practice",
+          "teacher": "Профессор Н.А. Кузнецова (210",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПЕДАГОГИКА И ПСИХОЛОГИЯ ШКОЛЫ",
+          "type": "practice",
+          "teacher": "Профессор М.А. Гончаров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОРГАНИЗАЦИЯ ПРОЕКТНОЙ И ИС- СЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ ШКОЛЬНИКОВ – 4 недели",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОРГАНИЗАЦИЯ ПРОЕКТНОЙ И ИС- СЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ ШКОЛЬНИКОВ – 2 недели",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОРГАНИЗАЦИЯ ПРОЕКТНОЙ И ИССЛЕ- ДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ ШКОЛЬНИКОВ – 4 недели",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОРГАНИЗАЦИЯ ПРОЕКТНОЙ И ИССЛЕ- ДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ ШКОЛЬНИКОВ – 2 недели",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СИСТЕМАТИКА И ЭВОЛЮЦИЯ ВЫСШИХ РАСТЕНИЙ – 5 недель; – 3 недели",
+          "type": "lecture",
+          "teacher": "Профессор В.П. Викторов (210",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СОВРЕМЕННЫЕ ПРОБЛЕМЫ ОБУЧЕНИЯ БИОЛОГИИ В СРЕДНЕЙ ШКОЛЕ – 4 недели",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Теремов (304",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СОВРЕМЕННЫЕ ПРОБЛЕМЫ ОБУЧЕ- НИЯ БИОЛОГИИ В СРЕДНЕЙ ШКОЛЕ – 4 недели",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СОВРЕМЕННЫЕ ПРОБЛЕМЫ ОБУЧЕ- НИЯ БИОЛОГИИ В СРЕДНЕЙ ШКОЛЕ – 2 недели",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СИСТЕМАТИКА И ЭВОЛЮЦИЯ ВЫСШИХ РАСТЕНИЙ – 7 недель",
+          "type": "practice",
+          "teacher": "Профессор В.П. Викторов (210",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОРГАНИЗАЦИЯ ПРОЕКТНОЙ И ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ ШКОЛЬНИКОВ – 3 недели",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Теремов (304",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СОВРЕМЕННЫЕ ПРОБЛЕМЫ ОБУЧЕ- НИЯ БИОЛОГИИ В СРЕДНЕЙ ШКОЛЕ – 4 недели",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СОВРЕМЕННЫЕ ПРОБЛЕМЫ ОБУЧЕ- НИЯ БИОЛОГИИ В СРЕДНЕЙ ШКОЛЕ – 1 неделя",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИ- АЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.О. Забенькина (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИ- АЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.О. Забенькина (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬ- НЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.О. Забенькина (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ – 6 недель; – 1 неделя",
+          "type": "lecture",
+          "teacher": "Доцент М.И. Филатова (506/210",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬ- НЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.О. Забенькина (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "practice",
+          "teacher": "Доцент М.И. Филатова (210",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ХИМИЧЕСКИЕ ОСНОВЫ ЖИЗНИ – 4 недели; – 4 недели",
+          "type": "lecture",
+          "teacher": "Ст. преп. С.Е. Мосюров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ХИМИЧЕСКИЕ ОСНОВЫ ЖИЗНИ – 4 недели",
+          "type": "practice",
+          "teacher": "Ст. преп. С.Е. Мосюров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СОВРЕМЕННЫЕ ПРОБЛЕМЫ ТЕОРИИ ЭВОЛЮЦИИ – 2 недели; – 2 недели",
+          "type": "lecture",
+          "teacher": "Профессор Н.А. Кузнецова (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПЕДАГОГИКА И ПСИХОЛОГИЯ ШКОЛЫ – 6 недель; – 2 недели",
+          "type": "lecture",
+          "teacher": "Профессор М.А. Гончаров (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СОВРЕМЕННЫЕ ПРОБЛЕМЫ ТЕОРИИ ЭВОЛЮЦИИ – 4 недели",
+          "type": "practice",
+          "teacher": "Профессор Н.А. Кузнецова (210",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПЕДАГОГИКА И ПСИХОЛОГИЯ ШКОЛЫ",
+          "type": "practice",
+          "teacher": "Профессор М.А. Гончаров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОРГАНИЗАЦИЯ ПРОЕКТНОЙ И ИС- СЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ ШКОЛЬНИКОВ – 4 недели",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОРГАНИЗАЦИЯ ПРОЕКТНОЙ И ИС- СЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ ШКОЛЬНИКОВ – 2 недели",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОРГАНИЗАЦИЯ ПРОЕКТНОЙ И ИССЛЕ- ДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ ШКОЛЬНИКОВ – 4 недели",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОРГАНИЗАЦИЯ ПРОЕКТНОЙ И ИССЛЕ- ДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ ШКОЛЬНИКОВ – 2 недели",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СИСТЕМАТИКА И ЭВОЛЮЦИЯ ВЫСШИХ РАСТЕНИЙ – 5 недель; – 3 недели",
+          "type": "lecture",
+          "teacher": "Профессор В.П. Викторов (210",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СОВРЕМЕННЫЕ ПРОБЛЕМЫ ОБУЧЕНИЯ БИОЛОГИИ В СРЕДНЕЙ ШКОЛЕ – 4 недели",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Теремов (304",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СОВРЕМЕННЫЕ ПРОБЛЕМЫ ОБУЧЕ- НИЯ БИОЛОГИИ В СРЕДНЕЙ ШКОЛЕ – 4 недели",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СОВРЕМЕННЫЕ ПРОБЛЕМЫ ОБУЧЕ- НИЯ БИОЛОГИИ В СРЕДНЕЙ ШКОЛЕ – 2 недели",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СИСТЕМАТИКА И ЭВОЛЮЦИЯ ВЫСШИХ РАСТЕНИЙ – 7 недель",
+          "type": "practice",
+          "teacher": "Профессор В.П. Викторов (210",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОРГАНИЗАЦИЯ ПРОЕКТНОЙ И ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ ШКОЛЬНИКОВ – 3 недели",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Теремов (304",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СОВРЕМЕННЫЕ ПРОБЛЕМЫ ОБУЧЕ- НИЯ БИОЛОГИИ В СРЕДНЕЙ ШКОЛЕ – 4 недели",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СОВРЕМЕННЫЕ ПРОБЛЕМЫ ОБУЧЕ- НИЯ БИОЛОГИИ В СРЕДНЕЙ ШКОЛЕ – 1 неделя",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИ- АЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.О. Забенькина (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИ- АЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.О. Забенькина (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬ- НЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.О. Забенькина (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ – 6 недель; – 1 неделя",
+          "type": "lecture",
+          "teacher": "Доцент М.И. Филатова (506/210",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬ- НЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.О. Забенькина (103",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "practice",
+          "teacher": "Доцент М.И. Филатова (210",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ХИМИЧЕСКИЕ ОСНОВЫ ЖИЗНИ – 4 недели; – 4 недели",
+          "type": "lecture",
+          "teacher": "Ст. преп. С.Е. Мосюров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ХИМИЧЕСКИЕ ОСНОВЫ ЖИЗНИ – 4 недели",
+          "type": "practice",
+          "teacher": "Ст. преп. С.Е. Мосюров (204",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

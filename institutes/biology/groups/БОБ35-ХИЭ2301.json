@@ -1,0 +1,512 @@
+{
+  "name": "БОБ35-ХИЭ2301",
+  "year": 4,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "Химия и Экология",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ЭКОЛОГИЯ)",
+          "type": "practice",
+          "teacher": "Доцент Н.А. Богданов (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ЭКОЛОГИЯ)",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ХИМИЯ)",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕНИЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "– 19.09, 03.10",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "–17.10, 31.10, 14.11",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ХИМИЯ)",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "– 12.09, 26.09, 10.10",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Тарновская (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕНИЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "– 19.09, 03.10",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "– 17.10, 31.10, 14.11",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ХИМИЯ)",
+          "type": "practice",
+          "teacher": "Профессор П.А. Оржековский (401",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lab",
+          "teacher": "Доцент Т.А. Тарновская (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент О.А. Кириченко (504",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "– 12.09, 26.09, 10.10",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Тарновская (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЭКОЛОГИЧЕСКИЙ МОНИТОРИНГ /",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ЭКОЛОГИЯ)",
+          "type": "practice",
+          "teacher": "Доцент Н.А. Богданов (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ЭКОЛОГИЯ)",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ХИМИЯ)",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕНИЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "– 19.09, 03.10",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "–17.10, 31.10, 14.11",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ХИМИЯ)",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "– 12.09, 26.09, 10.10",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Тарновская (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПРЕДУПРЕЖДЕНИЕ И КОРРЕКЦИЯ ДЕВИАНТНОГО ПОВЕДЕНИЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "– 19.09, 03.10",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "– 17.10, 31.10, 14.11",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ (ХИМИЯ)",
+          "type": "practice",
+          "teacher": "Профессор П.А. Оржековский (401",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lab",
+          "teacher": "Доцент Т.А. Тарновская (403",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИЧЕСКАЯ И КОЛЛОИДНАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент О.А. Кириченко (504",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "– 12.09, 26.09, 10.10",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Тарновская (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЭКОЛОГИЧЕСКИЙ МОНИТОРИНГ /",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

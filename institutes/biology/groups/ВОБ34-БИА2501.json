@@ -1,0 +1,404 @@
+{
+  "name": "ВОБ34-БИА2501",
+  "year": 2,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 Педагогическое образование",
+  "profile": "Биология и Иностранный язык (английский)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ПРАКТИЧЕСКАЯ ГРАММАТИКА АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Доцент И.М. Пескова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.М. Коротеев",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПРАКТИЧЕСКАЯ ГРАММАТИКА АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Доцент И.М. Пескова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.М. Коротеев",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ПЕДАГОГИКА",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Карпенко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Л.В. Корнева (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПЕДАГОГИКА",
+          "type": "practice",
+          "teacher": "Доцент А.В. Карпенко (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "lab",
+          "teacher": "Доцент Л.В. Корнева (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Коротеев (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТЕОРЕТИЧЕСКАЯ ФОНЕТИКА АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "lecture",
+          "teacher": "Доцент Т.С. Глазунова (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТЕОРЕТИЧЕСКАЯ ФОНЕТИКА АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Доцент Т.С. Глазунова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРАКТИКА УСТНОЙ И ПИСЬМЕННОЙ РЕЧИ (АНГЛИЙ- СКИЙ ЯЗЫК)",
+          "type": "practice",
+          "teacher": "Доцент Г.Д. Рублева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЗООЛОГИЯ ПОЗВОНОЧНЫХ",
+          "type": "lab",
+          "teacher": "Доцент А.О. Шубин",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТЕОРЕТИЧЕСКАЯ ФОНЕТИКА АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Доцент Т.С. Глазунова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "СИСТЕМАТИКА РАСТЕНИЙ И ГРИБОВ",
+          "type": "lab",
+          "teacher": "Доцент Н.М. Ключникова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЗООЛОГИЯ ПОЗВОНОЧНЫХ",
+          "type": "lab",
+          "teacher": "Доцент А.О. Шубин",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРАКТИКА УСТНОЙ И ПИСЬМЕННОЙ РЕЧИ (АНГЛИЙСКИЙ ЯЗЫК)",
+          "type": "practice",
+          "teacher": "Доцент Г.Д. Рублева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ПРАКТИЧЕСКАЯ ГРАММАТИКА АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Доцент И.М. Пескова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.М. Коротеев",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПРАКТИЧЕСКАЯ ГРАММАТИКА АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Доцент И.М. Пескова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lab",
+          "teacher": "Доцент А.М. Коротеев",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ПЕДАГОГИКА",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Карпенко (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Л.В. Корнева (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПЕДАГОГИКА",
+          "type": "practice",
+          "teacher": "Доцент А.В. Карпенко (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "lab",
+          "teacher": "Доцент Л.В. Корнева (408",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОРГАНИЧЕСКАЯ ХИМИЯ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Коротеев (105",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТЕОРЕТИЧЕСКАЯ ФОНЕТИКА АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "lecture",
+          "teacher": "Доцент Т.С. Глазунова (511",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТЕОРЕТИЧЕСКАЯ ФОНЕТИКА АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Доцент Т.С. Глазунова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРАКТИКА УСТНОЙ И ПИСЬМЕННОЙ РЕЧИ (АНГЛИЙ- СКИЙ ЯЗЫК)",
+          "type": "practice",
+          "teacher": "Доцент Г.Д. Рублева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЗООЛОГИЯ ПОЗВОНОЧНЫХ",
+          "type": "lab",
+          "teacher": "Доцент А.О. Шубин",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТЕОРЕТИЧЕСКАЯ ФОНЕТИКА АНГЛИЙСКОГО ЯЗЫКА",
+          "type": "practice",
+          "teacher": "Доцент Т.С. Глазунова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "СИСТЕМАТИКА РАСТЕНИЙ И ГРИБОВ",
+          "type": "lab",
+          "teacher": "Доцент Н.М. Ключникова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЗООЛОГИЯ ПОЗВОНОЧНЫХ",
+          "type": "lab",
+          "teacher": "Доцент А.О. Шубин",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРАКТИКА УСТНОЙ И ПИСЬМЕННОЙ РЕЧИ (АНГЛИЙСКИЙ ЯЗЫК)",
+          "type": "practice",
+          "teacher": "Доцент Г.Д. Рублева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}
