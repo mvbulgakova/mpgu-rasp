@@ -84,7 +84,8 @@ def title(report: Report) -> str:
 
 
 def body(report: Report) -> str:
-    said = _sanitize(report.text) or "_(кнопка нажата без описания)_"
+    said = _sanitize(report.text) or ("_(кнопка нажата без описания — "
+                                      "либо ошибка распознавания, либо расписание изменилось)_")
     lines = [
         "Сообщение из Telegram-бота.",
         "",
