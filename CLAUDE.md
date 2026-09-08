@@ -52,8 +52,11 @@
   `cloudflare-worker-bot/` (Telegram-бот на вебхуках).
 - **Native Android:** `android/` — Kotlin + Jetpack Compose (в разработке,
   см. `docs/superpowers/specs/2026-08-16-mpgu-rasp-migration-design.md`).
-- **Telegram-бот на GitHub Actions long-polling:** `scraper/telegram_bot.py`
-  (альтернатива вебхукам, если нет Cloudflare).
+- **Telegram-бот на GitHub Actions long-polling:** `scraper/telegram_bot.py` —
+  основной бот. Под расписанием кнопка «тут ошибка»: нажатие заводит issue
+  через `scraper/feedback.py`, ответ на подтверждение уходит туда же
+  комментарием. Одновременно с Cloudflare-вебхуком работать НЕ может —
+  Telegram отдаёт обновления либо через `getUpdates`, либо на вебхук.
 
 ## Non-negotiables
 
@@ -73,6 +76,14 @@
 - **Навигация — по направлению и профилю**, код группы вторичен: оба поля
   парсятся из шапки сетки (`extract_column_headers` в нормализаторе) и едут
   в манифест института и в `meta/groups.json`.
+- **Тесты не ходят в сеть.** `scraper/tests/conftest.py` снимает прод-токены
+  и подменяет `urlopen`. Транспорт подставляется явно (`request=`), а не
+  «по отсутствию токена в окружении» — на этом уже был инцидент.
+- **Прод крутит код из `main`.** `scrape.yml` и `bot-poll.yml` делают
+  `checkout` с `ref: main`; файл воркфлоу берётся из ветки по умолчанию, а
+  КОД — из `main`. Пока фича-ветка не в `main`, пользователи её не видят.
+- **Репозиторий обязан оставаться публичным** — на этом держится вся
+  бесплатность (`docs/free-hosting.md`).
 
 ## Отношения с mpgu-schedule (архив)
 

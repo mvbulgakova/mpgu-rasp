@@ -35,8 +35,50 @@ jobs:
             echo "institutes=$ALL" >> "$GITHUB_OUTPUT"
           fi
 
+  # Ветку data создаём ОДНИМ джобом до всех остальных. Если бы её
+  # бутстрапил каждый из 17 параллельных scrape-джобов, они бы стартовали с
+  # несвязанных историй: первый пуш выигрывает, остальные получают reject и
+  # не могут отребейзиться поверх чужого корня.
+  bootstrap-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Create the data branch if it does not exist yet
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          REMOTE=https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+          if git ls-remote --exit-code --heads "$REMOTE" data >/dev/null 2>&1; then
+            echo "Ветка data уже есть — ничего не делаю"
+            exit 0
+          fi
+          echo "::notice::Ветки data нет — создаю"
+          mkdir -p seed/meta seed/institutes
+          cat > seed/README.md <<'EOF'
+          # Ветка `data`
+
+          Содержимое создаётся автоматически (`.github/workflows/scrape.yml`)
+          и раздаётся клиентам через jsDelivr. Руками сюда коммитить не нужно:
+          следующий прогон скрапера всё равно перезапишет.
+
+          - `institutes/<id>/schedule.json` — манифест института
+          - `institutes/<id>/groups/*.json` — расписание одной группы
+          - `meta/index.json` — список институтов
+          - `meta/groups.json` — поисковый индекс групп
+          - `meta/week_parity.json` — какие недели НАД, какие ПОД чертой
+          EOF
+          : > seed/meta/.gitkeep
+          : > seed/institutes/.gitkeep
+          git -C seed init -b data
+          git -C seed config user.name "MPGU Schedule Bot"
+          git -C seed config user.email "bot@github-actions"
+          git -C seed add -A
+          git -C seed commit -m "Инициализация ветки data"
+          git -C seed remote add origin "$REMOTE"
+          git -C seed push origin data
+
   scrape:
-    needs: compute-matrix
+    needs: [compute-matrix, bootstrap-data]
     runs-on: ubuntu-latest
     timeout-minutes: 25
     strategy:
@@ -72,14 +114,18 @@ jobs:
           if git ls-remote --exit-code --heads "$REMOTE" data 2>/dev/null; then
             git clone --depth=1 --branch data "$REMOTE" data-branch
           else
+            # Первый запуск: ветки data ещё нет — создаём её на месте.
+            # NB: без `cd` — общий хвост ниже делает свой, и второй подряд
+            # `cd data-branch` изнутри неё же убивал шаг под `bash -e`.
+            # Из-за этого ветка data не могла появиться НИКОГДА (см.
+            # docs/audits/2026-09-08-pipeline-review.md).
+            echo "Ветки data нет — создаю первую"
             mkdir -p data-branch/meta data-branch/institutes
-            cd data-branch
-            git init -b data
-            git remote add origin "$REMOTE"
+            git -C data-branch init -b data
+            git -C data-branch remote add origin "$REMOTE"
           fi
-          cd data-branch
-          git config user.name "MPGU Schedule Bot"
-          git config user.email "bot@github-actions"
+          git -C data-branch config user.name "MPGU Schedule Bot"
+          git -C data-branch config user.email "bot@github-actions"
 
       - name: Run scraper
         env:
@@ -238,16 +284,23 @@ jobs:
         run: pip install -r main-branch/scraper/requirements.txt
 
       - name: Checkout data branch
+        id: data
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: |
           REMOTE=https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-          git clone --depth=1 --branch data "$REMOTE" data-branch
-          cd data-branch
-          git config user.name "MPGU Schedule Bot"
-          git config user.email "bot@github-actions"
+          if ! git clone --depth=1 --branch data "$REMOTE" data-branch; then
+            # Ветки data ещё нет — значит и переиндексировать нечего.
+            # Падать тут незачем: расписания уже разобраны в других джобах.
+            echo "::notice::Ветки data нет — пропускаю переиндексацию"
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          git -C data-branch config user.name "MPGU Schedule Bot"
+          git -C data-branch config user.email "bot@github-actions"
 
       - name: Rebuild teachers index
+        if: steps.data.outputs.skip != 'true'
         env:
           DATA_PATH: ${{ github.workspace }}/data-branch
           TEACHERS_ONLY: "true"
@@ -255,18 +308,21 @@ jobs:
         run: cd main-branch && python -m scraper.main
 
       - name: Generate iCal feeds
+        if: steps.data.outputs.skip != 'true'
         env:
           DATA_PATH: ${{ github.workspace }}/data-branch
           PYTHONPATH: ${{ github.workspace }}/main-branch
         run: cd main-branch && python -m scraper.build_ical
 
       - name: Build group search index
+        if: steps.data.outputs.skip != 'true'
         env:
           DATA_PATH: ${{ github.workspace }}/data-branch
           PYTHONPATH: ${{ github.workspace }}/main-branch
         run: cd main-branch && python -m scraper.build_group_index
 
       - name: Push teachers index
+        if: steps.data.outputs.skip != 'true'
         env:
           GITHUB_TOKEN: ${{ github.token }}
         run: |

@@ -51,6 +51,7 @@ concurrency:
 
 permissions:
   contents: read
+  issues: write   # обратная связь из бота заводит issue в этом же репозитории
 
 jobs:
   poll:
@@ -86,6 +87,10 @@ jobs:
         env:
           BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Инбокс обратной связи — Issues этого же репозитория. Отдельный
+          # PAT не нужен: встроенного GITHUB_TOKEN с issues:write хватает,
+          # и он живёт только на время рана.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           RUN_SECONDS: "19800"
           SUBS_PATH: subs.json
           FEEDBACK_PATH: feedback.json
