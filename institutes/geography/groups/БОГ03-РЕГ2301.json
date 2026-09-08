@@ -1,0 +1,232 @@
+{
+  "name": "БОГ03-РЕГ2301",
+  "year": 4,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "05.03.02 ГЕОГРАФИЯ",
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "География Московского региона",
+          "type": "lecture",
+          "teacher": "доц. В.А. Кошевой",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "География Московского",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "региона",
+          "type": "practice",
+          "teacher": "доц. В.А. Кошевой",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Регионалистика России",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Экономическая и социальная география стран ближнего зарубежья",
+          "type": "lecture",
+          "teacher": "доц. Н.Н. Роготень",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Экономическая и социальная география стран ближнего зарубежья",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Роготень",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Физико-географические регионы России",
+          "type": "lecture",
+          "teacher": "доц. Е.Ю. Зейналова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Физико-географические регионы России",
+          "type": "practice",
+          "teacher": "доц. Е.Ю. Зейналова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Физико-географические регионы России",
+          "type": "practice",
+          "teacher": "доц. Е.Ю. Зейналова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "География Московского региона",
+          "type": "lecture",
+          "teacher": "доц. В.А. Кошевой",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "География Московского",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "региона",
+          "type": "practice",
+          "teacher": "доц. В.А. Кошевой",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Регионалистика России",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Экономическая и социальная география стран ближнего зарубежья",
+          "type": "lecture",
+          "teacher": "доц. Н.Н. Роготень",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Экономическая и социальная география стран ближнего зарубежья",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Роготень",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Физико-географические регионы России",
+          "type": "lecture",
+          "teacher": "доц. Е.Ю. Зейналова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Физико-географические регионы России",
+          "type": "practice",
+          "teacher": "доц. Е.Ю. Зейналова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Физико-географические регионы России",
+          "type": "practice",
+          "teacher": "доц. Е.Ю. Зейналова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

@@ -1,0 +1,254 @@
+{
+  "name": "БОГ35-ГЭК2201",
+  "year": 5,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ(с двумя профилями подготовки)",
+  "profile": "География и экология",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Региональная экология",
+          "type": "lecture",
+          "teacher": "доц. Э.Г. Рябова",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Региональная экология",
+          "type": "practice",
+          "teacher": "доц. Э.Г. Рябова",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения и воспитания экологии",
+          "type": "practice",
+          "teacher": "ст.преп. С.В. Брусиловская",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения и воспитания экологии",
+          "type": "lecture",
+          "teacher": "доц. В.И. Ерошенко",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения и воспитания экологии",
+          "type": "practice",
+          "teacher": "ст.преп. С.В. Брусиловская",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Экономическая и социальная география мира",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Рациональное природопользование",
+          "type": "practice",
+          "teacher": "доц. Э.Г. Рябова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Рациональное природопользование",
+          "type": "lecture",
+          "teacher": "доц. Э.Г. Рябова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Наименование дисциплины (форма проведения",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "занятия) должность и ФИО",
+          "type": "other",
+          "teacher": "преподавателя",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Региональная экология",
+          "type": "lecture",
+          "teacher": "доц. Э.Г. Рябова",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Региональная экология",
+          "type": "practice",
+          "teacher": "доц. Э.Г. Рябова",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения и воспитания экологии",
+          "type": "practice",
+          "teacher": "ст.преп. С.В. Брусиловская",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения и воспитания экологии",
+          "type": "lecture",
+          "teacher": "доц. В.И. Ерошенко",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения и воспитания экологии",
+          "type": "practice",
+          "teacher": "ст.преп. С.В. Брусиловская",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Экономическая и социальная география мира",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Рациональное природопользование",
+          "type": "practice",
+          "teacher": "доц. Э.Г. Рябова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Рациональное природопользование",
+          "type": "lecture",
+          "teacher": "доц. Э.Г. Рябова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Наименование дисциплины (форма проведения",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "занятия) должность и ФИО",
+          "type": "other",
+          "teacher": "преподавателя",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

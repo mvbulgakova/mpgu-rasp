@@ -1,0 +1,254 @@
+{
+  "name": "ЗОГ34-ТДО2501",
+  "year": 2,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "44.04.01 - ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Технологии географических исследований",
+          "type": "practice",
+          "teacher": "доц. В.А. Кошевой",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Технологии детско-юношеского туризма",
+          "type": "lecture",
+          "teacher": "доц. Н.В. Косарева",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Технологии географических исследований",
+          "type": "practice",
+          "teacher": "доц. В.А. Кошевой",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Краеведение в дополнительном образовании",
+          "type": "lecture",
+          "teacher": "доц. Н.Н. Солодухина",
+          "room": "402",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "21:00",
+          "subject": "Краеведение в дополнительном образовании",
+          "type": "lecture",
+          "teacher": "доц. Н.Н. Солодухина",
+          "room": "402",
+          "subgroup": null,
+          "notes": "ПЗ"
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Технологии детско-юношеского туризма",
+          "type": "lecture",
+          "teacher": "доц. Н.В. Косарева",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Технологии детско-юношеского туризма",
+          "type": "practice",
+          "teacher": "доц. Н.В. Косарева",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Е.Б. Баранникова",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Е.Б. Баранникова",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. М.А. Корецкая",
+          "room": null,
+          "subgroup": null,
+          "notes": "/ ЛК"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Технологии географических исследований",
+          "type": "practice",
+          "teacher": "доц. В.А. Кошевой",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Технологии детско-юношеского туризма",
+          "type": "lecture",
+          "teacher": "доц. Н.В. Косарева",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Технологии географических исследований",
+          "type": "practice",
+          "teacher": "доц. В.А. Кошевой",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Краеведение в дополнительном образовании",
+          "type": "lecture",
+          "teacher": "доц. Н.Н. Солодухина",
+          "room": "402",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "21:00",
+          "subject": "Краеведение в дополнительном образовании",
+          "type": "lecture",
+          "teacher": "доц. Н.Н. Солодухина",
+          "room": "402",
+          "subgroup": null,
+          "notes": "ПЗ"
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Технологии детско-юношеского туризма",
+          "type": "lecture",
+          "teacher": "доц. Н.В. Косарева",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Технологии детско-юношеского туризма",
+          "type": "practice",
+          "teacher": "доц. Н.В. Косарева",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Е.Б. Баранникова",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Е.Б. Баранникова",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. М.А. Корецкая",
+          "room": null,
+          "subgroup": null,
+          "notes": "/ ЛК"
+        }
+      ]
+    }
+  }
+}

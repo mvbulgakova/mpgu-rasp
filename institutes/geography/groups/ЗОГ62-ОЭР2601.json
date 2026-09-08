@@ -1,0 +1,300 @@
+{
+  "name": "ЗОГ62-ОЭР2601",
+  "year": 1,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "05.04.06 - ЭКОЛОГИЯ И ПРИРОДОПОЛЬЗОВАНИЕ",
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Оценка безопасности продуктов питания",
+          "type": "lecture",
+          "teacher": "доц. В.В Гамага",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Техногенные системы и экологические риски",
+          "type": "lecture",
+          "teacher": "доц. В.В Гамага",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Оценка безопасности продуктов питания",
+          "type": "lecture",
+          "teacher": "доц. В.В Гамага",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Рациональное природопользование с основами экологического права",
+          "type": "lecture",
+          "teacher": "доц. Э.Г.Рябова",
+          "room": "405",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "доц. И.В. Погодин",
+          "room": "405",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "доц. И.В. Погодин",
+          "room": "405",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математическая статистика в экологии",
+          "type": "practice",
+          "teacher": "доц. С.Е.Грачев",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Математическая статистика в экологии",
+          "type": "practice",
+          "teacher": "доц. С.Е.Грачев",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Экологическая безопасность Методика экологических исследований",
+          "type": "lecture",
+          "teacher": "доц. В.В. Гамага",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Методика экологических исследований",
+          "type": "lecture",
+          "teacher": "доц. В.В. Гамага",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Оценка безопасности продуктов питания",
+          "type": "lecture",
+          "teacher": "доц. В.В Гамага",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Техногенные системы и экологические риски",
+          "type": "lecture",
+          "teacher": "доц. В.В Гамага",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Оценка безопасности продуктов питания",
+          "type": "lecture",
+          "teacher": "доц. В.В Гамага",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Рациональное природопользование с основами экологического права",
+          "type": "lecture",
+          "teacher": "доц. Э.Г.Рябова",
+          "room": "405",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "доц. И.В. Погодин",
+          "room": "405",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "доц. И.В. Погодин",
+          "room": "405",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математическая статистика в экологии",
+          "type": "practice",
+          "teacher": "доц. С.Е.Грачев",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Математическая статистика в экологии",
+          "type": "practice",
+          "teacher": "доц. С.Е.Грачев",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Экологическая безопасность Методика экологических исследований",
+          "type": "lecture",
+          "teacher": "доц. В.В. Гамага",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Методика экологических исследований",
+          "type": "lecture",
+          "teacher": "доц. В.В. Гамага",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

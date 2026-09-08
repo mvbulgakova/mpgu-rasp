@@ -1,0 +1,278 @@
+{
+  "name": "ЗОГ34-ТОТ2601",
+  "year": 1,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "44.04.01 - ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Основы образовательного туризма",
+          "type": "lecture",
+          "teacher": "доц. И.Ф. Асауляк",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "доцент И.В. Погодин",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "21:00",
+          "subject": "Основы образовательного туризма",
+          "type": "lecture",
+          "teacher": "доц. И.Ф. Асауляк",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "21:00",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "доцент И.В. Погодин",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Основы детско-юношеского туризма",
+          "type": "lecture",
+          "teacher": "доц. Е.Ю. Зейналова",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Основы детско-юношеского туризма",
+          "type": "practice",
+          "teacher": "доц. Е.Ю. Зейналова",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Организация туристской и экскурсионной деятельности",
+          "type": "lecture",
+          "teacher": "доц. Т.Л. Смоктунович",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Организация туристской и экскурсионной деятельности",
+          "type": "practice",
+          "teacher": "доц. Т.Л. Смоктунович",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Природные и историко-культурные регионы мира",
+          "type": "lecture",
+          "teacher": "проф. Д.Л. Лопатников",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Природные и историко-культурные регионы мира",
+          "type": "practice",
+          "teacher": "проф. Д.Л. Лопатников",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "ст. преп. Д.Н. Белякова",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Основы образовательного туризма",
+          "type": "lecture",
+          "teacher": "доц. И.Ф. Асауляк",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "доцент И.В. Погодин",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "21:00",
+          "subject": "Основы образовательного туризма",
+          "type": "lecture",
+          "teacher": "доц. И.Ф. Асауляк",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "21:00",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "доцент И.В. Погодин",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Основы детско-юношеского туризма",
+          "type": "lecture",
+          "teacher": "доц. Е.Ю. Зейналова",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Основы детско-юношеского туризма",
+          "type": "practice",
+          "teacher": "доц. Е.Ю. Зейналова",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Организация туристской и экскурсионной деятельности",
+          "type": "lecture",
+          "teacher": "доц. Т.Л. Смоктунович",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Организация туристской и экскурсионной деятельности",
+          "type": "practice",
+          "teacher": "доц. Т.Л. Смоктунович",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Природные и историко-культурные регионы мира",
+          "type": "lecture",
+          "teacher": "проф. Д.Л. Лопатников",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Природные и историко-культурные регионы мира",
+          "type": "practice",
+          "teacher": "проф. Д.Л. Лопатников",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "ст. преп. Д.Н. Белякова",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "name": "МОГ62-ОЭР2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "05.04.06 - ЭКОЛОГИЯ И ПРИРОДОПОЛЬЗОВАНИЕ",
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Экологическое нормирование и оценка воздействия на окружающую среду",
+          "type": "lecture",
+          "teacher": "доц. В.В Гамага",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Информационные технологии в экологии и природопользовании",
+          "type": "practice",
+          "teacher": "доц. С.Е.Грачев",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Информационные технологии в экологии и природопользовании",
+          "type": "practice",
+          "teacher": "доц. С.Е.Грачев",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Информационные технологии в экологии и природопользовании",
+          "type": "practice",
+          "teacher": "доц. С.Е.Грачев",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Экологическо проектирование и экспертиза проектной документации",
+          "type": "lecture",
+          "teacher": "доц. Н.В. Каргаполов",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Лицензирование и сертификация в экологии",
+          "type": "lecture",
+          "teacher": "доц. Н.В. Каргаполов",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Е.Б. Баранникова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Е.Б. Баранникова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. М.А.Корецкая 31.10",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. С.А. Егорова 24.10",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. М.А.Корецкая 31.10",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. С.А. Егорова 24.10 -31.10",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. С.А. Егорова 24.10",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Экологическое нормирование и оценка воздействия на окружающую среду",
+          "type": "lecture",
+          "teacher": "доц. В.В Гамага",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Информационные технологии в экологии и природопользовании",
+          "type": "practice",
+          "teacher": "доц. С.Е.Грачев",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Информационные технологии в экологии и природопользовании",
+          "type": "practice",
+          "teacher": "доц. С.Е.Грачев",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Информационные технологии в экологии и природопользовании",
+          "type": "practice",
+          "teacher": "доц. С.Е.Грачев",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Экологическо проектирование и экспертиза проектной документации",
+          "type": "lecture",
+          "teacher": "доц. Н.В. Каргаполов",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Лицензирование и сертификация в экологии",
+          "type": "lecture",
+          "teacher": "доц. Н.В. Каргаполов",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Е.Б. Баранникова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Е.Б. Баранникова",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. М.А.Корецкая 31.10",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. С.А. Егорова 24.10",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. М.А.Корецкая 31.10",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. С.А. Егорова 24.10 -31.10",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. С.А. Егорова 24.10",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

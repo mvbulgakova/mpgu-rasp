@@ -1,0 +1,210 @@
+{
+  "name": "ЗОГ34-ТГО2601",
+  "year": 1,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "44.04.01 - ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Современные парадигмы географического образования",
+          "type": "lecture",
+          "teacher": "профессор Е.А. Беловолова",
+          "room": "404",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Концептуальные основы педагогических технологий",
+          "type": "lecture",
+          "teacher": "профессор Е.А. Таможняя",
+          "room": "404",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "21:00",
+          "subject": "Технологии обучения географии",
+          "type": "practice",
+          "teacher": "профессор Е.А. Таможняя",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Проектирование географической образовательной среды",
+          "type": "lecture",
+          "teacher": "доцент Н.Н. Солодухина",
+          "room": "402",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Технологии научно-педагогического исследования",
+          "type": "lecture",
+          "teacher": "проф. Е.А. Таможняя",
+          "room": "402",
+          "subgroup": null,
+          "notes": "ПЗ"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "доцент И.В. Погодин",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "доцент И.В. Погодин",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "профессор Н.А. Тарасюк",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Современные парадигмы географического образования",
+          "type": "lecture",
+          "teacher": "профессор Е.А. Беловолова",
+          "room": "404",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Концептуальные основы педагогических технологий",
+          "type": "lecture",
+          "teacher": "профессор Е.А. Таможняя",
+          "room": "404",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "21:00",
+          "subject": "Технологии обучения географии",
+          "type": "practice",
+          "teacher": "профессор Е.А. Таможняя",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Проектирование географической образовательной среды",
+          "type": "lecture",
+          "teacher": "доцент Н.Н. Солодухина",
+          "room": "402",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Технологии научно-педагогического исследования",
+          "type": "lecture",
+          "teacher": "проф. Е.А. Таможняя",
+          "room": "402",
+          "subgroup": null,
+          "notes": "ПЗ"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "доцент И.В. Погодин",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "доцент И.В. Погодин",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "профессор Н.А. Тарасюк",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
