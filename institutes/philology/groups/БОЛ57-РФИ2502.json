@@ -1,0 +1,806 @@
+{
+  "name": "БОЛ57-РФИ2502",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "45.03.01 Филология",
+  "profile": "Русская филология",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Современный русский яык",
+          "type": "practice",
+          "teacher": "Доц",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "История языка",
+          "type": "practice",
+          "teacher": "Проф",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Элективные",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "физической",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "культуре и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "спорту",
+          "type": "practice",
+          "teacher": "Асс",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "(10:10)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Стилистика",
+          "type": "lecture",
+          "teacher": "Доц. Л.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Латфуллина",
+          "type": "other",
+          "teacher": null,
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "(11:50)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Стилистика",
+          "type": "practice",
+          "teacher": "Доц. Л.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Латфуллина",
+          "type": "other",
+          "teacher": null,
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "(13:30)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "зарубежной",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "литературы",
+          "type": "practice",
+          "teacher": "Проф. Е.Н",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Черноземова",
+          "type": "other",
+          "teacher": null,
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Практический",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "курс русского",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "языка как",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "иностранного",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Профессиональн",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ориентированны",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "й модуль",
+          "type": "other",
+          "teacher": "Ст. преп. Л.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Шарликова",
+          "type": "other",
+          "teacher": null,
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "экономическая",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "грамотность",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Нормативно- правовые основы профессионально й деятельности",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Головко",
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Безопасность жизнедеятельнос ти",
+          "type": "practice",
+          "teacher": "Доц. В.В. Суворов",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "История русской",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "литературы",
+          "type": "practice",
+          "teacher": "Асс. Ж.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Вартазарова",
+          "type": "other",
+          "teacher": null,
+          "room": "313",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "История русской",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "литературы",
+          "type": "lecture",
+          "teacher": "Доц. А.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Медведев",
+          "type": "other",
+          "teacher": null,
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Современный русский яык",
+          "type": "practice",
+          "teacher": "Доц",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "История языка",
+          "type": "practice",
+          "teacher": "Проф",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Элективные",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "физической",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "культуре и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "спорту",
+          "type": "practice",
+          "teacher": "Асс",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "(10:10)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Стилистика",
+          "type": "lecture",
+          "teacher": "Доц. Л.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Латфуллина",
+          "type": "other",
+          "teacher": null,
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "(11:50)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Стилистика",
+          "type": "practice",
+          "teacher": "Доц. Л.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Латфуллина",
+          "type": "other",
+          "teacher": null,
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "(13:30)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "зарубежной",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "литературы",
+          "type": "practice",
+          "teacher": "Проф. Е.Н",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Черноземова",
+          "type": "other",
+          "teacher": null,
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Практический",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "курс русского",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "языка как",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "иностранного",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Профессиональн",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ориентированны",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "й модуль",
+          "type": "other",
+          "teacher": "Ст. преп. Л.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Шарликова",
+          "type": "other",
+          "teacher": null,
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "экономическая",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "грамотность",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Нормативно- правовые основы профессионально й деятельности",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Головко",
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Безопасность жизнедеятельнос ти",
+          "type": "practice",
+          "teacher": "Доц. В.В. Суворов",
+          "room": "315",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "История русской",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "литературы",
+          "type": "practice",
+          "teacher": "Асс. Ж.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Вартазарова",
+          "type": "other",
+          "teacher": null,
+          "room": "313",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "История русской",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "литературы",
+          "type": "lecture",
+          "teacher": "Доц. А.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Медведев",
+          "type": "other",
+          "teacher": null,
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

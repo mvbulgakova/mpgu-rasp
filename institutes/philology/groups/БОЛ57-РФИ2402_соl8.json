@@ -1,0 +1,608 @@
+{
+  "name": "БОЛ57-РФИ2402 (соl8)",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "45.03.01 Филология",
+  "profile": "Русская филология",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Современный русский язык",
+          "type": "lecture",
+          "teacher": "Проф. А.В.Логинов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "История зарубежной",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "литературы",
+          "type": "practice",
+          "teacher": "Асс. Е.Н. Чучкалова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "История русской",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "литературы",
+          "type": "practice",
+          "teacher": "Асс. Ж.А. Вартазарова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Психолого- педагогические основы образовательной деятельности",
+          "type": "practice",
+          "teacher": "Доц. Т.В. Алексеенко",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Психолого-педагогические основы образовательной",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "деятельности",
+          "type": "lecture",
+          "teacher": "Доц. Т.В. Алексеенко",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Функциональная грамматика",
+          "type": "lecture",
+          "teacher": "Проф. А.В.Логинов",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "История зарубежной литературы",
+          "type": "lecture",
+          "teacher": "Проф. Н.И. Соколова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Стилистика/Язык русских СМИ",
+          "type": "lecture",
+          "teacher": "Доц. Л.Г. Латфуллина/Доц. Е.И. Сергеева",
+          "room": "315/310",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Чтение в цифровую эпоху/История культуры России",
+          "type": "lecture",
+          "teacher": "Асс. Ю.Ю.Бондарев/Асс. А.М.Федорова",
+          "room": "416/417",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения и воспитания (филологические дисциплины)",
+          "type": "practice",
+          "teacher": "Проф. А.Ю. Устинов",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практический курс русского языка как иностранного. Профессионально- ориентированный модуль",
+          "type": "practice",
+          "teacher": "Доц. Ю.Б. Мартыненко",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практический курс русского языка как иностранного. Профессионально- ориентированный модуль",
+          "type": "practice",
+          "teacher": "Доц. Ю.Б. Мартыненко",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика обучения и воспитания (филологические дисциплины)",
+          "type": "practice",
+          "teacher": "Проф. А.Ю. Устинов",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Функциональная",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "грамматика",
+          "type": "practice",
+          "teacher": "Проф. А.В.Логинов",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Сравнительное языкознание / История русского литературного языка",
+          "type": "lecture",
+          "teacher": "Проф. А.В. Алексеев /",
+          "room": "313/314",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Современный",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "русский язык",
+          "type": "practice",
+          "teacher": "Проф. А.В.Логинов",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Сравнительное языкознание / История русского литературного языка",
+          "type": "practice",
+          "teacher": "Проф. А.В. Алексеев /",
+          "room": "204/205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Методика обучения и воспитания (филологические",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "дисциплины)",
+          "type": "lecture",
+          "teacher": "Проф. А.Ю. Устинов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "физической культуре",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "и спорту",
+          "type": "practice",
+          "teacher": "Доц. А.В. Егоров",
+          "room": "КГФ, спортзал *",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Современный русский язык",
+          "type": "lecture",
+          "teacher": "Проф. А.В.Логинов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "История зарубежной",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "литературы",
+          "type": "practice",
+          "teacher": "Асс. Е.Н. Чучкалова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "История русской",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "литературы",
+          "type": "practice",
+          "teacher": "Асс. Ж.А. Вартазарова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Психолого- педагогические основы образовательной деятельности",
+          "type": "practice",
+          "teacher": "Доц. Т.В. Алексеенко",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Психолого-педагогические основы образовательной",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "деятельности",
+          "type": "lecture",
+          "teacher": "Доц. Т.В. Алексеенко",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Функциональная грамматика",
+          "type": "lecture",
+          "teacher": "Проф. А.В.Логинов",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "История зарубежной литературы",
+          "type": "lecture",
+          "teacher": "Проф. Н.И. Соколова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Стилистика/Язык русских СМИ",
+          "type": "lecture",
+          "teacher": "Доц. Л.Г. Латфуллина/Доц. Е.И. Сергеева",
+          "room": "315/310",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Чтение в цифровую эпоху/История культуры России",
+          "type": "lecture",
+          "teacher": "Асс. Ю.Ю.Бондарев/Асс. А.М.Федорова",
+          "room": "416/417",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения и воспитания (филологические дисциплины)",
+          "type": "practice",
+          "teacher": "Проф. А.Ю. Устинов",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практический курс русского языка как иностранного. Профессионально- ориентированный модуль",
+          "type": "practice",
+          "teacher": "Доц. Ю.Б. Мартыненко",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практический курс русского языка как иностранного. Профессионально- ориентированный модуль",
+          "type": "practice",
+          "teacher": "Доц. Ю.Б. Мартыненко",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика обучения и воспитания (филологические дисциплины)",
+          "type": "practice",
+          "teacher": "Проф. А.Ю. Устинов",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Функциональная",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "грамматика",
+          "type": "practice",
+          "teacher": "Проф. А.В.Логинов",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Сравнительное языкознание / История русского литературного языка",
+          "type": "lecture",
+          "teacher": "Проф. А.В. Алексеев /",
+          "room": "313/314",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Современный",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "русский язык",
+          "type": "practice",
+          "teacher": "Проф. А.В.Логинов",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Сравнительное языкознание / История русского литературного языка",
+          "type": "practice",
+          "teacher": "Проф. А.В. Алексеев /",
+          "room": "204/205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Методика обучения и воспитания (филологические",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "дисциплины)",
+          "type": "lecture",
+          "teacher": "Проф. А.Ю. Устинов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "физической культуре",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "и спорту",
+          "type": "practice",
+          "teacher": "Доц. А.В. Егоров",
+          "room": "КГФ, спортзал *",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

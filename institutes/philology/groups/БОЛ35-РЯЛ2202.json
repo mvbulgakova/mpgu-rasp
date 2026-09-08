@@ -1,0 +1,72 @@
+{
+  "name": "БОЛ35-РЯЛ2202",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+  "profile": "Русский язык и Литература",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "История русской литературы XX-XXI веков",
+          "type": "practice",
+          "teacher": "Доц. А.С. Акимова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "Современный русский язык",
+          "type": "practice",
+          "teacher": "Проф. Г.И. Кустова",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "История русской литературы XX-XXI веков",
+          "type": "practice",
+          "teacher": "Доц. А.С. Акимова",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "Современный русский язык",
+          "type": "practice",
+          "teacher": "Проф. Г.И. Кустова",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

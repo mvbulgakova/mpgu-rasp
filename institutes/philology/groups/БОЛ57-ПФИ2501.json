@@ -1,0 +1,434 @@
+{
+  "name": "БОЛ57-ПФИ2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "45.03.01 Филология",
+  "profile": "Прикладная филология",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Старославянски й язык",
+          "type": "practice",
+          "teacher": "Ст. пр.. А.А",
+          "room": "313",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Психология",
+          "type": "lecture",
+          "teacher": "Доц. С.А. Володина",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Старославянский язык",
+          "type": "lecture",
+          "teacher": "Доц. М.В. Сарапас",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "Ст. преп. Е. Е",
+          "room": "КГФ, спортзал *",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Нормативно-правовые и этические основы педагогической деятельности",
+          "type": "lecture",
+          "teacher": "Доц. Н.В. Головко",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Нормативно-правовые и этические основы педагогической деятельности",
+          "type": "lecture",
+          "teacher": "Доц. Н.В. Головко",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Нормативно-правовые и этические основы педагогической деятельности",
+          "type": "lecture",
+          "teacher": "Доц. Н.В. Головко",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "История русской литературы",
+          "type": "lecture",
+          "teacher": "Проф. Н.В. Трофимова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Нормативно-правовые и этические основы педагогической деятельности",
+          "type": "lecture",
+          "teacher": "Доц. Н.В. Головко",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "История русской литературы",
+          "type": "practice",
+          "teacher": "Проф. Н.В",
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Нормативно- правовые и этические основы педагогической деятельности",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Головко",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Безопасность жизнедеятельнос ти",
+          "type": "practice",
+          "teacher": "Доц. В.В. Суворов",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "История русской литературы",
+          "type": "lecture",
+          "teacher": "Проф. Н.В. Трофимова",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Современный русский язык",
+          "type": "lecture",
+          "teacher": "Проф. Д.А. Осильбекова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Современный русский язык",
+          "type": "practice",
+          "teacher": "Проф. Д.А",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "История зарубежной литературы",
+          "type": "practice",
+          "teacher": "Доц. Ю.С",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Трудные случаи орфографии и пунктуации",
+          "type": "practice",
+          "teacher": "Ст. преп. Р.З",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Эстетика / История русской философии",
+          "type": "lecture",
+          "teacher": "Доц. А.В. Гвоздев /",
+          "room": "204/205",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Старославянски й язык",
+          "type": "practice",
+          "teacher": "Ст. пр.. А.А",
+          "room": "313",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Психология",
+          "type": "lecture",
+          "teacher": "Доц. С.А. Володина",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Старославянский язык",
+          "type": "lecture",
+          "teacher": "Доц. М.В. Сарапас",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "Ст. преп. Е. Е",
+          "room": "КГФ, спортзал *",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Нормативно-правовые и этические основы педагогической деятельности",
+          "type": "lecture",
+          "teacher": "Доц. Н.В. Головко",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Нормативно-правовые и этические основы педагогической деятельности",
+          "type": "lecture",
+          "teacher": "Доц. Н.В. Головко",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Нормативно-правовые и этические основы педагогической деятельности",
+          "type": "lecture",
+          "teacher": "Доц. Н.В. Головко",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "История русской литературы",
+          "type": "lecture",
+          "teacher": "Проф. Н.В. Трофимова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Нормативно-правовые и этические основы педагогической деятельности",
+          "type": "lecture",
+          "teacher": "Доц. Н.В. Головко",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "История русской литературы",
+          "type": "practice",
+          "teacher": "Проф. Н.В",
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Нормативно- правовые и этические основы педагогической деятельности",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Головко",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Безопасность жизнедеятельнос ти",
+          "type": "practice",
+          "teacher": "Доц. В.В. Суворов",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "История русской литературы",
+          "type": "lecture",
+          "teacher": "Проф. Н.В. Трофимова",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "Современный русский язык",
+          "type": "lecture",
+          "teacher": "Проф. Д.А. Осильбекова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Современный русский язык",
+          "type": "practice",
+          "teacher": "Проф. Д.А",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "История зарубежной литературы",
+          "type": "practice",
+          "teacher": "Доц. Ю.С",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Трудные случаи орфографии и пунктуации",
+          "type": "practice",
+          "teacher": "Ст. преп. Р.З",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Эстетика / История русской философии",
+          "type": "lecture",
+          "teacher": "Доц. А.В. Гвоздев /",
+          "room": "204/205",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ]
+    }
+  }
+}

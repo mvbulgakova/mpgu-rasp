@@ -1,0 +1,364 @@
+{
+  "name": "ВОЛ34-РИИ2502",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 Педагогическое образование",
+  "profile": "Русский язык и Иностранный язык (английский)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Финансово- экономический практикум",
+          "type": "practice",
+          "teacher": "Доц. О.Ю",
+          "room": "312",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Теоретическая фонетика английского языка",
+          "type": "practice",
+          "teacher": "Доц. Е.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Практикум по орфографии и пунктуации",
+          "type": "practice",
+          "teacher": "Доц. В.Ю",
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Практикум по орфографии и пунктуации",
+          "type": "practice",
+          "teacher": "Доц. В.Ю",
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "Ст. преп. Е. Е",
+          "room": "КГФ, спортзал *",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "анализу",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "художественн",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "ого текста",
+          "type": "practice",
+          "teacher": "Доц. Е.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Волкова",
+          "type": "other",
+          "teacher": null,
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Безопасность жизнедеятельнос ти",
+          "type": "practice",
+          "teacher": "Доц. В.В. Суворов",
+          "room": "312",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "Проф. Ю.М",
+          "room": "310",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Нормативно- правовые основы профессионально й деятельности",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Головко",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Этнопсихология и этнопедагогика",
+          "type": "lecture",
+          "teacher": "Проф. З.И",
+          "room": "310",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "История русской литературы",
+          "type": "lecture",
+          "teacher": "Проф. Н.В. Трофимова",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Современный русский язык",
+          "type": "practice",
+          "teacher": "Доц. Н.А",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Финансово- экономический практикум",
+          "type": "practice",
+          "teacher": "Доц. О.Ю",
+          "room": "312",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Теоретическая фонетика английского языка",
+          "type": "practice",
+          "teacher": "Доц. Е.И",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Практикум по орфографии и пунктуации",
+          "type": "practice",
+          "teacher": "Доц. В.Ю",
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Практикум по орфографии и пунктуации",
+          "type": "practice",
+          "teacher": "Доц. В.Ю",
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "Ст. преп. Е. Е",
+          "room": "КГФ, спортзал *",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "анализу",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "художественн",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "ого текста",
+          "type": "practice",
+          "teacher": "Доц. Е.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Волкова",
+          "type": "other",
+          "teacher": null,
+          "room": "314",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Безопасность жизнедеятельнос ти",
+          "type": "practice",
+          "teacher": "Доц. В.В. Суворов",
+          "room": "312",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "Проф. Ю.М",
+          "room": "310",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Нормативно- правовые основы профессионально й деятельности",
+          "type": "practice",
+          "teacher": "Доц. Н.В. Головко",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Этнопсихология и этнопедагогика",
+          "type": "lecture",
+          "teacher": "Проф. З.И",
+          "room": "310",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "История русской литературы",
+          "type": "lecture",
+          "teacher": "Проф. Н.В. Трофимова",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:50",
+          "time_end": "13:20",
+          "subject": "Современный русский язык",
+          "type": "practice",
+          "teacher": "Доц. Н.А",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

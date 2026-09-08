@@ -1,0 +1,628 @@
+{
+  "name": "БОЛ35-РИИ2207",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+  "profile": "Русский язык как иностранный и Иностранный язык (английский)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Социально-исторические контексты русской литературы / История славянских литератур / Детская литература / Китайская литература",
+          "type": "lecture",
+          "teacher": "Проф. А.В. Святославский / ? /",
+          "room": "9",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Педагогическая риторика / Нормы русского литературного языка / Особенности устного и письменного перевода Зав. каф. Е.Л. Ерохина /",
+          "type": "practice",
+          "teacher": "Доц. С.В. Иванов /Доц. Я.И",
+          "room": "304/10/9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Современный русский язык",
+          "type": "practice",
+          "teacher": "Доц. Н.Я. Козел",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "Теория языка",
+          "type": "practice",
+          "teacher": "Доц. Д.В. Дагурова",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "Современный русский язык",
+          "type": "lecture",
+          "teacher": "Доц. Н.Я. Козел",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "21:50",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Обучение русскому языку в поликультурной среде / Чтение в информационном обществе / Педагогическая риторика / Обучение русскому языку и литературе в цифровую эпоху",
+          "type": "practice",
+          "teacher": "Доц. В.Ю. Макрова /",
+          "room": "306/313/304/205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Обучение русскому языку в поликультурной среде / Проектирование курсов и модулей по иностранному языку / Педагогическая риторика / Обучение русскому языку и литературе в цифровую эпоху",
+          "type": "lecture",
+          "teacher": "Доц. В.Ю. Макрова /",
+          "room": "204",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Современные культурные практики / Краеведение России / Национально-культурные традиции России / Профессиональная этика 02.10, 16.10, 30.10",
+          "type": "lecture",
+          "teacher": "Доц. А.В. Гвоздев",
+          "room": "312",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Естественнонаучная картина мира / Здоровье семьи / Технологии оказания первой помощи / Основы социальной экологии 02.10, 16.10, 30.10",
+          "type": "lecture",
+          "teacher": "Проф. В.Н. Князев /",
+          "room": "319/9/10/11",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "История русской философии / Современные культурные практики / Эстетика / Логика 02.10, 16.10, 30.10",
+          "type": "lecture",
+          "teacher": "Проф. Н.А. Дмитриева /",
+          "room": "307/306/306/11",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Естественнонаучная картина мира / Здоровье семьи / Технологии оказания первой помощи / Основы социальной экологии 09.10, 23.10, 06.11",
+          "type": "lecture",
+          "teacher": "Проф. В.Н. Князев /",
+          "room": "315",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "История русской философии / Эстетика",
+          "type": "lecture",
+          "teacher": "Проф. Т.Г. Щедрина /",
+          "room": "305/306",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Здоровье семьи / Технологии оказания первой помощи 09.10, 23.10, 06.11",
+          "type": "lecture",
+          "teacher": "Доц. Э.В. Айриян /",
+          "room": "11",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Современные культурные практики / Логика 02.10, 16.10, 30.10",
+          "type": "lecture",
+          "teacher": "Доц. А.В. Гвоздев / Зав. каф. И.Н. Грифцова",
+          "room": "306",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Коммуникативная грамматика",
+          "type": "lecture",
+          "teacher": "Доц. Н.Я. Козел",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Теория и практика перевода",
+          "type": "lecture",
+          "teacher": "Проф. А.Т. Грязнова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "15:00",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Театральная педагогика / Конфликтология / Технологии воспитания средствами учебного предмета / Кинопедагогика 02.10, 16.10, 30.10 ?) /",
+          "type": "lecture",
+          "teacher": "Доц. С.А. Володина /",
+          "room": "7",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Театральная педагогика / Технологии воспитания средствами учебного предмета / 02.10",
+          "type": "lecture",
+          "teacher": "Проф. А.М. Антипова",
+          "room": "307",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Обучение русскому языку в поликультурной среде / Проектирование курсов и модулей по иностранному языку / Педагогическая риторика / Обучение русскому языку и литературе в цифровую эпоху 23.10, 06.11",
+          "type": "lecture",
+          "teacher": "Доц. В.Ю. Макрова /",
+          "room": "314/315/312/313",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Теория и практика перевода",
+          "type": "practice",
+          "teacher": "Проф. А.Т. Грязнова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "Коммуникативная грамматика",
+          "type": "practice",
+          "teacher": "Доц. Н.Я. Козел",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Педагогическая риторика / Нормы русского литературного языка / Особенности устного и письменного перевода 10.10, 17.10, 24.10 Зав. каф. Е.Л. Ерохина /",
+          "type": "practice",
+          "teacher": "Доц. С.В. Иванов /Доц. Я.И",
+          "room": "308/309/310",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "13:20",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "15:00",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "10:00",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Социально-исторические контексты русской литературы / История славянских литератур / Детская литература / Китайская литература",
+          "type": "lecture",
+          "teacher": "Проф. А.В. Святославский / ? /",
+          "room": "9",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Педагогическая риторика / Нормы русского литературного языка / Особенности устного и письменного перевода Зав. каф. Е.Л. Ерохина /",
+          "type": "practice",
+          "teacher": "Доц. С.В. Иванов /Доц. Я.И",
+          "room": "304/10/9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Современный русский язык",
+          "type": "practice",
+          "teacher": "Доц. Н.Я. Козел",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "Теория языка",
+          "type": "practice",
+          "teacher": "Доц. Д.В. Дагурова",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "Современный русский язык",
+          "type": "lecture",
+          "teacher": "Доц. Н.Я. Козел",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "21:50",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Обучение русскому языку в поликультурной среде / Чтение в информационном обществе / Педагогическая риторика / Обучение русскому языку и литературе в цифровую эпоху",
+          "type": "practice",
+          "teacher": "Доц. В.Ю. Макрова /",
+          "room": "306/313/304/205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Обучение русскому языку в поликультурной среде / Проектирование курсов и модулей по иностранному языку / Педагогическая риторика / Обучение русскому языку и литературе в цифровую эпоху",
+          "type": "lecture",
+          "teacher": "Доц. В.Ю. Макрова /",
+          "room": "204",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Современные культурные практики / Краеведение России / Национально-культурные традиции России / Профессиональная этика 02.10, 16.10, 30.10",
+          "type": "lecture",
+          "teacher": "Доц. А.В. Гвоздев",
+          "room": "312",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Естественнонаучная картина мира / Здоровье семьи / Технологии оказания первой помощи / Основы социальной экологии 02.10, 16.10, 30.10",
+          "type": "lecture",
+          "teacher": "Проф. В.Н. Князев /",
+          "room": "319/9/10/11",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "История русской философии / Современные культурные практики / Эстетика / Логика 02.10, 16.10, 30.10",
+          "type": "lecture",
+          "teacher": "Проф. Н.А. Дмитриева /",
+          "room": "307/306/306/11",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Естественнонаучная картина мира / Здоровье семьи / Технологии оказания первой помощи / Основы социальной экологии 09.10, 23.10, 06.11",
+          "type": "lecture",
+          "teacher": "Проф. В.Н. Князев /",
+          "room": "315",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "История русской философии / Эстетика",
+          "type": "lecture",
+          "teacher": "Проф. Т.Г. Щедрина /",
+          "room": "305/306",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Здоровье семьи / Технологии оказания первой помощи 09.10, 23.10, 06.11",
+          "type": "lecture",
+          "teacher": "Доц. Э.В. Айриян /",
+          "room": "11",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Современные культурные практики / Логика 02.10, 16.10, 30.10",
+          "type": "lecture",
+          "teacher": "Доц. А.В. Гвоздев / Зав. каф. И.Н. Грифцова",
+          "room": "306",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Коммуникативная грамматика",
+          "type": "lecture",
+          "teacher": "Доц. Н.Я. Козел",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Теория и практика перевода",
+          "type": "lecture",
+          "teacher": "Проф. А.Т. Грязнова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "15:00",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Театральная педагогика / Конфликтология / Технологии воспитания средствами учебного предмета / Кинопедагогика 02.10, 16.10, 30.10 ?) /",
+          "type": "lecture",
+          "teacher": "Доц. С.А. Володина /",
+          "room": "7",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Театральная педагогика / Технологии воспитания средствами учебного предмета / 02.10",
+          "type": "lecture",
+          "teacher": "Проф. А.М. Антипова",
+          "room": "307",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Обучение русскому языку в поликультурной среде / Проектирование курсов и модулей по иностранному языку / Педагогическая риторика / Обучение русскому языку и литературе в цифровую эпоху 23.10, 06.11",
+          "type": "lecture",
+          "teacher": "Доц. В.Ю. Макрова /",
+          "room": "314/315/312/313",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Теория и практика перевода",
+          "type": "practice",
+          "teacher": "Проф. А.Т. Грязнова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "Коммуникативная грамматика",
+          "type": "practice",
+          "teacher": "Доц. Н.Я. Козел",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "Педагогическая риторика / Нормы русского литературного языка / Особенности устного и письменного перевода 10.10, 17.10, 24.10 Зав. каф. Е.Л. Ерохина /",
+          "type": "practice",
+          "teacher": "Доц. С.В. Иванов /Доц. Я.И",
+          "room": "308/309/310",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "13:20",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "15:00",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "10:00",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

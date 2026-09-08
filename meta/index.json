@@ -133,6 +133,17 @@
       "updated_at": "2026-09-08T23:30:25.751863+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
+    },
+    {
+      "id": "philology",
+      "name": "Институт филологии",
+      "short_name": "ИФил",
+      "campus": "ИФил",
+      "campus_address": "ул. Малая Пироговская, 1 / пр-т Вернадского, 88",
+      "groups_count": 38,
+      "updated_at": "2026-09-08T23:33:41.476981+00:00",
+      "status": "ok",
+      "parser_used": "claude"
     }
   ]
 }
