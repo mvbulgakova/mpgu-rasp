@@ -4,11 +4,18 @@ name: Deploy Telegram Bot
 # Нужны секреты репозитория (Settings → Secrets and variables → Actions):
 #   CLOUDFLARE_API_TOKEN   — токен Cloudflare с правом Edit Workers
 #   CLOUDFLARE_ACCOUNT_ID  — ID аккаунта Cloudflare
-#   BOT_TOKEN              — токен бота от @BotFather
+#   BOT_TOKEN              — токен бота РАСПИСАНИЯ от @BotFather.
+#                            НЕ токен бота приёмной кампании: этот воркфлоу
+#                            переставляет вебхук и оборвал бы ему доставку.
 #   WEBHOOK_SECRET         — любая длинная случайная строка (придумай)
 
 on:
   workflow_dispatch:
+    inputs:
+      confirm_stop_polling:
+        description: "Напишите СТОП-ПОЛЛИНГ — подтверждение, что бот расписания на Actions должен замолчать"
+        required: true
+        default: ""
 
 permissions:
   contents: read
@@ -17,6 +24,22 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      # Вебхук и long-polling взаимно исключают друг друга: setWebhook ниже
+      # заставит Telegram отдавать обновления воркеру, и bot-schedule.yml
+      # замолчит НАВСЕГДА, пока вебхук не снимут вручную. Молча так делать
+      # нельзя — отсюда обязательное подтверждение.
+      - name: Убедиться, что остановка polling — осознанная
+        env:
+          CONFIRM: ${{ github.event.inputs.confirm_stop_polling }}
+        run: |
+          if [ "$CONFIRM" != "СТОП-ПОЛЛИНГ" ]; then
+            echo "::error::Этот воркфлоу поставит вебхук на BOT_TOKEN и остановит"
+            echo "::error::бота расписания на GitHub Actions (bot-schedule.yml)."
+            echo "::error::Если это осознанно — впишите в поле подтверждения: СТОП-ПОЛЛИНГ"
+            exit 1
+          fi
+          echo "Подтверждено: переключаемся с polling на вебхук."
+
       - uses: actions/checkout@v4
 
       - name: Deploy worker + upload secrets
