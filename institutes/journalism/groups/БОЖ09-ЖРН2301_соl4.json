@@ -1,0 +1,434 @@
+{
+  "name": "БОЖ09-ЖРН2301 (соl4)",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "42.03.02 ЖУРНАЛИСТИКА",
+  "profile": "Журналистика",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ И АНТИКОРРУПЦИОННОЕ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ПОВЕДЕНИЕ",
+          "type": "practice",
+          "teacher": "Профессор А.В.Козлов",
+          "room": "210",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ПОВЕДЕНИЕ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "С 30.09 по 11.11"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ *",
+          "type": "practice",
+          "teacher": "Доцент С.С.Волхов",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 03.09 по 24.12"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "по 17.12",
+          "type": "other",
+          "teacher": "Доцент С.Ю.Ермолаева",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 10.09 по 17.12"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент С.Ю.Ермолаева",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 24.09 по 17.12"
+        },
+        {
+          "slot": null,
+          "time_start": "13:50",
+          "time_end": "15:20",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ *",
+          "type": "practice",
+          "teacher": "Доцент С.С.Волхов",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 03.09 по 24.12"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Попова",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 04.09 по 25.12"
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В.Попова",
+          "room": "22",
+          "subgroup": null,
+          "notes": "С 25.09 по 18.12"
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "ОСНОВЫ ДЕЯТЕЛЬНОСТИ ЖУРНАЛИСТА",
+          "type": "practice",
+          "teacher": "Доцент Н.В.Кодола",
+          "room": "23",
+          "subgroup": null,
+          "notes": "С 25.09 по 18.12"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ОСНОВЫ ДЕЯТЕЛЬНОСТИ ЖУРНАЛИСТА",
+          "type": "practice",
+          "teacher": "Доцент Н.В.Кодола",
+          "room": "22",
+          "subgroup": null,
+          "notes": "С 25.09 по 18.12"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ОСНОВЫ ДЕЯТЕЛЬНОСТИ ЖУРНАЛИСТА",
+          "type": "lecture",
+          "teacher": "Доцент Н.В.Кодола",
+          "room": "210",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В.Попова",
+          "room": "23",
+          "subgroup": null,
+          "notes": "С 25.09 по 18.12"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ХУДОЖЕСТВЕННО-ПУБЛИЦИСТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "lecture",
+          "teacher": "Профессор Т.Н.Владимирова",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 19.09 по 14.11"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель М.Г. Сидоренко",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 06.09 по 13.12"
+        },
+        {
+          "slot": null,
+          "time_start": "13:50",
+          "time_end": "15:20",
+          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель М.Г. Сидоренко",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 13.09 по 20.12"
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "СТИЛИСТИКА И ЛИТЕРАТУРНОЕ РЕДАКТИРОВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент Т.В.Василенко",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ И АНТИКОРРУПЦИОННОЕ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ПОВЕДЕНИЕ",
+          "type": "practice",
+          "teacher": "Профессор А.В.Козлов",
+          "room": "210",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ПОВЕДЕНИЕ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "С 30.09 по 11.11"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ *",
+          "type": "practice",
+          "teacher": "Доцент С.С.Волхов",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 03.09 по 24.12"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "по 17.12",
+          "type": "other",
+          "teacher": "Доцент С.Ю.Ермолаева",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 10.09 по 17.12"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент С.Ю.Ермолаева",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 24.09 по 17.12"
+        },
+        {
+          "slot": null,
+          "time_start": "13:50",
+          "time_end": "15:20",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ *",
+          "type": "practice",
+          "teacher": "Доцент С.С.Волхов",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 03.09 по 24.12"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Попова",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 04.09 по 25.12"
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В.Попова",
+          "room": "22",
+          "subgroup": null,
+          "notes": "С 25.09 по 18.12"
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "ОСНОВЫ ДЕЯТЕЛЬНОСТИ ЖУРНАЛИСТА",
+          "type": "practice",
+          "teacher": "Доцент Н.В.Кодола",
+          "room": "23",
+          "subgroup": null,
+          "notes": "С 25.09 по 18.12"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ОСНОВЫ ДЕЯТЕЛЬНОСТИ ЖУРНАЛИСТА",
+          "type": "practice",
+          "teacher": "Доцент Н.В.Кодола",
+          "room": "22",
+          "subgroup": null,
+          "notes": "С 25.09 по 18.12"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ОСНОВЫ ДЕЯТЕЛЬНОСТИ ЖУРНАЛИСТА",
+          "type": "lecture",
+          "teacher": "Доцент Н.В.Кодола",
+          "room": "210",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В.Попова",
+          "room": "23",
+          "subgroup": null,
+          "notes": "С 25.09 по 18.12"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ХУДОЖЕСТВЕННО-ПУБЛИЦИСТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "lecture",
+          "teacher": "Профессор Т.Н.Владимирова",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 19.09 по 14.11"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель М.Г. Сидоренко",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 06.09 по 13.12"
+        },
+        {
+          "slot": null,
+          "time_start": "13:50",
+          "time_end": "15:20",
+          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель М.Г. Сидоренко",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 13.09 по 20.12"
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "СТИЛИСТИКА И ЛИТЕРАТУРНОЕ РЕДАКТИРОВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент Т.В.Василенко",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

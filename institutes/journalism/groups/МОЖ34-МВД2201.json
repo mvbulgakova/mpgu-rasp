@@ -1,0 +1,382 @@
+{
+  "name": "МОЖ34-МВД2201",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ПСИХОЛОГИЯ ФОРМИРОВАНИЯ ПРОЕКТНЫХ ПРОГРАММ",
+          "type": "lecture",
+          "teacher": "Доцент О.С.Ефимова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 01.03 по 10.05"
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "СОЦИОЛОГИЯ МАРКЕТИНГОВЫХ ИССЛЕДОВАНИЙ",
+          "type": "lecture",
+          "teacher": "Ассистент И.В.Алексеенко",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 22.03 по 03.05"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ПСИХОЛОГИЯ ФОРМИРОВАНИЯ ПРОЕКТНЫХ ПРОГРАММ",
+          "type": "practice",
+          "teacher": "Доцент О.С.Ефимова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 01.03 по 10.05"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОЦИОЛОГИЯ МАРКЕТИНГОВЫХ ИССЛЕДОВАНИЙ",
+          "type": "lecture",
+          "teacher": "Ассистент И.В.Алексеенко",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "ПСИХОЛОГИЯ ФОРМИРОВАНИЯ ПРОЕКТНЫХ ПРОГРАММ",
+          "type": "practice",
+          "teacher": "Доцент О.С.Ефимова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 01.03 по 10.05"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "СОЦИОЛОГИЯ МАРКЕТИНГОВЫХ ИССЛЕДОВАНИЙ",
+          "type": "practice",
+          "teacher": "Ассистент И.В.Алексеенко",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 22.03 по 03.05"
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ПРОЕКТНЫЙ МЕНЕДЖМЕНТ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Орлова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 17.02 по 27.04"
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ОНЛАЙН-ПРОДВИЖЕНИЕ: СТРАТЕГИИ И ТАКТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Орлова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 24.02 по 23.03"
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ПРОЕКТНЫЙ МЕНЕДЖМЕНТ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Орлова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 17.02 по 27.04"
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ОНЛАЙН-ПРОДВИЖЕНИЕ: СТРАТЕГИИ И ТАКТИКИ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Орлова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 24.02 по 06.04"
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "13:20-14:50",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ПСИХОЛОГИЯ ФОРМИРОВАНИЯ ПРОЕКТНЫХ ПРОГРАММ",
+          "type": "lecture",
+          "teacher": "Доцент О.С.Ефимова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 01.03 по 10.05"
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "СОЦИОЛОГИЯ МАРКЕТИНГОВЫХ ИССЛЕДОВАНИЙ",
+          "type": "lecture",
+          "teacher": "Ассистент И.В.Алексеенко",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 22.03 по 03.05"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ПСИХОЛОГИЯ ФОРМИРОВАНИЯ ПРОЕКТНЫХ ПРОГРАММ",
+          "type": "practice",
+          "teacher": "Доцент О.С.Ефимова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 01.03 по 10.05"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОЦИОЛОГИЯ МАРКЕТИНГОВЫХ ИССЛЕДОВАНИЙ",
+          "type": "lecture",
+          "teacher": "Ассистент И.В.Алексеенко",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "ПСИХОЛОГИЯ ФОРМИРОВАНИЯ ПРОЕКТНЫХ ПРОГРАММ",
+          "type": "practice",
+          "teacher": "Доцент О.С.Ефимова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 01.03 по 10.05"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "СОЦИОЛОГИЯ МАРКЕТИНГОВЫХ ИССЛЕДОВАНИЙ",
+          "type": "practice",
+          "teacher": "Ассистент И.В.Алексеенко",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 22.03 по 03.05"
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ПРОЕКТНЫЙ МЕНЕДЖМЕНТ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Орлова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 17.02 по 27.04"
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ОНЛАЙН-ПРОДВИЖЕНИЕ: СТРАТЕГИИ И ТАКТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Орлова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 24.02 по 23.03"
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ПРОЕКТНЫЙ МЕНЕДЖМЕНТ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Орлова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 17.02 по 27.04"
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ОНЛАЙН-ПРОДВИЖЕНИЕ: СТРАТЕГИИ И ТАКТИКИ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Орлова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 24.02 по 06.04"
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "13:20-14:50",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "name": "БОЖ09-ЖРН2301 (соl3)",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "42.03.02 ЖУРНАЛИСТИКА",
+  "profile": "Журналистика",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "БЕЗОПАСНОСТЬ ЖИЗНЕДЕЯТЕЛЬНОСТИ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "С 16.09 по 23.12"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ИСТОРИЯ ОТЕЧЕСТВЕННОЙ ЖУРНАЛИСТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент И.Б.Игнатова",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 10.02 по 02.06"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ *",
+          "type": "practice",
+          "teacher": "Доцент С.С.Волхов",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ХУДОЖЕСТВЕННО-ПУБЛИЦИСТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П.Морозов",
+          "room": "22",
+          "subgroup": null,
+          "notes": "С 08.10 по 21.11"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 19.02 по 11.06"
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "lecture",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 12.02 по 04.06"
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "СТИЛИСТИКА И ЛИТЕРАТУРНОЕ РЕДАКТИРОВАНИЕ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "С 19.02 по 11.06"
+        },
+        {
+          "slot": null,
+          "time_start": "13:50",
+          "time_end": "15:20",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 19.02 по 11.06"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "Доцент А.В.Варзин",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 27.02 по 19.06"
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "СПОРТУ *",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК 2 подгруппа",
+          "type": "practice",
+          "teacher": "Ассистент К.С.Божанова",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 26.09 по 19.12"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "по 29.05",
+          "type": "other",
+          "teacher": "Доцент С.С.Волхов",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 20.02 по 29.05"
+        },
+        {
+          "slot": null,
+          "time_start": "13:50",
+          "time_end": "15:20",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В.Летохо",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 27.02 по 19.06"
+        },
+        {
+          "slot": null,
+          "time_start": "13:50",
+          "time_end": "15:20",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК 2 подгруппа",
+          "type": "practice",
+          "teacher": "Ассистент К.С.Божанова",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 26.09 по 19.12"
+        },
+        {
+          "slot": null,
+          "time_start": "15:30",
+          "time_end": "17:00",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "Доцент А.В.Варзин",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 27.02 по 19.06"
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Попова",
+          "room": "21",
+          "subgroup": null,
+          "notes": "С 21.02 по 04.04"
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Варзин",
+          "room": "21",
+          "subgroup": null,
+          "notes": "С 14.02 по 28.03"
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Попова",
+          "room": "21",
+          "subgroup": null,
+          "notes": "С 21.02 по 04.04"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Варзин",
+          "room": "21",
+          "subgroup": null,
+          "notes": "С 14.02 по 28.03"
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "БЕЗОПАСНОСТЬ ЖИЗНЕДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор В.А.Сидоркин",
+          "room": "22",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ФИЛОСОФИЯ",
+          "type": "practice",
+          "teacher": "Доцент В.С.Флорова",
+          "room": "21",
+          "subgroup": null,
+          "notes": "С 01.03 по 07.06"
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В.Попова",
+          "room": "22",
+          "subgroup": null,
+          "notes": "С 15.02 по 07.06"
+        },
+        {
+          "slot": null,
+          "time_start": "22:02",
+          "time_end": "22:03",
+          "subject": "ФИЛОСОФИЯ",
+          "type": "practice",
+          "teacher": "Доцент В.С.Флорова",
+          "room": "14",
+          "subgroup": null,
+          "notes": "С 01.03 по 07.06"
+        },
+        {
+          "slot": null,
+          "time_start": "22:02",
+          "time_end": "22:03",
+          "subject": "ФИЛОСОФИЯ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "С 01.03 по 07.06"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "БЕЗОПАСНОСТЬ ЖИЗНЕДЕЯТЕЛЬНОСТИ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "С 16.09 по 23.12"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ИСТОРИЯ ОТЕЧЕСТВЕННОЙ ЖУРНАЛИСТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент И.Б.Игнатова",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 10.02 по 02.06"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ *",
+          "type": "practice",
+          "teacher": "Доцент С.С.Волхов",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "ХУДОЖЕСТВЕННО-ПУБЛИЦИСТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П.Морозов",
+          "room": "22",
+          "subgroup": null,
+          "notes": "С 08.10 по 21.11"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 19.02 по 11.06"
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "lecture",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 12.02 по 04.06"
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "СТИЛИСТИКА И ЛИТЕРАТУРНОЕ РЕДАКТИРОВАНИЕ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "С 19.02 по 11.06"
+        },
+        {
+          "slot": null,
+          "time_start": "13:50",
+          "time_end": "15:20",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 19.02 по 11.06"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "Доцент А.В.Варзин",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 27.02 по 19.06"
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "СПОРТУ *",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК 2 подгруппа",
+          "type": "practice",
+          "teacher": "Ассистент К.С.Божанова",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 26.09 по 19.12"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "по 29.05",
+          "type": "other",
+          "teacher": "Доцент С.С.Волхов",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 20.02 по 29.05"
+        },
+        {
+          "slot": null,
+          "time_start": "13:50",
+          "time_end": "15:20",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В.Летохо",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 27.02 по 19.06"
+        },
+        {
+          "slot": null,
+          "time_start": "13:50",
+          "time_end": "15:20",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК 2 подгруппа",
+          "type": "practice",
+          "teacher": "Ассистент К.С.Божанова",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 26.09 по 19.12"
+        },
+        {
+          "slot": null,
+          "time_start": "15:30",
+          "time_end": "17:00",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "Доцент А.В.Варзин",
+          "room": "210",
+          "subgroup": null,
+          "notes": "С 27.02 по 19.06"
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "08:30",
+          "time_end": "10:00",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Попова",
+          "room": "21",
+          "subgroup": null,
+          "notes": "С 21.02 по 04.04"
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Варзин",
+          "room": "21",
+          "subgroup": null,
+          "notes": "С 14.02 по 28.03"
+        },
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Попова",
+          "room": "21",
+          "subgroup": null,
+          "notes": "С 21.02 по 04.04"
+        },
+        {
+          "slot": null,
+          "time_start": "12:10",
+          "time_end": "13:40",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Варзин",
+          "room": "21",
+          "subgroup": null,
+          "notes": "С 14.02 по 28.03"
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "БЕЗОПАСНОСТЬ ЖИЗНЕДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор В.А.Сидоркин",
+          "room": "22",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ФИЛОСОФИЯ",
+          "type": "practice",
+          "teacher": "Доцент В.С.Флорова",
+          "room": "21",
+          "subgroup": null,
+          "notes": "С 01.03 по 07.06"
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В.Попова",
+          "room": "22",
+          "subgroup": null,
+          "notes": "С 15.02 по 07.06"
+        },
+        {
+          "slot": null,
+          "time_start": "22:02",
+          "time_end": "22:03",
+          "subject": "ФИЛОСОФИЯ",
+          "type": "practice",
+          "teacher": "Доцент В.С.Флорова",
+          "room": "14",
+          "subgroup": null,
+          "notes": "С 01.03 по 07.06"
+        },
+        {
+          "slot": null,
+          "time_start": "22:02",
+          "time_end": "22:03",
+          "subject": "ФИЛОСОФИЯ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "С 01.03 по 07.06"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1248 @@
+{
+  "name": "ВОЖ09-ЖРН2503",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "42.03.02 ЖУРНАЛИСТИКА",
+  "profile": "Журналистика",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИКТ И МЕДИАИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С. Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ ДЕЯТЕЛЬНОСТИ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЖУРНАЛИСТА",
+          "type": "practice",
+          "teacher": "Доцент Н.В.Кодола",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "Доцент Дозорова Д.В",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ПРОФЕССИОНАЛЬНАЯ ЭТИКА ЖУРНАЛИСТА",
+          "type": "practice",
+          "teacher": "преподаватель А.А. Мостовая",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "Доцент Проконичев Г.И",
+          "room": "111",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Арсеньева Д.А",
+          "room": "105",
+          "subgroup": 7,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Зоценко Д.Л., Манукян К.Г",
+          "room": "113",
+          "subgroup": 5,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "Доцент Проконичев Г.И",
+          "room": "111",
+          "subgroup": 4,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Зоценко Д.Л., Манукян К.Г",
+          "room": "113",
+          "subgroup": 3,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРОФЕССИОНАЛЬНАЯ ЭТИКА",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖУРНАЛИСТА",
+          "type": "practice",
+          "teacher": "преподаватель А.А. Мостовая",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИНФОГРАФИКА",
+          "type": "practice",
+          "teacher": "преподаватель Д.А. Ковальчук",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИНФОГРАФИКА",
+          "type": "practice",
+          "teacher": "преподаватель Д.А. Ковальчук",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "Доцент Н.А. Семенова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИКТ И МЕДИАИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С. Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент Зубаркина Е.С",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор А.В. Козлов",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПУБЛИЦИСТИЧЕСКАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С.Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М.Черныш",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С.Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С.Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "НОВЫЕ МЕДИА",
+          "type": "practice",
+          "teacher": "Доцент Игнатова И.Б",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ ДЕЯТЕЛЬНОСТИ ЖУРНАЛИСТА",
+          "type": "practice",
+          "teacher": "Доцент Н.В.Кодола",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Волхов С.С",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Волхов С.С",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С.Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИКТ И МЕДИЙНО-ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Волхов С.С",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "Ассистент А.А.Мостовая",
+          "type": "other",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИКТ И МЕДИЙНО-ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С.Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Волхов С.С",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИКТ И МЕДИЙНО-ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С.Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Волхов С.С",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Волхов С.С",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИКТ И МЕДИАИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С. Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ ДЕЯТЕЛЬНОСТИ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЖУРНАЛИСТА",
+          "type": "practice",
+          "teacher": "Доцент Н.В.Кодола",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "Доцент Дозорова Д.В",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ПРОФЕССИОНАЛЬНАЯ ЭТИКА ЖУРНАЛИСТА",
+          "type": "practice",
+          "teacher": "преподаватель А.А. Мостовая",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "Доцент Проконичев Г.И",
+          "room": "111",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Арсеньева Д.А",
+          "room": "105",
+          "subgroup": 7,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Зоценко Д.Л., Манукян К.Г",
+          "room": "113",
+          "subgroup": 5,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "Доцент Проконичев Г.И",
+          "room": "111",
+          "subgroup": 4,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Зоценко Д.Л., Манукян К.Г",
+          "room": "113",
+          "subgroup": 3,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРОФЕССИОНАЛЬНАЯ ЭТИКА",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖУРНАЛИСТА",
+          "type": "practice",
+          "teacher": "преподаватель А.А. Мостовая",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИНФОГРАФИКА",
+          "type": "practice",
+          "teacher": "преподаватель Д.А. Ковальчук",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИНФОГРАФИКА",
+          "type": "practice",
+          "teacher": "преподаватель Д.А. Ковальчук",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "Доцент Н.А. Семенова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИКТ И МЕДИАИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С. Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент Зубаркина Е.С",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор А.В. Козлов",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПУБЛИЦИСТИЧЕСКАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С.Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М.Черныш",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С.Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С.Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "НОВЫЕ МЕДИА",
+          "type": "practice",
+          "teacher": "Доцент Игнатова И.Б",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ ДЕЯТЕЛЬНОСТИ ЖУРНАЛИСТА",
+          "type": "practice",
+          "teacher": "Доцент Н.В.Кодола",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Волхов С.С",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Волхов С.С",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С.Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИКТ И МЕДИЙНО-ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Волхов С.С",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "Ассистент А.А.Мостовая",
+          "type": "other",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИКТ И МЕДИЙНО-ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С.Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Волхов С.С",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ФОТОЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Ассистент А.А.Мостовая",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИКТ И МЕДИЙНО-ИНФОРМАЦИОННАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ГРАМОТНОСТЬ",
+          "type": "practice",
+          "teacher": "преподаватель А.С.Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Волхов С.С",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Волхов С.С",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

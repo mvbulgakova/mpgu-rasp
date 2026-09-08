@@ -1,0 +1,870 @@
+{
+  "name": "МОЖ34-МВД2301",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 10.09 по 05.11"
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "СОВРЕМЕННЫЙ МЕДИАТЕКСТ",
+          "type": "lecture",
+          "teacher": "Профессор Я.В.Солдаткина",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 26.03 по 18.06"
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "преподаватель Н.М.Ермоленко",
+          "room": "10",
+          "subgroup": null,
+          "notes": "С 19.03 по 28.05"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "АКАДЕМИЧЕСКАЯ РИТОРИКА",
+          "type": "practice",
+          "teacher": "Доцент О.А.Сальникова",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 03.09 по 10.12"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": "10",
+          "subgroup": null,
+          "notes": "С 08.10 по 05.11"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОВРЕМЕННЫЙ МЕДИАТЕКСТ",
+          "type": "practice",
+          "teacher": "Профессор Я.В.Солдаткина",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 26.03 по 18.06"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "преподаватель Н.М.Ермоленко",
+          "room": "10",
+          "subgroup": null,
+          "notes": "С 19.03 по 28.05"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "АКАДЕМИЧЕСКАЯ РИТОРИКА",
+          "type": "practice",
+          "teacher": "Доцент О.А.Сальникова",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 03.09 по 10.12"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "преподаватель Н.М.Ермоленко",
+          "room": "10",
+          "subgroup": null,
+          "notes": "С 19.03 по 28.05"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ТЕОРИЯ И МЕТОДИКА ВОСПИТАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": "10",
+          "subgroup": null,
+          "notes": "С 13.03 по 05.06"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ТЕОРИЯ И МЕТОДИКА ВОСПИТАНИЯ",
+          "type": "practice",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": "10",
+          "subgroup": null,
+          "notes": "С 13.03 по 05.06"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "МЕТОДИКА ВОСПИТАТЕЛЬНОЙ РАБОТЫ В ОБРАЗОВАТЕЛЬНЫХ ОРГАНИЗАЦИЯХ",
+          "type": "practice",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": "10",
+          "subgroup": null,
+          "notes": "С 20.03 по 29.05"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ТЕОРИЯ И ПРАКТИКА УПРАВЛЕНИЯ ВОСПИТАТЕЛЬНЫМ ПРОЦЕССОМ",
+          "type": "lecture",
+          "teacher": "Профессор Л.В.Козилова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 14.03 по 20.06"
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "lecture",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 21.03 по 30.05"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ТЕОРИЯ И ПРАКТИКА УПРАВЛЕНИЯ ВОСПИТАТЕЛЬНЫМ ПРОЦЕССОМ",
+          "type": "lecture",
+          "teacher": "Профессор Л.В.Козилова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАНИЯ",
+          "type": "practice",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 14.03 по 20.06"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 21.03 по 13.06"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "practice",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ОНЛАЙН-ПРОДВИЖЕНИЕ: СТРАТЕГИИ И ТАКТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Орлова",
+          "room": "8",
+          "subgroup": null,
+          "notes": "С 22.02 по 03.05"
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ПСИХОЛОГИЯ ФОРМИРОВАНИЯ ПРОЕКТНЫХ ПРОГРАММ",
+          "type": "lecture",
+          "teacher": "Доцент О.С.Ефимова",
+          "room": "8",
+          "subgroup": null,
+          "notes": "С 15.02 по 26.04"
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ОНЛАЙН-ПРОДВИЖЕНИЕ: СТРАТЕГИИ И ТАКТИКИ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Орлова",
+          "room": "8",
+          "subgroup": null,
+          "notes": "С 22.02 по 03.05"
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИМИДЖЕЛОГИЯ",
+          "type": "lecture",
+          "teacher": "преподаватель А.И.Мильяненко",
+          "room": "8",
+          "subgroup": null,
+          "notes": "С 22.02 по 03.05"
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ПСИХОЛОГИЯ ФОРМИРОВАНИЯ ПРОЕКТНЫХ ПРОГРАММ",
+          "type": "practice",
+          "teacher": "Доцент О.С.Ефимова",
+          "room": "8",
+          "subgroup": null,
+          "notes": "С 15.02 по 26.04"
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "преподаватель Т.С.Пугачева",
+          "room": "205",
+          "subgroup": null,
+          "notes": "С 07.09 по 28.12"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИМИДЖЕЛОГИЯ",
+          "type": "lecture",
+          "teacher": "преподаватель А.И.Мильяненко",
+          "room": "8",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИМИДЖЕЛОГИЯ",
+          "type": "practice",
+          "teacher": "преподаватель А.И.Мильяненко",
+          "room": "8",
+          "subgroup": null,
+          "notes": "С 22.03 по 03.05"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИМИДЖЕЛОГИЯ",
+          "type": "practice",
+          "teacher": "преподаватель А.И.Мильяненко",
+          "room": "8",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "преподаватель Т.С.Пугачева",
+          "room": "205",
+          "subgroup": null,
+          "notes": "С 07.09 по 28.12"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": "Компьютерный",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 10.09 по 05.11"
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "СОВРЕМЕННЫЙ МЕДИАТЕКСТ",
+          "type": "lecture",
+          "teacher": "Профессор Я.В.Солдаткина",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 26.03 по 18.06"
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "преподаватель Н.М.Ермоленко",
+          "room": "10",
+          "subgroup": null,
+          "notes": "С 19.03 по 28.05"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "АКАДЕМИЧЕСКАЯ РИТОРИКА",
+          "type": "practice",
+          "teacher": "Доцент О.А.Сальникова",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 03.09 по 10.12"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": "10",
+          "subgroup": null,
+          "notes": "С 08.10 по 05.11"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОВРЕМЕННЫЙ МЕДИАТЕКСТ",
+          "type": "practice",
+          "teacher": "Профессор Я.В.Солдаткина",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 26.03 по 18.06"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "преподаватель Н.М.Ермоленко",
+          "room": "10",
+          "subgroup": null,
+          "notes": "С 19.03 по 28.05"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "АКАДЕМИЧЕСКАЯ РИТОРИКА",
+          "type": "practice",
+          "teacher": "Доцент О.А.Сальникова",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 03.09 по 10.12"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "преподаватель Н.М.Ермоленко",
+          "room": "10",
+          "subgroup": null,
+          "notes": "С 19.03 по 28.05"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ТЕОРИЯ И МЕТОДИКА ВОСПИТАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": "10",
+          "subgroup": null,
+          "notes": "С 13.03 по 05.06"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ТЕОРИЯ И МЕТОДИКА ВОСПИТАНИЯ",
+          "type": "practice",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": "10",
+          "subgroup": null,
+          "notes": "С 13.03 по 05.06"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "МЕТОДИКА ВОСПИТАТЕЛЬНОЙ РАБОТЫ В ОБРАЗОВАТЕЛЬНЫХ ОРГАНИЗАЦИЯХ",
+          "type": "practice",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": "10",
+          "subgroup": null,
+          "notes": "С 20.03 по 29.05"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ТЕОРИЯ И ПРАКТИКА УПРАВЛЕНИЯ ВОСПИТАТЕЛЬНЫМ ПРОЦЕССОМ",
+          "type": "lecture",
+          "teacher": "Профессор Л.В.Козилова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 14.03 по 20.06"
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "lecture",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 21.03 по 30.05"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ТЕОРИЯ И ПРАКТИКА УПРАВЛЕНИЯ ВОСПИТАТЕЛЬНЫМ ПРОЦЕССОМ",
+          "type": "lecture",
+          "teacher": "Профессор Л.В.Козилова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАНИЯ",
+          "type": "practice",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 14.03 по 20.06"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 21.03 по 13.06"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "practice",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ОНЛАЙН-ПРОДВИЖЕНИЕ: СТРАТЕГИИ И ТАКТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Орлова",
+          "room": "8",
+          "subgroup": null,
+          "notes": "С 22.02 по 03.05"
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ПСИХОЛОГИЯ ФОРМИРОВАНИЯ ПРОЕКТНЫХ ПРОГРАММ",
+          "type": "lecture",
+          "teacher": "Доцент О.С.Ефимова",
+          "room": "8",
+          "subgroup": null,
+          "notes": "С 15.02 по 26.04"
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ОНЛАЙН-ПРОДВИЖЕНИЕ: СТРАТЕГИИ И ТАКТИКИ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Орлова",
+          "room": "8",
+          "subgroup": null,
+          "notes": "С 22.02 по 03.05"
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИМИДЖЕЛОГИЯ",
+          "type": "lecture",
+          "teacher": "преподаватель А.И.Мильяненко",
+          "room": "8",
+          "subgroup": null,
+          "notes": "С 22.02 по 03.05"
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ПСИХОЛОГИЯ ФОРМИРОВАНИЯ ПРОЕКТНЫХ ПРОГРАММ",
+          "type": "practice",
+          "teacher": "Доцент О.С.Ефимова",
+          "room": "8",
+          "subgroup": null,
+          "notes": "С 15.02 по 26.04"
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "преподаватель Т.С.Пугачева",
+          "room": "205",
+          "subgroup": null,
+          "notes": "С 07.09 по 28.12"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИМИДЖЕЛОГИЯ",
+          "type": "lecture",
+          "teacher": "преподаватель А.И.Мильяненко",
+          "room": "8",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИМИДЖЕЛОГИЯ",
+          "type": "practice",
+          "teacher": "преподаватель А.И.Мильяненко",
+          "room": "8",
+          "subgroup": null,
+          "notes": "С 22.03 по 03.05"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИМИДЖЕЛОГИЯ",
+          "type": "practice",
+          "teacher": "преподаватель А.И.Мильяненко",
+          "room": "8",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "преподаватель Т.С.Пугачева",
+          "room": "205",
+          "subgroup": null,
+          "notes": "С 07.09 по 28.12"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": "Компьютерный",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

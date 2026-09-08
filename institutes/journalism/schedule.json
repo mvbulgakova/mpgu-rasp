@@ -1,0 +1,668 @@
+{
+  "institute_id": "journalism",
+  "institute_name": "Институт журналистики, коммуникаций и медиаобразования",
+  "short_name": "ИЖКМ",
+  "academic_year": "2026-2027",
+  "updated_at": "2026-09-08T23:30:25.751863+00:00",
+  "parser_used": "pdfplumber",
+  "version": 1,
+  "groups": [
+    {
+      "name": "группа",
+      "file": "группа",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Журналистика и Литература"
+    },
+    {
+      "name": "ВОЖ34-МХК2501",
+      "file": "ВОЖ34-МХК2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ (С ДВУМЯ ПРОФИЛЯМИ ПОДГОТОВКИ)",
+      "profile": "Мировая художественная культура и Дополнительное образование (журналистика)"
+    },
+    {
+      "name": "БОЖ41-РСО2504",
+      "file": "БОЖ41-РСО2504",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "ВОЖ09-ЖРН2501",
+      "file": "ВОЖ09-ЖРН2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "ВОЖ09-ЖРН2502",
+      "file": "ВОЖ09-ЖРН2502",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "ВОЖ09-ЖРН2503",
+      "file": "ВОЖ09-ЖРН2503",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "ВОЖ34-МХК2401",
+      "file": "ВОЖ34-МХК2401",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ (С ДВУМЯ ПРОФИЛЯМИ ПОДГОТОВКИ)",
+      "profile": "Мировая художественная культура и Дополнительное образование (журналистика)"
+    },
+    {
+      "name": "БОЖ09-ЖРН2401",
+      "file": "БОЖ09-ЖРН2401",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "БОЖ09-ЖРН2403",
+      "file": "БОЖ09-ЖРН2403",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "БОЖ41-РСО2401",
+      "file": "БОЖ41-РСО2401",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ"
+    },
+    {
+      "name": "БОЖ41-РСО2402",
+      "file": "БОЖ41-РСО2402",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ"
+    },
+    {
+      "name": "БОЖ35-МХК2301",
+      "file": "БОЖ35-МХК2301",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.05 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ (С ДВУМЯ ПРОФИЛЯМИ ПОДГОТОВКИ)",
+      "profile": "Мировая художественная культура и Дополнительное образование (журналистика)"
+    },
+    {
+      "name": "БОЖ09-ЖРН2301",
+      "file": "БОЖ09-ЖРН2301",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "ЖУРНАЛИСТИКА"
+    },
+    {
+      "name": "БОЖ09-ЖРН2302",
+      "file": "БОЖ09-ЖРН2302",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "ЖУРНАЛИСТИКА"
+    },
+    {
+      "name": "БОЖ41-РСО2301",
+      "file": "БОЖ41-РСО2301",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ"
+    },
+    {
+      "name": "БОЖ35-МХК2201",
+      "file": "БОЖ35-МХК2201",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ (С ДВУМЯ ПРОФИЛЯМИ ПОДГОТОВКИ)",
+      "profile": "Мировая художественная культура и Дополнительное образование (журналистика)"
+    },
+    {
+      "name": "ВВЖ34-КСО2501",
+      "file": "ВВЖ34-КСО2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+      "profile": "Коммуникативные стратегии в образовании"
+    },
+    {
+      "name": "БВЖ41-РСО2201",
+      "file": "БВЖ41-РСО2201",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "ЗОЖ34-АКП2601",
+      "file": "ЗОЖ34-АКП2601",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "ЗОЖ09-АТЖ2601",
+      "file": "ЗОЖ09-АТЖ2601",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.04.02 ЖУРНАЛИСТИКА",
+      "profile": "Аудиовизуальные технологии в журналистике"
+    },
+    {
+      "name": "ЗОЖ34-МСС2601",
+      "file": "ЗОЖ34-МСС2601",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.04.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+      "profile": "Медиаобразование в социокультурной сфере"
+    },
+    {
+      "name": "ЗОЖ09-АТЖ2501",
+      "file": "ЗОЖ09-АТЖ2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.04.02 ЖУРНАЛИСТИКА",
+      "profile": "Аудиовизуальные технологии в журналистике"
+    },
+    {
+      "name": "ЗОЖ34-МСС2501",
+      "file": "ЗОЖ34-МСС2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.04.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+      "profile": "Медиаобразование в социокультурной сфере"
+    },
+    {
+      "name": "ЗОЖ34-АКП2501",
+      "file": "ЗОЖ34-АКП2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "ЗОЖ34-МВД2501",
+      "file": "ЗОЖ34-МВД2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЖ09-ЖРН2402",
+      "file": "БОЖ09-ЖРН2402",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "ВОЖ34-МХК2402",
+      "file": "ВОЖ34-МХК2402",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ (С ДВУМЯ ПРОФИЛЯМИ ПОДГОТОВКИ)",
+      "profile": "Мировая художественная культура и Дополнительное образование (журналистика)"
+    },
+    {
+      "name": "БОЖ09-ЖРН2201",
+      "file": "БОЖ09-ЖРН2201",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "БОЖ09-ЖРН2202",
+      "file": "БОЖ09-ЖРН2202",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "БОЖ09-ЖРН2203",
+      "file": "БОЖ09-ЖРН2203",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "БОЖ41-РСО2201",
+      "file": "БОЖ41-РСО2201",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "БОЖ35-МХК2101",
+      "file": "БОЖ35-МХК2101",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ (С ДВУМЯ ПРОФИЛЯМИ ПОДГОТОВКИ)",
+      "profile": "Мировая художественная культура и Дополнительное образование (журналистика)"
+    },
+    {
+      "name": "БЗЖ09-ЖРН2201",
+      "file": "БЗЖ09-ЖРН2201",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "МОЖ09-АТЖ2501",
+      "file": "МОЖ09-АТЖ2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.04.02 ЖУРНАЛИСТИКА",
+      "profile": "Аудиовизуальные технологии в журналистике"
+    },
+    {
+      "name": "ЗОЖ34-МВД2401",
+      "file": "ЗОЖ34-МВД2401",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "МОЖ34-МСС2401",
+      "file": "МОЖ34-МСС2401",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.04.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+      "profile": "Медиаобразование в социокультурной сфере"
+    },
+    {
+      "name": "МОЖ34-МПГ2401",
+      "file": "МОЖ34-МПГ2401",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "ВОЖ09-ЖУР2501",
+      "file": "ВОЖ09-ЖУР2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "ВОЖ09-ЖУР2502",
+      "file": "ВОЖ09-ЖУР2502",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "ВОЖ09-ЖУР2503",
+      "file": "ВОЖ09-ЖУР2503",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "БОЖ41-РСО2501",
+      "file": "БОЖ41-РСО2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "БОЖ41-РСО2502",
+      "file": "БОЖ41-РСО2502",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "БОЖ41-РСО2503",
+      "file": "БОЖ41-РСО2503",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "БОЖ09-РСО2401",
+      "file": "БОЖ09-РСО2401",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "БОЖ09-РСО2402",
+      "file": "БОЖ09-РСО2402",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "ВВЖ34-КСО2501",
+      "file": "ВВЖ34-КСО2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+      "profile": "Коммуникативные стратегии в образовании"
+    },
+    {
+      "name": "МОЖ09-АТЖ2501",
+      "file": "МОЖ09-АТЖ2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.04.02 ЖУРНАЛИСТИКА",
+      "profile": "Аудиовизуальные технологии в журналистике"
+    },
+    {
+      "name": "ЗОЖ34-МСС2501",
+      "file": "ЗОЖ34-МСС2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.04.01 – ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+      "profile": "Медиаобразование в социокультурной сфере"
+    },
+    {
+      "name": "МОЖ34-МСС2401",
+      "file": "МОЖ34-МСС2401",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.04.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+      "profile": "Медиаобразование в социокультурной сфере"
+    },
+    {
+      "name": "МЗЖ34-МЕО2301",
+      "file": "МЗЖ34-МЕО2301",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+      "profile": "Медиаобразование"
+    },
+    {
+      "name": "БОЖ09-РСО2401 (соl3)",
+      "file": "БОЖ09-РСО2401_соl3",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "БОЖ09-РСО2401 (соl5)",
+      "file": "БОЖ09-РСО2401_соl5",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "БОЖ09-ЖРН2301 (соl3)",
+      "file": "БОЖ09-ЖРН2301_соl3",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "БОЖ09-ЖРН2301 (соl5)",
+      "file": "БОЖ09-ЖРН2301_соl5",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "БОЖ09-РСО2301",
+      "file": "БОЖ09-РСО2301",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "БОЖ09-ЖРН2101",
+      "file": "БОЖ09-ЖРН2101",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "БОЖ09-РСО2101",
+      "file": "БОЖ09-РСО2101",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "БОЖ35-МХК2001",
+      "file": "БОЖ35-МХК2001",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.05 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ (С ДВУМЯ ПРОФИЛЯМИ ПОДГОТОВКИ)",
+      "profile": "МХК и Дополнительное образование (журналистика)"
+    },
+    {
+      "name": "БЗЖ09-ЖРН2101",
+      "file": "БЗЖ09-ЖРН2101",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "МОЖ34-МВД2301",
+      "file": "МОЖ34-МВД2301",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "МОЖ34-МВО2301",
+      "file": "МОЖ34-МВО2301",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "МОЖ34-МСС2301",
+      "file": "МОЖ34-МСС2301",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЖ09-ЖРН2301 (соl4)",
+      "file": "БОЖ09-ЖРН2301_соl4",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "БВЖ41-РСО2001",
+      "file": "БВЖ41-РСО2001",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "БЗЖ09-ЖРН2001",
+      "file": "БЗЖ09-ЖРН2001",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
+    },
+    {
+      "name": "БОЖ09-ЖРН2002",
+      "file": "БОЖ09-ЖРН2002",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЖ41-РСО2001",
+      "file": "БОЖ41-РСО2001",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "БОЖ41-РСО2002",
+      "file": "БОЖ41-РСО2002",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "БОЖ41-РСО2003",
+      "file": "БОЖ41-РСО2003",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+      "profile": "Реклама и связи с общественностью"
+    },
+    {
+      "name": "МОЖ34-МВО2201",
+      "file": "МОЖ34-МВО2201",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "МОЖ34-МВД2201",
+      "file": "МОЖ34-МВД2201",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "МОЖ34-МСС2201",
+      "file": "МОЖ34-МСС2201",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "МЗЖ34-МЕО2201",
+      "file": "МЗЖ34-МЕО2201",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    }
+  ]
+}

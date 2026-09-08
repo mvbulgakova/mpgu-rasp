@@ -122,6 +122,17 @@
       "updated_at": "2026-09-08T23:30:23.967763+00:00",
       "status": "ok",
       "parser_used": "nextcloud"
+    },
+    {
+      "id": "journalism",
+      "name": "Институт журналистики, коммуникаций и медиаобразования",
+      "short_name": "ИЖКМ",
+      "campus": "ИЖКМ",
+      "campus_address": "Верхняя Радищевская, 16-18",
+      "groups_count": 73,
+      "updated_at": "2026-09-08T23:30:25.751863+00:00",
+      "status": "ok",
+      "parser_used": "pdfplumber"
     }
   ]
 }

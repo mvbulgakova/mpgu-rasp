@@ -1,0 +1,784 @@
+{
+  "name": "БВЖ41-РСО2001",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+  "profile": "Реклама и связи с общественностью",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "КОММУНИКАЦИОННЫЙ МЕНЕДЖМЕНТ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Младковская",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "КОММУНИКАЦИОННЫЙ МЕНЕДЖМЕНТ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Младковская",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОВРЕМЕННЫЕ КУЛЬТУРНЫЕ ПРАКТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В.Митницкая",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ПСИХОЛОГИЯ МАССОВЫХ КОММУНИКАЦИЙ",
+          "type": "lecture",
+          "teacher": "Доцент Р.В.Кишиков",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОЦИОЛОГИЯ",
+          "type": "practice",
+          "teacher": "Ассистент И.В.Алексеенко",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "СОВРЕМЕННЫЕ КУЛЬТУРНЫЕ ПРАКТИКИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В.Митницкая",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "ПСИХОЛОГИЯ МАССОВЫХ КОММУНИКАЦИЙ",
+          "type": "practice",
+          "teacher": "Доцент Р.В.Кишиков",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "МАРКЕТИНГОВЫЕ ИССЛЕДОВАНИЯ И СИТУАЦИОННЫЙ АНАЛИЗ",
+          "type": "lecture",
+          "teacher": "Профессор М.Ю.Горнштейн",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ПСИХОЛОГИЯ МАССОВЫХ КОММУНИКАЦИЙ",
+          "type": "lecture",
+          "teacher": "Доцент Р.В.Кишиков",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "СОЦИОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Профессор М.А.Лимонова",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ОСНОВЫ ИМИДЖЕЛОГИИ",
+          "type": "lecture",
+          "teacher": "преподаватель А.И.Мильяненко",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 28.02 по 08.05"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "МАРКЕТИНГОВЫЕ ИССЛЕДОВАНИЯ И СИТУАЦИОННЫЙ АНАЛИЗ",
+          "type": "lecture",
+          "teacher": "Профессор М.Ю.Горнштейн",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ПСИХОЛОГИЯ МАССОВЫХ КОММУНИКАЦИЙ",
+          "type": "practice",
+          "teacher": "Доцент Р.В.Кишиков",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОЦИОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Профессор М.А.Лимонова",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
+          "type": "lecture",
+          "teacher": "Доцент В.С.Флорова",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 20.02 по 30.04"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ОСНОВЫ ИМИДЖЕЛОГИИ",
+          "type": "lecture",
+          "teacher": "преподаватель А.И.Мильяненко",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ДЕЛОВЫЕ ПЕРЕГОВОРЫ",
+          "type": "lecture",
+          "teacher": "Доцент О.А.Сальникова",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 21.02 по 20.03"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "МАРКЕТИНГОВЫЕ ИССЛЕДОВАНИЯ И СИТУАЦИОННЫЙ АНАЛИЗ",
+          "type": "practice",
+          "teacher": "Профессор М.Ю.Горнштейн",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
+          "type": "lecture",
+          "teacher": "Доцент В.С.Флорова",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 05.04 по 30.04"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "ОСНОВЫ ИМИДЖЕЛОГИИ",
+          "type": "practice",
+          "teacher": "преподаватель А.И.Мильяненко",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ОСНОВЫ МЕДИАПЛАНИРОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Младковская",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 29.02 по 23.05"
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "НАУКА И ХУДОЖЕСТВЕННОЕ СЛОВО",
+          "type": "lecture",
+          "teacher": "Профессор И.Н.Арзамасцева",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 02.05 по 13.06; С 22.02 по 21.03"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ОСНОВЫ МЕДИАПЛАНИРОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Младковская",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "по 23.05",
+          "type": "other",
+          "teacher": "Доцент Е.А.Младковская",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "ОСНОВЫ МЕДИАПЛАНИРОВАНИЯ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Младковская",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "НАУКА И ХУДОЖЕСТВЕННОЕ СЛОВО",
+          "type": "practice",
+          "teacher": "Профессор И.Н.Арзамасцева",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 22.02 по 21.03"
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "КОММУНИКАЦИЯ В ПОЛИКУЛЬТУРНОЙ СРЕДЕ",
+          "type": "lecture",
+          "teacher": "Доцент О.А.Сальникова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "КОММУНИКАЦИЯ В ПОЛИКУЛЬТУРНОЙ СРЕДЕ",
+          "type": "lecture",
+          "teacher": "Доцент О.А.Сальникова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "КОММУНИКАЦИЯ В ПОЛИКУЛЬТУРНОЙ СРЕДЕ",
+          "type": "practice",
+          "teacher": "Доцент О.А.Сальникова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "КОММУНИКАЦИЯ В ПОЛИКУЛЬТУРНОЙ СРЕДЕ",
+          "type": "practice",
+          "teacher": "Доцент О.А.Сальникова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "СОВРЕМЕННЫЕ КУЛЬТУРНЫЕ ПРАКТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В.Митницкая",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "СОВРЕМЕННЫЕ КУЛЬТУРНЫЕ ПРАКТИКИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В.Митницкая",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ЕСТЕСТВЕННОНАУЧНАЯ КАРТИНА МИРА",
+          "type": "lecture",
+          "teacher": "Доцент М.А.Цветкова",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 17.02 по 27.04"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ЕСТЕСТВЕННОНАУЧНАЯ КАРТИНА МИРА",
+          "type": "lecture",
+          "teacher": "Доцент М.А.Цветкова",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "КОММУНИКАЦИОННЫЙ МЕНЕДЖМЕНТ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Младковская",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "КОММУНИКАЦИОННЫЙ МЕНЕДЖМЕНТ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Младковская",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОВРЕМЕННЫЕ КУЛЬТУРНЫЕ ПРАКТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В.Митницкая",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ПСИХОЛОГИЯ МАССОВЫХ КОММУНИКАЦИЙ",
+          "type": "lecture",
+          "teacher": "Доцент Р.В.Кишиков",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОЦИОЛОГИЯ",
+          "type": "practice",
+          "teacher": "Ассистент И.В.Алексеенко",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "СОВРЕМЕННЫЕ КУЛЬТУРНЫЕ ПРАКТИКИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В.Митницкая",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "ПСИХОЛОГИЯ МАССОВЫХ КОММУНИКАЦИЙ",
+          "type": "practice",
+          "teacher": "Доцент Р.В.Кишиков",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "МАРКЕТИНГОВЫЕ ИССЛЕДОВАНИЯ И СИТУАЦИОННЫЙ АНАЛИЗ",
+          "type": "lecture",
+          "teacher": "Профессор М.Ю.Горнштейн",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ПСИХОЛОГИЯ МАССОВЫХ КОММУНИКАЦИЙ",
+          "type": "lecture",
+          "teacher": "Доцент Р.В.Кишиков",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "СОЦИОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Профессор М.А.Лимонова",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ОСНОВЫ ИМИДЖЕЛОГИИ",
+          "type": "lecture",
+          "teacher": "преподаватель А.И.Мильяненко",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 28.02 по 08.05"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "МАРКЕТИНГОВЫЕ ИССЛЕДОВАНИЯ И СИТУАЦИОННЫЙ АНАЛИЗ",
+          "type": "lecture",
+          "teacher": "Профессор М.Ю.Горнштейн",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ПСИХОЛОГИЯ МАССОВЫХ КОММУНИКАЦИЙ",
+          "type": "practice",
+          "teacher": "Доцент Р.В.Кишиков",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОЦИОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Профессор М.А.Лимонова",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
+          "type": "lecture",
+          "teacher": "Доцент В.С.Флорова",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 20.02 по 30.04"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ОСНОВЫ ИМИДЖЕЛОГИИ",
+          "type": "lecture",
+          "teacher": "преподаватель А.И.Мильяненко",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ДЕЛОВЫЕ ПЕРЕГОВОРЫ",
+          "type": "lecture",
+          "teacher": "Доцент О.А.Сальникова",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 21.02 по 20.03"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "МАРКЕТИНГОВЫЕ ИССЛЕДОВАНИЯ И СИТУАЦИОННЫЙ АНАЛИЗ",
+          "type": "practice",
+          "teacher": "Профессор М.Ю.Горнштейн",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
+          "type": "lecture",
+          "teacher": "Доцент В.С.Флорова",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 05.04 по 30.04"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "ОСНОВЫ ИМИДЖЕЛОГИИ",
+          "type": "practice",
+          "teacher": "преподаватель А.И.Мильяненко",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "ОСНОВЫ МЕДИАПЛАНИРОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Младковская",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 29.02 по 23.05"
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "НАУКА И ХУДОЖЕСТВЕННОЕ СЛОВО",
+          "type": "lecture",
+          "teacher": "Профессор И.Н.Арзамасцева",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 02.05 по 13.06; С 22.02 по 21.03"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "ОСНОВЫ МЕДИАПЛАНИРОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Младковская",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "по 23.05",
+          "type": "other",
+          "teacher": "Доцент Е.А.Младковская",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "ОСНОВЫ МЕДИАПЛАНИРОВАНИЯ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Младковская",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "НАУКА И ХУДОЖЕСТВЕННОЕ СЛОВО",
+          "type": "practice",
+          "teacher": "Профессор И.Н.Арзамасцева",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 22.02 по 21.03"
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "КОММУНИКАЦИЯ В ПОЛИКУЛЬТУРНОЙ СРЕДЕ",
+          "type": "lecture",
+          "teacher": "Доцент О.А.Сальникова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "КОММУНИКАЦИЯ В ПОЛИКУЛЬТУРНОЙ СРЕДЕ",
+          "type": "lecture",
+          "teacher": "Доцент О.А.Сальникова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "КОММУНИКАЦИЯ В ПОЛИКУЛЬТУРНОЙ СРЕДЕ",
+          "type": "practice",
+          "teacher": "Доцент О.А.Сальникова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "КОММУНИКАЦИЯ В ПОЛИКУЛЬТУРНОЙ СРЕДЕ",
+          "type": "practice",
+          "teacher": "Доцент О.А.Сальникова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "СОВРЕМЕННЫЕ КУЛЬТУРНЫЕ ПРАКТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В.Митницкая",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "СОВРЕМЕННЫЕ КУЛЬТУРНЫЕ ПРАКТИКИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В.Митницкая",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ЕСТЕСТВЕННОНАУЧНАЯ КАРТИНА МИРА",
+          "type": "lecture",
+          "teacher": "Доцент М.А.Цветкова",
+          "room": "5",
+          "subgroup": null,
+          "notes": "С 17.02 по 27.04"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ЕСТЕСТВЕННОНАУЧНАЯ КАРТИНА МИРА",
+          "type": "lecture",
+          "teacher": "Доцент М.А.Цветкова",
+          "room": "5",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

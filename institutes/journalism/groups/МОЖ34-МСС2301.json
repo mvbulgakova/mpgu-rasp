@@ -1,0 +1,714 @@
+{
+  "name": "МОЖ34-МСС2301",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "МЕНЕДЖМЕНТ В СОЦИОКУЛЬТУРНОЙ СФЕРЕ",
+          "type": "lecture",
+          "teacher": "Доцент О.В.Шатаева",
+          "room": "18",
+          "subgroup": null,
+          "notes": "С 12.02 по 26.03"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "МЕНЕДЖМЕНТ В СОЦИОКУЛЬТУРНОЙ СФЕРЕ",
+          "type": "lecture",
+          "teacher": "Доцент О.В.Шатаева",
+          "room": "18",
+          "subgroup": null,
+          "notes": "С 12.02 по 26.03"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "МЕНЕДЖМЕНТ В СОЦИОКУЛЬТУРНОЙ СФЕРЕ",
+          "type": "practice",
+          "teacher": "Доцент О.В.Шатаева",
+          "room": "18",
+          "subgroup": null,
+          "notes": "С 12.02 по 26.03"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "МЕДИАОБРАЗОВАТЕЛЬНОЕ ПРОЕКТИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Н.Ю.Лесконог",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 14.03 по 06.06"
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "lecture",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 21.03 по 30.05"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "lecture",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "МЕДИАОБРАЗОВАТЕЛЬНОЕ ПРОЕКТИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Н.Ю.Лесконог",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 21.03 по 13.06"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "practice",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "МЕДИАОБРАЗОВАТЕЛЬНОЕ ПРОЕКТИРОВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент Н.Ю.Лесконог",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "МЕДИАОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В МУЗЕЙНОЙ ПЕДАГОГИКЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "18",
+          "subgroup": null,
+          "notes": "С 15.02 по 29.03"
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "КУЛЬТУРНО-ОБРАЗОВАТЕЛЬНАЯ ДЕЯТЕЛЬНОСТЬ В ЦИФРОВОЙ СРЕДЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "МЕДИАОБРАЗОВАТЕЛЬНАЯ СРЕДА СОЦИОКУЛЬТУРНОЙ СФЕРЫ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 23.03 по 15.06"
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "МЕДИАОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В МУЗЕЙНОЙ ПЕДАГОГИКЕ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "18",
+          "subgroup": null,
+          "notes": "С 15.02 по 29.03"
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "КУЛЬТУРНО-ОБРАЗОВАТЕЛЬНАЯ ДЕЯТЕЛЬНОСТЬ В ЦИФРОВОЙ СРЕДЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "МЕДИАОБРАЗОВАТЕЛЬНАЯ СРЕДА СОЦИОКУЛЬТУРНОЙ СФЕРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 23.03 по 15.06"
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИСТОРИКО-КУЛЬТУРНОЕ НАСЛЕДИЕ РОССИИ И НОВЫЕ МЕДИА",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "18",
+          "subgroup": null,
+          "notes": "С 22.02 по 19.04"
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "преподаватель Т.С.Пугачева",
+          "room": "205",
+          "subgroup": null,
+          "notes": "С 07.09 по 28.12"
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ТЕОРИЯ И ПРАКТИКА МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Профессор И.А.Фатеева",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 16.03 по 08.06"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИСТОРИКО-КУЛЬТУРНОЕ НАСЛЕДИЕ РОССИИ И НОВЫЕ МЕДИА",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "18",
+          "subgroup": null,
+          "notes": "С 22.02 по 19.04"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "преподаватель Т.С.Пугачева",
+          "room": "205",
+          "subgroup": null,
+          "notes": "С 07.09 по 28.12"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ТЕОРИЯ И ПРАКТИКА МЕДИАОБРАЗОВАНИЯ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Фатеева",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 16.03 по 08.06"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "МЕНЕДЖМЕНТ В СОЦИОКУЛЬТУРНОЙ СФЕРЕ",
+          "type": "lecture",
+          "teacher": "Доцент О.В.Шатаева",
+          "room": "18",
+          "subgroup": null,
+          "notes": "С 12.02 по 26.03"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "МЕНЕДЖМЕНТ В СОЦИОКУЛЬТУРНОЙ СФЕРЕ",
+          "type": "lecture",
+          "teacher": "Доцент О.В.Шатаева",
+          "room": "18",
+          "subgroup": null,
+          "notes": "С 12.02 по 26.03"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "МЕНЕДЖМЕНТ В СОЦИОКУЛЬТУРНОЙ СФЕРЕ",
+          "type": "practice",
+          "teacher": "Доцент О.В.Шатаева",
+          "room": "18",
+          "subgroup": null,
+          "notes": "С 12.02 по 26.03"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "МЕДИАОБРАЗОВАТЕЛЬНОЕ ПРОЕКТИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Н.Ю.Лесконог",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 14.03 по 06.06"
+        },
+        {
+          "slot": null,
+          "time_start": "17:10",
+          "time_end": "18:40",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "lecture",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 21.03 по 30.05"
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "lecture",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "См. календарь Teams",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "lecture",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "МЕДИАОБРАЗОВАТЕЛЬНОЕ ПРОЕКТИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Н.Ю.Лесконог",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:50",
+          "time_end": "20:20",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 21.03 по 13.06"
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "practice",
+          "teacher": "Доцент И.В.Хлызова",
+          "room": "10",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "МЕДИАОБРАЗОВАТЕЛЬНОЕ ПРОЕКТИРОВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент Н.Ю.Лесконог",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:30",
+          "time_end": "22:00",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "МЕДИАОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В МУЗЕЙНОЙ ПЕДАГОГИКЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "18",
+          "subgroup": null,
+          "notes": "С 15.02 по 29.03"
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "КУЛЬТУРНО-ОБРАЗОВАТЕЛЬНАЯ ДЕЯТЕЛЬНОСТЬ В ЦИФРОВОЙ СРЕДЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "МЕДИАОБРАЗОВАТЕЛЬНАЯ СРЕДА СОЦИОКУЛЬТУРНОЙ СФЕРЫ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 23.03 по 15.06"
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "МЕДИАОБРАЗОВАТЕЛЬНЫЕ ТЕХНОЛОГИИ В МУЗЕЙНОЙ ПЕДАГОГИКЕ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "18",
+          "subgroup": null,
+          "notes": "С 15.02 по 29.03"
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "КУЛЬТУРНО-ОБРАЗОВАТЕЛЬНАЯ ДЕЯТЕЛЬНОСТЬ В ЦИФРОВОЙ СРЕДЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "МЕДИАОБРАЗОВАТЕЛЬНАЯ СРЕДА СОЦИОКУЛЬТУРНОЙ СФЕРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 23.03 по 15.06"
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИСТОРИКО-КУЛЬТУРНОЕ НАСЛЕДИЕ РОССИИ И НОВЫЕ МЕДИА",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "18",
+          "subgroup": null,
+          "notes": "С 22.02 по 19.04"
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "преподаватель Т.С.Пугачева",
+          "room": "205",
+          "subgroup": null,
+          "notes": "С 07.09 по 28.12"
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "СОВРЕМЕННЫЕ ТЕХНОЛОГИИ ОНЛАЙН-ОБУЧЕНИЯ",
+          "type": "practice",
+          "teacher": "Профессор М.Е.Вайндорф-Сысоева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ТЕОРИЯ И ПРАКТИКА МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Профессор И.А.Фатеева",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 16.03 по 08.06"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИСТОРИКО-КУЛЬТУРНОЕ НАСЛЕДИЕ РОССИИ И НОВЫЕ МЕДИА",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "18",
+          "subgroup": null,
+          "notes": "С 22.02 по 19.04"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "преподаватель Т.С.Пугачева",
+          "room": "205",
+          "subgroup": null,
+          "notes": "С 07.09 по 28.12"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ТЕОРИЯ И ПРАКТИКА МЕДИАОБРАЗОВАНИЯ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Фатеева",
+          "room": "212",
+          "subgroup": null,
+          "notes": "С 16.03 по 08.06"
+        }
+      ]
+    }
+  }
+}

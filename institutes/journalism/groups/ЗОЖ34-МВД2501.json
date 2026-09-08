@@ -1,0 +1,1026 @@
+{
+  "name": "ЗОЖ34-МВД2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Д.Л. Зоценко",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОРГАНИЗАЦИЯ И ПРОВЕДЕНИЕ НАУЧНЫХ ИССЛЕДОВАНИЙ В ОБЛАСТИ МЕДИАКУЛЬТУРЫ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Н.В.Кодола",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕОРИЯ И ПРАКТИКА МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А.Чекалина",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Д.Л. Зоценко",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОРГАНИЗАЦИЯ И ПРОВЕДЕНИЕ НАУЧНЫХ ИССЛЕДОВАНИЙ В ОБЛАСТИ МЕДИАКУЛЬТУРЫ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Н.В.Кодола",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕОРИЯ И ПРАКТИКА МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А.Чекалина",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Д.Л. Зоценко",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "lecture",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОРГАНИЗАЦИЯ И ПРОВЕДЕНИЕ НАУЧНЫХ ИССЛЕДОВАНИЙ В ОБЛАСТИ МЕДИАКУЛЬТУРЫ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Кодола",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СТИЛИСТИКА НАУЧНОГО ТЕКСТА",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Василенко",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕОРИЯ И ПРАКТИКА МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А.Чекалина",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕОРИЯ И ИСТОРИЯ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент П.В. Макарова",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИСТОРИЯ РУССКОЙ ПЕДАГОГИКИ",
+          "type": "lecture",
+          "teacher": "Профессор М.А. Гончаров",
+          "room": "202",
+          "subgroup": null,
+          "notes": "С 10.09 по 08.10"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОРГАНИЗАЦИЯ И ПРОВЕДЕНИЕ НАУЧНЫХ ИССЛЕДОВАНИЙ В ОБЛАСТИ МЕДИАКУЛЬТУРЫ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Кодола",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СТИЛИСТИКА НАУЧНОГО ТЕКСТА",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Василенко",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕОРИЯ И ПРАКТИКА МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А.Чекалина",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕОРИЯ И ИСТОРИЯ ЖУРНАЛИСТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент П.В. Макарова",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ПЕДАГОГИКИ",
+          "type": "lecture",
+          "teacher": "Профессор М.А. Гончаров",
+          "room": "202",
+          "subgroup": null,
+          "notes": "С 10.09 по 19.11"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПЕДАГОГИКА И ПСИХОЛОГИЯ ВЫСШЕЙ ШКОЛЫ",
+          "type": "practice",
+          "teacher": "Профессор Н.А.Шарай",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СТИЛИСТИКА НАУЧНОГО ТЕКСТА",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Василенко",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИННОВАЦИОННЫЕ ЦИФРОВЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПЕДАГОГИКА И ПСИХОЛОГИЯ ВЫСШЕЙ ШКОЛЫ",
+          "type": "lecture",
+          "teacher": "Профессор Н.А.Шарай",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СТИЛИСТИКА НАУЧНОГО ТЕКСТА",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Василенко",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИННОВАЦИОННЫЕ ЦИФРОВЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИННОВАЦИОННЫЕ ЦИФРОВЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
+          "type": "practice",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПЕДАГОГИКА И ПСИХОЛОГИЯ ВЫСШЕЙ ШКОЛЫ",
+          "type": "lecture",
+          "teacher": "Профессор Н.А.Шарай",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "по 25.12",
+          "type": "other",
+          "teacher": "Профессор Б.Ф. Славин",
+          "room": "203",
+          "subgroup": null,
+          "notes": "С 16.10 по 25.12"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕКСТОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Варзин",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕКСТОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Варзин",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ТЕКСТОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Варзин",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Д.Л. Зоценко",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ТЕКСТОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Варзин",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Д.Л. Зоценко",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ТЕКСТОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Варзин",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Д.Л. Зоценко",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ТЕОРИЯ КОММУНИКАЦИЙ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Младковская",
+          "room": "203",
+          "subgroup": null,
+          "notes": "С 13.09 по 20.12"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "С 06.09 по 27.12"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Д.Л. Зоценко",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОРГАНИЗАЦИЯ И ПРОВЕДЕНИЕ НАУЧНЫХ ИССЛЕДОВАНИЙ В ОБЛАСТИ МЕДИАКУЛЬТУРЫ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Н.В.Кодола",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕОРИЯ И ПРАКТИКА МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А.Чекалина",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Д.Л. Зоценко",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОРГАНИЗАЦИЯ И ПРОВЕДЕНИЕ НАУЧНЫХ ИССЛЕДОВАНИЙ В ОБЛАСТИ МЕДИАКУЛЬТУРЫ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Н.В.Кодола",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕОРИЯ И ПРАКТИКА МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А.Чекалина",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Д.Л. Зоценко",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "lecture",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОРГАНИЗАЦИЯ И ПРОВЕДЕНИЕ НАУЧНЫХ ИССЛЕДОВАНИЙ В ОБЛАСТИ МЕДИАКУЛЬТУРЫ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Кодола",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СТИЛИСТИКА НАУЧНОГО ТЕКСТА",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Василенко",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕОРИЯ И ПРАКТИКА МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А.Чекалина",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕОРИЯ И ИСТОРИЯ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент П.В. Макарова",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИСТОРИЯ РУССКОЙ ПЕДАГОГИКИ",
+          "type": "lecture",
+          "teacher": "Профессор М.А. Гончаров",
+          "room": "202",
+          "subgroup": null,
+          "notes": "С 10.09 по 08.10"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОРГАНИЗАЦИЯ И ПРОВЕДЕНИЕ НАУЧНЫХ ИССЛЕДОВАНИЙ В ОБЛАСТИ МЕДИАКУЛЬТУРЫ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Кодола",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СТИЛИСТИКА НАУЧНОГО ТЕКСТА",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Василенко",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕОРИЯ И ПРАКТИКА МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А.Чекалина",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕОРИЯ И ИСТОРИЯ ЖУРНАЛИСТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент П.В. Макарова",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ПЕДАГОГИКИ",
+          "type": "lecture",
+          "teacher": "Профессор М.А. Гончаров",
+          "room": "202",
+          "subgroup": null,
+          "notes": "С 10.09 по 19.11"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПЕДАГОГИКА И ПСИХОЛОГИЯ ВЫСШЕЙ ШКОЛЫ",
+          "type": "practice",
+          "teacher": "Профессор Н.А.Шарай",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СТИЛИСТИКА НАУЧНОГО ТЕКСТА",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Василенко",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИННОВАЦИОННЫЕ ЦИФРОВЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПЕДАГОГИКА И ПСИХОЛОГИЯ ВЫСШЕЙ ШКОЛЫ",
+          "type": "lecture",
+          "teacher": "Профессор Н.А.Шарай",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СТИЛИСТИКА НАУЧНОГО ТЕКСТА",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Василенко",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИННОВАЦИОННЫЕ ЦИФРОВЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИННОВАЦИОННЫЕ ЦИФРОВЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
+          "type": "practice",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПЕДАГОГИКА И ПСИХОЛОГИЯ ВЫСШЕЙ ШКОЛЫ",
+          "type": "lecture",
+          "teacher": "Профессор Н.А.Шарай",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "по 25.12",
+          "type": "other",
+          "teacher": "Профессор Б.Ф. Славин",
+          "room": "203",
+          "subgroup": null,
+          "notes": "С 16.10 по 25.12"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕКСТОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Варзин",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕКСТОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Варзин",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ТЕКСТОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Варзин",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Д.Л. Зоценко",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ТЕКСТОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Варзин",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Д.Л. Зоценко",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ТЕКСТОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент А.В.Варзин",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Д.Л. Зоценко",
+          "room": "112",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ТЕОРИЯ КОММУНИКАЦИЙ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Младковская",
+          "room": "203",
+          "subgroup": null,
+          "notes": "С 13.09 по 20.12"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "С 06.09 по 27.12"
+        }
+      ]
+    }
+  }
+}

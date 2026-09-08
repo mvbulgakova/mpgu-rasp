@@ -1,0 +1,914 @@
+{
+  "name": "ЗОЖ34-АКП2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКСИОЛОГИЯ ОБРАЗОВАНИЯ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "АКСИОЛОГИЯ ОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Профессор Т.Н. Владимирова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 14.10 по 09.12"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "lecture",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕОРИЯ И ИСТОРИЯ МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
+          "type": "lecture",
+          "teacher": "Профессор А.А. Шевцова",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕОРИЯ КИНО",
+          "type": "lecture",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СОЦИАЛЬНАЯ И КУЛЬТУРНАЯ ПОЛИТИКА ГОСУДАРСТВА",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "по 12.11",
+          "type": "other",
+          "teacher": "Профессор М.А. Гончаров",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 17.09 по 12.11"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕОРИЯ И ИСТОРИЯ МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
+          "type": "lecture",
+          "teacher": "Профессор А.А. Шевцова",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕОРИЯ КИНО",
+          "type": "lecture",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СОЦИАЛЬНАЯ И КУЛЬТУРНАЯ ПОЛИТИКА ГОСУДАРСТВА",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ КИНО",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "106",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕОРИЯ И ИСТОРИЯ ПЕДАГОГИКИ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИННОВАЦИОННЫЕ ЦИФРОВЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КИНОФЕСТИВАЛЬНОЕ ДВИЖЕНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКАЯ РИТОРИКА",
+          "type": "practice",
+          "teacher": "Доцент О.А. Сальникова",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЦИФРОВАЯ ПЕДАГОГИКА",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИННОВАЦИОННЫЕ ЦИФРОВЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "КИНОФЕСТИВАЛЬНОЕ ДВИЖЕНИЕ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "КИНОФЕСТИВАЛЬНОЕ ДВИЖЕНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "АКАДЕМИЧЕСКАЯ РИТОРИКА",
+          "type": "practice",
+          "teacher": "Доцент О.А. Сальникова",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЦИФРОВАЯ ПЕДАГОГИКА",
+          "type": "lecture",
+          "teacher": "Профессор О.В. Гордиенко",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 18.09 по 13.11"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ИСТОРИЯ КИНО",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Россинская",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "СОЦИАЛЬНАЯ И КУЛЬТУРНАЯ ПОЛИТИКА ГОСУДАРСТВА",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "115",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИСТОРИЯ КИНО",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Россинская",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "СОЦИАЛЬНАЯ И КУЛЬТУРНАЯ ПОЛИТИКА ГОСУДАРСТВА",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "115",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "КИНОФЕСТИВАЛЬНОЕ ДВИЖЕНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИСТОРИЯ КИНО",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "106",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "КИНОФЕСТИВАЛЬНОЕ ДВИЖЕНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "16:40-18:10",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИСТОРИЯ КИНО",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "106",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Россинская",
+          "room": "112",
+          "subgroup": null,
+          "notes": "С 13.09 по 20.12"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕОРИЯ И ИСТОРИЯ МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "С 06.09 по 04.10"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКСИОЛОГИЯ ОБРАЗОВАНИЯ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "АКСИОЛОГИЯ ОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Профессор Т.Н. Владимирова",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 14.10 по 09.12"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "lecture",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕОРИЯ И ИСТОРИЯ МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
+          "type": "lecture",
+          "teacher": "Профессор А.А. Шевцова",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕОРИЯ КИНО",
+          "type": "lecture",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СОЦИАЛЬНАЯ И КУЛЬТУРНАЯ ПОЛИТИКА ГОСУДАРСТВА",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "по 12.11",
+          "type": "other",
+          "teacher": "Профессор М.А. Гончаров",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 17.09 по 12.11"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕОРИЯ И ИСТОРИЯ МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
+          "type": "lecture",
+          "teacher": "Профессор А.А. Шевцова",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "МЕТОДОЛОГИЯ ИССЛЕДОВАТЕЛЬСКОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕОРИЯ КИНО",
+          "type": "lecture",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СОЦИАЛЬНАЯ И КУЛЬТУРНАЯ ПОЛИТИКА ГОСУДАРСТВА",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ КИНО",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "106",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕОРИЯ И ИСТОРИЯ ПЕДАГОГИКИ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИННОВАЦИОННЫЕ ЦИФРОВЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КИНОФЕСТИВАЛЬНОЕ ДВИЖЕНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКАЯ РИТОРИКА",
+          "type": "practice",
+          "teacher": "Доцент О.А. Сальникова",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЦИФРОВАЯ ПЕДАГОГИКА",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИННОВАЦИОННЫЕ ЦИФРОВЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "КИНОФЕСТИВАЛЬНОЕ ДВИЖЕНИЕ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "КИНОФЕСТИВАЛЬНОЕ ДВИЖЕНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "АКАДЕМИЧЕСКАЯ РИТОРИКА",
+          "type": "practice",
+          "teacher": "Доцент О.А. Сальникова",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЦИФРОВАЯ ПЕДАГОГИКА",
+          "type": "lecture",
+          "teacher": "Профессор О.В. Гордиенко",
+          "room": null,
+          "subgroup": null,
+          "notes": "С 18.09 по 13.11"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "practice",
+          "teacher": "Профессор И.А.Купцова",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ИСТОРИЯ КИНО",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Россинская",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "СОЦИАЛЬНАЯ И КУЛЬТУРНАЯ ПОЛИТИКА ГОСУДАРСТВА",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "115",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИСТОРИЯ КИНО",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.А.Россинская",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "СОЦИАЛЬНАЯ И КУЛЬТУРНАЯ ПОЛИТИКА ГОСУДАРСТВА",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "115",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "КИНОФЕСТИВАЛЬНОЕ ДВИЖЕНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИСТОРИЯ КИНО",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "106",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "КИНОФЕСТИВАЛЬНОЕ ДВИЖЕНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "16:40-18:10",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИСТОРИЯ КИНО",
+          "type": "lecture",
+          "teacher": "Доцент Е.А.Бучкина",
+          "room": "106",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Россинская",
+          "room": "112",
+          "subgroup": null,
+          "notes": "С 13.09 по 20.12"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ТЕОРИЯ И ИСТОРИЯ МЕДИАОБРАЗОВАНИЯ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "С 06.09 по 04.10"
+        }
+      ]
+    }
+  }
+}
