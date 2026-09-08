@@ -111,6 +111,17 @@
       "updated_at": "2026-09-08T23:26:24.359002+00:00",
       "status": "ok",
       "parser_used": "claude"
+    },
+    {
+      "id": "digital",
+      "name": "Институт развития цифрового образования",
+      "short_name": "ИРЦО",
+      "campus": "ИФТИС",
+      "campus_address": "ул. Усачева, 64",
+      "groups_count": 1,
+      "updated_at": "2026-09-08T23:30:23.967763+00:00",
+      "status": "ok",
+      "parser_used": "nextcloud"
     }
   ]
 }

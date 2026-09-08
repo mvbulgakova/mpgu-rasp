@@ -1,0 +1,138 @@
+{
+  "name": "группа",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Е еихология интеллекта (113) |",
+          "type": "other",
+          "teacher": "проф. Е.Б. Пучкова, 449. | : ‘https:",
+          "room": "x12 pk: mpeusu/rooms/3ie+rmu-m8a-lem/ioin",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": ": Психология интеллекта (03) — О |",
+          "type": "other",
+          "teacher": "проф. Е.Б. Пучкова; 449 : httes",
+          "room": "212. wlemp sisi/rooms/3 1 etrmu-mka-Tenm/joiti",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "| Нсихология интеллекта . | прод. .Е.Б. Пучкова; 449 | | 7 httns://x12 nk: mpeu:su/rooms/3ie-rmu-m8a-Lem/join. —_",
+          "type": "practice",
+          "teacher": null,
+          "room": "x12 nk: mpeu:su/rooms/3ie-rmu-m8a-Lem/join. —_",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История развития ‘интеллектуальных: систем лю | ss pod. O.B. Mepeyxoe, 449 | https://x12.: vk. mpsu.su/ro0ms/318-tmll=tiga- | emAoin",
+          "type": "other",
+          "teacher": null,
+          "room": "x12.: vk. mpsu.su/ro0ms/318-tmll=tiga- | emAoin",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:50",
+          "time_end": "19:20",
+          "subject": "История развития интеллектуальных систем, | _",
+          "type": "practice",
+          "teacher": "Проф. О.В..Мерецков, 449 tt s",
+          "room": "x T-pain eu. su/rooms/3 e2rmtiem 8a-1 emo a",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Е еихология интеллекта (113) |",
+          "type": "other",
+          "teacher": "проф. Е.Б. Пучкова, 449. | : ‘https:",
+          "room": "x12 pk: mpeusu/rooms/3ie+rmu-m8a-lem/ioin",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": ": Психология интеллекта (03) — О |",
+          "type": "other",
+          "teacher": "проф. Е.Б. Пучкова; 449 : httes",
+          "room": "212. wlemp sisi/rooms/3 1 etrmu-mka-Tenm/joiti",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "| Нсихология интеллекта . | прод. .Е.Б. Пучкова; 449 | | 7 httns://x12 nk: mpeu:su/rooms/3ie-rmu-m8a-Lem/join. —_",
+          "type": "practice",
+          "teacher": null,
+          "room": "x12 nk: mpeu:su/rooms/3ie-rmu-m8a-Lem/join. —_",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История развития ‘интеллектуальных: систем лю | ss pod. O.B. Mepeyxoe, 449 | https://x12.: vk. mpsu.su/ro0ms/318-tmll=tiga- | emAoin",
+          "type": "other",
+          "teacher": null,
+          "room": "x12.: vk. mpsu.su/ro0ms/318-tmll=tiga- | emAoin",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:50",
+          "time_end": "19:20",
+          "subject": "История развития интеллектуальных систем, | _",
+          "type": "practice",
+          "teacher": "Проф. О.В..Мерецков, 449 tt s",
+          "room": "x T-pain eu. su/rooms/3 e2rmtiem 8a-1 emo a",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
