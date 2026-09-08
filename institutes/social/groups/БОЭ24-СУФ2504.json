@@ -1,0 +1,254 @@
+{
+  "name": "БОЭ24-СУФ2504",
+  "year": null,
+  "form": "part_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. В.В. Большаков с",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Внешнеэкономическая деятельность",
+          "type": "practice",
+          "teacher": "доц. Е.Г. Кузнецова",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. О.А. Макаренко",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Институциональная экономика",
+          "type": "practice",
+          "teacher": "доц. М.В. Николаев",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. В.В. Большаков с",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Кросс-культурный менеджмент",
+          "type": "practice",
+          "teacher": "доц. Е.А. Цветкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное поведение",
+          "type": "practice",
+          "teacher": "доц. Н.А. Устюжанина",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору: Стратегии экономического развития РФ",
+          "type": "practice",
+          "teacher": "проф. В.В. Дёмина",
+          "room": "829",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория менеджмента",
+          "type": "practice",
+          "teacher": "доц. И.А. Заякина",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Мировая экономика и международные отношения",
+          "type": "practice",
+          "teacher": "проф. М.О. Лихачев",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. В.В. Большаков с",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Внешнеэкономическая деятельность",
+          "type": "practice",
+          "teacher": "доц. Е.Г. Кузнецова",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. О.А. Макаренко",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Институциональная экономика",
+          "type": "practice",
+          "teacher": "доц. М.В. Николаев",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. В.В. Большаков с",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Кросс-культурный менеджмент",
+          "type": "practice",
+          "teacher": "доц. Е.А. Цветкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное поведение",
+          "type": "practice",
+          "teacher": "доц. Н.А. Устюжанина",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору: Стратегии экономического развития РФ",
+          "type": "practice",
+          "teacher": "проф. В.В. Дёмина",
+          "room": "829",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория менеджмента",
+          "type": "practice",
+          "teacher": "доц. И.А. Заякина",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Мировая экономика и международные отношения",
+          "type": "practice",
+          "teacher": "проф. М.О. Лихачев",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

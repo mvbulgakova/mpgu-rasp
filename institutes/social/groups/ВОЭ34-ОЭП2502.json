@@ -1,0 +1,562 @@
+{
+  "name": "ВОЭ34-ОЭП2502",
+  "year": null,
+  "form": "part_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "ст.преп. К.В. Филатова",
+          "room": null,
+          "subgroup": null,
+          "notes": "16"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "асс. М.А. Аракелян",
+          "room": null,
+          "subgroup": null,
+          "notes": "16"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "проф. А.В",
+          "room": null,
+          "subgroup": null,
+          "notes": "10"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": null,
+          "subgroup": null,
+          "notes": "18"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Н.А. Головань",
+          "room": null,
+          "subgroup": null,
+          "notes": "10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Конституционное и муниципальное право",
+          "type": "practice",
+          "teacher": "ст.преп. А.Д. Калмыкова",
+          "room": null,
+          "subgroup": null,
+          "notes": "32"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Экономическая теория",
+          "type": "practice",
+          "teacher": "проф. В.В. Демина",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Логика",
+          "type": "practice",
+          "teacher": "доц. И.В. Калмыкова   -",
+          "room": "818",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. Е.В. Володько",
+          "room": null,
+          "subgroup": null,
+          "notes": "36"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История философии",
+          "type": "practice",
+          "teacher": "доц. Л.Г. Роман",
+          "room": null,
+          "subgroup": null,
+          "notes": "32"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Логика",
+          "type": "practice",
+          "teacher": "доц. И.В. Калмыкова",
+          "room": "818",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Экономическая теория",
+          "type": "practice",
+          "teacher": "проф. В.В. Демина",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Конституционное и муниципальное право",
+          "type": "practice",
+          "teacher": "ст.преп. А.Д. Калмыкова",
+          "room": null,
+          "subgroup": null,
+          "notes": "32"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "ст.преп. К.В. Филатова",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Конституционное и муниципальное право",
+          "type": "practice",
+          "teacher": "доц. А.Д. Калмыкова",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. Е.В. Володько с",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Конституционное и муниципальное право",
+          "type": "practice",
+          "teacher": "доц. А.Д. Калмыкова",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "асс. М.А. Аракелян  -",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История философии",
+          "type": "practice",
+          "teacher": "доц. Л.Г. Роман",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. Е.В. Володько с",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История философии",
+          "type": "practice",
+          "teacher": "доц. Л.Г. Роман",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "проф. А.В. Терентьев",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Н.А. Головань",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "ст.преп. К.В. Филатова",
+          "room": null,
+          "subgroup": null,
+          "notes": "16"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "асс. М.А. Аракелян",
+          "room": null,
+          "subgroup": null,
+          "notes": "16"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "проф. А.В",
+          "room": null,
+          "subgroup": null,
+          "notes": "10"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": null,
+          "subgroup": null,
+          "notes": "18"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Н.А. Головань",
+          "room": null,
+          "subgroup": null,
+          "notes": "10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Конституционное и муниципальное право",
+          "type": "practice",
+          "teacher": "ст.преп. А.Д. Калмыкова",
+          "room": null,
+          "subgroup": null,
+          "notes": "32"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Экономическая теория",
+          "type": "practice",
+          "teacher": "проф. В.В. Демина",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Логика",
+          "type": "practice",
+          "teacher": "доц. И.В. Калмыкова   -",
+          "room": "818",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. Е.В. Володько",
+          "room": null,
+          "subgroup": null,
+          "notes": "36"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История философии",
+          "type": "practice",
+          "teacher": "доц. Л.Г. Роман",
+          "room": null,
+          "subgroup": null,
+          "notes": "32"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Логика",
+          "type": "practice",
+          "teacher": "доц. И.В. Калмыкова",
+          "room": "818",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Экономическая теория",
+          "type": "practice",
+          "teacher": "проф. В.В. Демина",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Конституционное и муниципальное право",
+          "type": "practice",
+          "teacher": "ст.преп. А.Д. Калмыкова",
+          "room": null,
+          "subgroup": null,
+          "notes": "32"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "ст.преп. К.В. Филатова",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Конституционное и муниципальное право",
+          "type": "practice",
+          "teacher": "доц. А.Д. Калмыкова",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. Е.В. Володько с",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Конституционное и муниципальное право",
+          "type": "practice",
+          "teacher": "доц. А.Д. Калмыкова",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "асс. М.А. Аракелян  -",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История философии",
+          "type": "practice",
+          "teacher": "доц. Л.Г. Роман",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. Е.В. Володько с",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История философии",
+          "type": "practice",
+          "teacher": "доц. Л.Г. Роман",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "проф. А.В. Терентьев",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Н.А. Головань",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

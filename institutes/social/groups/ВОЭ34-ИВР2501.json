@@ -1,0 +1,720 @@
+{
+  "name": "ВОЭ34-ИВР2501",
+  "year": null,
+  "form": "part_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России (с древнейших времен до конца XVII века)",
+          "type": "practice",
+          "teacher": "доц. Е.И. Филина",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России (с древнейших времен до конца XVII века)",
+          "type": "lecture",
+          "teacher": "доц. Е.И. Филина  -в",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России (с древнейших времен до конца XVII века)",
+          "type": "practice",
+          "teacher": "доц. Е.И. Филина",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России (с древнейших времен до конца XVII века)",
+          "type": "lecture",
+          "teacher": "доц. Е.И. Филина  -в",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Академическое письмо",
+          "type": "practice",
+          "teacher": "проф. А.А. Шевцова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Академическое письмо",
+          "type": "practice",
+          "teacher": "проф. А.А. Шевцова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История Востока (до XVII в.)",
+          "type": "lecture",
+          "teacher": "проф. Е.В. Вдовченков",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История Востока (до XVII в.)",
+          "type": "practice",
+          "teacher": "проф. Е.В. Вдовченков",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История Востока (до XVII в.)",
+          "type": "lecture",
+          "teacher": "проф. Е.В. Вдовченков",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История Востока (до XVII в.)",
+          "type": "practice",
+          "teacher": "проф. Е.В. Вдовченков",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. Е.В. Володько с",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История средних веков",
+          "type": "lecture",
+          "teacher": "доц. А.Ю. Орлова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Этнология и социально-культурная антропология, часть 1",
+          "type": "lecture",
+          "teacher": "проф. А.А. Шевцова",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История средних веков, часть 1",
+          "type": "practice",
+          "teacher": "доц. А.Ю. Орлова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Этнология и социально-культурная антропология, часть 1",
+          "type": "practice",
+          "teacher": "проф. А.А. Шевцова",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История средних веков, часть 1",
+          "type": "practice",
+          "teacher": "доц. А.Ю. Орлова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "асс. К.С. Добрикова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История средних веков, часть 1",
+          "type": "practice",
+          "teacher": "доц. А.Ю. Орлова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология",
+          "type": "lecture",
+          "teacher": "доц. Т.Б. Киселева",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "доц. Т.Б. Киселева",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальная педагогика и психология",
+          "type": "lecture",
+          "teacher": "доц. Е.А. Скриптунова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика ( научно-исследовательская работа (получение первичных навыков научно-исследовательской работы) РАССРЕДОТОЧЕННАЯ с 21.09.26 по 29.12.26",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная педагогика и психология",
+          "type": "practice",
+          "teacher": "асс. А.Д. Владыкина",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Финансово-экономический практикум",
+          "type": "lecture",
+          "teacher": "доц. Н.А. Головань",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальная педагогика и психология",
+          "type": "practice",
+          "teacher": "асс. А.Д. Владыкина",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "проф. Л.В. Козилова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Н.А. Головань",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "lecture",
+          "teacher": "проф. А.В. Терентьев",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "проф. А.В. Терентьев",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России (с древнейших времен до конца XVII века)",
+          "type": "practice",
+          "teacher": "доц. Е.И. Филина",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России (с древнейших времен до конца XVII века)",
+          "type": "lecture",
+          "teacher": "доц. Е.И. Филина  -в",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России (с древнейших времен до конца XVII века)",
+          "type": "practice",
+          "teacher": "доц. Е.И. Филина",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России (с древнейших времен до конца XVII века)",
+          "type": "lecture",
+          "teacher": "доц. Е.И. Филина  -в",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Академическое письмо",
+          "type": "practice",
+          "teacher": "проф. А.А. Шевцова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Академическое письмо",
+          "type": "practice",
+          "teacher": "проф. А.А. Шевцова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История Востока (до XVII в.)",
+          "type": "lecture",
+          "teacher": "проф. Е.В. Вдовченков",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История Востока (до XVII в.)",
+          "type": "practice",
+          "teacher": "проф. Е.В. Вдовченков",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История Востока (до XVII в.)",
+          "type": "lecture",
+          "teacher": "проф. Е.В. Вдовченков",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История Востока (до XVII в.)",
+          "type": "practice",
+          "teacher": "проф. Е.В. Вдовченков",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. Е.В. Володько с",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История средних веков",
+          "type": "lecture",
+          "teacher": "доц. А.Ю. Орлова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Этнология и социально-культурная антропология, часть 1",
+          "type": "lecture",
+          "teacher": "проф. А.А. Шевцова",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История средних веков, часть 1",
+          "type": "practice",
+          "teacher": "доц. А.Ю. Орлова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Этнология и социально-культурная антропология, часть 1",
+          "type": "practice",
+          "teacher": "проф. А.А. Шевцова",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История средних веков, часть 1",
+          "type": "practice",
+          "teacher": "доц. А.Ю. Орлова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "асс. К.С. Добрикова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История средних веков, часть 1",
+          "type": "practice",
+          "teacher": "доц. А.Ю. Орлова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология",
+          "type": "lecture",
+          "teacher": "доц. Т.Б. Киселева",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "доц. Т.Б. Киселева",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальная педагогика и психология",
+          "type": "lecture",
+          "teacher": "доц. Е.А. Скриптунова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика ( научно-исследовательская работа (получение первичных навыков научно-исследовательской работы) РАССРЕДОТОЧЕННАЯ с 21.09.26 по 29.12.26",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная педагогика и психология",
+          "type": "practice",
+          "teacher": "асс. А.Д. Владыкина",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Финансово-экономический практикум",
+          "type": "lecture",
+          "teacher": "доц. Н.А. Головань",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальная педагогика и психология",
+          "type": "practice",
+          "teacher": "асс. А.Д. Владыкина",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "проф. Л.В. Козилова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Н.А. Головань",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "lecture",
+          "teacher": "проф. А.В. Терентьев",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "проф. А.В. Терентьев",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

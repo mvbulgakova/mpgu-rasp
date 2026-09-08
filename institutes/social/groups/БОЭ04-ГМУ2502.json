@@ -1,0 +1,518 @@
+{
+  "name": "БОЭ04-ГМУ2502",
+  "year": null,
+  "form": "part_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "асс. В.И. Попов",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Управление персоналом",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы делового общения",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дисциплина по выбору: Кибербезопасность",
+          "type": "practice",
+          "teacher": "доц. Ф.В. Шаройко",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы управленческой деятельности",
+          "type": "practice",
+          "teacher": "доц. С.А. Шеркунов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору: Кибербезопасность",
+          "type": "practice",
+          "teacher": "доц. Ф.В. Шаройко",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Механизмы разрешения конфликтов в системе государственного и муниципального управления",
+          "type": "practice",
+          "teacher": "доц. С.А. Шеркунов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Управление персоналом",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы управленческой деятельности",
+          "type": "practice",
+          "teacher": "доц. С.А. Шеркунов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Управление персоналом",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы управленческой деятельности",
+          "type": "practice",
+          "teacher": "доц. С.А. Шеркунов          :",
+          "room": "818",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История государственного управления",
+          "type": "practice",
+          "teacher": "доц. И.С. Гусейнова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы управленческой деятельности",
+          "type": "practice",
+          "teacher": "доц. С.А. Шеркунов          :",
+          "room": "818",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Управление персоналом",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы делового общения",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "асс. В.И. Попов",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История государственного управления",
+          "type": "practice",
+          "teacher": "асс. И Сун Чер",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "асс. В.И. Попов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История государственного управления",
+          "type": "practice",
+          "teacher": "асс. И Сун Чер",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору: Власть и общество",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук    -",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Власть и общество",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук   -",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "асс. В.И. Попов",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Управление персоналом",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы делового общения",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дисциплина по выбору: Кибербезопасность",
+          "type": "practice",
+          "teacher": "доц. Ф.В. Шаройко",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы управленческой деятельности",
+          "type": "practice",
+          "teacher": "доц. С.А. Шеркунов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору: Кибербезопасность",
+          "type": "practice",
+          "teacher": "доц. Ф.В. Шаройко",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Механизмы разрешения конфликтов в системе государственного и муниципального управления",
+          "type": "practice",
+          "teacher": "доц. С.А. Шеркунов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Управление персоналом",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы управленческой деятельности",
+          "type": "practice",
+          "teacher": "доц. С.А. Шеркунов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Управление персоналом",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы управленческой деятельности",
+          "type": "practice",
+          "teacher": "доц. С.А. Шеркунов          :",
+          "room": "818",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История государственного управления",
+          "type": "practice",
+          "teacher": "доц. И.С. Гусейнова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы управленческой деятельности",
+          "type": "practice",
+          "teacher": "доц. С.А. Шеркунов          :",
+          "room": "818",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Управление персоналом",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы делового общения",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "асс. В.И. Попов",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История государственного управления",
+          "type": "practice",
+          "teacher": "асс. И Сун Чер",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "асс. В.И. Попов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История государственного управления",
+          "type": "practice",
+          "teacher": "асс. И Сун Чер",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору: Власть и общество",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук    -",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Власть и общество",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук   -",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

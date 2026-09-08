@@ -1,0 +1,72 @@
+{
+  "name": "МВЭ63-ЮСД2401",
+  "year": null,
+  "form": "correspondence",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Государственная система мер обеспечения прав и свобод несовершеннолетних",
+          "type": "lecture",
+          "teacher": "проф. А.В. Терентьев",
+          "room": null,
+          "subgroup": null,
+          "notes": "10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Государственная система мер обеспечения прав и свобод несовершеннолетних",
+          "type": "practice",
+          "teacher": "проф. А.В. Терентьев",
+          "room": null,
+          "subgroup": null,
+          "notes": "10"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Государственная система мер обеспечения прав и свобод несовершеннолетних",
+          "type": "lecture",
+          "teacher": "проф. А.В. Терентьев",
+          "room": null,
+          "subgroup": null,
+          "notes": "10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Государственная система мер обеспечения прав и свобод несовершеннолетних",
+          "type": "practice",
+          "teacher": "проф. А.В. Терентьев",
+          "room": null,
+          "subgroup": null,
+          "notes": "10"
+        }
+      ]
+    }
+  }
+}

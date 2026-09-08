@@ -1,0 +1,562 @@
+{
+  "name": "ЗОЭ34-МВО2601",
+  "year": null,
+  "form": "part_time",
+  "degree": "bachelor",
+  "direction": "44.04.01 Педагогическое образование",
+  "profile": "Менеджмент в образовании",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "проф. Т.Д. Шуверова",
+          "room": "508",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "проф. Т.Д. Шуверова",
+          "room": "508",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "проф. Т.Д. Шуверова",
+          "room": "508",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "проф. Т.Д. Шуверова",
+          "room": "508",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "проф. Т.Д. Шуверова       - ЗАЧЁТ",
+          "room": "508",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "проф. Т.Д. Шуверова  - ЗАЧЁТ",
+          "room": "508",
+          "subgroup": 2,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Образовательное законодательство РФ",
+          "type": "lecture",
+          "teacher": "асс. Д.К. Газарова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория и практика управления образовательным процессом",
+          "type": "practice",
+          "teacher": "асс. Д.К. Газарова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Образовательное законодательство РФ",
+          "type": "lecture",
+          "teacher": "асс. Д.К. Газарова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Теория и практика управления образовательным процессом",
+          "type": "practice",
+          "teacher": "асс. Д.К. Газарова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Образовательное законодательство РФ",
+          "type": "practice",
+          "teacher": "асс. Д.К. Газарова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Теория и практика управления образовательным процессом",
+          "type": "practice",
+          "teacher": "асс. Д.К. Газарова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Научные исследования в профессиональной деятельности педагогического профиля",
+          "type": "practice",
+          "teacher": "проф. О.А. Шклярова",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Эффективный менеджмент и экономика в образовании",
+          "type": "practice",
+          "teacher": "проф. О.А. Игумнов",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Научные исследования в профессиональной деятельности педагогического профиля",
+          "type": "practice",
+          "teacher": "проф. О.А. Шклярова",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Эффективный менеджмент и экономика в образовании",
+          "type": "practice",
+          "teacher": "проф. О.А. Игумнов",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Научные исследования в профессиональной деятельности педагогического профиля",
+          "type": "practice",
+          "teacher": "ст.преп. К.В. Филатова     -ЗАЧЁТ С ОЦЕНКОЙ",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Эффективный менеджмент и экономика в образовании",
+          "type": "practice",
+          "teacher": "проф. О.А. Игумнов",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и практика управления образовательным процессом",
+          "type": "lecture",
+          "teacher": "проф. Н.Л. Галеева         5.09",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Образовательное законодательство РФ",
+          "type": "lecture",
+          "teacher": "доц. С.А. Наумченко",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория и практика управления образовательным процессом",
+          "type": "practice",
+          "teacher": "проф. Н.Л. Галеева         5.09",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Образовательное законодательство РФ",
+          "type": "lecture",
+          "teacher": "доц. С.А. Наумченко",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "проф. И.Н. Грифцова       +ЗАЧЁТ В",
+          "room": "818",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Образовательное законодательство РФ",
+          "type": "lecture",
+          "teacher": "доц. С.А. Наумченко",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "проф. Т.Д. Шуверова",
+          "room": "508",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "проф. Т.Д. Шуверова",
+          "room": "508",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "проф. Т.Д. Шуверова",
+          "room": "508",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "проф. Т.Д. Шуверова",
+          "room": "508",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "проф. Т.Д. Шуверова       - ЗАЧЁТ",
+          "room": "508",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "проф. Т.Д. Шуверова  - ЗАЧЁТ",
+          "room": "508",
+          "subgroup": 2,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Образовательное законодательство РФ",
+          "type": "lecture",
+          "teacher": "асс. Д.К. Газарова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория и практика управления образовательным процессом",
+          "type": "practice",
+          "teacher": "асс. Д.К. Газарова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Образовательное законодательство РФ",
+          "type": "lecture",
+          "teacher": "асс. Д.К. Газарова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Теория и практика управления образовательным процессом",
+          "type": "practice",
+          "teacher": "асс. Д.К. Газарова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Образовательное законодательство РФ",
+          "type": "practice",
+          "teacher": "асс. Д.К. Газарова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Теория и практика управления образовательным процессом",
+          "type": "practice",
+          "teacher": "асс. Д.К. Газарова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Научные исследования в профессиональной деятельности педагогического профиля",
+          "type": "practice",
+          "teacher": "проф. О.А. Шклярова",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Эффективный менеджмент и экономика в образовании",
+          "type": "practice",
+          "teacher": "проф. О.А. Игумнов",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Научные исследования в профессиональной деятельности педагогического профиля",
+          "type": "practice",
+          "teacher": "проф. О.А. Шклярова",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Эффективный менеджмент и экономика в образовании",
+          "type": "practice",
+          "teacher": "проф. О.А. Игумнов",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Научные исследования в профессиональной деятельности педагогического профиля",
+          "type": "practice",
+          "teacher": "ст.преп. К.В. Филатова     -ЗАЧЁТ С ОЦЕНКОЙ",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Эффективный менеджмент и экономика в образовании",
+          "type": "practice",
+          "teacher": "проф. О.А. Игумнов",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и практика управления образовательным процессом",
+          "type": "lecture",
+          "teacher": "проф. Н.Л. Галеева         5.09",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Образовательное законодательство РФ",
+          "type": "lecture",
+          "teacher": "доц. С.А. Наумченко",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория и практика управления образовательным процессом",
+          "type": "practice",
+          "teacher": "проф. Н.Л. Галеева         5.09",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Образовательное законодательство РФ",
+          "type": "lecture",
+          "teacher": "доц. С.А. Наумченко",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "проф. И.Н. Грифцова       +ЗАЧЁТ В",
+          "room": "818",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Образовательное законодательство РФ",
+          "type": "lecture",
+          "teacher": "доц. С.А. Наумченко",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,406 @@
+{
+  "name": "ВВЭ34-ПИИ2501",
+  "year": null,
+  "form": "part_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Практическая грамматика английского языка",
+          "type": "practice",
+          "teacher": "доц. Т.В. Купраш",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "ст.преп. К.В. Филатова",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Практическая грамматика английского языка",
+          "type": "practice",
+          "teacher": "доц. Т.В. Купраш",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "ст.преп. К.В. Филатова",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Конституционное право",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Практическая фонетика английского языка",
+          "type": "practice",
+          "teacher": "ст.преп. И.Я. Куприянова",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Конституционное право",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Практическая фонетика английского языка",
+          "type": "practice",
+          "teacher": "ст.преп. И.Я. Куприянова",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "Конституционное право",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология",
+          "type": "lecture",
+          "teacher": "проф. А.А. Ярулов",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Практика устной и письменной английской речи, зан",
+          "type": "practice",
+          "teacher": "асс. Г.М. Кусмарцев",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "проф. А.А. Ярулов",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Практика устной и письменной английской речи, зан",
+          "type": "practice",
+          "teacher": "асс. Г.М. Кусмарцев",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "проф. Л.В. Козилова",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "доц. Н.В. Головко",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "проф. Л.В. Козилова",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "доц. Н.В. Головко",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Практическая грамматика английского языка",
+          "type": "practice",
+          "teacher": "доц. Т.В. Купраш",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "ст.преп. К.В. Филатова",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Практическая грамматика английского языка",
+          "type": "practice",
+          "teacher": "доц. Т.В. Купраш",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "ст.преп. К.В. Филатова",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Конституционное право",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Практическая фонетика английского языка",
+          "type": "practice",
+          "teacher": "ст.преп. И.Я. Куприянова",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Конституционное право",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Практическая фонетика английского языка",
+          "type": "practice",
+          "teacher": "ст.преп. И.Я. Куприянова",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "Конституционное право",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология",
+          "type": "lecture",
+          "teacher": "проф. А.А. Ярулов",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Практика устной и письменной английской речи, зан",
+          "type": "practice",
+          "teacher": "асс. Г.М. Кусмарцев",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "проф. А.А. Ярулов",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Практика устной и письменной английской речи, зан",
+          "type": "practice",
+          "teacher": "асс. Г.М. Кусмарцев",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "проф. Л.В. Козилова",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "доц. Н.В. Головко",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "проф. Л.В. Козилова",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "доц. Н.В. Головко",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

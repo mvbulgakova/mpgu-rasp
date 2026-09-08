@@ -1,0 +1,542 @@
+{
+  "name": "МОЭ46-СРМ2501",
+  "year": null,
+  "form": "part_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Социология маркетинговых коммуникаций",
+          "type": "lecture",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Социологические методы в маркетинговых исследованиях рынка",
+          "type": "lecture",
+          "teacher": "проф. С.Ю. Иванов",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Социология маркетинговых коммуникаций",
+          "type": "practice",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Социологические методы в маркетинговых исследованиях рынка",
+          "type": "practice",
+          "teacher": "проф. С.Ю. Иванов",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "Социология маркетинговых коммуникаций",
+          "type": "practice",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "Социологические методы в маркетинговых исследованиях рынка",
+          "type": "practice",
+          "teacher": "проф. С.Ю. Иванов",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Потребительский маркетинг и исследование рынков",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Социология маркетинговых коммуникаций",
+          "type": "lecture",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Потребительский маркетинг и исследование рынков",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Социология маркетинговых коммуникаций",
+          "type": "lecture",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "Потребительский маркетинг и исследование рынков",
+          "type": "lecture",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "Социология маркетинговых коммуникаций",
+          "type": "lecture",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "проф. З.И. Курцева",
+          "room": "818",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "проф. З.И. Курцева",
+          "room": "818",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Дисциплина по выбору: Технология работы с социологическими интернет-ресурсами",
+          "type": "lecture",
+          "teacher": "проф. В.А. Чвякин",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Дисциплина по выбору: Технология работы с социологическими интернет-ресурсами",
+          "type": "practice",
+          "teacher": "проф. В.А. Чвякин",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "Дисциплина по выбору: Технология работы с социологическими интернет-ресурсами",
+          "type": "practice",
+          "teacher": "проф. В.А. Чвякин",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Потребительский маркетинг и исследование рынков",
+          "type": "lecture",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. Е.С. Мельничук",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Потребительский маркетинг и исследование рынков",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. Е.С. Мельничук",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Потребительский маркетинг и исследование рынков",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. Е.С. Мельничук",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Социология маркетинговых коммуникаций",
+          "type": "lecture",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Социологические методы в маркетинговых исследованиях рынка",
+          "type": "lecture",
+          "teacher": "проф. С.Ю. Иванов",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Социология маркетинговых коммуникаций",
+          "type": "practice",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Социологические методы в маркетинговых исследованиях рынка",
+          "type": "practice",
+          "teacher": "проф. С.Ю. Иванов",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "Социология маркетинговых коммуникаций",
+          "type": "practice",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "Социологические методы в маркетинговых исследованиях рынка",
+          "type": "practice",
+          "teacher": "проф. С.Ю. Иванов",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Потребительский маркетинг и исследование рынков",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Социология маркетинговых коммуникаций",
+          "type": "lecture",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Потребительский маркетинг и исследование рынков",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Социология маркетинговых коммуникаций",
+          "type": "lecture",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "Потребительский маркетинг и исследование рынков",
+          "type": "lecture",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "Социология маркетинговых коммуникаций",
+          "type": "lecture",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "510",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "проф. З.И. Курцева",
+          "room": "818",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "проф. З.И. Курцева",
+          "room": "818",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Дисциплина по выбору: Технология работы с социологическими интернет-ресурсами",
+          "type": "lecture",
+          "teacher": "проф. В.А. Чвякин",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Дисциплина по выбору: Технология работы с социологическими интернет-ресурсами",
+          "type": "practice",
+          "teacher": "проф. В.А. Чвякин",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "Дисциплина по выбору: Технология работы с социологическими интернет-ресурсами",
+          "type": "practice",
+          "teacher": "проф. В.А. Чвякин",
+          "room": "520",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Потребительский маркетинг и исследование рынков",
+          "type": "lecture",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. Е.С. Мельничук",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Потребительский маркетинг и исследование рынков",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. Е.С. Мельничук",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Потребительский маркетинг и исследование рынков",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "practice",
+          "teacher": "доц. Е.С. Мельничук",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

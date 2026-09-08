@@ -1,0 +1,586 @@
+{
+  "name": "БОЭ46-ССМ2301",
+  "year": null,
+  "form": "part_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Психология маркетинга",
+          "type": "practice",
+          "teacher": "проф. М.А. Лимонова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплина по выбору: Психология маркетинга",
+          "type": "practice",
+          "teacher": "проф. М.А. Лимонова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплина по выбору: Психология маркетинга",
+          "type": "lecture",
+          "teacher": "проф. М.А. Лимонова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Дисциплина по выбору: Психология маркетинга",
+          "type": "lecture",
+          "teacher": "проф. М.А. Лимонова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору: Интегрированные маркетинговые коммуникации",
+          "type": "lecture",
+          "teacher": "ст.преп. И.В. Алексеенко",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору: Интегрированные маркетинговые коммуникации",
+          "type": "practice",
+          "teacher": "ст.преп. И.В. Алексеенко         .  -зачет",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору: Маркетинг социальных медиа",
+          "type": "lecture",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору: Маркетинг социальных медиа",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Маркетинг социальных медиа",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Маркетинг социальных медиа",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплина по выбору: Интегрированные маркетинговые коммуникации",
+          "type": "practice",
+          "teacher": "ст.преп. И.В. Алексеенко",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социология рекламы",
+          "type": "lecture",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социология рекламы",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социология рекламы",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Маркетинг в сфере образовательных услуг",
+          "type": "lecture",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Маркетинг в сфере образовательных услуг",
+          "type": "practice",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплина по выбору: Маркетинг в сфере образовательных услуг",
+          "type": "practice",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору: Организационное поведение",
+          "type": "lecture",
+          "teacher": "проф. М.А. Лимонова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору: Организационное поведение",
+          "type": "practice",
+          "teacher": "проф. М.А. Лимонова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Организационное поведение",
+          "type": "practice",
+          "teacher": "проф. М.А. Лимонова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "проф. В.В. Линьков",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "проф. В.В. Линьков",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальная антропология",
+          "type": "lecture",
+          "teacher": "доц. П.В. Рябов  -",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальная антропология",
+          "type": "practice",
+          "teacher": "доц. П.В. Рябов  -",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социальная антропология",
+          "type": "practice",
+          "teacher": "доц. П.В. Рябов  -",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Психология маркетинга",
+          "type": "practice",
+          "teacher": "проф. М.А. Лимонова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплина по выбору: Психология маркетинга",
+          "type": "practice",
+          "teacher": "проф. М.А. Лимонова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплина по выбору: Психология маркетинга",
+          "type": "lecture",
+          "teacher": "проф. М.А. Лимонова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Дисциплина по выбору: Психология маркетинга",
+          "type": "lecture",
+          "teacher": "проф. М.А. Лимонова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору: Интегрированные маркетинговые коммуникации",
+          "type": "lecture",
+          "teacher": "ст.преп. И.В. Алексеенко",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору: Интегрированные маркетинговые коммуникации",
+          "type": "practice",
+          "teacher": "ст.преп. И.В. Алексеенко         .  -зачет",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору: Маркетинг социальных медиа",
+          "type": "lecture",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору: Маркетинг социальных медиа",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Маркетинг социальных медиа",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Маркетинг социальных медиа",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "508",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплина по выбору: Интегрированные маркетинговые коммуникации",
+          "type": "practice",
+          "teacher": "ст.преп. И.В. Алексеенко",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социология рекламы",
+          "type": "lecture",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социология рекламы",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социология рекламы",
+          "type": "practice",
+          "teacher": "доц. Х.З. Ксенофонтова",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Маркетинг в сфере образовательных услуг",
+          "type": "lecture",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Маркетинг в сфере образовательных услуг",
+          "type": "practice",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплина по выбору: Маркетинг в сфере образовательных услуг",
+          "type": "practice",
+          "teacher": "доц. Д.В. Иванова",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору: Организационное поведение",
+          "type": "lecture",
+          "teacher": "проф. М.А. Лимонова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору: Организационное поведение",
+          "type": "practice",
+          "teacher": "проф. М.А. Лимонова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Организационное поведение",
+          "type": "practice",
+          "teacher": "проф. М.А. Лимонова",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "проф. В.В. Линьков",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "проф. В.В. Линьков",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальная антропология",
+          "type": "lecture",
+          "teacher": "доц. П.В. Рябов  -",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальная антропология",
+          "type": "practice",
+          "teacher": "доц. П.В. Рябов  -",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социальная антропология",
+          "type": "practice",
+          "teacher": "доц. П.В. Рябов  -",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "name": "ЗОЭ34-КДС2601",
+  "year": null,
+  "form": "part_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Социокультурная деятельность в образовании",
+          "type": "lecture",
+          "teacher": "доц. Л.Н. Максимова",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Педагогическое проектирование и реализация образовательных программ",
+          "type": "practice",
+          "teacher": "проф. И.Б. Пржиленская",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Социокультурная деятельность в образовании",
+          "type": "practice",
+          "teacher": "доц. Л.Н. Максимова",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Педагогическое проектирование и реализация образовательных программ",
+          "type": "practice",
+          "teacher": "проф. И.Б. Пржиленская",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Организация внеаудиторной работы в образовательных организациях",
+          "type": "lecture",
+          "teacher": "ст. преп. Н.Б. Самойлова",
+          "room": "309",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Организация внеаудиторной работы в образовательных организациях",
+          "type": "practice",
+          "teacher": "ст. преп. Н.Б. Самойлова",
+          "room": "309",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Педагогическое проектирование и реализация образовательных программ",
+          "type": "practice",
+          "teacher": "проф. И.Б. Пржиленская",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "проф. И.Н. Грифцова",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Педагогическое проектирование и реализация образовательных программ",
+          "type": "practice",
+          "teacher": "проф. И.Б. Пржиленская",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "проф. И.Н. Грифцова",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "проф. И.Н. Грифцова",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Методологии и методы исследования культуры",
+          "type": "lecture",
+          "teacher": "доц. Ж.В. Васильева",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Методологии и методы исследования культуры",
+          "type": "practice",
+          "teacher": "доц. Ж.В. Васильева",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "ст.преп. А.Э. Адамян",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "ст.преп. А.Э. Адамян",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Социокультурная деятельность в образовании",
+          "type": "lecture",
+          "teacher": "доц. Л.Н. Максимова",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Педагогическое проектирование и реализация образовательных программ",
+          "type": "practice",
+          "teacher": "проф. И.Б. Пржиленская",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Социокультурная деятельность в образовании",
+          "type": "practice",
+          "teacher": "доц. Л.Н. Максимова",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Педагогическое проектирование и реализация образовательных программ",
+          "type": "practice",
+          "teacher": "проф. И.Б. Пржиленская",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Организация внеаудиторной работы в образовательных организациях",
+          "type": "lecture",
+          "teacher": "ст. преп. Н.Б. Самойлова",
+          "room": "309",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Организация внеаудиторной работы в образовательных организациях",
+          "type": "practice",
+          "teacher": "ст. преп. Н.Б. Самойлова",
+          "room": "309",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Педагогическое проектирование и реализация образовательных программ",
+          "type": "practice",
+          "teacher": "проф. И.Б. Пржиленская",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "проф. И.Н. Грифцова",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Педагогическое проектирование и реализация образовательных программ",
+          "type": "practice",
+          "teacher": "проф. И.Б. Пржиленская",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "проф. И.Н. Грифцова",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:30",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "проф. И.Н. Грифцова",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Методологии и методы исследования культуры",
+          "type": "lecture",
+          "teacher": "доц. Ж.В. Васильева",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Методологии и методы исследования культуры",
+          "type": "practice",
+          "teacher": "доц. Ж.В. Васильева",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "ст.преп. А.Э. Адамян",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "ст.преп. А.Э. Адамян",
+          "room": "512",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

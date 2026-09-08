@@ -1,0 +1,478 @@
+{
+  "name": "БОЭ63-ЮРД2502",
+  "year": null,
+  "form": "part_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Уголовное право",
+          "type": "practice",
+          "teacher": "доц. О.В. Поликашина",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Уголовное право",
+          "type": "practice",
+          "teacher": "доц. О.В. Поликашина",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Антикоррупционная деятельность в России",
+          "type": "lecture",
+          "teacher": "проф. А.Я. Минин     (дистанционно",
+          "room": "sbb.mpgu.su/b/2fp-oki-tpv",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Антикоррупционная деятельность в России",
+          "type": "lecture",
+          "teacher": "проф. А.Я. Минин     (дистанционно",
+          "room": "sbb.mpgu.su/b/2fp-oki-tpv",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Гражданское право",
+          "type": "practice",
+          "teacher": "доц. Л.С. Заржицкая",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Конституционное право",
+          "type": "practice",
+          "teacher": "доц. А.Д. Калмыкова   с 7.10",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Конституционное право",
+          "type": "practice",
+          "teacher": "доц. А.Д. Калмыкова  с",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Прокурорский надзор",
+          "type": "practice",
+          "teacher": "доц. Н.В. Головко",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Антикоррупционная деятельность в России",
+          "type": "practice",
+          "teacher": "проф. А.Я. Минин",
+          "room": "sbb.mpgu.su/b/2fp-oki-tpv",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Антикоррупционная деятельность в России",
+          "type": "practice",
+          "teacher": "проф. А.Я. Минин",
+          "room": "sbb.mpgu.su/b/2fp-oki-tpv",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Антикоррупционная деятельность в России",
+          "type": "practice",
+          "teacher": "проф. А.Я. Минин",
+          "room": "sbb.mpgu.su/b/2fp-oki-tpv",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Профессиональная этика",
+          "type": "practice",
+          "teacher": "доц. Н.А. Устюжанина",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. Л.С. Булатова с",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Гражданское право",
+          "type": "practice",
+          "teacher": "доц. Л.С. Заржицкая",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. Л.С. Булатова с",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Техника юридического письма",
+          "type": "practice",
+          "teacher": "доц. В.Ю. Соловьёв",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Права человека",
+          "type": "practice",
+          "teacher": "доц. Е.С. Кувшинов",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Права человека",
+          "type": "practice",
+          "teacher": "доц. Е.С. Кувшинов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Права человека",
+          "type": "practice",
+          "teacher": "доц. Е.С. Кувшинов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Уголовное право",
+          "type": "practice",
+          "teacher": "доц. О.В. Поликашина",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Уголовное право",
+          "type": "practice",
+          "teacher": "доц. О.В. Поликашина",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Антикоррупционная деятельность в России",
+          "type": "lecture",
+          "teacher": "проф. А.Я. Минин     (дистанционно",
+          "room": "sbb.mpgu.su/b/2fp-oki-tpv",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Антикоррупционная деятельность в России",
+          "type": "lecture",
+          "teacher": "проф. А.Я. Минин     (дистанционно",
+          "room": "sbb.mpgu.su/b/2fp-oki-tpv",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Гражданское право",
+          "type": "practice",
+          "teacher": "доц. Л.С. Заржицкая",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Конституционное право",
+          "type": "practice",
+          "teacher": "доц. А.Д. Калмыкова   с 7.10",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Конституционное право",
+          "type": "practice",
+          "teacher": "доц. А.Д. Калмыкова  с",
+          "room": "802",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Прокурорский надзор",
+          "type": "practice",
+          "teacher": "доц. Н.В. Головко",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Антикоррупционная деятельность в России",
+          "type": "practice",
+          "teacher": "проф. А.Я. Минин",
+          "room": "sbb.mpgu.su/b/2fp-oki-tpv",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Антикоррупционная деятельность в России",
+          "type": "practice",
+          "teacher": "проф. А.Я. Минин",
+          "room": "sbb.mpgu.su/b/2fp-oki-tpv",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Антикоррупционная деятельность в России",
+          "type": "practice",
+          "teacher": "проф. А.Я. Минин",
+          "room": "sbb.mpgu.su/b/2fp-oki-tpv",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Профессиональная этика",
+          "type": "practice",
+          "teacher": "доц. Н.А. Устюжанина",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. Л.С. Булатова с",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Гражданское право",
+          "type": "practice",
+          "teacher": "доц. Л.С. Заржицкая",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. Л.С. Булатова с",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Техника юридического письма",
+          "type": "practice",
+          "teacher": "доц. В.Ю. Соловьёв",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Права человека",
+          "type": "practice",
+          "teacher": "доц. Е.С. Кувшинов",
+          "room": "846",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Права человека",
+          "type": "practice",
+          "teacher": "доц. Е.С. Кувшинов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Права человека",
+          "type": "practice",
+          "teacher": "доц. Е.С. Кувшинов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
