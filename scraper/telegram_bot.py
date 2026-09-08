@@ -385,17 +385,28 @@ def preflight(token: str, api=None) -> tuple[bool, str]:
     note = f"Запущен как @{username}"
 
     # Вебхук и getUpdates взаимно исключают друг друга: при активном
-    # вебхуке getUpdates отдаёт 409, и бот молчит вечно. Токеном владеет
-    # этот воркфлоу, поэтому вебхук снимаем.
+    # вебхуке getUpdates отдаёт 409, и бот молчит вечно.
+    #
+    # Но снять вебхук — значит оборвать доставку тому, кто его поставил, а
+    # мы не знаем, чей это токен: в этом репозитории лежит воркфлоу,
+    # унаследованный от бота приёмной кампании, и человек мог положить в
+    # BOT_TOKEN токен ДРУГОГО, живого бота. Поэтому по умолчанию —
+    # остановка и громкое сообщение, а снос только по явному разрешению.
     try:
         hook = ((api(token, "getWebhookInfo") or {}).get("result") or {}).get("url")
-        if hook:
-            api(token, "deleteWebhook")
-            note += (f". Снят вебхук {hook} — он блокировал long-polling "
-                     "(одновременно работает только что-то одно)")
     except Exception as e:  # noqa: BLE001
-        note += f". Проверить вебхук не удалось: {e}"
-    return True, note
+        return True, note + f". Проверить вебхук не удалось: {e}"
+    if not hook:
+        return True, note
+    if os.environ.get("BOT_TAKE_OVER_WEBHOOK") == "1":
+        api(token, "deleteWebhook")
+        return True, note + f". Снят вебхук {hook} (BOT_TAKE_OVER_WEBHOOK=1)"
+    return False, (
+        f"::error::У бота @{username} стоит вебхук {hook}, поэтому long-polling "
+        "работать не может — Telegram отдаёт обновления либо туда, либо сюда. "
+        "Ничего не трогаю: за этим вебхуком может стоять другой живой бот. "
+        "Если этот токен точно предназначен для расписания — задайте "
+        "переменную BOT_TAKE_OVER_WEBHOOK=1, и вебхук будет снят.")
 
 
 def main() -> int:

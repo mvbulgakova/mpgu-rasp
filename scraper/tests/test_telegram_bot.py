@@ -209,17 +209,27 @@ def test_preflight_names_the_bot_it_actually_started_as():
     assert "mpgu_rasp_bot" in note
 
 
-def test_preflight_removes_a_conflicting_webhook():
-    """Вебхук и long-polling взаимно исключают друг друга.
+def test_preflight_refuses_to_poll_a_token_that_belongs_to_a_webhook():
+    """Чужой вебхук НЕ трогаем — за ним может стоять живой чужой бот.
 
-    Если на боте висит вебхук, getUpdates отдаёт 409 и бот молчит вечно.
-    Раз этот воркфлоу владеет токеном — он и снимает вебхук.
+    Вебхук и long-polling взаимно исключают друг друга, но снять вебхук
+    значит оборвать доставку тому, кто его поставил. Мы не знаем, чей
+    это токен, поэтому останавливаемся и говорим об этом вслух.
     """
+    tg = FakeTelegram(webhook_url="https://worker.example/tg")
+    ok, note = bot.preflight("token", api=tg)
+    assert ok is False, "нельзя молча начинать поллинг чужого токена"
+    assert "deleteWebhook" not in tg.calls, "чужой вебхук трогать нельзя"
+    assert "worker.example" in note
+
+
+def test_preflight_deletes_the_webhook_only_when_explicitly_told_to(monkeypatch):
+    """Снести вебхук можно — но только по явному разрешению владельца."""
+    monkeypatch.setenv("BOT_TAKE_OVER_WEBHOOK", "1")
     tg = FakeTelegram(webhook_url="https://worker.example/tg")
     ok, note = bot.preflight("token", api=tg)
     assert ok is True
     assert "deleteWebhook" in tg.calls
-    assert "вебхук" in note.lower()
 
 
 def test_preflight_reports_a_bad_token_instead_of_polling_into_the_void():
