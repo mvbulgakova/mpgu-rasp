@@ -362,20 +362,73 @@ def _dispatch(upd: dict) -> tuple[int, Reply] | None:
     return chat, handle(text, reply_to=replied, user_id=user)
 
 
+NO_TOKEN_MESSAGE = (
+    "::error::BOT_TOKEN не задан — бот отвечать не будет. "
+    "Settings → Secrets and variables → Actions → New repository secret, "
+    "имя ровно BOT_TOKEN, значение — токен от @BotFather."
+)
+
+
+def preflight(token: str, api=None) -> tuple[bool, str]:
+    """Проверка перед поллингом: чей это токен и не занят ли он вебхуком.
+
+    Без неё «бот не реагирует» выглядит одинаково при трёх разных
+    причинах — нет токена, чужой токен, висит вебхук, — и ран при этом
+    зелёный. Лог должен отвечать на вопрос сам.
+    """
+    api = api or _api
+    try:
+        me = api(token, "getMe")
+    except Exception as e:  # noqa: BLE001
+        return False, f"::error::Telegram не принял токен: {e}"
+    username = ((me or {}).get("result") or {}).get("username") or "?"
+    note = f"Запущен как @{username}"
+
+    # Вебхук и getUpdates взаимно исключают друг друга: при активном
+    # вебхуке getUpdates отдаёт 409, и бот молчит вечно. Токеном владеет
+    # этот воркфлоу, поэтому вебхук снимаем.
+    try:
+        hook = ((api(token, "getWebhookInfo") or {}).get("result") or {}).get("url")
+        if hook:
+            api(token, "deleteWebhook")
+            note += (f". Снят вебхук {hook} — он блокировал long-polling "
+                     "(одновременно работает только что-то одно)")
+    except Exception as e:  # noqa: BLE001
+        note += f". Проверить вебхук не удалось: {e}"
+    return True, note
+
+
 def main() -> int:
     if len(sys.argv) > 2 and sys.argv[1] == "--selftest":
         print(handle(sys.argv[2]).text)
         return 0
     token = os.environ.get("BOT_TOKEN")
     if not token:
-        print("BOT_TOKEN не задан — пропускаю (добавь секрет репозитория). Выход.")
-        return 0
+        print(NO_TOKEN_MESSAGE)
+        # Ран по крону не валим: он тикает каждый час и до появления
+        # секрета. А ручной запуск — это ожидание «сейчас заработает»,
+        # и молчаливый зелёный ран там вводит в заблуждение.
+        return 1 if os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch" else 0
     if not os.environ.get("GITHUB_TOKEN"):
-        print("⚠ GITHUB_TOKEN не задан — обратная связь будет отвечать отказом")
+        print("::warning::GITHUB_TOKEN не задан — обратная связь будет отвечать отказом")
+
+    ok, note = preflight(token)
+    print(note)
+    if not ok:
+        return 1
+
     deadline = time.time() + RUN_SECONDS
     offset = None
-    print(f"Бот запущен на {RUN_SECONDS}s")
+    served = 0
+    # Пульс: пятичасовой ран с пустым логом неотличим от повисшего.
+    heartbeat_every = 900
+    next_heartbeat = time.time() + heartbeat_every
+    print(f"Бот слушает {RUN_SECONDS}s")
     while time.time() < deadline:
+        if time.time() >= next_heartbeat:
+            left = int(deadline - time.time())
+            print(f"…жив, обработано сообщений: {served}, осталось {left}s")
+            next_heartbeat = time.time() + heartbeat_every
         try:
             resp = _api(token, "getUpdates", offset=offset or "", timeout=30,
                         allowed_updates='["message","callback_query"]')
@@ -400,6 +453,7 @@ def main() -> int:
             chat, reply = routed
             try:
                 _send(token, chat, reply)
+                served += 1
             except Exception as e:
                 print(f"sendMessage error: {e}")
     print("Время вышло, выход")
