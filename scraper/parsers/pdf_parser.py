@@ -9,7 +9,8 @@ from scraper.parsers.base import BaseParser, ParseResult
 from scraper.normalizer.schedule_normalizer import (
     normalize_day, normalize_lesson_type, normalize_time,
     normalize_week_type, make_schedule_skeleton, lesson_obj, TIME_SLOTS,
-    extract_subgroup,
+    extract_subgroup, TEACHER_TITLE_RE, TEACHER_TITLE_SPLIT_RE,
+    extract_column_headers,
 )
 
 CONFIDENCE_THRESHOLD = 0.65
@@ -397,29 +398,42 @@ def _bytes_to_tmp(data: bytes, ext: str) -> str:
     return path
 
 
+# D43 (26.08): часть институтов (arts и др.) печатает в шапке
+# «НЕДЕЛЯ НЕЧЕТНАЯ (НАД ЧЕРТОЙ)» / «НЕДЕЛЯ ЧЕТНАЯ (ПОД ЧЕРТОЙ)».
+# Это значит, что два блока в одном слоте — числитель/знаменатель, а НЕ две
+# одновременные пары: верхний идёт по нечётным неделям, нижний — по чётным.
+_OVER_LINE_RE = re.compile(r"над\s+чертой", re.IGNORECASE)
+_UNDER_LINE_RE = re.compile(r"под\s+чертой", re.IGNORECASE)
+
+
+def _has_over_under_line_legend(tables: list[list[list]]) -> bool:
+    """True, если документ объявляет конвенцию «над/под чертой»."""
+    head = []
+    for t in tables[:3]:
+        for row in t[:12]:
+            for c in row:
+                if c:
+                    head.append(str(c))
+    blob = " ".join(head)
+    return bool(_OVER_LINE_RE.search(blob) and _UNDER_LINE_RE.search(blob))
+
+
 def _parse_tables(tables: list[list[list]]) -> list[dict]:
     """Определяет формат таблицы и парсит группы."""
     valid = [t for t in tables if t and len(t) >= 2]
 
     # Normalize journalism-style tables (time in col>1) to standard layout.
-    # Once a time_col is found in any table, apply it to all tables with the same
-    # column count (continuation pages share the same physical column layout).
-    journ_tc: dict[int, int] = {}  # ncols → time_col
-    for t in valid:
-        ncols = len(t[0]) if t else 0
-        if ncols not in journ_tc:
-            tc = _find_journalism_time_col(t)
-            if tc is not None:
-                journ_tc[ncols] = tc
+    # D9: content-based fallback позволяет detect time_col в continuation-таблицах
+    # (без 'Время' header); поэтому применяем detection PER-TABLE.
     normalized = []
     for t in valid:
-        ncols = len(t[0]) if t else 0
-        tc = journ_tc.get(ncols)
+        tc = _find_journalism_time_col(t)
         normalized.append(_normalize_journalism_table(t, tc) if tc is not None else t)
     valid = normalized
 
     if any(_is_mpgu_timetable_format(t) for t in valid):
-        return _parse_mpgu_timetable_pages(valid)
+        return _parse_mpgu_timetable_pages(
+            valid, over_under=_has_over_under_line_legend(valid))
 
     groups = []
     for table in valid:
@@ -434,6 +448,18 @@ def _parse_tables(tables: list[list[list]]) -> list[dict]:
 
 
 _SKIP_CELLS = {"День самоподготовки", "—", "-", "–"}
+
+# D33: пометки «день самообразования/самоподготовки» — не занятия.
+# Вертикальные ячейки приезжают перевёрнутыми, поэтому проверяем и reverse.
+_SELF_STUDY_RE = re.compile(
+    r"день\s+само(?:образован|подготовк|стоятельн)", re.IGNORECASE
+)
+
+
+def _is_self_study(text: str) -> bool:
+    flat = " ".join(text.split())
+    return bool(_SELF_STUDY_RE.search(flat)
+                or _SELF_STUDY_RE.search(flat[::-1]))
 
 # Код группы МПГУ (с возможными пробелами вокруг дефиса), для сегментации страниц
 _GROUP_CODE_RE = re.compile(r"[А-ЯЁа-яёA-Za-z]{2,6}\d{2}\s*-\s*[А-ЯЁа-яёA-Za-z]{2,6}\d{4}")
@@ -459,6 +485,20 @@ def _try_parse_time_cell(c1: str) -> tuple[str, str] | None:
         t1, t2 = _fmt_time(m.group(1)), _fmt_time(m.group(2))
         if _valid_time(t1) and _valid_time(t2) and t1 < t2:
             return t1, t2
+    # Vertical cell — digits/dash separated by newlines. Join then retry
+    # forward-4-digit and reversed-4-digit patterns.
+    stripped = re.sub(r"\s+", "", c1)
+    if stripped != c1:
+        m = re.search(r"(\d{4})\D+(\d{4})", stripped)
+        if m:
+            t1, t2 = _fmt_time(m.group(1)), _fmt_time(m.group(2))
+            if _valid_time(t1) and _valid_time(t2) and t1 < t2:
+                return t1, t2
+        m = re.search(r"(\d{4})\D+(\d{4})", stripped[::-1])
+        if m:
+            t1, t2 = _fmt_time(m.group(1)), _fmt_time(m.group(2))
+            if _valid_time(t1) and _valid_time(t2) and t1 < t2:
+                return t1, t2
     # Fallback: two HH:MM patterns with up to 25 non-digit chars between (mixed content)
     m = re.search(r"(\d{1,2}[:.]\d{2})\D{0,25}?(\d{1,2}[:.]\d{2})", c1, re.DOTALL)
     if m:
@@ -489,8 +529,13 @@ def _valid_time(t: str) -> bool:
 
 
 def _find_journalism_time_col(table: list[list]) -> int | None:
-    """Detects journalism-style format: 'Время' header in col>=2, day names in col0."""
-    if not table or len(table[0]) < 5:
+    """Detects journalism-style format: 'Время' header in col>=2, day names in col0.
+
+    Fix D9: если явного 'Время' в header нет (continuation-страница), сканируем
+    содержимое каждой колонки на split-time cells (`09.00-` / `10.30`) — колонка
+    с наибольшим количеством time-cells становится time_col.
+    """
+    if not table or len(table[0]) < 3:
         return None
     time_col = None
     for row in table[:15]:
@@ -501,11 +546,27 @@ def _find_journalism_time_col(table: list[list]) -> int | None:
         if time_col is not None:
             break
     if time_col is None:
-        return None
+        # Fallback: content-based detection (continuation pages без header).
+        # Считаем split-time-start / full-time-cell в каждой col>=1.
+        col_hits: dict[int, int] = {}
+        for row in table:
+            for ci in range(1, len(row)):
+                cell = str(row[ci] or "").strip()
+                if not cell:
+                    continue
+                if _SPLIT_TIME_START_RE.match(cell) or _try_parse_time_cell(cell):
+                    col_hits[ci] = col_hits.get(ci, 0) + 1
+        if col_hits:
+            # Выбираем колонку с максимальным числом попаданий (порог: ≥2).
+            best_col, best_n = max(col_hits.items(), key=lambda kv: kv[1])
+            if best_n >= 2:
+                time_col = best_col
+        if time_col is None:
+            return None
     # Verify col0 has recognizable day names in data rows
     for row in table:
         raw = str(row[0] or "").replace("\n", "").strip()
-        if len(raw) > 4 and (normalize_day(raw.lower()) or
+        if len(raw) > 3 and (normalize_day(raw.lower()) or
                              normalize_day("".join(reversed(raw)).lower())):
             return time_col
     return None
@@ -514,6 +575,32 @@ def _find_journalism_time_col(table: list[list]) -> int | None:
 def _normalize_journalism_table(table: list[list], time_col: int) -> list[list]:
     """Normalize: keep col0 (day), then time_col onwards, dropping empty filler cols."""
     return [[row[0]] + list(row[time_col:]) for row in table]
+
+
+def _day_from_date_cell(text: str) -> str | None:
+    """D16/D27: в ЗФО-расписаниях колонка дня содержит ДАТУ, а не название дня.
+
+    Поддерживаем «05.09.2026 (СУББОТА)» — день подписан в скобках — и голое
+    «07.09.2026», для которого день вычисляем из самой даты.
+    """
+    if not text:
+        return None
+    t = text.replace("\n", " ").strip()
+    m = re.search(r"\(([А-Яа-яЁё]{3,11})\)", t)
+    if m:
+        day = normalize_day(m.group(1).strip().lower())
+        if day:
+            return day
+    m = re.search(r"\b(\d{1,2})[.,/](\d{1,2})[.,/](\d{4})\b", t)
+    if m:
+        import datetime
+        try:
+            d = datetime.date(int(m.group(3)), int(m.group(2)), int(m.group(1)))
+        except ValueError:
+            return None
+        return ["monday", "tuesday", "wednesday", "thursday",
+                "friday", "saturday", "sunday"][d.weekday()]
+    return None
 
 
 def _is_mpgu_timetable_format(table: list[list]) -> bool:
@@ -539,16 +626,28 @@ def _is_mpgu_timetable_format(table: list[list]) -> bool:
         if chars and all(len(ch.strip()) == 1 for ch in chars):
             has_day_letter = True
         elif len(raw) > 4 and (normalize_day(raw.lower()) or
-                               normalize_day("".join(reversed(raw)).lower())):
+                               normalize_day("".join(reversed(raw)).lower()) or
+                               _day_from_date_cell(c0)):
             has_day_letter = True
         if re.search(r"\d{4}", c1) or re.search(r"\d{1,2}[:.]\d{2}", c1):
             has_time = True
+        # Vertical time cells (math): «0\n3\n0\n1\n-\n0\n0\n9\n0» — split into
+        # cells and check if concatenated digits form a HHMM-HHMM pair either
+        # forward or reversed.
+        if not has_time and c1:
+            chars = [ch.strip() for ch in c1.split("\n") if ch.strip()]
+            joined = "".join(chars)
+            if re.fullmatch(r"\d{3,4}[-–]\d{3,4}", joined) or re.fullmatch(
+                r"\d{3,4}[-–]\d{3,4}", joined[::-1]
+            ):
+                has_time = True
         if has_day_letter and has_time:
             return True
     return False
 
 
-def _parse_mpgu_timetable_pages(tables: list[list[list]]) -> list[dict]:
+def _parse_mpgu_timetable_pages(tables: list[list[list]],
+                                over_under: bool = False) -> list[dict]:
     """Объединяет несколько таблиц одного PDF, возвращает список групп.
 
     Поддерживает:
@@ -578,12 +677,14 @@ def _parse_mpgu_timetable_pages(tables: list[list[list]]) -> list[dict]:
     if len(segments) > 1:
         result: list[dict] = []
         for seg in segments:
-            result.extend(_parse_mpgu_segment(seg, all_tables=tables))
+            result.extend(_parse_mpgu_segment(seg, all_tables=tables,
+                                              over_under=over_under))
         return result
-    return _parse_mpgu_segment(tables, all_tables=tables)
+    return _parse_mpgu_segment(tables, all_tables=tables, over_under=over_under)
 
 
-def _parse_mpgu_segment(tables: list[list[list]], all_tables: list[list[list]]) -> list[dict]:
+def _parse_mpgu_segment(tables: list[list[list]], all_tables: list[list[list]],
+                        over_under: bool = False) -> list[dict]:
     """Парсит один сегмент (одна группа-сетка + её продолжения)."""
     if not tables:
         return []
@@ -591,6 +692,7 @@ def _parse_mpgu_segment(tables: list[list[list]], all_tables: list[list[list]]) 
     # Извлекаем группы из первой МПГУ-таблицы (может быть не tables[0])
     first_mpgu = next((t for t in tables if _is_mpgu_timetable_format(t)), tables[0])
     group_cols, form, degree, year = _extract_timetable_groups(first_mpgu)
+    col_meta = extract_column_headers(first_mpgu)
 
     # Если МПГУ-таблица не содержит кодов групп, ищем в таблицах до неё:
     # в некоторых форматах заголовок с кодами групп предшествует данным,
@@ -601,11 +703,13 @@ def _parse_mpgu_segment(tables: list[list[list]], all_tables: list[list[list]]) 
             gc0, f0, d0, y0 = _extract_timetable_groups(candidate)
             if gc0 != [("группа", 2)]:
                 group_cols, form, degree, year = gc0, f0, d0, y0
+                col_meta = extract_column_headers(candidate)
                 # Перемапируем индексы колонок: в таблицах данных группы начинаются с col 2
                 min_col = min(col for _, col in group_cols)
                 if min_col > 2:
                     col_offset = min_col - 2
                     group_cols = [(name, col - col_offset) for name, col in group_cols]
+                    col_meta = {ci - col_offset: m for ci, m in col_meta.items()}
                 break
 
     # group_cols: list of (name, col_idx)
@@ -632,6 +736,7 @@ def _parse_mpgu_segment(tables: list[list[list]], all_tables: list[list[list]]) 
             table, schedules, col_to_group, default_group,
             data_started=not has_header,
             current_day=current_day, day_acc=day_acc,
+            over_under=over_under,
         )
 
     result = []
@@ -640,13 +745,55 @@ def _parse_mpgu_segment(tables: list[list[list]], all_tables: list[list[list]]) 
         has_lessons = any(sched["odd_week"][d] for d in sched["odd_week"]) or \
                       any(sched["even_week"][d] for d in sched["even_week"])
         if has_lessons:
+            meta = col_meta.get(col, {})
             result.append({"name": name, "year": year, "form": form,
-                           "degree": degree, "schedule": sched})
+                           "degree": degree,
+                           "direction": meta.get("direction"),
+                           "profile": meta.get("profile"),
+                           "schedule": sched})
     return result
 
 
-_SPLIT_TIME_START_RE = re.compile(r"^(\d{3,4})\s*[-–]\s*$")
-_SPLIT_TIME_END_RE = re.compile(r"^(\d{3,4})$")
+# Split-time: часть слота в отдельной ячейке. Поддерживаем оба формата:
+# бесточечный «0900»/«1030» (обычные PDF) и с точкой «09.00-»/«10.30» (journalism).
+_SPLIT_TIME_START_RE = re.compile(r"^(\d{1,2}[:.]?\d{2})\s*[-–]\s*$")
+_SPLIT_TIME_END_RE = re.compile(r"^(\d{1,2}[:.]?\d{2})$")
+
+# Fix D9 (audit 2026-08-25): journalism «временные» расписания используют даты
+# «14.09» / «07.09, 21.09» вместо маркеров чёт/нечёт. Такие строки — не тема.
+# D37: период проведения отдельной строкой — «С 14.02 по 06.06»,
+# «с 26.11.2026г.», «до 23.10». Это метаданные, а не часть названия.
+_DATE_RANGE_RE = re.compile(
+    r"^\s*(?:с|по|до|от)\s+\d{1,2}[.,/]\d{1,2}(?:[.,/]\d{2,4})?\s*г?\.?"
+    r"(?:\s*(?:по|до)\s+\d{1,2}[.,/]\d{1,2}(?:[.,/]\d{2,4})?\s*г?\.?)?\s*$",
+    re.IGNORECASE,
+)
+
+# NB: даты часто идут с точкой в конце — «26.10., 09.11., 23.11.»
+_DATE_MARKER_RE = re.compile(r"^\s*\d{1,2}[.,/-]\d{2}\.?(?:\s*[,;]\s*\d{1,2}[.,/-]\d{2}\.?)*\s*[,;]?\s*$")
+
+# Fix D22 (audit 2026-08-26): часть PDF (preschool) рендерится с разрядкой,
+# и «ауд.» приезжает как «а уд.». Допускаем пробелы внутри самого токена.
+# NB: длинная альтернатива ПЕРВОЙ, иначе «ауд» съест начало «Аудитория»
+# и номер аудитории потеряется.
+_AUD_TOKEN = r"(?:аудитория|а\s*у\s*д)\.?(?![а-яё])"
+
+# Fix D21: звание «Ст. пр.» (сокращение от «старший преподаватель») —
+# короче, чем «ст. преп.», старый regex его не ловил.
+_TEACHER_MARKER_RE = TEACHER_TITLE_RE
+
+# Fix D20: тип занятия может стоять после запятой без скобок —
+# «История России, ПЗ» (preschool). Скобочный вариант обрабатывается отдельно.
+# D23: тип занятия в скобках вместе с уточнением — «(ЛК с 14.09.26)»,
+# «(ПЗ 10)», «(ЛК только 17.09)». Обычный короткий «(ЛК)» ловится отдельно.
+_TYPE_WITH_QUALIFIER_RE = re.compile(
+    r"\(\s*(ЛК|ПЗ|ЛР|ЛАБ|Лаб|СЕМ|Сем)\.?\s*([^)]*)\)", re.IGNORECASE
+)
+
+# D34: после маркера может стоять уточнение — «, ПЗ (с 26.11.2026г.)».
+_TRAILING_TYPE_RE = re.compile(
+    r"\s*,\s*(ЛК|ПЗ|ЛР|ЛАБ|Лаб|СЕМ|Сем)\.?\s*(\([^)]*\))?\s*$", re.IGNORECASE
+)
 
 # Маркеры чётной/нечётной недели на отдельной строке
 _WEEK_ODD_MARKER = re.compile(
@@ -659,20 +806,53 @@ _WEEK_EVEN_MARKER = re.compile(
 )
 
 
+# D35 (audit 2026-08-26): часть PDF (preschool) рендерится по одному глифу,
+# и «Доц. Ж.В. Мацкевич» приезжает как «Д о ц . Ж . В . М а ц к е в и ч».
+# Границы слов в НАЗВАНИИ восстановить нельзя — в PDF зазоры между глифами
+# нулевые, — но для распознавания метаданных достаточно склеить одиночные
+# символы и проверить маркеры на склеенной копии.
+_SPACED_GLYPHS_RE = re.compile(r"(?:(?<=^)|(?<=\s))\S(?:\s\S){3,}")
+
+
+def _dekern(line: str) -> str:
+    """Склеивает участки из одиночных символов, разделённых пробелами."""
+    def _join(m):
+        return m.group(0).replace(" ", "")
+    return _SPACED_GLYPHS_RE.sub(_join, line)
+
+
 def _is_metadata_line(line: str) -> bool:
-    """True если строка — метаданные занятия (тип, преподаватель, аудитория, маркер недели)."""
+    """True если строка — метаданные занятия (тип, преподаватель, аудитория, маркер недели, дата)."""
     s = line.strip()
     if not s:
         return True
+    # D35: разряженный рендер — проверяем и склеенную копию строки
+    dk = _dekern(s)
+    if dk != s and _is_metadata_line(dk):
+        return True
     if re.match(r"^\([А-ЯЁа-яёA-Za-z.]{2,4}\)$", s):
         return True
-    if re.search(r"\b(проф|доц|ст\.?\s*преп|асс|преп)\b", s, re.I):
+    # Fix D9: full titles (journalism), в дополнение к abbrev'ам (обычный формат).
+    # `\bдоц\b` не совпадает с «Доцент», нужен явный список полных форм.
+    if _TEACHER_MARKER_RE.search(s):
+        return True
+    if re.match(
+        r"^\s*(?:доцент|профессор|ассистент|старший\s+преподаватель|"
+        r"преподаватель|ведущий\s+преподаватель)\b",
+        s, re.I,
+    ):
         return True
     if "//" in s:
         return True
-    if re.search(r"(ауд\.?\s*\d|\d+\s+корп\.|спортзал|стадион)", s, re.I):
+    # Fix D9: journalism использует «Аудитория 204» вместо «ауд. 204».
+    # D24: «, ауд.» без номера (обрезано границей ячейки) — тоже метаданные.
+    if re.search(rf"{_AUD_TOKEN}|\d+\s+корп\.|спортзал|спортивный\s+зал|стадион|зал|с/з|гимнастический", s, re.I):
         return True
     if _WEEK_ODD_MARKER.match(s) or _WEEK_EVEN_MARKER.match(s):
+        return True
+    if _DATE_MARKER_RE.match(s):
+        return True
+    if _DATE_RANGE_RE.match(s):
         return True
     return False
 
@@ -739,6 +919,7 @@ def _fill_mpgu_schedule_multi(
     data_started: bool = False,
     current_day: str | None = None,
     day_acc: list[str] | None = None,
+    over_under: bool = False,
 ) -> tuple[str | None, list[str]]:
     """Читает одну таблицу и добавляет занятия в schedules. Возвращает (current_day, day_acc)."""
     if day_acc is None:
@@ -760,14 +941,36 @@ def _fill_mpgu_schedule_multi(
             sched = schedules.get(gname)
             if sched is None:
                 continue
-            content = "\n".join(frags)
-            for seg_content, week_type in _split_timetable_content(content):
-                lesson = _parse_timetable_cell(seg_content, t_start, t_end, None)
-                if lesson:
-                    if week_type in ("odd", "both"):
-                        sched["odd_week"][current_day].append(lesson)
-                    if week_type in ("even", "both"):
-                        sched["even_week"][current_day].append({**lesson})
+            # Fix D19 (audit 2026-08-26): в этих PDF колонка времени имеет
+            # БОЛЕЕ ВЫСОКИЕ строки, чем колонка занятий, поэтому в один слот
+            # физически попадают ДВА разных занятия друг под другом (arts/ДПИ:
+            # 12:40 = «Керамика» + «Скульптура»). Раньше все фрагменты слота
+            # склеивались в один текст и выживал только первый subject —
+            # терялось до 40 % пар. Теперь каждый фрагмент, начинающийся с
+            # НЕ-метаданной строки, открывает новое занятие; фрагменты из
+            # одних метаданных приклеиваются к предыдущему (перенос ячейки).
+            blocks: list[str] = []
+            for frag in frags:
+                first = next((l for l in frag.split("\n") if l.strip()), "")
+                if blocks and (not first or _is_metadata_line(first)):
+                    blocks[-1] = blocks[-1] + "\n" + frag
+                else:
+                    blocks.append(frag)
+            # D43: при конвенции «над/под чертой» ДВА блока в слоте — это
+            # числитель и знаменатель, а не две параллельные пары.
+            forced = [None] * len(blocks)
+            if over_under and len(blocks) == 2:
+                forced = ["odd", "even"]
+            for content, force in zip(blocks, forced):
+                for seg_content, week_type in _split_timetable_content(content):
+                    if force is not None and week_type == "both":
+                        week_type = force
+                    lesson = _parse_timetable_cell(seg_content, t_start, t_end, None)
+                    if lesson:
+                        if week_type in ("odd", "both"):
+                            sched["odd_week"][current_day].append(lesson)
+                        if week_type in ("even", "both"):
+                            sched["even_week"][current_day].append({**lesson})
         pending = {}
 
     for row in table:
@@ -779,7 +982,11 @@ def _fill_mpgu_schedule_multi(
                 data_started = True
             continue
 
-        # Определяем день
+        # Определяем день.
+        # D32 (audit 2026-08-26): день ОБЯЗАН меняться только после того, как
+        # накопленные пары предыдущего дня записаны. Раньше flush() шёл ниже,
+        # уже с новым current_day, и последняя пара каждого дня уезжала на
+        # следующий (math/001: «Безопасность жизнедеятельности» 14:20 ПН → ВТ).
         if c0:
             raw = c0.replace("\n", "").strip()
             if raw:
@@ -787,7 +994,11 @@ def _fill_mpgu_schedule_multi(
                 day = normalize_day(raw.lower())
                 if not day and len(raw) > 1:
                     day = normalize_day("".join(reversed(raw)).lower())
+                if not day:
+                    day = _day_from_date_cell(c0)
                 if day:
+                    if day != current_day:
+                        flush()
                     current_day = day
                     day_acc = []
                 elif len(raw) == 1:
@@ -796,6 +1007,8 @@ def _fill_mpgu_schedule_multi(
                     candidate = "".join(day_acc)
                     day = normalize_day(candidate.lower())
                     if day:
+                        if day != current_day:
+                            flush()
                         current_day = day
                         day_acc = []
                 # Если len>1 и не день — это, скорее всего, фрагмент (напр. 'ИК'), игнорируем
@@ -898,19 +1111,24 @@ def _extract_timetable_groups(table: list[list]) -> tuple:
     """Извлекает список групп (name, col_idx), форму, степень и курс из заголовка таблицы.
 
     Возвращает: ([(group_name, col_idx), ...], form, degree, year)
+
+    D4 (audit 2026-08-25): если в шапке две колонки несут ОДИН код (напр.
+    geo_5-kurs.pdf: БОГ35-ГИН2101 испанский + БОГ35-ГИН2101 английский),
+    добавляем к дубликатам суффикс-профиль из строки над кодом, чтобы
+    занятия не сливались в одну группу.
     """
     # Допускаем пробелы вокруг дефиса (напр. 'ЗОГ34 - ГУМ2501')
     GROUP_RE = re.compile(r"[А-ЯЁа-яёA-Za-z]{2,6}\d{2}\s*-\s*[А-ЯЁа-яёA-Za-z]{2,6}\d{4}")
-    groups: list[tuple[str, int]] = []
+    # Кандидаты: (name, col, row) — row нужен для disambiguation ниже.
+    candidates: list[tuple[str, int, int]] = []
     form = "full_time"
     degree = "bachelor"
     year = None
 
     def _norm_group_name(raw: str) -> str:
-        """Нормализует код группы: убирает пробелы вокруг дефиса."""
         return re.sub(r"\s*-\s*", "-", raw.strip())
 
-    for row in table[:20]:
+    for ri, row in enumerate(table[:20]):
         for ci, cell in enumerate(row):
             text = str(cell or "").strip()
             if not text:
@@ -928,27 +1146,70 @@ def _extract_timetable_groups(table: list[list]) -> tuple:
             if m and year is None:
                 year = int(m.group(1))
             if ci >= 2:
-                # Ищем код группы: сначала с начала строки, затем вложенный (напр. '1 курс\nВZГ34-...')
                 gm = GROUP_RE.match(text) or GROUP_RE.search(text)
                 if gm:
                     name = _norm_group_name(gm.group(0))
-                    if not any(n == name for n, _ in groups):
-                        groups.append((name, ci))
+                    if not any(nm == name and cc == ci for nm, cc, _ in candidates):
+                        candidates.append((name, ci, ri))
 
-    if not groups:
+    if not candidates:
         # Запасной вариант: ищем любую ячейку с кодом группы (без ограничения по ci)
-        for row in table[:20]:
+        for ri, row in enumerate(table[:20]):
             for ci, cell in enumerate(row):
                 text = str(cell or "").strip()
                 gm = GROUP_RE.search(text)
                 if gm:
                     name = _norm_group_name(gm.group(0))
-                    if not any(n == name for n, _ in groups):
-                        groups.append((name, ci))
-    if not groups:
-        groups = [("группа", 2)]
+                    if not any(nm == name and cc == ci for nm, cc, _ in candidates):
+                        candidates.append((name, ci, ri))
+    if not candidates:
+        return [("группа", 2)], form, degree, year
+
+    # D4: дедуплицируем БЕЗ дискриминатора если код встречается в одной колонке,
+    # но при повторе имени в РАЗНЫХ колонках — добавляем profile-suffix.
+    name_cols: dict[str, list[int]] = {}
+    for name, ci, _ in candidates:
+        name_cols.setdefault(name, []).append(ci)
+
+    groups: list[tuple[str, int]] = []
+    seen: set[tuple[str, int]] = set()
+    for name, ci, ri in candidates:
+        cols = name_cols[name]
+        if len(set(cols)) > 1:
+            suffix = _find_profile_suffix(table, ci, ri)
+            final = f"{name} ({suffix})" if suffix else f"{name} (col{ci})"
+        else:
+            final = name
+        key = (final, ci)
+        if key not in seen:
+            groups.append(key)
+            seen.add(key)
 
     return groups, form, degree, year
+
+
+_PROFILE_HINT_RE = re.compile(r"\(([^()]{3,60})\)")
+
+
+def _find_profile_suffix(
+    table: list[list], col: int, code_row: int
+) -> str | None:
+    """Ищет profile-suffix для disambiguation дубликатов (D4).
+
+    Смотрит на строки НАД code_row в той же колонке — первое совпадение
+    с текстом в скобках («География и иностранный язык (испанский)» → «испанский»)
+    или бо́льшая строка ниже 20 символов, которая не является кодом группы.
+    """
+    for r in range(code_row - 1, -1, -1):
+        if col >= len(table[r]):
+            continue
+        cell = str(table[r][col] or "").strip()
+        if not cell:
+            continue
+        m = _PROFILE_HINT_RE.search(cell)
+        if m:
+            return m.group(1).strip().lower()
+    return None
 
 
 def _extract_timetable_header(table: list[list]) -> tuple:
@@ -976,9 +1237,44 @@ def _assign_timetable_lessons(
 def _parse_timetable_cell(content: str, t_start: str, t_end: str,
                            subgroup: int | None) -> dict | None:
     """Парсит ячейку занятия: предмет, тип, преподаватель, аудитория."""
+    # D40: перенос строки внутри ячейки Google-таблиц набирают как «\\».
+    # Тот же формат приходит и сюда — через мост CSV → MPGU-сетка (D26).
+    content = content.replace("\\", "\n")
     lines = [l.strip() for l in content.split("\n") if l.strip()]
     if not lines:
         return None
+    if _is_self_study(content):
+        return None
+
+    # Post-08-25 follow-up: строка может паковать subject + преподавателя +
+    # аудиторию в одну («Основы экологической культуры (ПЗ), доц. И.Ф.
+    # Асауляк, ауд. 107»). Разбиваем КАЖДУЮ строку на «виртуальные» строки,
+    # иначе _is_metadata_line съест всё вместе как один subject.
+    # NB: применять надо к каждой строке, а не только когда вся ячейка
+    # однострочная — после D19-склейки блок почти всегда многострочный.
+    expanded: list[str] = []
+    for line in lines:
+        pieces = re.split(
+            # (?i) — весь паттерн разреза регистронезависим: в источниках
+            # встречается и «ст. преп.», и «Ст. преп.».
+            r"(?i)"
+            # преподаватель — после запятой ИЛИ просто после пробела (social).
+            # Паттерн звания общий для всех парсеров (см. normalizer).
+            # Lookbehind на самой точке разреза: в «ст. преп. Иванов» ветка
+            # «преп …» иначе режет после «ст.», отрывая «ст» в предмет.
+            rf"(?<!ст\.)(?<!ст)(?=[\s,]\s*(?:{TEACHER_TITLE_SPLIT_RE.pattern}))|"
+            # аудитория после запятой; допускаем «ауд» без точки и без номера
+            # (D24: обрезано границей ячейки)
+            rf"(?=\s*,\s*{_AUD_TOKEN})|"
+            rf"(?=\s*\(\s*{_AUD_TOKEN})|"
+            # D24b: аудитория приклеена к предмету одним пробелом,
+            # без запятой и скобок («ЖИВОПИСЬ ауд. 412»).
+            rf"(?=\s+{_AUD_TOKEN})",
+            line,
+        )
+        pieces = [x.strip(" ,;") for x in pieces if x.strip(" ,;")]
+        expanded.extend(pieces or [line])
+    lines = expanded
 
     # Извлекаем подгруппу из любой строки
     if subgroup is None:
@@ -989,15 +1285,30 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
                 lines[i] = cleaned
                 break
 
-    subject = lines[0]
+    # Fix D1 (audit 2026-08-25): собираем subject из ВСЕХ идущих подряд строк
+    # сверху вниз, пока не встретим метаданные (преподаватель/аудитория/тип).
+    # Многострочные ячейки МПГУ содержат разнос subject через 2-3 строки
+    # ("Практика устной и" \n "письменной речи" \n "английского языка (ПЗ),"),
+    # и брать только lines[0] выдавало усечённый бессмысленный subject.
+    subject_lines: list[str] = []
+    for line in lines:
+        if _is_metadata_line(line):
+            break
+        subject_lines.append(line)
+    subject = " ".join(subject_lines).strip() if subject_lines else lines[0]
     lesson_type = "other"
     teacher: str | None = None
     room: str | None = None
+    notes = ""
 
     TYPE_MAP = {"лк": "lecture", "пз": "practice", "лаб": "lab", "лб": "lab",
                 "сем": "seminar", "сем.": "seminar"}
 
-    for line in lines:
+    for raw_line in lines:
+        # D35: для извлечения метаданных работаем со склеенной копией —
+        # в разряженном рендере «Д о ц . Ж . В . М а ц к е в и ч» иначе
+        # не распознаётся ни преподаватель, ни аудитория.
+        line = _dekern(raw_line)
         # Тип занятия в скобках
         m = re.search(r"\(([А-ЯЁA-Zа-яёa-z.]{2,4})\)", line)
         if m:
@@ -1017,25 +1328,100 @@ def _parse_timetable_cell(content: str, t_start: str, t_end: str,
                 room = right
             continue
 
-        # Только аудитория
-        if re.search(r"\d+\s+корп\.", line, re.I) or re.search(r"ауд\.?\s*\d", line, re.I) \
-                or re.search(r"спортзал|зал|стадион", line, re.I):
+        # Учитель И/ИЛИ аудитория в одной строке. Раньше room-detection
+        # делал `continue` до teacher-detection, поэтому строка вида
+        # «Доц. М.К. Чиняков(ауд. 58)» давала T=—, R=«Доц. М.К. Чиняков(ауд. 58)».
+        # NB: longer alternative first so «Аудитория 204» captures «204», not
+        # stops at «Аудитория» because «ауд» matched greedily. `\s*` after the
+        # marker allows «ауд.502» (no space) as well as «ауд. 502».
+        room_m = re.search(
+            rf"\(?\s*(?:{_AUD_TOKEN})\s*[-–]?\s*([\w/]+)\)?", line, re.I,
+        )
+        looks_like_room_only = bool(
+            re.search(r"\d+\s+корп\.", line, re.I)
+            # D26: sport использует «с/з №3», «гимнастический зал»
+            or re.search(r"спортзал|спортивный\s+зал|стадион|с/з|гимнастический\s+зал", line, re.I)
+        )
+        has_teacher_marker = bool(
+            _TEACHER_MARKER_RE.search(line)
+            or re.match(
+                r"^\s*(?:доцент|профессор|ассистент|старший\s+преподаватель|"
+                r"преподаватель|ведущий\s+преподаватель)\b",
+                line, re.I,
+            )
+        )
+
+        if room_m or looks_like_room_only:
             if room is None:
-                room = line
+                if room_m:
+                    room = room_m.group(0).strip("()").strip()
+                else:
+                    room = line
+            # Even after grabbing room, teacher may be on the same line.
+            residual = re.sub(
+                rf"\(?\s*(?:{_AUD_TOKEN})\s*[-–]?\s*[\w/]+\)?", "", line, flags=re.I
+            ).strip(" ,;")
+            if teacher is None and has_teacher_marker and residual:
+                teacher = residual.rstrip(",. ")
             continue
 
-        # Преподаватель
-        if re.search(r"\b(проф|доц|ст\.?\s*преп|асс|преп)\b", line, re.I):
+        # Преподаватель — abbrev'ы + полные формы (journalism)
+        if has_teacher_marker:
             if teacher is None:
                 teacher = re.sub(r"\(ауд\.?[^)]*\)", "", line).strip().rstrip(",. ")
             continue
 
+        # Дата (D9: «14.09», «07.09, 21.09») — не тема, не teacher, не room
+        if _DATE_MARKER_RE.match(line):
+            continue
+        # D37: период проведения — сохраняем в notes
+        if _DATE_RANGE_RE.match(line):
+            notes = f"{notes}; {line.strip()}".strip("; ") if notes else line.strip()
+            continue
+
     # Очищаем предмет от маркеров типа
-    subject = re.sub(r"\([А-ЯЁа-яёA-Za-z.]{2,4}\)", "", subject).strip(" ,.")
+    # D23: «(ЛК с 14.09.26)», «(ПЗ 10)», «(ЛК только 17.09)» — маркер типа
+    # с уточнением. Тип берём из маркера, скобку целиком убираем.
+    m_q = _TYPE_WITH_QUALIFIER_RE.search(subject)
+    if m_q:
+        t = TYPE_MAP.get(m_q.group(1).lower().rstrip("."))
+        if t:
+            lesson_type = t
+        # Квалификатор («с 14.09.26», «по 30.11.26», «10») — реальная
+        # информация о датах/часах: переносим в notes, иначе две пары с
+        # разными датами схлопнутся дедупом в одну.
+        qual = (m_q.group(2) or "").strip(" ,.;")
+        if qual:
+            notes = f"{notes}; {qual}".strip("; ") if notes else qual
+        subject = _TYPE_WITH_QUALIFIER_RE.sub(" ", subject)
+    # Пустые скобки после чистки («(ауд. )») тоже убираем.
+    subject = re.sub(r"\(\s*\)", " ", subject)
+    subject = re.sub(r"\([А-ЯЁа-яёA-Za-z.]{2,4}\)", "", subject)
+    subject = re.sub(r"\s{2,}", " ", subject).strip(" ,.")
+    # D20: «История России, ПЗ» — тип через запятую, без скобок.
+    m_tt = _TRAILING_TYPE_RE.search(subject)
+    if m_tt:
+        t = TYPE_MAP.get(m_tt.group(1).lower().rstrip("."))
+        if t:
+            lesson_type = t
+        qual = (m_tt.group(2) or "").strip("() ")
+        if qual:
+            notes = f"{notes}; {qual}".strip("; ") if notes else qual
+        subject = _TRAILING_TYPE_RE.sub("", subject).strip(" ,.")
+    # Strip leading time-note («С 10:00», «10:40-12:20», «9:00-10:30 ») —
+    # physics PDFs prefix subjects with the actual meeting time when it
+    # differs from the slot's nominal time. Belongs in `notes`, not subject.
+    subject = re.sub(
+        r"^(?:С\s+\d{1,2}[:.]\d{2}|"
+        r"\d{1,2}[:.]\d{2}\s*[-–]\s*\d{1,2}[:.]\d{2}|"
+        r"\d{1,2}[:.]\d{2})\s+",
+        "", subject,
+    ).strip(" ,.")
     if not subject:
         return None
 
-    return lesson_obj(None, t_start, t_end, subject, lesson_type, teacher, room, subgroup)
+    return lesson_obj(None, t_start, t_end, subject, lesson_type, teacher, room,
+                      subgroup, notes)
 
 
 def _fmt_time(hhmm: str) -> str:
@@ -1216,14 +1602,26 @@ def _get(row: list, col: int | None) -> str | None:
 
 
 def _compute_confidence(groups: list[dict]) -> float:
+    """Fraction of «valid» lessons across all groups, capped at 1.0.
+
+    Follow-up #3 from audit 2026-08-25: a lesson counts as valid only if its
+    subject is ≥5 chars AND non-garbage (per `is_garbage_subject`). Old metric
+    counted any lesson with a subject string, which made truncated PDFs
+    (D1: subject=«Иностранный») score 1.00 and skip fallback pipeline.
+    """
+    from scraper.normalizer.schedule_normalizer import is_garbage_subject
+
     if not groups:
         return 0.0
-    total_lessons = sum(
-        sum(len(day_lessons) for day_lessons in g["schedule"]["odd_week"].values()) +
-        sum(len(day_lessons) for day_lessons in g["schedule"]["even_week"].values())
-        for g in groups
-    )
-    if total_lessons == 0:
+    valid_lessons = 0
+    for g in groups:
+        for week in ("odd_week", "even_week"):
+            for day_lessons in g["schedule"][week].values():
+                for l in day_lessons:
+                    subj = (l.get("subject") or "").strip()
+                    if len(subj) >= 5 and not is_garbage_subject(subj):
+                        valid_lessons += 1
+    if valid_lessons == 0:
         return 0.1
-    confidence = min(1.0, total_lessons / 30)
+    confidence = min(1.0, valid_lessons / 30)
     return round(confidence, 2)

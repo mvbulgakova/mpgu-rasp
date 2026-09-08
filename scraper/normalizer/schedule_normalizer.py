@@ -200,7 +200,9 @@ _SUBGROUP_LOOSE_RE = re.compile(
 )
 
 # Префикс "ауд." / "ауд" перед номером аудитории
-_AUD_PREFIX_RE = re.compile(r"ауд(?:итория)?\.?\s*", re.IGNORECASE)
+# D22 (audit 2026-08-26): часть PDF рендерится с разрядкой, и «ауд.»
+# приезжает как «а уд.» — допускаем пробелы внутри токена.
+_AUD_PREFIX_RE = re.compile(r"а\s*у\s*д(?:\s*и\s*т\s*о\s*р\s*и\s*я)?\.?\s*[-–]?\s*", re.IGNORECASE)
 
 
 def pull_subgroup(text: str | None) -> tuple[str | None, int | None]:
@@ -234,7 +236,8 @@ def clean_room(room: str | None) -> str | None:
     if not room:
         return None
     r = room.strip()
-    if "ауд" not in r.lower():
+    # D22: guard тоже должен ловить разрядку («а уд.»), иначе выходим рано.
+    if not _AUD_PREFIX_RE.search(r):
         return r or None
     # Заменяем маркеры "ауд." пробелом, сохраняя несколько аудиторий
     # ("332 / ауд. 333" -> "332 / 333", "411ауд. 302" -> "411 302").
@@ -297,14 +300,230 @@ def sanitize_lesson(lesson: dict) -> dict:
     }
 
 
+# ── шапка сетки: направление и профиль по колонкам ──────────────────────────
+# Студент помнит направление и профиль, а не код группы, поэтому оба поля
+# нужны и в PDF-, и в Excel-парсере — держим один канонический экстрактор,
+# чтобы не разъехались копии (как было с TEACHER_TITLE_RE, D31/D38/D39/D41).
+#
+# Метки в источниках пишутся десятком способов, поэтому сравнение идёт по
+# «расшитой» метке — все пробелы выброшены:
+#   «Код, наименован ие направлени я»  → коднаименованиенаправления
+#   «наименвание направления:»         → опечатка живого источника (history)
+#   «Направление» / «Профиль»          → math, geography
+_DIRECTION_KEY_RE = re.compile(r"наимен\w*направлен|^направлени[ея]|специальност")
+_PROFILE_KEY_RE = re.compile(r"направленност|профил")
+
+# Строка-продолжение шапки: подпись объединена по вертикали, и её вторая
+# половина приезжает в безымянной строке под ней (geography — общий профиль
+# сверху, уточнение снизу). Занятия туда попасть не должны.
+_HEADER_TIME_RE = re.compile(r"\d{1,2}[:.]\d{2}")
+_HEADER_GROUP_CODE_RE = re.compile(
+    r"[А-ЯЁA-Z]{2,6}\d{2}\s*-\s*[А-ЯЁA-Z]{2,6}\s*\d{4}", re.IGNORECASE)
+
+# Подпись и значение в ОДНОЙ ячейке — preschool («Направление 44.03.02 …»)
+# и pedagogy («108 ГРУППА: Направленность: «Социальная психология молодежи»»).
+# Подпись засчитывается только с двоеточием, кавычкой или кодом ОКСО следом:
+# слово «направление» посреди названия занятия шапкой не является.
+_HEADER_INLINE_RE = re.compile(
+    r"(базовое\s+высшее\s+образование|направленност[ьи]|направлени[ея]|"
+    r"специальност[ьи]|профил[ья])"
+    r"\s*(?::|(?=\d{2}\.\d{2}\.\d{2})|(?=[«\"”]))\s*",
+    re.IGNORECASE,
+)
+_OKSO_RE = re.compile(r"^\d{2}\.\d{2}\.\d{2}\b")
+# Хвост в скобках — период проведения или код группы, не часть названия.
+_HEADER_TAIL_PARENS_RE = re.compile(r"\s*\([^()]*\d[^()]*\)\s*$")
+_HEADER_QUOTED_RE = re.compile(r'^[«"”]\s*(.+?)\s*[»"“]')
+
+
+def clean_header_value(text) -> str:
+    """Схлопывает переносы и разрядку внутри значения шапки."""
+    return re.sub(r"\s+", " ", str(text or "")).strip(' ;,:«»"')
+
+
+def header_label_key(label: str) -> str | None:
+    """Какое поле подписывает эта метка: direction, profile или ничего.
+
+    Профиль проверяется ПЕРВЫМ: «Направленность» содержит «направлен»,
+    но это профиль, а не направление.
+    """
+    key = re.sub(r"\s+", "", label).lower()
+    if not key:
+        return None
+    if _PROFILE_KEY_RE.search(key):
+        return "profile"
+    if _DIRECTION_KEY_RE.search(key):
+        return "direction"
+    return None
+
+
+def extract_inline_header(cell) -> tuple[str, str] | None:
+    """(«direction»|«profile», значение) из ячейки, где подпись стоит внутри.
+
+    Направление узнаётся по коду ОКСО в начале значения, а не по слову
+    подписи: pedagogy пишет «Специальность: «Психология и педагогика…»»,
+    имея в виду профиль.
+    """
+    text = clean_header_value(cell)
+    m = _HEADER_INLINE_RE.search(text)
+    if not m:
+        return None
+    tail = text[m.end():].strip()
+    quoted = _HEADER_QUOTED_RE.match(tail)
+    value = quoted.group(1) if quoted else _HEADER_TAIL_PARENS_RE.sub("", tail)
+    value = value.strip(' ;,:«»"')
+    if len(value) < 3:
+        return None
+    label = re.sub(r"\s+", "", m.group(1)).lower()
+    if _OKSO_RE.match(value) or label.startswith(("базовоевысшее", "направление", "направления")):
+        return "direction", value
+    return "profile", value
+
+
+def _is_header_continuation(row: list, data_col: int) -> bool:
+    """Безымянная строка под подписью — продолжение шапки, а не занятия."""
+    if any(str(c or "").strip() for c in row[:data_col]):
+        return False
+    values = [clean_header_value(c) for c in row[data_col:]]
+    if not any(values):
+        return False
+    for raw, value in zip(row[data_col:], values):
+        if "\n" in str(raw or ""):
+            return False
+        if len(value) > 60:
+            return False
+        if _HEADER_TIME_RE.search(value) or _HEADER_GROUP_CODE_RE.search(value):
+            return False
+    return True
+
+
+def extract_column_headers(table: list[list], data_col: int = 2) -> dict[int, dict]:
+    """{col_idx: {"direction": ..., "profile": ...}} из шапки сетки МПГУ.
+
+    Шапка выглядит так (data_col — первая колонка с группами):
+
+        «Код, наименование направления/специальности» | … | «42.03.02 ЖУРНАЛИСТИКА»
+        «Направленность (профиль)»                    | … | «Журналистика»
+        «День недели» | «Группа/Время»                | … | «БОЖ09-ЖРН2101»
+
+    Одно направление обычно накрывает несколько колонок-групп объединённой
+    ячейкой, а извлекатели таблиц отдают текст только в первой из них —
+    поэтому значение протягивается вправо до следующего непустого.
+
+    Собственное значение колонки ВСЕГДА бьёт протяжку: иначе объединённое
+    «География и Иностранный язык» затирает соседнюю «Общую географию»
+    (точность важнее полноты — чужой профиль хуже отсутствующего).
+    """
+    width = max((len(r) for r in table[:20] if r), default=0)
+    direct: dict[str, dict[int, list[str]]] = {}
+    carried: dict[str, dict[int, str]] = {}
+
+    def absorb(row: list, key: str) -> None:
+        own = direct.setdefault(key, {})
+        fill = carried.setdefault(key, {})
+        carry: str | None = None
+        for ci in range(data_col, len(row)):
+            value = clean_header_value(row[ci])
+            if value:
+                own.setdefault(ci, []).append(value)
+                carry = value
+            elif carry:
+                fill.setdefault(ci, carry)
+
+    pending_key: str | None = None
+    for row in table[:20]:
+        if not row:
+            pending_key = None
+            continue
+        key = header_label_key(" ".join(str(c or "") for c in row[:data_col]))
+        if key:
+            absorb(row, key)
+            pending_key = key
+            continue
+        if pending_key and _is_header_continuation(row, data_col):
+            absorb(row, pending_key)
+            pending_key = None
+            continue
+        pending_key = None
+        # Подпись внутри самой ячейки колонки. Значение протягивается вправо
+        # по ПУСТЫМ ячейкам (объединённая шапка), но чужой непустой текст
+        # протяжку обрывает — у соседней колонки своё направление.
+        inline: dict[int, tuple[str, str]] = {}
+        carry_inline: tuple[str, str] | None = None
+        for ci in range(data_col, width):
+            cell = clean_header_value(row[ci]) if ci < len(row) else ""
+            found = extract_inline_header(cell) if cell else None
+            if found:
+                carry_inline = found
+            elif cell:
+                carry_inline = None
+            if carry_inline:
+                inline[ci] = carry_inline
+        if not inline:
+            continue
+        # Единственная подпись правее data_col накрывает и колонки слева,
+        # если они пусты: это шапка на всю сетку (preschool).
+        first = min(inline)
+        if all(not clean_header_value(row[ci]) for ci in range(data_col, first)
+               if ci < len(row)):
+            for ci in range(data_col, first):
+                inline[ci] = inline[first]
+        for ci, (ikey, ivalue) in inline.items():
+            direct.setdefault(ikey, {}).setdefault(ci, []).append(ivalue)
+
+    out: dict[int, dict] = {}
+    for key in ("direction", "profile"):
+        own = direct.get(key, {})
+        fill = carried.get(key, {})
+        for ci in set(own) | set(fill):
+            value = ", ".join(own[ci]) if ci in own else fill[ci]
+            if value:
+                out.setdefault(ci, {})[key] = value
+    return out
+
+
+
+# ── Канонический паттерн учёного звания ──────────────────────────────────────
+# Один на все парсеры. До этого копия жила в pdf_parser, excel_parser (две) и
+# gsheets_parser, и каждая правка чинила только один путь — так появились
+# D31, D38, D39, D41 (см. docs/audits/2026-08-26-parser-defect-log.md).
+#
+# Полные формы не требуют заглавной буквы следом: в источниках после звания
+# идёт название кафедры («ст.преподаватель кафедры романских языков … И.О.»).
+# Сокращения оставлены строгими, иначе в них попадает обычный текст.
+TEACHER_TITLE_RE = re.compile(
+    r"\b(?:ст\.?\s*преподавател[ья]|старш(?:ий|его)\s+преподавател[ья]|"
+    r"преподавател[ья]|профессор[а]?|доцент[а]?|ассистент[а]?)\b"
+    r"|\b(?:проф|доц|асс|ассист|ст\.?\s*пр(?:еп)?|преп)\b\.?",
+    re.IGNORECASE,
+)
+
+
+# Паттерн для ТОЧКИ РАЗРЕЗА строки перед званием. Отличается от
+# TEACHER_TITLE_RE: сокращения требуют заглавной буквы следом, иначе
+# разрез попадает внутрь самого звания («ст.» | «преп. Чернышева»).
+TEACHER_TITLE_SPLIT_RE = re.compile(
+    r"\b(?:ст\.?\s*преподавател[ья]|старш(?:ий|его)\s+преподавател[ья]|"
+    r"преподавател[ья]|профессор[а]?|доцент[а]?|ассистент[а]?)\b"
+    r"|\b(?:проф|доц|асс|ассист|ст\.?\s*пр(?:еп)?|преп)\.?\s+[А-ЯЁ]",
+    re.IGNORECASE,
+)
+
+
 # Patterns that identify a subject field that is actually garbage — footer
 # legends, executor signatures, teacher/room text bleed. See
 # docs/audits/2026-08-25-parser-audit.md, defects D2 & D3.
+# D31: «ст. пр.» — сокращение короче, чем «ст. преп.»
 _SUBJECT_TEACHER_PREFIX_RE = re.compile(
-    r"^\s*(доц|проф|ст\.?\s*преп|асс|препод|доцент|профессор)\.?\s",
+    r"^\s*(доц|проф|ст\.?\s*пр(?:еп)?|асс|препод|доцент|профессор)\.?\s",
     re.IGNORECASE,
 )
-_SUBJECT_ROOM_ONLY_RE = re.compile(r"^\s*ауд\.?\s*\S+\s*$", re.IGNORECASE)
+# D31: аудитория могла остаться в скобках — «(ауд. 345)»
+# NB: lookahead не даёт совпасть внутри слова («Аудирование»).
+_SUBJECT_ROOM_ONLY_RE = re.compile(
+    # Допускаем хвост-период после аудитории: «(ауд. 327) до 26.10».
+    r"^\s*\(?\s*ауд(?:итория)?\.?(?![а-яё])\s*[^)]*\)?"
+    r"\s*(?:до|с|по|от)?[\s\d.,–-]*$", re.IGNORECASE)
 # Executor/signature footer: usually "И.А. Курдюков" — two initials + surname.
 # When the parser truncates "Исполнитель: И.А. Курдюков" it may drop the prefix
 # and leave just the name string. Also matches a bare short-word + colon like
@@ -312,6 +531,23 @@ _SUBJECT_ROOM_ONLY_RE = re.compile(r"^\s*ауд\.?\s*\S+\s*$", re.IGNORECASE)
 _SUBJECT_INITIALS_NAME_RE = re.compile(
     r"^\s*(?:[а-яё]{1,5}:\s*)?[А-ЯЁ]\.\s*[А-ЯЁ]\.\s*[А-ЯЁ][а-яё]+\s*$"
 )
+# D9: journalism cells где subject-строки не собрались, а осталась только дата
+# «14.09» или список «07.09, 21.09» — не тема, надо удалять.
+_SUBJECT_DATE_ONLY_RE = re.compile(
+    r"^\s*\d{1,2}[.,/-]\d{2}\.?(?:\s*[,;]\s*\d{1,2}[.,/-]\d{2}\.?)*\s*[,;]?\s*$"
+)
+# Follow-up к D1/D9: subject-фрагмент, заканчивающийся русским предлогом
+# («ЭЛЕКТИВНЫЕ КУРСЫ ПО», «ПРОБЛЕМЫ В»), — верный признак wrap-truncation
+# через границу ячейки. Дропаем ТОЛЬКО если lesson без teacher И без room —
+# тогда почти наверняка это огрызок, отделённый от «настоящей» строки.
+_SUBJECT_FRAGMENT_TRAILING_PREPOSITION_RE = re.compile(
+    r"\s+(в|во|на|о|об|для|при|с|со|у|к|ко|по|за|над|под|про|через|из|от|до|"
+    r"без|через|между|среди)\s*$",
+    re.IGNORECASE,
+)
+# «ХУДОЖЕСТВЕННО-», «ЛЕЧЕБНО-» — оборванный составной прилагательный —
+# без метаданных = мусор.
+_SUBJECT_FRAGMENT_TRAILING_HYPHEN_RE = re.compile(r"-\s*$")
 _SUBJECT_LEGEND_MARKERS = (
     "исполнитель",
     "формы проведения",
@@ -337,10 +573,28 @@ def is_garbage_subject(subject: str | None) -> bool:
         return True
     if _SUBJECT_INITIALS_NAME_RE.match(s):
         return True
+    if _SUBJECT_DATE_ONLY_RE.match(s):
+        return True
     sl = s.lower()
     for marker in _SUBJECT_LEGEND_MARKERS:
         if marker in sl:
             return True
+    return False
+
+
+def is_fragment_lesson(lesson: dict) -> bool:
+    """True if the lesson's subject is a truncation fragment (ends in a
+    preposition) AND there is no teacher and no room — a strong signal it's
+    a leftover from wrap across a cell boundary, not a real lesson."""
+    subj = (lesson.get("subject") or "").strip()
+    if not subj:
+        return False
+    if lesson.get("teacher") or lesson.get("room"):
+        return False
+    if _SUBJECT_FRAGMENT_TRAILING_PREPOSITION_RE.search(subj):
+        return True
+    if _SUBJECT_FRAGMENT_TRAILING_HYPHEN_RE.search(subj):
+        return True
     return False
 
 
@@ -360,6 +614,15 @@ _HOMOGLYPHS = str.maketrans({
     "A": "А", "B": "В", "C": "С", "E": "Е", "H": "Н", "K": "К", "M": "М",
     "O": "О", "P": "Р", "T": "Т", "X": "Х", "Y": "У",
     "a": "а", "c": "с", "e": "е", "o": "о", "p": "р", "x": "х", "y": "у",
+    # D30 (audit 2026-08-26): МПГУ печатает букву ФОРМЫ ОБУЧЕНИЯ (2-й символ
+    # кода) латиницей — в скачанных источниках там 300 вхождений и НИ ОДНОГО
+    # кириллического символа. Свёртка выведена из формы, заявленной в самом
+    # файле, и подтверждается семантикой кода:
+    #   O (177) — «очная форма»        → О   (ВOЗ34-ФКС… — ФКС очная)
+    #   Z (118) — «заочная форма»      → З   (ВZЗ34-ФЗК… — ФЗК заочная)
+    #   V   (5) — «очно-заочная форма» → В   (вечерняя)
+    # Без свёртки 123 кода не находятся поиском: студент вводит кириллицу.
+    "Z": "З", "V": "В", "z": "з", "v": "в",
 })
 
 
@@ -390,6 +653,8 @@ def sanitize_groups(groups: list[dict]) -> list[dict]:
                 for raw in lessons:
                     lesson = sanitize_lesson(raw)
                     if is_garbage_subject(lesson.get("subject")):
+                        continue
+                    if is_fragment_lesson(lesson):
                         continue
                     key = _lesson_key(lesson)
                     if key in seen:

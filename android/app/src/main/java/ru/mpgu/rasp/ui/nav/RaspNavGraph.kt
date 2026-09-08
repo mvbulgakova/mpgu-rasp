@@ -49,7 +49,17 @@ fun RaspNavGraph(startDestination: String) {
             val id = entry.arguments!!.getString(Dest.Week.ARG_INST)!!
             val file = entry.arguments!!.getString(Dest.Week.ARG_FILE)!!
             val name = URLDecoder.decode(entry.arguments!!.getString(Dest.Week.ARG_NAME)!!, "UTF-8")
-            WeekScreen(instituteId = id, groupFile = file, groupName = name)
+            WeekScreen(
+                instituteId = id,
+                groupFile = file,
+                groupName = name,
+                onChangeGroup = {
+                    nav.navigate(Dest.Institutes.route) {
+                        // Clean back stack — no return to previous Week screen.
+                        popUpTo(Dest.Week.ROUTE) { inclusive = true }
+                    }
+                },
+            )
         }
     }
 }

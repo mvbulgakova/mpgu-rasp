@@ -29,6 +29,17 @@ export function useIndex() {
   });
 }
 
+/** Календарь НАД/ПОД чертой из data-ветки; при сбое берётся встроенный. */
+export function useWeekCalendar() {
+  return useQuery({
+    queryKey: ["week-parity"],
+    queryFn: scheduleApi.fetchWeekCalendar,
+    staleTime: 24 * 60 * 60 * 1000,
+    retry: 1,
+    refetchOnReconnect: true,
+  });
+}
+
 export function useInstituteManifest(instituteId: string | null) {
   return useQuery({
     queryKey: ["manifest", instituteId],

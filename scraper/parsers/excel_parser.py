@@ -7,6 +7,7 @@ from scraper.parsers.base import BaseParser, ParseResult
 from scraper.normalizer.schedule_normalizer import (
     normalize_day, normalize_lesson_type, normalize_time,
     make_schedule_skeleton, lesson_obj, extract_subgroup, date_str_to_weekday,
+    extract_column_headers,
 )
 
 
@@ -43,6 +44,35 @@ def _parse_sheet(sheet) -> list[dict]:
 
 # ── MPGU columnar format ──────────────────────────────────────────────────────
 
+# D10 (audit 2026-08-25): strip decorative suffix like "(101)" that some
+# institutes append to the group code — usually the assigned lecture-hall
+# number. Leaving it in name breaks user search on the app side.
+_CODE_RE = re.compile(r"[А-ЯA-Z]{2,3}\d{2}[-\s]?[А-ЯA-Z]{2,4}\s?\d{4}")
+
+
+# D38: единый разбиватель строки на «предмет | преподаватель | аудитория».
+# Раньше он был только в `_parse_lesson_cell`, а `_parse_multirow_lines`
+# нёс свои устаревшие regex (без «ст. пр.», аудитория только в начале строки).
+_INLINE_SPLIT_RE = re.compile(
+    r"(?=[\s,]\s*(?:доц|проф|асс|ассист|ст\.?\s*(?:преп|пр))\.?\s+[А-ЯЁ])|"
+    r"(?=\s*\(\s*ауд\.)|(?=[\s,]\s*ауд\.)"
+)
+
+
+def _split_inline(lines: list[str]) -> list[str]:
+    out: list[str] = []
+    for line in lines:
+        pieces = [x.strip(" ,;") for x in _INLINE_SPLIT_RE.split(line)]
+        out.extend([x for x in pieces if x] or [line])
+    return out
+
+
+def _strip_to_code(text: str) -> str:
+    """Return only the group code portion of `text` (D10 in the parser audit)."""
+    m = _CODE_RE.search(text)
+    return re.sub(r"\s+", "", m.group(0)) if m else text.strip()
+
+
 def _try_mpgu_format(rows: list[list[str]], sheet_title: str = "") -> list[dict]:
     """Detect and parse MPGU columnar schedule (day+time as rows, groups as columns)."""
     header = _find_mpgu_header(rows)
@@ -51,16 +81,7 @@ def _try_mpgu_format(rows: list[list[str]], sheet_title: str = "") -> list[dict]
 
     header_idx, day_col, time_col, data_col = header
     header_row = rows[header_idx]
-
-    # Strip any decorative suffix that follows a valid code:
-    # "ВОИ18-ИПЛ2601 (101)" → "ВОИ18-ИПЛ2601" (D10 in audit 2026-08-25).
-    # The parenthetical is usually room number or subgroup, not part of the
-    # group code — leaving it in name breaks user search on the app side.
-    _CODE = re.compile(r"[А-ЯA-Z]{2,3}\d{2}[-\s]?[А-ЯA-Z]{2,4}\s?\d{4}")
-
-    def _strip_to_code(text: str) -> str:
-        m = _CODE.search(text)
-        return re.sub(r"\s+", "", m.group(0)) if m else text.strip()
+    _CODE = _CODE_RE
 
     group_cols: dict[int, str] = {}
     for col_i in range(data_col, len(header_row)):
@@ -109,9 +130,19 @@ def _try_mpgu_format(rows: list[list[str]], sheet_title: str = "") -> list[dict]
     form = "full_time" if is_fulltime else "correspondence"
 
     if has_multiline and is_fulltime:
-        return _parse_mpgu_fulltime(rows, header_idx, day_col, time_col, group_cols, form, degree)
+        groups = _parse_mpgu_fulltime(rows, header_idx, day_col, time_col, group_cols, form, degree)
     else:
-        return _parse_mpgu_multirow(rows, header_idx, day_col, time_col, group_cols, form, degree)
+        groups = _parse_mpgu_multirow(rows, header_idx, day_col, time_col, group_cols, form, degree)
+
+    # Навигация в клиентах идёт по направлению и профилю: оба поля стоят
+    # в шапке ПО КОЛОНКАМ, ровно над кодами групп.
+    col_meta = extract_column_headers(rows, data_col=data_col)
+    meta_by_name = {name: col_meta.get(ci, {}) for ci, name in group_cols.items()}
+    for g in groups:
+        meta = meta_by_name.get(g["name"], {})
+        g["direction"] = meta.get("direction")
+        g["profile"] = meta.get("profile")
+    return groups
 
 
 def _find_mpgu_header(rows: list[list[str]]) -> tuple | None:
@@ -240,12 +271,27 @@ def _parse_mpgu_multirow(
 
 
 def _parse_lesson_cell(cell: str, t_start: str, t_end: str) -> dict | None:
-    """Parse multi-line cell (full-time): subject\\nteacher\\nroom."""
+    """Parse a lesson cell (full-time). Supports both formats:
+
+    1. Multi-line — subject\\nteacher\\nroom (physics, some institutes).
+    2. Single-line comma-separated — «Subject, доц. Teacher И.О. (ауд. NNN)»
+       (history and other institutes that use one-cell-per-lesson layout).
+
+    Follow-up к post-08-25 аудиту: history-excel имел 70% уроков без teacher
+    и 70% без room потому что старый код не делил one-line cell на поля.
+    """
     if not cell or cell.strip() in {"-", "–", "—", ".", ""}:
         return None
     lines = [l.strip() for l in cell.split("\n") if l.strip()]
     if not lines:
         return None
+
+    # D31: строка может паковать предмет + преподавателя + аудиторию в одну
+    # («Историография истории России, доц. Сергованцев Д.Н. (ауд. 313)»).
+    # Разбиваем КАЖДУЮ строку, а не только когда вся ячейка однострочная —
+    # в history многострочные ячейки составляют большинство, и старое
+    # условие `len(lines) == 1` полностью отключало разбиение.
+    lines = _split_inline(lines)
 
     subject_line = lines[0]
     lesson_type = normalize_lesson_type(subject_line)
@@ -268,18 +314,20 @@ def _parse_multirow_lines(lines: list[str], t_start: str, t_end: str) -> dict | 
     subject_parts: list[str] = []
     teacher = room = None
 
-    for line in lines:
+    for line in _split_inline([l for l in lines if l and l.strip()]):
         line = line.strip()
         if not line:
             continue
         # Dates-only lines: treat as notes, skip
         if re.match(r"^\d{1,2}\.\d{2}[.,]", line):
             continue
-        if re.match(r"ауд\.?\s*[\d\w]", line, re.I) or re.match(r"с/з", line, re.I):
+        if re.match(r"\(?\s*ауд\.?\s*[\d\w]", line, re.I) or re.match(r"с/з", line, re.I):
             if room is None:
-                room = re.sub(r"^ауд\.?\s*", "", line, flags=re.I).strip()
+                # Берём ТОЛЬКО номер, а не остаток строки: «(ауд. 324) до 06.11»
+                m_r = re.search(r"ауд\.?\s*([\w\-/]+)", line, re.I)
+                room = m_r.group(1) if m_r else line.strip(" ()")
             continue
-        if re.search(r"\b(проф|доц|асс|ст\. преп|ст\.преп|преп)\b", line, re.I):
+        if re.search(r"\b(проф|доц|асс|ст\.?\s*пр(?:еп)?|преп)\b", line, re.I):
             if teacher is None:
                 teacher = re.sub(r"\(ауд\.?[^)]*\)", "", line).strip().rstrip(",. ")
             room_m = re.search(r"\(ауд\.?\s*([^)]+)\)", line, re.I)

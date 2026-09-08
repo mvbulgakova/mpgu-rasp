@@ -42,6 +42,7 @@ private fun WeekMapDto.toWeekMap(daysMap: Map<String, List<LessonDto>>): Map<Day
 
 fun GroupScheduleDto.toDomain(): Group = Group(
     name = name, year = year, form = form, degree = degree,
+    direction = direction, profile = profile,
     schedule = WeekSchedule(
         oddWeek = schedule.toWeekMap(schedule.odd_week),
         evenWeek = schedule.toWeekMap(schedule.even_week),

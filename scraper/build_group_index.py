@@ -43,6 +43,8 @@ def main(data_path: str | None = None) -> int:
                 "file": g.get("file", g["name"]),
                 "form": g.get("form"),
                 "degree": g.get("degree"),
+                "direction": g.get("direction"),
+                "profile": g.get("profile"),
             })
 
     out = root / "meta" / "groups.json"

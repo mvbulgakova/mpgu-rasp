@@ -10,7 +10,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 
 from scraper.normalizer.schedule_normalizer import (
     clean_room, pull_subgroup, sanitize_lesson, sanitize_groups, infer_slot,
-    fix_homoglyphs, is_garbage_subject,
+    fix_homoglyphs, is_garbage_subject, is_fragment_lesson,
 )
 
 
@@ -39,6 +39,45 @@ def test_is_garbage_subject_rejects_footer_and_noise():
     assert is_garbage_subject("И.А. Курдюков")
     assert is_garbage_subject("Исполнитель: И.А. Курдюков")
     assert is_garbage_subject("ель: И.А. Курдюков")    # truncated prefix
+    # D9: journalism «временные» PDF — subject строки не собрались, осталась дата
+    assert is_garbage_subject("14.09")
+    assert is_garbage_subject("07.09, 21.09")
+    assert is_garbage_subject("05.09, 19.09")
+    # А вот «14.09.2026» — не только дата, но и год — не блокируем (безопаснее)
+    assert not is_garbage_subject("Занятия начинаются 14.09.2026")
+
+
+def test_is_fragment_lesson_drops_cell_boundary_leftovers():
+    """Follow-up: subject-фрагмент (обрывок предлогом или дефисом) + отсутствие
+    teacher И room = верный признак wrap-truncation через границу ячейки.
+    """
+    # Ends in preposition, no meta → fragment
+    assert is_fragment_lesson({
+        "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО", "teacher": None, "room": None,
+    })
+    assert is_fragment_lesson({
+        "subject": "Занятия по физической культуре в", "teacher": "", "room": "",
+    })
+    # Ends in hyphen, no meta → fragment
+    assert is_fragment_lesson({
+        "subject": "ХУДОЖЕСТВЕННО-", "teacher": None, "room": None,
+    })
+    # SAME endings but HAS teacher → real lesson (rare but possible)
+    assert not is_fragment_lesson({
+        "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО", "teacher": "доц. Иванов", "room": None,
+    })
+    # SAME endings but HAS room → real lesson
+    assert not is_fragment_lesson({
+        "subject": "ХУДОЖЕСТВЕННО-", "teacher": None, "room": "ауд. 100",
+    })
+    # No trailing preposition/hyphen → not a fragment even without meta
+    assert not is_fragment_lesson({
+        "subject": "Физическая культура", "teacher": None, "room": None,
+    })
+    # Empty subject → not a fragment (garbage-subject handles it)
+    assert not is_fragment_lesson({
+        "subject": "", "teacher": None, "room": None,
+    })
 
 
 def test_fix_homoglyphs_latin_to_cyrillic():
@@ -48,8 +87,10 @@ def test_fix_homoglyphs_latin_to_cyrillic():
 
 
 def test_fix_homoglyphs_leaves_non_homoglyph_latin():
-    # Z and I have no cyrillic look-alike — must stay untouched
-    assert fix_homoglyphs("MZIO34-СТ2501") == "МZIО34-СТ2501"
+    # I/L/N/etc. имеют неоднозначное соответствие — не трогаем.
+    # (Z раньше был в этом списке; реальные источники показали, что МПГУ
+    # использует его как З — см. test_fix_homoglyphs_folds_latin_z_and_v.)
+    assert fix_homoglyphs("MILO34-СТ2501") == "МILО34-СТ2501"
 
 
 def test_sanitize_groups_normalizes_name():
@@ -254,3 +295,52 @@ def _run_all():
 
 if __name__ == "__main__":
     sys.exit(1 if _run_all() else 0)
+
+
+def test_clean_room_handles_over_kerned_aud_prefix():
+    """D22: preschool PDF рендерит «ауд.» с разрядкой как «а уд.»."""
+    from scraper.normalizer.schedule_normalizer import clean_room
+    assert clean_room("а уд. - С/з") == "С/з"
+    assert clean_room("ауд. 303") == "303"
+    assert clean_room("Аудитория 204") == "204"
+    # Залы без «ауд» не трогаем
+    assert clean_room("Спортивный зал") == "Спортивный зал"
+
+
+def test_fix_homoglyphs_folds_latin_z_and_v_used_by_mpgu():
+    """D30: МПГУ печатает букву формы обучения ЛАТИНИЦЕЙ.
+
+    Доказательство из скачанных источников (позиция 2 кода, 300 вхождений,
+    кириллицы там нет ни разу):
+      Latin O (177) — во всех файлах «очная форма»        → О
+      Latin Z (118) — только в файлах «заочная форма»     → З
+      Latin V   (5) — только в «очно-заочная форма»       → В
+    Пары подтверждаются семантикой: ВZЗ34-ФЗК… (Ф-З-К = заочная),
+    ВOЗ34-ФКС… (очная).
+
+    Без свёртки 123 кода не находятся поиском — студент вводит кириллицу.
+    """
+    assert fix_homoglyphs("ВZЗ34-ФЗК2601") == "ВЗЗ34-ФЗК2601"
+    assert fix_homoglyphs("ЗZЗ40-АФК2501") == "ЗЗЗ40-АФК2501"
+    assert fix_homoglyphs("БVЭ63-ЮРД2401") == "БВЭ63-ЮРД2401"
+    assert fix_homoglyphs("МVЭ63-ЮСД2401") == "МВЭ63-ЮСД2401"
+    # Результат обязан быть полностью кириллическим
+    for src in ("ВZЗ34-ФЗК2601", "БVЭ63-ЮРД2401", "БOЭ04-ГМУ2501"):
+        out = fix_homoglyphs(src)
+        assert all(ord(c) >= 0x400 or not c.isalpha() for c in out), out
+
+
+def test_is_garbage_subject_catches_history_leftovers():
+    """D31: обрывки, которые в history попадали в поле предмета."""
+    # Аудитория в скобках
+    assert is_garbage_subject("(ауд. 345)")
+    assert is_garbage_subject("(ауд.315)")
+    # «ст. пр.» — сокращение короче, чем «ст. преп.»
+    assert is_garbage_subject("ст. пр. Якушкина М.К. (ауд. 209) 09.09, 23.09")
+    assert is_garbage_subject("ст. пр. Гудкова Т.В")
+    # Аудитория с хвостом-периодом
+    assert is_garbage_subject("(ауд. 327) до 26.10")
+    assert is_garbage_subject("(ауд. 205) с 14.09")
+    # Настоящие предметы не трогаем
+    assert not is_garbage_subject("Историография истории России")
+    assert not is_garbage_subject("Аудирование")

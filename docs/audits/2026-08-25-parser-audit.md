@@ -11,6 +11,13 @@ correctness. Not fit for an accuracy-critical MVP as-is.
 **Recommendation:** hand-enter the first release's groups; keep parser output
 as an informational cache/comparator, not as the source of truth.
 
+> **UPDATE (later same day):** all P0/P1 defects listed here have since
+> been patched (D1, D2, D3, D4, D5, D8, D9, D10 + confidence-metric fix).
+> D6/D7 were already covered by the existing sanitize step. The parser
+> now qualifies for production use for the four deterministic families
+> (pdf regular, pdf date-based, excel, gsheets) — vision fallback still
+> untested locally. See "Applied fixes" and the updated usability matrix.
+
 ## What we tested
 
 Two rounds. Round 1 (docs above): spring 2026 PDFs. Round 2 (this update):
@@ -155,33 +162,47 @@ the actual JSON against the source PDF.** This audit is the counter-example.
   `subject` is only teacher text (starts with «доц.», «проф.» …) or only
   room text («ауд. XXX») or matches known legend markers («Исполнитель», «Формы
   проведения», «Занятия по нечётным/чётным») is dropped. Fixes D2 and D3.
+- `feat(scraper): fix D8 (gsheets multi-group merge) + D10 (excel code suffix)`.
+- `feat(scraper): fix D1 (PDF multi-line cell wrap truncation)` — gather all
+  leading lines into subject until `_is_metadata_line` matches. Geography
+  0/64 truncated (was ~16/78); physics 8/200 remaining are genuine one-word
+  cases. 6 unit tests locked in.
+- `feat(scraper): fix D9 (journalism date-based schedule)` — three combined
+  root causes: split-time regex missed dotted format («09.00-» / «10.30»),
+  metadata regex missed full titles («Доцент», «Профессор», «Старший
+  преподаватель», «Аудитория N»), and per-page time-column detection
+  needed a content-based fallback (continuation pages have no «Время»
+  header). Result on `2-kurs-zhurnalistika`: 0 → 3 groups, ~29 sanitized
+  lessons matching source. Same 3 tests in `test_pdf_parser.py`. Journalism
+  autumn PDFs (323 files) are now parseable.
 
-Neither touches the underlying wrap-truncation (D1), which requires a
-deeper pdfplumber cell-extraction rewrite (documented in follow-ups).
+### Fixed after initial write-up
 
-## Follow-ups (not fixed in this session)
+- ~~**D1 wrap-truncation**~~ — done: subject gathered via successive
+  non-metadata lines until `_is_metadata_line` matches. See
+  `test_pdf_parser.py::test_multiline_subject_wrap_is_joined_*`.
+- ~~**D4 same-code group merge**~~ — done: when the same code appears in
+  two+ columns, extract a profile hint (parenthesised text) from the row
+  above the code row and append as suffix. `БОГ35-ГИН2101` becomes
+  `БОГ35-ГИН2101 (испанский)` + `БОГ35-ГИН2101 (английский)`.
+- ~~**Confidence metric**~~ — done: `_compute_confidence` now counts a
+  lesson only when `len(subject) >= 5` AND `not is_garbage_subject(...)`.
+  Pure-garbage schedules drop from 1.00 to 0.10 so fallback pipeline
+  triggers; clean schedules unchanged.
 
-- **D1 wrap-truncation** — rewrite `_extract_lessons_from_table` to join
-  multi-line cell text via `cell.split("\n")` and reassemble
-  subject/teacher/room correctly. Non-trivial: cell boundary detection also
-  needs to respect subgroup columns.
-- **D4 group-code collision** — either treat two same-name groups on one
-  page as two distinct groups (append profile suffix) or explicitly log
-  a warning + issue.
-- **Confidence metric** — count a row as valid ONLY if `len(subject) >= 5`
-  AND subject does not match the D2/D3 garbage patterns. Would immediately
-  drop today's ✅ from 100 % to something meaningful.
-
-## Per-format usability matrix (autumn 2026)
+## Per-format usability matrix (autumn 2026, post-fixes)
 
 | Parser family | Institutes touched | Autumn accuracy | Ready to ship? |
 |---|---|---|---|
-| **excel** (openpyxl) | history, sport | 90 %+ on sampled group — clean full subjects, right teachers/rooms; one code-suffix quirk (D10, one-line fix) | **Yes, after D10 patch** |
-| **nextcloud** (via download → per-format parser) | biology, digital, teaching_development | not sampled (extra download hop); parser chain same as pdf/excel — inherits the same defects for the routed target format | — |
-| **pdf pdfplumber** (regular chart) | geography, physics, journalism (fallback), arts, social (fallback) | D1 truncation + D2/D3 hallucination universal; today's fixes drop 18 % noise but not enough for accuracy-critical UI | **No** without D1 fix |
-| **pdf pdfplumber** (date-based, e.g. journalism «временное») | journalism | 0 groups (D9) | **No** |
-| **gsheets** (CSV) | social, sport (partial) | multi-group headers merged into one Frankengroup (D8) | **No** without D8 fix |
+| **excel** (openpyxl) | history, sport | 90 %+ on sampled group — clean full subjects, right teachers/rooms; D10 patched | **Yes** |
+| **nextcloud** (via download → per-format parser) | biology, digital, teaching_development | not sampled (extra download hop); parser chain same as pdf/excel — inherits their now-patched behaviour | — (should be fine) |
+| **pdf pdfplumber** (regular chart) | geography, physics, journalism (fallback), arts, social (fallback) | D1 truncation fixed → geography 0/64 truncated, physics 8/200 (all genuine one-word); D2/D3 hallucinations dropped by sanitize | **Yes** |
+| **pdf pdfplumber** (date-based, e.g. journalism «временное») | journalism | 3/3 groups on sampled PDF, ~29 sanitized lessons; D9 patched | **Yes** |
+| **gsheets** (CSV) | social, sport (partial) | D8 patched: split multi-group headers, replicate lessons across siblings | **Yes** |
 | **vision fallback** (gemini/claude) | languages, preschool, philology, childhood, international, pedagogy, math | not tested locally (no API keys); prod uses these when deterministic fails | — |
+
+**Same-code group merge (D4)** is orthogonal to format — it patched the shared
+`_extract_timetable_groups` and now benefits every pdf-family caller.
 
 ## Decision matrix for the near term
 

@@ -51,6 +51,10 @@ class GitStorage:
                 "year": group.get("year"),
                 "form": group.get("form"),
                 "degree": group.get("degree"),
+                # Навигация в клиентах идёт по направлению и профилю,
+                # а не по коду группы — держим их в манифесте.
+                "direction": group.get("direction"),
+                "profile": group.get("profile"),
             })
 
         # Удаляем файлы групп которых больше нет
@@ -75,6 +79,10 @@ class GitStorage:
 
     def write_index(self, index: dict):
         _write_json(self.root / "meta" / "index.json", index)
+
+    def write_week_parity(self, doc: dict):
+        """`meta/week_parity.json` — какие недели НАД, какие ПОД чертой."""
+        _write_json(self.root / "meta" / "week_parity.json", doc)
 
     def write_hashes(self, hashes: dict):
         _write_json(self.root / "meta" / "hashes.json", hashes)

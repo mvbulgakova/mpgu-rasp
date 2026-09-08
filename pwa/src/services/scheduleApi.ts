@@ -6,6 +6,7 @@ import type {
   TeacherScheduleDoc,
   InstituteExams,
 } from "../types/schedule";
+import type { WeekCalendar } from "../util/weekParity";
 
 declare const __DATA_BASE_URL__: string;
 declare const __DATA_FALLBACK_URL__: string;
@@ -50,6 +51,7 @@ export const scheduleApi = {
     get<TeacherScheduleDoc>(`teachers/${slug}.json`),
   fetchExams: (id: string) =>
     get<InstituteExams>(`institutes/${id}/exams.json`),
+  fetchWeekCalendar: () => get<WeekCalendar>("meta/week_parity.json"),
 };
 
 /** Имя файла .ics из кода группы — должно совпадать с _safe() в build_ical.py. */

@@ -19,4 +19,7 @@ data class ManifestGroupDto(
     val year: Int? = null,
     val form: String? = null,
     val degree: String? = null,
+    // Навигация идёт по направлению и профилю, код группы — вторичен.
+    val direction: String? = null,
+    val profile: String? = null,
 )

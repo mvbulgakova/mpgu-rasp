@@ -12,7 +12,10 @@ import ru.mpgu.rasp.data.model.Institute
 import ru.mpgu.rasp.data.remote.ScheduleApi
 import ru.mpgu.rasp.data.remote.dto.GroupScheduleDto
 import ru.mpgu.rasp.data.remote.toDomain
+import ru.mpgu.rasp.util.WeekCalendar
+import ru.mpgu.rasp.util.WeekParity
 import java.io.IOException
+import java.time.LocalDate
 import javax.inject.Inject
 import javax.inject.Singleton
 
@@ -40,24 +43,43 @@ class ScheduleRepository @Inject constructor(
 
     suspend fun getManifest(instituteId: String) = api.manifest(instituteId)
 
-    suspend fun getGroupSchedule(instituteId: String, groupFile: String): Result<Group> {
+    /**
+     * Календарь НАД/ПОД чертой из data-ветки. Если он недоступен (нет сети,
+     * старая data-ветка) — встроенная таблица: показать неделю всё равно
+     * надо, а без сети она не «неизвестна», а просто прошлогодняя.
+     */
+    suspend fun getWeekCalendar(): WeekCalendar = runCatching {
+        val dto = api.weekParity()
+        if (dto.anchor.isBlank() || dto.weeks.isBlank()) WeekParity.BUILT_IN
+        else WeekCalendar(LocalDate.parse(dto.anchor), dto.weeks)
+    }.getOrDefault(WeekParity.BUILT_IN)
+
+    data class GroupResult(val group: Group, val fromCache: Boolean)
+
+    suspend fun getGroupSchedule(instituteId: String, groupFile: String): Result<GroupResult> {
         val key = "$instituteId/$groupFile"
-        return runCatching {
-            val fresh = api.group(instituteId, groupFile)
-            db.groupCacheDao().upsert(
-                GroupCacheEntity(
-                    cacheKey = key, instituteId = instituteId, groupFile = groupFile,
-                    name = fresh.name,
-                    json = json.encodeToString(GroupScheduleDto.serializer(), fresh.toDto()),
-                    cachedAt = System.currentTimeMillis(),
-                )
-            )
-            fresh
-        }.recoverCatching { err ->
-            if (err !is IOException) throw err
-            val cached = db.groupCacheDao().get(key) ?: throw err
-            json.decodeFromString(GroupScheduleDto.serializer(), cached.json).toDomain()
-        }
+        return runCatching { api.group(instituteId, groupFile) }
+            .map { fresh ->
+                // Cache-write MUST NOT propagate — a full disk or a Room error should
+                // not eat a valid network response and drop the user to «offline».
+                runCatching {
+                    db.groupCacheDao().upsert(
+                        GroupCacheEntity(
+                            cacheKey = key, instituteId = instituteId, groupFile = groupFile,
+                            name = fresh.name,
+                            json = json.encodeToString(GroupScheduleDto.serializer(), fresh.toDto()),
+                            cachedAt = System.currentTimeMillis(),
+                        )
+                    )
+                }
+                GroupResult(fresh, fromCache = false)
+            }
+            .recoverCatching { err ->
+                if (err !is IOException) throw err
+                val cached = db.groupCacheDao().get(key) ?: throw err
+                val group = json.decodeFromString(GroupScheduleDto.serializer(), cached.json).toDomain()
+                GroupResult(group, fromCache = true)
+            }
     }
 
     // Round-trip helper: domain Group → DTO for cache serialization.

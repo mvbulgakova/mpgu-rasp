@@ -8,8 +8,10 @@ import aiohttp
 
 from scraper.parsers.base import BaseParser, ParseResult
 from scraper.normalizer.schedule_normalizer import (
+    TEACHER_TITLE_RE,
     normalize_day, normalize_lesson_type, normalize_time,
     normalize_week_type, make_schedule_skeleton, lesson_obj, extract_subgroup,
+    extract_column_headers, header_label_key,
 )
 
 
@@ -59,6 +61,13 @@ def _parse_csv_rows(rows: list[list[str]]) -> list[dict]:
     if isgo_idx is not None:
         return _parse_isgo(rows, isgo_idx)
 
+    # D26 (audit 2026-08-26): sport публикует ту же сетку, что и PDF-расписания
+    # (день / время / колонки-группы), но сдвинутую вправо на пустые колонки.
+    # Переиспользуем табличный парсер из pdf_parser вместо дублирования логики.
+    grid = _try_mpgu_grid(rows)
+    if grid:
+        return grid
+
     # Классический формат: дни как столбцы
     header_idx = _find_header(rows)
     if header_idx is None:
@@ -103,6 +112,27 @@ def _parse_csv_rows(rows: list[list[str]]) -> list[dict]:
 
 # ── формат МПГУ-ИСГО ─────────────────────────────────────────────────────────
 
+def _try_mpgu_grid(rows: list[list[str]]) -> list[dict]:
+    """Пробует прочитать CSV как МПГУ-сетку (день col0 / время col1 / группы col2+).
+
+    Лишние пустые колонки слева отбрасываем — sport-таблицы сдвинуты вправо.
+    Возвращает [] если формат не подошёл, чтобы вызывающий пошёл дальше.
+    """
+    from scraper.parsers.pdf_parser import _is_mpgu_timetable_format, _parse_tables
+
+    # Сколько ведущих колонок пусты во ВСЕХ строках
+    width = max((len(r) for r in rows), default=0)
+    lead = 0
+    while lead < width and all(
+        not (r[lead].strip() if lead < len(r) else "") for r in rows
+    ):
+        lead += 1
+    trimmed = [r[lead:] for r in rows] if lead else rows
+    if not trimmed or not _is_mpgu_timetable_format(trimmed):
+        return []
+    return _parse_tables([trimmed])
+
+
 def _find_isgo_header(rows: list[list[str]]) -> int | None:
     for i, row in enumerate(rows[:20]):
         if any("недели и дата" in c.lower() or "день недели" in c.lower() for c in row):
@@ -118,6 +148,37 @@ def _parse_time_str(text: str) -> tuple[str, str] | None:
     t_start = f"{int(m.group(1)):02d}:{m.group(2)}"
     t_end = f"{int(m.group(3)):02d}:{m.group(4)}"
     return t_start, t_end
+
+
+def _raw_header_cell(rows: list[list[str]], key: str, col: int) -> str | None:
+    """Сырая ячейка шапки — до схлопывания переносов.
+
+    Перенос строки внутри ячейки — единственный надёжный разделитель списка
+    профилей, а `extract_column_headers` его уже потеряла.
+    """
+    for row in rows[:20]:
+        if header_label_key(" ".join(str(c or "") for c in row[:2])) != key:
+            continue
+        if col < len(row) and str(row[col] or "").strip():
+            return row[col]
+    return None
+
+
+def _split_profiles(value: str | None) -> list[str] | None:
+    """Список профилей из одной ячейки, или None если он там один.
+
+    Запятая — разделитель только в ячейке без переносов: внутри одного
+    профиля она встречается («Право и Иностранный язык (английский), очная»).
+    """
+    if not value:
+        return None
+    seps = ["\n"] if "\n" in value else [","]
+    for sep in seps:
+        parts = [p.strip(" ,;") for p in value.split(sep)]
+        parts = [p for p in parts if p]
+        if len(parts) > 1:
+            return parts
+    return None
 
 
 def _parse_isgo(rows: list[list[str]], header_idx: int) -> list[dict]:
@@ -206,18 +267,44 @@ def _parse_isgo(rows: list[list[str]], header_idx: int) -> list[dict]:
                     schedules[gname]["odd_week"][current_day].append(lesson)
                     schedules[gname]["even_week"][current_day].append({**lesson})
 
+    # Навигация в клиентах идёт по направлению и профилю — они стоят
+    # в шапке над кодами групп, в тех же колонках.
+    col_meta = extract_column_headers(rows)
+    meta_by_name: dict[str, dict] = {}
+    for ci, codes in group_cols.items():
+        meta = col_meta.get(ci, {})
+        # Колонка ИСГО несёт несколько групп; профили перечислены в том же
+        # порядке и раздаются позиционно — но только если счёт сошёлся.
+        listed = _split_profiles(_raw_header_cell(rows, "profile", ci))
+        for i, name in enumerate(codes):
+            if listed is None:
+                meta_by_name[name] = meta
+            elif len(listed) == len(codes):
+                meta_by_name[name] = dict(meta, profile=listed[i])
+            else:
+                # Список есть, но по группам не раскладывается — отдать его
+                # целиком нельзя: это не профиль ЭТОЙ группы.
+                meta_by_name[name] = dict(meta, profile=None)
+
     result = []
     for name, sched in schedules.items():
         if any(sched["odd_week"][d] for d in sched["odd_week"]):
+            meta = meta_by_name.get(name, {})
             result.append({"name": name, "year": None, "form": "part_time",
-                           "degree": "bachelor", "schedule": sched})
+                           "degree": "bachelor",
+                           "direction": meta.get("direction"),
+                           "profile": meta.get("profile"),
+                           "schedule": sched})
     return result
 
 
-_TEACHER_TITLE_RE = re.compile(
-    r"\b(проф|доц|ст\.?\s*преп|асс|преп)\.?\s", re.IGNORECASE
-)
-_ROOM_RE = re.compile(r"\(ауд\.?\s*([\w\-]+)\)", re.IGNORECASE)
+# D41: звание может стоять полным словом и без пробела после «ст.»
+# («ст.преподаватель кафедры …»), а имя — в самом конце строки.
+# Полные формы допускаем без требования заглавной буквы следом,
+# сокращения оставляем строгими, иначе ловим обычный текст.
+_TEACHER_TITLE_RE = TEACHER_TITLE_RE
+# D39: после номера в скобках может идти пояснение — «(ауд.203, Музей МПГУ)».
+_ROOM_RE = re.compile(r"\(\s*ауд\.?\s*([\w\-/]+)[^)]*\)", re.IGNORECASE)
 _TYPE_BRACKET_RE = re.compile(r"\(([А-ЯЁа-яёA-Za-z./]{2,6})[\s\d/]*\)")
 _TYPE_MAP = {
     "лк": "lecture", "пз": "practice", "лаб": "lab", "лб": "lab",
@@ -234,7 +321,9 @@ def _parse_isgo_cell(content: str, t_start: str, t_end: str) -> dict | None:
     """
     if not content or content in {"-", "–", "—"}:
         return None
-    lines = [ln.strip() for ln in content.replace("\r", "").split("\n") if ln.strip()]
+    # D40: в Google-таблицах перенос внутри ячейки часто набирают как «\\».
+    normalized = content.replace("\r", "").replace("\\", "\n")
+    lines = [ln.strip() for ln in normalized.split("\n") if ln.strip()]
     if not lines:
         return None
 
@@ -252,6 +341,10 @@ def _parse_isgo_cell(content: str, t_start: str, t_end: str) -> dict | None:
         rm = _ROOM_RE.search(line)
         if rm and room is None:
             room = rm.group(1)
+        elif room is None:
+            bare = re.match(r"^\s*ауд\.?\s*([\w\-/]+)\s*$", line, re.I)
+            if bare:
+                room = bare.group(1)
 
         if "//" in line:
             parts = line.split("//", 1)
@@ -272,10 +365,22 @@ def _parse_isgo_cell(content: str, t_start: str, t_end: str) -> dict | None:
         subject_raw = first
 
     # Убираем скобки с типом занятия и лишние пробелы; извлекаем подгруппу
-    subject = _TYPE_BRACKET_RE.sub("", subject_raw).strip(" ,.")
+    # D39: скобка с аудиторией не должна оставаться в названии
+    subject = _ROOM_RE.sub(" ", subject_raw)
+    subject = _TYPE_BRACKET_RE.sub("", subject)
+    subject = re.sub(r"\s{2,}", " ", subject).strip(" ,.")
     subject, subgroup = extract_subgroup(subject)
     if not subject:
         return None
+
+    # D42: хвост после звания уходит в teacher целиком — вынимаем оттуда
+    # аудиторию, если она ещё не найдена.
+    if teacher:
+        m_room = re.search(r"ауд\.?\s*([\w\-/]+)", teacher, re.I)
+        if m_room:
+            if room is None:
+                room = m_room.group(1)
+            teacher = teacher[:m_room.start()].strip(" ,.;")
 
     return lesson_obj(None, t_start, t_end, subject, lesson_type, teacher, room, subgroup)
 
