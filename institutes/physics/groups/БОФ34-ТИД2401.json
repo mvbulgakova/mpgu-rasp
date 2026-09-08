@@ -1,0 +1,140 @@
+{
+  "name": "БОФ34-ТИД2401",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01, Педагогическое образование",
+  "profile": "Технология, Информатика и Дополнительное образование",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Элективные курсы по физической культуре",
+          "type": "practice",
+          "teacher": "Ст. преп. М.С. Хецева (пр-т",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Информационные",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "системы",
+          "type": "lab",
+          "teacher": "Ст.преп. Е.М. Федяева",
+          "room": "50",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Информационные",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "системы",
+          "type": "lab",
+          "teacher": "Ст.преп. Е.М. Федяева",
+          "room": "50",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Элективные курсы по физической культуре",
+          "type": "practice",
+          "teacher": "Ст. преп. М.С. Хецева (пр-т",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Информационные",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "системы",
+          "type": "lab",
+          "teacher": "Ст.преп. Е.М. Федяева",
+          "room": "50",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Информационные",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "системы",
+          "type": "lab",
+          "teacher": "Ст.преп. Е.М. Федяева",
+          "room": "50",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

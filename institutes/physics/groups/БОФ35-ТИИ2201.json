@@ -1,0 +1,406 @@
+{
+  "name": "БОФ35-ТИИ2201",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05, Педагогическое образование",
+  "profile": "Технология и информатика",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Профессиональное самоопределение школьников",
+          "type": "other",
+          "teacher": "Ст.преп. И.П. Сапего (ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ПРОФЕССИОНАЛЬНОЕ САМООПРЕДЕЛЕНИЕ ШКОЛЬНИКОВ",
+          "type": "lecture",
+          "teacher": "Ст.преп. И.П. Сапего (ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Технологии искусственного интеллекта , п/г 1 Поф. Д.Л. Харичева",
+          "type": "practice",
+          "teacher": null,
+          "room": "602",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Информационная безопасность и защита информации",
+          "type": "practice",
+          "teacher": "Доц. К.Ф. Гусин",
+          "room": "606",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Информационная безопасность и защита информации",
+          "type": "practice",
+          "teacher": "Доц. К.Ф. Гусин",
+          "room": "606",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Технологии искусственного интеллекта , п/г 2 Поф. Д.Л. Харичева",
+          "type": "practice",
+          "teacher": null,
+          "room": "602",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Методика обучения и воспитания по профилю Технология",
+          "type": "other",
+          "teacher": "Ст.преп. И.П. Сапего (ул",
+          "room": "30",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Методика обучения и воспитания по профилю Технология",
+          "type": "other",
+          "teacher": "Доц. Е.А. Вахтомина (ул",
+          "room": "30",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Производственная практика/Производственная практика, психолого-педагогическая практика",
+          "type": "other",
+          "teacher": "Доц. Г.С. Исакова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ ПО ПРОФИЛЮ ТЕХНОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доц. И.В. Максимкина (ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Производственная практика/Производственная практика, психолого-педагогическая практика",
+          "type": "other",
+          "teacher": "Доц. Г.С. Исакова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Производственная практика/Производственная практика, психолого-педагогическая практика",
+          "type": "other",
+          "teacher": "Доц. Г.С. Исакова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Астрономия",
+          "type": "practice",
+          "teacher": "Проф. Е.Б. Петрова (АКК",
+          "room": "244",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Производственная практика/Производственная практика, психолого-педагогическая практика",
+          "type": "other",
+          "teacher": "Доц. Г.С. Исакова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Производственная практика/Производственная практика, психолого-педагогическая практика",
+          "type": "other",
+          "teacher": "Доц. Г.С. Исакова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Производственная практика/Производственная практика, психолого-педагогическая практика",
+          "type": "other",
+          "teacher": "Доц. Г.С. Исакова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ТЕОРЕТИЧЕСКАЯ ФИЗИКА",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Профессиональное самоопределение школьников",
+          "type": "other",
+          "teacher": "Ст.преп. И.П. Сапего (ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ПРОФЕССИОНАЛЬНОЕ САМООПРЕДЕЛЕНИЕ ШКОЛЬНИКОВ",
+          "type": "lecture",
+          "teacher": "Ст.преп. И.П. Сапего (ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Технологии искусственного интеллекта , п/г 1 Поф. Д.Л. Харичева",
+          "type": "practice",
+          "teacher": null,
+          "room": "602",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Информационная безопасность и защита информации",
+          "type": "practice",
+          "teacher": "Доц. К.Ф. Гусин",
+          "room": "606",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Информационная безопасность и защита информации",
+          "type": "practice",
+          "teacher": "Доц. К.Ф. Гусин",
+          "room": "606",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Технологии искусственного интеллекта , п/г 2 Поф. Д.Л. Харичева",
+          "type": "practice",
+          "teacher": null,
+          "room": "602",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Методика обучения и воспитания по профилю Технология",
+          "type": "other",
+          "teacher": "Ст.преп. И.П. Сапего (ул",
+          "room": "30",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Методика обучения и воспитания по профилю Технология",
+          "type": "other",
+          "teacher": "Доц. Е.А. Вахтомина (ул",
+          "room": "30",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Производственная практика/Производственная практика, психолого-педагогическая практика",
+          "type": "other",
+          "teacher": "Доц. Г.С. Исакова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И ВОСПИТАНИЯ ПО ПРОФИЛЮ ТЕХНОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доц. И.В. Максимкина (ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Производственная практика/Производственная практика, психолого-педагогическая практика",
+          "type": "other",
+          "teacher": "Доц. Г.С. Исакова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Производственная практика/Производственная практика, психолого-педагогическая практика",
+          "type": "other",
+          "teacher": "Доц. Г.С. Исакова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Астрономия",
+          "type": "practice",
+          "teacher": "Проф. Е.Б. Петрова (АКК",
+          "room": "244",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Производственная практика/Производственная практика, психолого-педагогическая практика",
+          "type": "other",
+          "teacher": "Доц. Г.С. Исакова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Производственная практика/Производственная практика, психолого-педагогическая практика",
+          "type": "other",
+          "teacher": "Доц. Г.С. Исакова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Производственная практика/Производственная практика, психолого-педагогическая практика",
+          "type": "other",
+          "teacher": "Доц. Г.С. Исакова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ТЕОРЕТИЧЕСКАЯ ФИЗИКА",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

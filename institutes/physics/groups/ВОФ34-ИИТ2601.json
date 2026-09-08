@@ -1,0 +1,408 @@
+{
+  "name": "ВОФ34-ИИТ2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01, БВО",
+  "profile": "Информатика и труд (технология)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Основы российской",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "государственности",
+          "type": "practice",
+          "teacher": "Доц. Е.Г. Виноградова",
+          "room": "58",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Основы российской",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "государственности",
+          "type": "practice",
+          "teacher": "Доц. Е.Г. Виноградова",
+          "room": "58",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Возрастная анатомия, физиология",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "и культура здоровья",
+          "type": "practice",
+          "teacher": "Ст.преп. О.М. Мишланова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ВЫСШАЯ МАТЕМАТИКА",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Архитектура",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "компьютера",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "608)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Ст.преп. М.Г. Щедрина",
+          "room": "12",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Архитектура",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "компьютера",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "608)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Элементарная физика",
+          "type": "practice",
+          "teacher": "Доц. С.В. Лозовенко",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ГЕОМЕТРИЯ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "Ст. преп. М.С. Хецева",
+          "room": "64",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Основы российской",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "государственности",
+          "type": "practice",
+          "teacher": "Доц. Е.Г. Виноградова",
+          "room": "58",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Основы российской",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "государственности",
+          "type": "practice",
+          "teacher": "Доц. Е.Г. Виноградова",
+          "room": "58",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Возрастная анатомия, физиология",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "и культура здоровья",
+          "type": "practice",
+          "teacher": "Ст.преп. О.М. Мишланова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ВЫСШАЯ МАТЕМАТИКА",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Архитектура",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "компьютера",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "608)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Ст.преп. М.Г. Щедрина",
+          "room": "12",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Архитектура",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "компьютера",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "608)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Элементарная физика",
+          "type": "practice",
+          "teacher": "Доц. С.В. Лозовенко",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ГЕОМЕТРИЯ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "Ст. преп. М.С. Хецева",
+          "room": "64",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

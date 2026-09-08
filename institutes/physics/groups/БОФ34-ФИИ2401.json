@@ -1,0 +1,562 @@
+{
+  "name": "БОФ34-ФИИ2401",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01, Педагогическое образование",
+  "profile": "Физика и информатика",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Элективные курсы по физической культуре",
+          "type": "practice",
+          "teacher": "Ст. преп. М.С. Хецева (пр-т",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Общая и экспериментальная физика",
+          "type": "lab",
+          "teacher": "ст.преп. М.Д. Солдатенкова",
+          "room": "56",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Общая и экспериментальная физика",
+          "type": "practice",
+          "teacher": "Ст.преп. В.А. Селезнев",
+          "room": "45",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ТЕОРЕТИЧЕСКАЯ ФИЗИКА",
+          "type": "lecture",
+          "teacher": "Проф. А.Р. Чигирев",
+          "room": "55",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ПЕДАГОГИКА",
+          "type": "lecture",
+          "teacher": "Доц. Ф.М. Ямалетдинова",
+          "room": "12",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ ФИЗИКЕ",
+          "type": "lecture",
+          "teacher": "Доц. И.В. Седельникова",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Теоретическая физика",
+          "type": "practice",
+          "teacher": "Проф. А.Р. Чигирев",
+          "room": "55",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "Доц. Ф.М. Ямалетдинова",
+          "room": "56",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Учебная практика/Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": "Ст.преп. М.М. Саид",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКИК",
+          "type": "lecture",
+          "teacher": "Доц. Т.Б. Киселева",
+          "room": "54",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Психология воспитательных практик",
+          "type": "other",
+          "teacher": "Доц. Т.Б. Киселева",
+          "room": "12",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Теоретическая физика",
+          "type": "practice",
+          "teacher": "Проф. А.Р. Чигирев",
+          "room": "55",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Производственная практика/Производственная практика ( педагогическая практика, классное руководство)",
+          "type": "other",
+          "teacher": "Ст.преп. Ю.А. Пушкарева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Методика обучения физике",
+          "type": "practice",
+          "teacher": "Доц. Ю.А. Пушкарева",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Методика обучения физике",
+          "type": "lab",
+          "teacher": "Доц. С.В. Степанов",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Производственная практика/Производственная практика, педагогическая практика, классное руководство",
+          "type": "other",
+          "teacher": "Ст.преп. Ю.А. Пушкарева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ОБЩАЯ И ЭКСПЕРИМЕНТАЛЬНАЯ ФИЗИКА",
+          "type": "lecture",
+          "teacher": null,
+          "room": "49",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Производственная практика/Производственная практика, педагогическая практика, классное руководство",
+          "type": "other",
+          "teacher": "Ст.преп. Ю.А. Пушкарева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ИНФОРМАЦИОННЫЕ СИСТЕМЫ",
+          "type": "lecture",
+          "teacher": "Ст.преп. Е.М. Федяева",
+          "room": "56",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Информационные системы",
+          "type": "lab",
+          "teacher": "Ст.преп. Е.М. Федяева",
+          "room": "50",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Информационные системы",
+          "type": "lab",
+          "teacher": "Ст.преп. Е.М. Федяева",
+          "room": "50",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ОСНОВЫ ГОСУДАРСТВЕННОЙ ПОЛИТИКИ В СФЕРЕ МЕЖЭТНИЧЕСКИХ И МЕЖКОНФЕССИОНАЛЬНЫХ ОТНОШЕНИЙ",
+          "type": "lecture",
+          "teacher": "Ст.преп. С.А. Егорова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ": 12.09; 26.09"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "practice",
+          "teacher": "Ст.преп. С.А. Егорова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ": 12.09; 26.09. 10.10"
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "practice",
+          "teacher": "Ст.преп. С.А. Егорова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ": 12.09; 26.09"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Элективные курсы по физической культуре",
+          "type": "practice",
+          "teacher": "Ст. преп. М.С. Хецева (пр-т",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Общая и экспериментальная физика",
+          "type": "lab",
+          "teacher": "ст.преп. М.Д. Солдатенкова",
+          "room": "56",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Общая и экспериментальная физика",
+          "type": "practice",
+          "teacher": "Ст.преп. В.А. Селезнев",
+          "room": "45",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ТЕОРЕТИЧЕСКАЯ ФИЗИКА",
+          "type": "lecture",
+          "teacher": "Проф. А.Р. Чигирев",
+          "room": "55",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ПЕДАГОГИКА",
+          "type": "lecture",
+          "teacher": "Доц. Ф.М. Ямалетдинова",
+          "room": "12",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ ФИЗИКЕ",
+          "type": "lecture",
+          "teacher": "Доц. И.В. Седельникова",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Теоретическая физика",
+          "type": "practice",
+          "teacher": "Проф. А.Р. Чигирев",
+          "room": "55",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "Доц. Ф.М. Ямалетдинова",
+          "room": "56",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Учебная практика/Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": "Ст.преп. М.М. Саид",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКИК",
+          "type": "lecture",
+          "teacher": "Доц. Т.Б. Киселева",
+          "room": "54",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Психология воспитательных практик",
+          "type": "other",
+          "teacher": "Доц. Т.Б. Киселева",
+          "room": "12",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Теоретическая физика",
+          "type": "practice",
+          "teacher": "Проф. А.Р. Чигирев",
+          "room": "55",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Производственная практика/Производственная практика ( педагогическая практика, классное руководство)",
+          "type": "other",
+          "teacher": "Ст.преп. Ю.А. Пушкарева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Методика обучения физике",
+          "type": "practice",
+          "teacher": "Доц. Ю.А. Пушкарева",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Методика обучения физике",
+          "type": "lab",
+          "teacher": "Доц. С.В. Степанов",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Производственная практика/Производственная практика, педагогическая практика, классное руководство",
+          "type": "other",
+          "teacher": "Ст.преп. Ю.А. Пушкарева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ОБЩАЯ И ЭКСПЕРИМЕНТАЛЬНАЯ ФИЗИКА",
+          "type": "lecture",
+          "teacher": null,
+          "room": "49",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Производственная практика/Производственная практика, педагогическая практика, классное руководство",
+          "type": "other",
+          "teacher": "Ст.преп. Ю.А. Пушкарева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ИНФОРМАЦИОННЫЕ СИСТЕМЫ",
+          "type": "lecture",
+          "teacher": "Ст.преп. Е.М. Федяева",
+          "room": "56",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Информационные системы",
+          "type": "lab",
+          "teacher": "Ст.преп. Е.М. Федяева",
+          "room": "50",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Информационные системы",
+          "type": "lab",
+          "teacher": "Ст.преп. Е.М. Федяева",
+          "room": "50",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ОСНОВЫ ГОСУДАРСТВЕННОЙ ПОЛИТИКИ В СФЕРЕ МЕЖЭТНИЧЕСКИХ И МЕЖКОНФЕССИОНАЛЬНЫХ ОТНОШЕНИЙ",
+          "type": "lecture",
+          "teacher": "Ст.преп. С.А. Егорова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ": 12.09; 26.09"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "practice",
+          "teacher": "Ст.преп. С.А. Егорова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ": 12.09; 26.09. 10.10"
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "practice",
+          "teacher": "Ст.преп. С.А. Егорова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ": 12.09; 26.09"
+        }
+      ]
+    }
+  }
+}

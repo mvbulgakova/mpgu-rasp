@@ -1,0 +1,428 @@
+{
+  "name": "БОФ54-ФПТ2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "03.03.02, Физика",
+  "profile": "Фундаментальная физика и прорывные технологии",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Общая физика. Электричеств о и магнетизм",
+          "type": "practice",
+          "teacher": "Асс. М.Д",
+          "room": null,
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Общая физика. Электричество и магнетизм",
+          "type": "practice",
+          "teacher": "Асс. А.И. Ломакин",
+          "room": "55",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Органическая химия",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Органическая химия",
+          "type": "practice",
+          "teacher": "Проф. А.В. Наумов",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Професс",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "иональна",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "коммуни",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "иностран",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ОБЩАЯ ФИЗИКА. ЭЛЕКТРИЧЕСТВО И МАГНЕТИЗМ",
+          "type": "lecture",
+          "teacher": "Доц. С.А. Рябчун",
+          "room": "7",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Векторный и тензорный анализ",
+          "type": "practice",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ВЕКТРНЫЙ И ТЕНЗОРНЫЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "АНАЛИЗ",
+          "type": "lecture",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ",
+          "type": "lecture",
+          "teacher": "Доц. С.В. Умнова",
+          "room": "54",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Общая",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "физика",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Электричество",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "и магнетизм",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Професс иональна я коммуни кация на иностран ном языке",
+          "type": "practice",
+          "teacher": "Ст.преп",
+          "room": "12",
+          "subgroup": 3,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Общая физика. Электричеств о и магнетизм",
+          "type": "practice",
+          "teacher": "Асс. М.Д",
+          "room": null,
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Общая физика. Электричество и магнетизм",
+          "type": "practice",
+          "teacher": "Асс. А.И. Ломакин",
+          "room": "55",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Органическая химия",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Органическая химия",
+          "type": "practice",
+          "teacher": "Проф. А.В. Наумов",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Професс",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "иональна",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "коммуни",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "иностран",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ОБЩАЯ ФИЗИКА. ЭЛЕКТРИЧЕСТВО И МАГНЕТИЗМ",
+          "type": "lecture",
+          "teacher": "Доц. С.А. Рябчун",
+          "room": "7",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Векторный и тензорный анализ",
+          "type": "practice",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ВЕКТРНЫЙ И ТЕНЗОРНЫЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "АНАЛИЗ",
+          "type": "lecture",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "ДИФФЕРЕНЦИАЛЬНЫЕ УРАВНЕНИЯ",
+          "type": "lecture",
+          "teacher": "Доц. С.В. Умнова",
+          "room": "54",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Общая",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "физика",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Электричество",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "и магнетизм",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Професс иональна я коммуни кация на иностран ном языке",
+          "type": "practice",
+          "teacher": "Ст.преп",
+          "room": "12",
+          "subgroup": 3,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

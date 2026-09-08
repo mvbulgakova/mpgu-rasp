@@ -1,0 +1,936 @@
+{
+  "name": "БОФ35-ФИИ2301",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05, Педагогическое образование",
+  "profile": "Физика и информатика",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Теоретическая физика",
+          "type": "practice",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ТЕОРЕТИЧЕСКАЯ ФИЗИКА",
+          "type": "lecture",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ЭЛЕКТРО И РАДИОТЕХНИКА",
+          "type": "lecture",
+          "teacher": "Доц. О.В. Окунев",
+          "room": "56",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Педагогическая риторика",
+          "type": "lecture",
+          "teacher": "Доц. М.В. Горбунова",
+          "room": "12",
+          "subgroup": null,
+          "notes": "/ ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Электро и радиотехника",
+          "type": "lab",
+          "teacher": "Доц. О.В. Окунев",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "КОМПЬЮТЕРНОЕ МОДЕЛИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Ст.преп. К.В. Гоголданова",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Теоретические основы информатики",
+          "type": "practice",
+          "teacher": "Доц. В.Г. Леонов",
+          "room": "608",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Учебная практика/Учебная практика (педагогическая практика)",
+          "type": "other",
+          "teacher": "Ст.преп. Ю.А. Пушкарева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "3D-МОДЕЛИРОВАНИЕ И ПРОТОТЕПИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "ст.преп. К.В.Гоголданова",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "3D-моделирование и прототипирование",
+          "type": "lab",
+          "teacher": "ст.преп. К.В.Гоголданова",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ ФИЗИКЕ",
+          "type": "lecture",
+          "teacher": "Доц. И.В. Седельникова",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Компьютерное моделирование",
+          "type": "practice",
+          "teacher": "Ст.преп. К.В. Гоголданова",
+          "room": "402",
+          "subgroup": null,
+          "notes": "/ Лаб"
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ТЕОРЕТИЧЕСКИЕ ОСНОВЫ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ИНФОРМАТИКИ",
+          "type": "lecture",
+          "teacher": "Доц. В.Г. Леонов",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ВОСПИТАНИЯ ПО ПРОФИЛЮ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ТЕХНОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доц. Е.А. Вахтомина ( ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Учебная практика/Учебная практика (педагогическая практика)",
+          "type": "other",
+          "teacher": "Ст.преп. Ю.А. Пушкарева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "3D-моделирование и прототипирование",
+          "type": "lab",
+          "teacher": "ст.преп. К.В.Гоголданова",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Методика обучения физике",
+          "type": "practice",
+          "teacher": "Доц. И.В. Седельникова",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Организация проектной деятельности по технологии",
+          "type": "practice",
+          "teacher": "Доц. С.Ю. Макленкова (ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Учебная практика/Учебная практика (педагогическая практика)",
+          "type": "other",
+          "teacher": "Ст.преп. Ю.А. Пушкарева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Методика обучения и воспитания по профилю Технология",
+          "type": "practice",
+          "teacher": "Доц. И.В. Максимкина ( ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ТЕОРЕТИЧЕСКИЕ ОСНОВЫ ИНФОРМАТИКИ",
+          "type": "lecture",
+          "teacher": "Доц. В.Г. Леонов",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ОРГАНИЗАЦИЯ ПРОЕКТНОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ДЕЯТЕЛЬНОСТИ ПО ТЕХНОЛОГИИ",
+          "type": "lecture",
+          "teacher": "Доц. С.Ю. Макленкова (ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Методика обучения и воспитания по профилю Технология",
+          "type": "lab",
+          "teacher": "Доц. И.В. Максимкина ( ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Теоретические основы информатики",
+          "type": "practice",
+          "teacher": "Доц. В.Г. Леонов",
+          "room": "608",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Оставить окошко",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Компьютерное моделирование",
+          "type": "lab",
+          "teacher": "Ст.преп. К.В. Гоголданова",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Методика обучения информатике",
+          "type": "practice",
+          "teacher": "Доц. О.А. Косино",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Методика обучения информатике",
+          "type": "practice",
+          "teacher": "Доц. О.А. Косино",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ ИНФОРМАТИКЕ",
+          "type": "lecture",
+          "teacher": "Проф. Г.Л. Абдулгалимов",
+          "room": "64",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Методика обучения физике",
+          "type": "lab",
+          "teacher": "Доц. С.В. Степанов",
+          "room": "24",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Практикум по школьному физическому",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "эксперименту",
+          "type": "practice",
+          "teacher": "Доц. С.В. Степанов",
+          "room": "24",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Компьютерное моделирование с новыми программными пакетами",
+          "type": "practice",
+          "teacher": "Доц. А.С. Шураков",
+          "room": "606",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "НОВЫМИ ПРОГРАММНЫМИ ПАКЕТАМИ",
+          "type": "lecture",
+          "teacher": "Доц. А.С. Шураков",
+          "room": "606",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ВЕБ-ТЕХНОЛОГИИ",
+          "type": "lecture",
+          "teacher": "Доц. С.Ю. Парфенов",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Веб-технологии",
+          "type": "practice",
+          "teacher": "Доц. С.Ю. Парфенов",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Веб-технологии",
+          "type": "practice",
+          "teacher": "Доц. С.Ю. Парфенов",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Теоретическая физика",
+          "type": "practice",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ТЕОРЕТИЧЕСКАЯ ФИЗИКА",
+          "type": "lecture",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ЭЛЕКТРО И РАДИОТЕХНИКА",
+          "type": "lecture",
+          "teacher": "Доц. О.В. Окунев",
+          "room": "56",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Педагогическая риторика",
+          "type": "lecture",
+          "teacher": "Доц. М.В. Горбунова",
+          "room": "12",
+          "subgroup": null,
+          "notes": "/ ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Электро и радиотехника",
+          "type": "lab",
+          "teacher": "Доц. О.В. Окунев",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "КОМПЬЮТЕРНОЕ МОДЕЛИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Ст.преп. К.В. Гоголданова",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Теоретические основы информатики",
+          "type": "practice",
+          "teacher": "Доц. В.Г. Леонов",
+          "room": "608",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Учебная практика/Учебная практика (педагогическая практика)",
+          "type": "other",
+          "teacher": "Ст.преп. Ю.А. Пушкарева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "3D-МОДЕЛИРОВАНИЕ И ПРОТОТЕПИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "ст.преп. К.В.Гоголданова",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "3D-моделирование и прототипирование",
+          "type": "lab",
+          "teacher": "ст.преп. К.В.Гоголданова",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ ФИЗИКЕ",
+          "type": "lecture",
+          "teacher": "Доц. И.В. Седельникова",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Компьютерное моделирование",
+          "type": "practice",
+          "teacher": "Ст.преп. К.В. Гоголданова",
+          "room": "402",
+          "subgroup": null,
+          "notes": "/ Лаб"
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ТЕОРЕТИЧЕСКИЕ ОСНОВЫ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ИНФОРМАТИКИ",
+          "type": "lecture",
+          "teacher": "Доц. В.Г. Леонов",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ВОСПИТАНИЯ ПО ПРОФИЛЮ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "ТЕХНОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доц. Е.А. Вахтомина ( ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Учебная практика/Учебная практика (педагогическая практика)",
+          "type": "other",
+          "teacher": "Ст.преп. Ю.А. Пушкарева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "3D-моделирование и прототипирование",
+          "type": "lab",
+          "teacher": "ст.преп. К.В.Гоголданова",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Методика обучения физике",
+          "type": "practice",
+          "teacher": "Доц. И.В. Седельникова",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Организация проектной деятельности по технологии",
+          "type": "practice",
+          "teacher": "Доц. С.Ю. Макленкова (ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Учебная практика/Учебная практика (педагогическая практика)",
+          "type": "other",
+          "teacher": "Ст.преп. Ю.А. Пушкарева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Методика обучения и воспитания по профилю Технология",
+          "type": "practice",
+          "teacher": "Доц. И.В. Максимкина ( ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ТЕОРЕТИЧЕСКИЕ ОСНОВЫ ИНФОРМАТИКИ",
+          "type": "lecture",
+          "teacher": "Доц. В.Г. Леонов",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ОРГАНИЗАЦИЯ ПРОЕКТНОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ДЕЯТЕЛЬНОСТИ ПО ТЕХНОЛОГИИ",
+          "type": "lecture",
+          "teacher": "Доц. С.Ю. Макленкова (ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Методика обучения и воспитания по профилю Технология",
+          "type": "lab",
+          "teacher": "Доц. И.В. Максимкина ( ул. Усачева, д.64",
+          "room": "30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Теоретические основы информатики",
+          "type": "practice",
+          "teacher": "Доц. В.Г. Леонов",
+          "room": "608",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Оставить окошко",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Компьютерное моделирование",
+          "type": "lab",
+          "teacher": "Ст.преп. К.В. Гоголданова",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Методика обучения информатике",
+          "type": "practice",
+          "teacher": "Доц. О.А. Косино",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Методика обучения информатике",
+          "type": "practice",
+          "teacher": "Доц. О.А. Косино",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "МЕТОДИКА ОБУЧЕНИЯ ИНФОРМАТИКЕ",
+          "type": "lecture",
+          "teacher": "Проф. Г.Л. Абдулгалимов",
+          "room": "64",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Методика обучения физике",
+          "type": "lab",
+          "teacher": "Доц. С.В. Степанов",
+          "room": "24",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Практикум по школьному физическому",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "эксперименту",
+          "type": "practice",
+          "teacher": "Доц. С.В. Степанов",
+          "room": "24",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Компьютерное моделирование с новыми программными пакетами",
+          "type": "practice",
+          "teacher": "Доц. А.С. Шураков",
+          "room": "606",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "НОВЫМИ ПРОГРАММНЫМИ ПАКЕТАМИ",
+          "type": "lecture",
+          "teacher": "Доц. А.С. Шураков",
+          "room": "606",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ВЕБ-ТЕХНОЛОГИИ",
+          "type": "lecture",
+          "teacher": "Доц. С.Ю. Парфенов",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Веб-технологии",
+          "type": "practice",
+          "teacher": "Доц. С.Ю. Парфенов",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Веб-технологии",
+          "type": "practice",
+          "teacher": "Доц. С.Ю. Парфенов",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

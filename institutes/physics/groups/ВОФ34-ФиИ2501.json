@@ -1,0 +1,760 @@
+{
+  "name": "ВОФ34-ФиИ2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01, БВО",
+  "profile": "Физика и информатика",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Учебная практика/Учебная практика ознакомительная практика",
+          "type": "other",
+          "teacher": "Асс. А.Самохин",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Учебная практика/Учебная практика ознакомительная практика",
+          "type": "other",
+          "teacher": "Асс. А.Самохин",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Программное",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "обеспечение",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "систем и сетей",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "606)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Физический практикум",
+          "type": "lab",
+          "teacher": "Ст.преп. И.И. Беликов",
+          "room": "45",
+          "subgroup": 2,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Практикум по электричеству и магнетизму",
+          "type": "other",
+          "teacher": "доц. А.И. Колбатова",
+          "room": "45",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре (ПЗ",
+          "type": "other",
+          "teacher": "Ст. преп. М.С",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Практикум по электричеству и магнетизму",
+          "type": "other",
+          "teacher": "Ст.преп. И.И",
+          "room": "45",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "Доц. Т.Б. Киселева",
+          "room": "13",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Общая и экспериментальна я физика К.О. Теплякова",
+          "type": "lab",
+          "teacher": null,
+          "room": "12",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Общая и экспериментальная физика О.Н. Полякова",
+          "type": "lab",
+          "teacher": null,
+          "room": "13",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "Доц. Ф.М. Ямалетдинова",
+          "room": "54",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ПРОГРАММИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доц. С.Ю. Парфенов",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ПРОГРАММИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доц. С.Ю. Парфенов",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "ВЫСШАЯ МАТЕМАТИКА",
+          "type": "lecture",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "lecture",
+          "teacher": "Доц. О.В. Поликашина",
+          "room": "58",
+          "subgroup": null,
+          "notes": ": 02.09; 16.09; 30.09; 14.10"
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Высшая математика",
+          "type": "practice",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Программное обеспечение систем и сетей",
+          "type": "lab",
+          "teacher": "Доц. К.Ф. Гусин",
+          "room": "606",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Общая и экспериментальная физика",
+          "type": "practice",
+          "teacher": "ст.преп. О.Н. Полякова",
+          "room": "13",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Доц. О.В. Поликашина",
+          "room": "58",
+          "subgroup": null,
+          "notes": ": 28.10; 11.11; 25.11; 09.12 23.12"
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ СИСТЕМ И СЕТЕЙ",
+          "type": "lecture",
+          "teacher": "Доц. К.Ф. Гусин",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Общая и экспериментальная физика",
+          "type": "practice",
+          "teacher": "ст.преп. О.Н. Полякова",
+          "room": "13",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Элективные курсы по физической культуре (ПЗ",
+          "type": "other",
+          "teacher": "Ст. преп. М.С. Хецева (пр-т Вернадского",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Физический практикум",
+          "type": "lab",
+          "teacher": "Доц. О.В. Окунев",
+          "room": null,
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Программное обеспечение систем и сетей",
+          "type": "lab",
+          "teacher": "Доц. К.Ф. Гусин",
+          "room": "606",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Учебная практика/Учебная практика (технологическая (проектно-технологическая) практика)",
+          "type": "other",
+          "teacher": "ст.преп. И.П. Сапего",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Программирование",
+          "type": "practice",
+          "teacher": "Доц. С.Ю. Парфенов",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Программирование",
+          "type": "practice",
+          "teacher": "Доц. С.Ю. Парфенов",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Робототехника",
+          "type": "practice",
+          "teacher": "Ст.преп. А.И. Дульцев",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Учебная практика/Учебная практика ознакомительная практика",
+          "type": "other",
+          "teacher": "Асс. А.Самохин",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Учебная практика/Учебная практика ознакомительная практика",
+          "type": "other",
+          "teacher": "Асс. А.Самохин",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Программное",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "обеспечение",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "систем и сетей",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "606)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Физический практикум",
+          "type": "lab",
+          "teacher": "Ст.преп. И.И. Беликов",
+          "room": "45",
+          "subgroup": 2,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Практикум по электричеству и магнетизму",
+          "type": "other",
+          "teacher": "доц. А.И. Колбатова",
+          "room": "45",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре (ПЗ",
+          "type": "other",
+          "teacher": "Ст. преп. М.С",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Практикум по электричеству и магнетизму",
+          "type": "other",
+          "teacher": "Ст.преп. И.И",
+          "room": "45",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "Доц. Т.Б. Киселева",
+          "room": "13",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Общая и экспериментальна я физика К.О. Теплякова",
+          "type": "lab",
+          "teacher": null,
+          "room": "12",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Общая и экспериментальная физика О.Н. Полякова",
+          "type": "lab",
+          "teacher": null,
+          "room": "13",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "Доц. Ф.М. Ямалетдинова",
+          "room": "54",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ПРОГРАММИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доц. С.Ю. Парфенов",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "ПРОГРАММИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доц. С.Ю. Парфенов",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "ВЫСШАЯ МАТЕМАТИКА",
+          "type": "lecture",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "lecture",
+          "teacher": "Доц. О.В. Поликашина",
+          "room": "58",
+          "subgroup": null,
+          "notes": ": 02.09; 16.09; 30.09; 14.10"
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Высшая математика",
+          "type": "practice",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Программное обеспечение систем и сетей",
+          "type": "lab",
+          "teacher": "Доц. К.Ф. Гусин",
+          "room": "606",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Общая и экспериментальная физика",
+          "type": "practice",
+          "teacher": "ст.преп. О.Н. Полякова",
+          "room": "13",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "Доц. О.В. Поликашина",
+          "room": "58",
+          "subgroup": null,
+          "notes": ": 28.10; 11.11; 25.11; 09.12 23.12"
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ СИСТЕМ И СЕТЕЙ",
+          "type": "lecture",
+          "teacher": "Доц. К.Ф. Гусин",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Общая и экспериментальная физика",
+          "type": "practice",
+          "teacher": "ст.преп. О.Н. Полякова",
+          "room": "13",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Элективные курсы по физической культуре (ПЗ",
+          "type": "other",
+          "teacher": "Ст. преп. М.С. Хецева (пр-т Вернадского",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Физический практикум",
+          "type": "lab",
+          "teacher": "Доц. О.В. Окунев",
+          "room": null,
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Программное обеспечение систем и сетей",
+          "type": "lab",
+          "teacher": "Доц. К.Ф. Гусин",
+          "room": "606",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Учебная практика/Учебная практика (технологическая (проектно-технологическая) практика)",
+          "type": "other",
+          "teacher": "ст.преп. И.П. Сапего",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Программирование",
+          "type": "practice",
+          "teacher": "Доц. С.Ю. Парфенов",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Программирование",
+          "type": "practice",
+          "teacher": "Доц. С.Ю. Парфенов",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Робототехника",
+          "type": "practice",
+          "teacher": "Ст.преп. А.И. Дульцев",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

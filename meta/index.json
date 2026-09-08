@@ -56,6 +56,17 @@
       "updated_at": "2026-09-08T23:12:57.661158+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
+    },
+    {
+      "id": "physics",
+      "name": "Институт физики, технологии и информационных систем",
+      "short_name": "ИФТИС",
+      "campus": "ИФТИС",
+      "campus_address": "ул. Малая Пироговская, 29",
+      "groups_count": 16,
+      "updated_at": "2026-09-08T23:13:10.852514+00:00",
+      "status": "ok",
+      "parser_used": "pdfplumber"
     }
   ]
 }
