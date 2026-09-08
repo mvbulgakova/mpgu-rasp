@@ -174,3 +174,62 @@ def test_callback_for_an_unknown_group_is_refused():
                                 user_id=1, request=gh)
     assert not gh.calls
     assert "не наш" in reply.text.lower() or "не найден" in reply.text.lower()
+
+
+# ── запуск: почему «бот не реагирует» должно быть видно из лога ───────────
+
+class FakeTelegram:
+    """Подменяет вызовы Telegram API."""
+
+    def __init__(self, webhook_url="", me=None, fail=None):
+        self.webhook_url = webhook_url
+        self.me = me or {"ok": True, "result": {"username": "mpgu_rasp_bot"}}
+        self.fail = fail
+        self.calls = []
+
+    def __call__(self, token, method, **params):
+        self.calls.append(method)
+        if self.fail and method in self.fail:
+            raise self.fail[method]
+        if method == "getMe":
+            return self.me
+        if method == "getWebhookInfo":
+            return {"ok": True, "result": {"url": self.webhook_url}}
+        if method == "deleteWebhook":
+            self.webhook_url = ""
+            return {"ok": True}
+        raise AssertionError(method)
+
+
+def test_preflight_names_the_bot_it_actually_started_as():
+    """В логе должно быть видно, КАКОЙ бот запущен, а не просто «запущен»."""
+    tg = FakeTelegram()
+    ok, note = bot.preflight("token", api=tg)
+    assert ok is True
+    assert "mpgu_rasp_bot" in note
+
+
+def test_preflight_removes_a_conflicting_webhook():
+    """Вебхук и long-polling взаимно исключают друг друга.
+
+    Если на боте висит вебхук, getUpdates отдаёт 409 и бот молчит вечно.
+    Раз этот воркфлоу владеет токеном — он и снимает вебхук.
+    """
+    tg = FakeTelegram(webhook_url="https://worker.example/tg")
+    ok, note = bot.preflight("token", api=tg)
+    assert ok is True
+    assert "deleteWebhook" in tg.calls
+    assert "вебхук" in note.lower()
+
+
+def test_preflight_reports_a_bad_token_instead_of_polling_into_the_void():
+    tg = FakeTelegram(fail={"getMe": RuntimeError("401 Unauthorized")})
+    ok, note = bot.preflight("token", api=tg)
+    assert ok is False
+    assert "401" in note or "токен" in note.lower()
+
+
+def test_missing_token_is_reported_as_an_error_not_a_quiet_success():
+    """Зелёный ран без токена — ложь: она и породила «бот не реагирует»."""
+    assert "::error::" in bot.NO_TOKEN_MESSAGE
+    assert "BOT_TOKEN" in bot.NO_TOKEN_MESSAGE
