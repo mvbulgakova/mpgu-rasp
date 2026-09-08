@@ -66,10 +66,24 @@ class GroupCatalogTest {
             listOf("БОЖ09-ЖРН2101"),
             GroupCatalog.filter(groups, "телевидение").map { it.name },
         )
-        // Код группы по-прежнему ищется, с гомоглифами (BOЖ → БОЖ).
+        // Код группы по-прежнему ищется — обычной подстрокой.
         assertEquals(
             listOf("БОЖ09-ЖРН2101"),
-            GroupCatalog.filter(groups, "BOЖ09").map { it.name },
+            GroupCatalog.filter(groups, "ЖРН21").map { it.name },
+        )
+    }
+
+    @Test fun `code search still folds latin homoglyphs`() {
+        // Латинская B — двойник кириллической В (Ве), а не Б (Бе): у Б
+        // латинского двойника нет вовсе. Поэтому «BОП40» находит
+        // «ВОП40-…», но никогда не найдёт «БОЖ09-…».
+        val groups = listOf(
+            g("ВОП40-ПФК2501", "44.03.02 Психолого-педагогическое образование", "ПФК"),
+            g("БОЖ09-ЖРН2101", "42.03.02 ЖУРНАЛИСТИКА", "Телевидение"),
+        )
+        assertEquals(
+            listOf("ВОП40-ПФК2501"),
+            GroupCatalog.filter(groups, "BOП40").map { it.name },
         )
     }
 
