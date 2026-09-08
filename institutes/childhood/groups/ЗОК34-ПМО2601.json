@@ -1,0 +1,566 @@
+{
+  "name": "ЗОК34-ПМО2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+  "profile": "Профессиональное музыкальное образование",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "14:10",
+          "time_end": "15:40",
+          "subject": "Современные концепции российского теоретического музыкознания",
+          "type": "lecture",
+          "teacher": "профессор Б.Р. Иофис",
+          "room": "316",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "15:50",
+          "time_end": "17:20",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "14:10",
+          "time_end": "15:40",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "как объект научного исследования",
+          "type": "practice",
+          "teacher": "профессор А.П. Юдин",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Научно-исследовательская работа и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "профессор Н.А. Дмитриева",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "профессор Н.А. Дмитриева",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:50",
+          "time_end": "17:20",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент И.Н. Аксенова",
+          "room": "316",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:25",
+          "time_end": "18:55",
+          "subject": "Музыкально-психологическая антропология",
+          "type": "lecture",
+          "teacher": "профессор А.В. Торопова",
+          "room": "312",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "14:10",
+          "time_end": "15:40",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент",
+          "room": "204",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "14:10",
+          "time_end": "15:40",
+          "subject": "Современные концепции российского теоретического музыкознания",
+          "type": "lecture",
+          "teacher": "профессор Б.Р. Иофис",
+          "room": "316",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "15:50",
+          "time_end": "17:20",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "14:10",
+          "time_end": "15:40",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "как объект научного исследования",
+          "type": "practice",
+          "teacher": "профессор А.П. Юдин",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Научно-исследовательская работа и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "профессор Н.А. Дмитриева",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "профессор Н.А. Дмитриева",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:50",
+          "time_end": "17:20",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент И.Н. Аксенова",
+          "room": "316",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:25",
+          "time_end": "18:55",
+          "subject": "Музыкально-психологическая антропология",
+          "type": "lecture",
+          "teacher": "профессор А.В. Торопова",
+          "room": "312",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "14:10",
+          "time_end": "15:40",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "practice",
+          "teacher": "доцент",
+          "room": "204",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Научно-исследовательская работа и самостоятельная подготовка студентов",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

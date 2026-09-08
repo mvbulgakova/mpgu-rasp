@@ -1,0 +1,386 @@
+{
+  "name": "БОН34-НОБ2306",
+  "year": 4,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01. Педагогическое образование",
+  "profile": "Начальное образование",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методы количественного и качественного анализа данных",
+          "type": "practice",
+          "teacher": "проф. А.Л. Чекин",
+          "room": "415",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "415",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "415",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. С.Н. Ловягин",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и практика работы с текстом",
+          "type": "practice",
+          "teacher": "доц. Т.В. Рыженкова",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и практика работы с текстом",
+          "type": "practice",
+          "teacher": "доц. Т.В. Рыженкова",
+          "room": "415",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. М.А. Олейникова",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. М.А. Олейникова",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. С.Н. Ловягин",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы религиозных культур и светской этики и методика преподавания предмета в начальной школе",
+          "type": "practice",
+          "teacher": "доц. И.Г. Рябова",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы религиозных культур и светской этики и методика преподавания предмета в начальной школе",
+          "type": "practice",
+          "teacher": "доц. И.Г. Рябова",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания технологии и изобразительного искусства в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. Э.М. Галямова",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения решению задач в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Е.С. Немкина",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика обучения решению задач в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Е.С. Немкина",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методы количественного и качественного анализа данных",
+          "type": "practice",
+          "teacher": "проф. А.Л. Чекин",
+          "room": "415",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "415",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "415",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. С.Н. Ловягин",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и практика работы с текстом",
+          "type": "practice",
+          "teacher": "доц. Т.В. Рыженкова",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и практика работы с текстом",
+          "type": "practice",
+          "teacher": "доц. Т.В. Рыженкова",
+          "room": "415",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. М.А. Олейникова",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. М.А. Олейникова",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. С.Н. Ловягин",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы религиозных культур и светской этики и методика преподавания предмета в начальной школе",
+          "type": "practice",
+          "teacher": "доц. И.Г. Рябова",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы религиозных культур и светской этики и методика преподавания предмета в начальной школе",
+          "type": "practice",
+          "teacher": "доц. И.Г. Рябова",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания технологии и изобразительного искусства в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. Э.М. Галямова",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения решению задач в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Е.С. Немкина",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика обучения решению задач в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Е.С. Немкина",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

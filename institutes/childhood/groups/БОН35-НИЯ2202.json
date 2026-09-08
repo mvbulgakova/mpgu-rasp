@@ -1,0 +1,278 @@
+{
+  "name": "БОН35-НИЯ2202",
+  "year": 5,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "Начальное образование и Иностранный язык (английский)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Литература стран изучаемого языка",
+          "type": "practice",
+          "teacher": "доц. Г.Ю. Минералов",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Литература стран изучаемого языка",
+          "type": "practice",
+          "teacher": "доц. Г.Ю. Минералов",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Стилистика английского языка",
+          "type": "practice",
+          "teacher": "доц. О.Э. Хазанова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Стилистика английского языка",
+          "type": "practice",
+          "teacher": "доц. О.Э. Хазанова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. Ю.В. Чечеткин",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. Ю.В. Чечеткин",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теоретическая грамматика английского языка",
+          "type": "practice",
+          "teacher": "доц. Е.А. Жигайкова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "доц. Т.А. Креславская",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "доц. Т.А. Креславская",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения и воспитания (английский язык)",
+          "type": "practice",
+          "teacher": "асс. Л.Н. Филатова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теоретическая фонетика английского языка",
+          "type": "practice",
+          "teacher": "доц. С.М. Рогожина",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Литература стран изучаемого языка",
+          "type": "practice",
+          "teacher": "доц. Г.Ю. Минералов",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Литература стран изучаемого языка",
+          "type": "practice",
+          "teacher": "доц. Г.Ю. Минералов",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Стилистика английского языка",
+          "type": "practice",
+          "teacher": "доц. О.Э. Хазанова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Стилистика английского языка",
+          "type": "practice",
+          "teacher": "доц. О.Э. Хазанова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. Ю.В. Чечеткин",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. Ю.В. Чечеткин",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теоретическая грамматика английского языка",
+          "type": "practice",
+          "teacher": "доц. Е.А. Жигайкова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "доц. Т.А. Креславская",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "доц. Т.А. Креславская",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения и воспитания (английский язык)",
+          "type": "practice",
+          "teacher": "асс. Л.Н. Филатова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теоретическая фонетика английского языка",
+          "type": "practice",
+          "teacher": "доц. С.М. Рогожина",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

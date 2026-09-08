@@ -1,0 +1,608 @@
+{
+  "name": "ВОН34-НОБ2407",
+  "year": 3,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01. Педагогическое образование",
+  "profile": "Начальное образование",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика метапредметного обучения в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. А.Э. Удрас (читальный зал)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Проектирование и организация мероприятий в условиях дополнительного образования",
+          "type": "practice",
+          "teacher": "доц. Э.М. Галямова",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения математике в начальной школе Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения математике в начальной школе Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения математике в начальной школе Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения математике в начальной школе Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "427",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. М.А. Олейникова",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математика и информатика Подгруппа Б:",
+          "type": "practice",
+          "teacher": "проф. А.А. Локшин",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика Подгруппа А:",
+          "type": "practice",
+          "teacher": "проф. А.А. Локшин",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика Подгруппа Б:",
+          "type": "practice",
+          "teacher": "проф. А.А. Локшин",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математика и информатика Подгруппа А:",
+          "type": "practice",
+          "teacher": "проф. А.А. Локшин",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Г.М. Выгонская",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Г.М. Выгонская",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика метапредметного обучения в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. А.Э. Удрас (читальный зал)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Проектирование и организация мероприятий в условиях дополнительного образования",
+          "type": "practice",
+          "teacher": "доц. Э.М. Галямова",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения математике в начальной школе Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения математике в начальной школе Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения математике в начальной школе Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения математике в начальной школе Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "427",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. М.А. Олейникова",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математика и информатика Подгруппа Б:",
+          "type": "practice",
+          "teacher": "проф. А.А. Локшин",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика Подгруппа А:",
+          "type": "practice",
+          "teacher": "проф. А.А. Локшин",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика Подгруппа Б:",
+          "type": "practice",
+          "teacher": "проф. А.А. Локшин",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математика и информатика Подгруппа А:",
+          "type": "practice",
+          "teacher": "проф. А.А. Локшин",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Г.М. Выгонская",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Г.М. Выгонская",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

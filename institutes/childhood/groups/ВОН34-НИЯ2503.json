@@ -1,0 +1,520 @@
+{
+  "name": "ВОН34-НИЯ2503",
+  "year": 2,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "Начальное образование и Иностранный язык (английский)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практика устной и письменной речи (английский язык)",
+          "type": "practice",
+          "teacher": "доц. Г.Ю. Минералов",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практика устной и письменной речи (английский язык)",
+          "type": "practice",
+          "teacher": "доц. Г.Ю. Минералов",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Безопасность жизнедеятельности Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "ст.преп. Х.Т. Умхажиева",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Безопасность жизнедеятельности Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания изобразительного искусства и труда (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. Н.Б. Пушина",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "доц. О.В. Бахтина",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "доц. О.В. Бахтина",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Практика устной и письменной речи (английский язык)",
+          "type": "practice",
+          "teacher": "доц. Г.Ю. Минералов",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Е.В. Борисова",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Русский язык с практикумом по правописанию",
+          "type": "practice",
+          "teacher": "доц. И.М. Гольберг",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практика устной и письменной речи (английский язык)",
+          "type": "practice",
+          "teacher": "доц. Д.В. Жарова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "ст.преп. О.С. Фомина",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Практика устной и письменной речи (английский язык)",
+          "type": "practice",
+          "teacher": "ст.преп. Л.В. Земскова",
+          "room": "427",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практика устной и письменной речи (английский язык)",
+          "type": "practice",
+          "teacher": "ст.преп. Л.В. Земскова",
+          "room": "427",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы естествознания и обществознания",
+          "type": "practice",
+          "teacher": "доц. В.А. Самкова",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практика устной и письменной речи (английский язык)",
+          "type": "practice",
+          "teacher": "доц. Д.В. Жарова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика преподавания изобразительного искусства и труда (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. Ж.А. Першина",
+          "room": "433",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практика устной и письменной речи (английский язык)",
+          "type": "practice",
+          "teacher": "доц. Г.Ю. Минералов",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практика устной и письменной речи (английский язык)",
+          "type": "practice",
+          "teacher": "доц. Г.Ю. Минералов",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Безопасность жизнедеятельности Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "ст.преп. Х.Т. Умхажиева",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Безопасность жизнедеятельности Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания изобразительного искусства и труда (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. Н.Б. Пушина",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "доц. О.В. Бахтина",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "доц. О.В. Бахтина",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Практика устной и письменной речи (английский язык)",
+          "type": "practice",
+          "teacher": "доц. Г.Ю. Минералов",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Е.В. Борисова",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Русский язык с практикумом по правописанию",
+          "type": "practice",
+          "teacher": "доц. И.М. Гольберг",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практика устной и письменной речи (английский язык)",
+          "type": "practice",
+          "teacher": "доц. Д.В. Жарова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "ст.преп. О.С. Фомина",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Практика устной и письменной речи (английский язык)",
+          "type": "practice",
+          "teacher": "ст.преп. Л.В. Земскова",
+          "room": "427",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практика устной и письменной речи (английский язык)",
+          "type": "practice",
+          "teacher": "ст.преп. Л.В. Земскова",
+          "room": "427",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы естествознания и обществознания",
+          "type": "practice",
+          "teacher": "доц. В.А. Самкова",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практика устной и письменной речи (английский язык)",
+          "type": "practice",
+          "teacher": "доц. Д.В. Жарова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика преподавания изобразительного искусства и труда (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. Ж.А. Першина",
+          "room": "433",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

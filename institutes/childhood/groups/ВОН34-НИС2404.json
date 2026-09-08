@@ -1,0 +1,982 @@
+{
+  "name": "ВОН34-НИС2404",
+  "year": 3,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01. Педагогическое образование",
+  "profile": "Начальное образование и История",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "проф. А.Н. Джуринский",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России (ХVIII - начало XX вв.)",
+          "type": "lecture",
+          "teacher": "проф. О.В. Ерохина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. А.И. Самедова",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России (ХVIII - начало XX вв.)",
+          "type": "practice",
+          "teacher": "асс. Д.Д. Бандурин",
+          "room": "415",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России (ХVIII - начало XX вв.)",
+          "type": "practice",
+          "teacher": "асс. Д.Д. Бандурин",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Г.М. Выгонская",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История Нового времени",
+          "type": "practice",
+          "teacher": "асс. А.С. Трофимов",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Русский язык с практикумом по правописанию",
+          "type": "practice",
+          "teacher": "доц. Е.Д. Бабина",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Русский язык с практикумом по правописанию",
+          "type": "practice",
+          "teacher": "доц. Е.Д. Бабина",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "room": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "доц. Л.А. Никитина",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "practice",
+          "teacher": "ст.преп. Т.С. Шевченко",
+          "room": "438",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "room": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История Нового времени",
+          "type": "lecture",
+          "teacher": "доц. А.А. Куницын",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "проф. А.Н. Джуринский",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История Нового времени",
+          "type": "lecture",
+          "teacher": "доц. А.А. Куницын",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История Нового времени",
+          "type": "practice",
+          "teacher": "доц. А.А. Куницын",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Русский язык с практикумом по правописанию",
+          "type": "lecture",
+          "teacher": "доц. М.В. Каравашкина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История Нового времени",
+          "type": "practice",
+          "teacher": "доц. А.А. Куницын",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Г.М. Выгонская",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История Нового времени",
+          "type": "practice",
+          "teacher": "доц. А.А. Куницын",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "room": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Ю.С. Сиренко",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Ю.С. Сиренко",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Е.В. Борисова",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. А.И. Самедова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика метапредметного обучения в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. А.Э. Удрас (читальный зал)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Производственная практика (педагогическая практика, классное руководство)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Производственная практика (педагогическая практика, классное руководство)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Производственная практика (педагогическая практика, классное руководство)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Производственная практика (педагогическая практика, классное руководство)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "lecture",
+          "teacher": "доц. Ю.И. Соловьева https:",
+          "room": "rbb.mpgu.su/b/vpf-gyu-2x5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "доц. В.В. Тимошенко",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "lecture",
+          "teacher": "доц. Ю.И. Соловьева https:",
+          "room": "rbb.mpgu.su/b/vpf-gyu-2x5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "доц. В.В. Тимошенко",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математика и информатика",
+          "type": "lecture",
+          "teacher": "проф. А.Л. Чекин https:",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика",
+          "type": "lecture",
+          "teacher": "проф. А.Л. Чекин https:",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "проф. А.Н. Джуринский",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России (ХVIII - начало XX вв.)",
+          "type": "lecture",
+          "teacher": "проф. О.В. Ерохина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. А.И. Самедова",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России (ХVIII - начало XX вв.)",
+          "type": "practice",
+          "teacher": "асс. Д.Д. Бандурин",
+          "room": "415",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России (ХVIII - начало XX вв.)",
+          "type": "practice",
+          "teacher": "асс. Д.Д. Бандурин",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Г.М. Выгонская",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История Нового времени",
+          "type": "practice",
+          "teacher": "асс. А.С. Трофимов",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Русский язык с практикумом по правописанию",
+          "type": "practice",
+          "teacher": "доц. Е.Д. Бабина",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Русский язык с практикумом по правописанию",
+          "type": "practice",
+          "teacher": "доц. Е.Д. Бабина",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "room": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "доц. Л.А. Никитина",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "practice",
+          "teacher": "ст.преп. Т.С. Шевченко",
+          "room": "438",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "room": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История Нового времени",
+          "type": "lecture",
+          "teacher": "доц. А.А. Куницын",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "проф. А.Н. Джуринский",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История Нового времени",
+          "type": "lecture",
+          "teacher": "доц. А.А. Куницын",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История Нового времени",
+          "type": "practice",
+          "teacher": "доц. А.А. Куницын",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Русский язык с практикумом по правописанию",
+          "type": "lecture",
+          "teacher": "доц. М.В. Каравашкина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История Нового времени",
+          "type": "practice",
+          "teacher": "доц. А.А. Куницын",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Г.М. Выгонская",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История Нового времени",
+          "type": "practice",
+          "teacher": "доц. А.А. Куницын",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "room": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Ю.С. Сиренко",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Ю.С. Сиренко",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Е.В. Борисова",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. А.И. Самедова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика метапредметного обучения в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. А.Э. Удрас (читальный зал)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Производственная практика (педагогическая практика, классное руководство)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Производственная практика (педагогическая практика, классное руководство)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Производственная практика (педагогическая практика, классное руководство)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Производственная практика (педагогическая практика, классное руководство)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "lecture",
+          "teacher": "доц. Ю.И. Соловьева https:",
+          "room": "rbb.mpgu.su/b/vpf-gyu-2x5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "доц. В.В. Тимошенко",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "lecture",
+          "teacher": "доц. Ю.И. Соловьева https:",
+          "room": "rbb.mpgu.su/b/vpf-gyu-2x5",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "доц. В.В. Тимошенко",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математика и информатика",
+          "type": "lecture",
+          "teacher": "проф. А.Л. Чекин https:",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика",
+          "type": "lecture",
+          "teacher": "проф. А.Л. Чекин https:",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,632 @@
+{
+  "name": "БОН35-НОИ2203",
+  "year": 5,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "Начальное образование и Информатика",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "438",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Веб-технологии",
+          "type": "practice",
+          "teacher": "ст.преп. О.И. Шилтова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Компьютерное моделирование",
+          "type": "practice",
+          "teacher": "ст.преп. О.И. Шилтова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Веб-технологии",
+          "type": "practice",
+          "teacher": "ст.преп. О.И. Шилтова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Компьютерное моделирование",
+          "type": "practice",
+          "teacher": "ст.преп. О.И. Шилтова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Информационные системы",
+          "type": "practice",
+          "teacher": "доц. А.И. Лебо",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дисциплина по выбору Робототехника",
+          "type": "practice",
+          "teacher": "доц. Д.И. Павлов",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационные системы",
+          "type": "practice",
+          "teacher": "доц. А.И. Лебо",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору Робототехника",
+          "type": "practice",
+          "teacher": "доц. Д.И. Павлов",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплины по выбору : Занимательная и олимпиадная математика в начальной школе",
+          "type": "practice",
+          "teacher": "проф. А.А. Локшин",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Веб-технологии",
+          "type": "lecture",
+          "teacher": "доц. Д.И. Павлов",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплины по выбору : Занимательная и олимпиадная математика в начальной школе",
+          "type": "practice",
+          "teacher": "проф. А.А. Локшин",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теоретические основы информатики",
+          "type": "practice",
+          "teacher": "доц. М.В. Райко",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теоретические основы информатики",
+          "type": "practice",
+          "teacher": "доц. М.В. Райко",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теоретические основы информатики",
+          "type": "lecture",
+          "teacher": "проф. А.Г. Леонов",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения информатике",
+          "type": "practice",
+          "teacher": "ст.преп. А.Ю. Босова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. Е.А. Стародубова",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения информатике",
+          "type": "practice",
+          "teacher": "ст.преп. А.Ю. Босова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. Е.А. Стародубова",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практикум по решению предметных задач",
+          "type": "practice",
+          "teacher": "ст.преп. А.Ю. Босова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практикум по решению предметных задач",
+          "type": "practice",
+          "teacher": "ст.преп. А.Ю. Босова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "lecture",
+          "teacher": "проф. Е.Н. Землянская",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "lecture",
+          "teacher": "доц. Е.А. Стародубова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "lecture",
+          "teacher": "доц. Е.А. Стародубова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Компьютерное моделирование",
+          "type": "lecture",
+          "teacher": "доц. А.И. Лебо",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Компьютерное моделирование",
+          "type": "lecture",
+          "teacher": "доц. А.И. Лебо",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "438",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Веб-технологии",
+          "type": "practice",
+          "teacher": "ст.преп. О.И. Шилтова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Компьютерное моделирование",
+          "type": "practice",
+          "teacher": "ст.преп. О.И. Шилтова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Веб-технологии",
+          "type": "practice",
+          "teacher": "ст.преп. О.И. Шилтова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Компьютерное моделирование",
+          "type": "practice",
+          "teacher": "ст.преп. О.И. Шилтова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Информационные системы",
+          "type": "practice",
+          "teacher": "доц. А.И. Лебо",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дисциплина по выбору Робототехника",
+          "type": "practice",
+          "teacher": "доц. Д.И. Павлов",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационные системы",
+          "type": "practice",
+          "teacher": "доц. А.И. Лебо",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору Робототехника",
+          "type": "practice",
+          "teacher": "доц. Д.И. Павлов",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплины по выбору : Занимательная и олимпиадная математика в начальной школе",
+          "type": "practice",
+          "teacher": "проф. А.А. Локшин",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Веб-технологии",
+          "type": "lecture",
+          "teacher": "доц. Д.И. Павлов",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплины по выбору : Занимательная и олимпиадная математика в начальной школе",
+          "type": "practice",
+          "teacher": "проф. А.А. Локшин",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теоретические основы информатики",
+          "type": "practice",
+          "teacher": "доц. М.В. Райко",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теоретические основы информатики",
+          "type": "practice",
+          "teacher": "доц. М.В. Райко",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теоретические основы информатики",
+          "type": "lecture",
+          "teacher": "проф. А.Г. Леонов",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения информатике",
+          "type": "practice",
+          "teacher": "ст.преп. А.Ю. Босова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. Е.А. Стародубова",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения информатике",
+          "type": "practice",
+          "teacher": "ст.преп. А.Ю. Босова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. Е.А. Стародубова",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практикум по решению предметных задач",
+          "type": "practice",
+          "teacher": "ст.преп. А.Ю. Босова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практикум по решению предметных задач",
+          "type": "practice",
+          "teacher": "ст.преп. А.Ю. Босова",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "lecture",
+          "teacher": "проф. Е.Н. Землянская",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "lecture",
+          "teacher": "доц. Е.А. Стародубова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "lecture",
+          "teacher": "доц. Е.А. Стародубова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Компьютерное моделирование",
+          "type": "lecture",
+          "teacher": "доц. А.И. Лебо",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Компьютерное моделирование",
+          "type": "lecture",
+          "teacher": "доц. А.И. Лебо",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

@@ -100,6 +100,17 @@
       "updated_at": "2026-09-08T23:17:17.734365+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
+    },
+    {
+      "id": "childhood",
+      "name": "Институт детства",
+      "short_name": "ИД",
+      "campus": "КГФ",
+      "campus_address": "пр-т Вернадского, 88",
+      "groups_count": 54,
+      "updated_at": "2026-09-08T23:26:24.359002+00:00",
+      "status": "ok",
+      "parser_used": "claude"
     }
   ]
 }

@@ -1,0 +1,872 @@
+{
+  "name": "БОН35-НИЯ2301",
+  "year": 4,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05. Педагогическое образование (с двумя профилями подготовки)",
+  "profile": "Начальное образование и Иностранный язык (английский)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплины по выбору Интеграция детей с опытом миграции",
+          "type": "lecture",
+          "teacher": "доц. И.Г. Рябова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. А.Ю. Никитченков",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплины по выбору Интеграция детей с опытом миграции",
+          "type": "practice",
+          "teacher": "доц. И.Г. Рябова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. А.Ю. Никитченков",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения математике в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. З.Б. Редько",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. А.Ю. Никитченков",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика обучения математике в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. З.Б. Редько",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом",
+          "type": "lecture",
+          "teacher": "доц. А.И. Самедова https:",
+          "room": "x01.pk.mpgu.su/b/cnx-l6w-wfy",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом",
+          "type": "lecture",
+          "teacher": "доц. А.И. Самедова https:",
+          "room": "x01.pk.mpgu.su/b/cnx-l6w-wfy",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. В.А. Самкова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. В.А. Самкова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. С.Н. Ловягин",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. С.Н. Ловягин",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения математике в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Е.С. Немкина",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения математике в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Е.С. Немкина",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания технологии и изобразительного искусства в начальной школе с практикумом Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. И.Л. Голованова",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения и воспитания (английский язык)",
+          "type": "practice",
+          "teacher": "асс. Л.Н. Филатова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания технологии и изобразительного искусства в начальной школе с практикумом Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. И.Л. Голованова",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения и воспитания (английский язык)",
+          "type": "practice",
+          "teacher": "асс. Л.Н. Филатова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Страноведение",
+          "type": "lecture",
+          "teacher": "доц. Д.А. Юлдашева",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Страноведение",
+          "type": "lecture",
+          "teacher": "доц. Д.А. Юлдашева",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплины по выбору Интеграция детей с опытом миграции",
+          "type": "lecture",
+          "teacher": "доц. И.Г. Рябова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. А.Ю. Никитченков",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплины по выбору Интеграция детей с опытом миграции",
+          "type": "practice",
+          "teacher": "доц. И.Г. Рябова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. А.Ю. Никитченков",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения математике в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. З.Б. Редько",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. А.Ю. Никитченков",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика обучения математике в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. З.Б. Редько",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом",
+          "type": "lecture",
+          "teacher": "доц. А.И. Самедова https:",
+          "room": "x01.pk.mpgu.su/b/cnx-l6w-wfy",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом",
+          "type": "lecture",
+          "teacher": "доц. А.И. Самедова https:",
+          "room": "x01.pk.mpgu.su/b/cnx-l6w-wfy",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. В.А. Самкова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. В.А. Самкова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика (ознакомительная практика по профилю Иностранный язык (английский))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практика устной и письменной речи (английский язык) Подгруппа А:",
+          "type": "practice",
+          "teacher": "асс. К.С. Божанова",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. С.Н. Ловягин",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. С.Н. Ловягин",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения математике в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Е.С. Немкина",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения математике в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Е.С. Немкина",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания технологии и изобразительного искусства в начальной школе с практикумом Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. И.Л. Голованова",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения и воспитания (английский язык)",
+          "type": "practice",
+          "teacher": "асс. Л.Н. Филатова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания технологии и изобразительного искусства в начальной школе с практикумом Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. И.Л. Голованова",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения и воспитания (английский язык)",
+          "type": "practice",
+          "teacher": "асс. Л.Н. Филатова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Страноведение",
+          "type": "lecture",
+          "teacher": "доц. Д.А. Юлдашева",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Страноведение",
+          "type": "lecture",
+          "teacher": "доц. Д.А. Юлдашева",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,384 @@
+{
+  "name": "ВВН34-НОБ2502",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 Педагогическое образование",
+  "profile": "Начальное образование",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы естествознания и обществознания",
+          "type": "practice",
+          "teacher": "доцент В.А. Самкова",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "правописанию",
+          "type": "practice",
+          "teacher": "доцент А.Ю. Никитченкова",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "Основы литературоведения и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "практика",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "читательской деятельности",
+          "type": "practice",
+          "teacher": "доцент А.Ю. Никитченков",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математика и информатика старш",
+          "type": "practice",
+          "teacher": "преп. Т.А. Немкина",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "Методика обучения изобразительному искусству и труду (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доцент В.Ю. Борисов",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "Психология старш",
+          "type": "practice",
+          "teacher": "преп. М.Г. Абрамова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "417)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "Методы исследовательской и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "проектной деятельности",
+          "type": "practice",
+          "teacher": "доцент И.С. Конрад",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "07.10. 21.10, 18.11, 02.12",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "Нормативно-правовые основы",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "профессиональной деятельности и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "антикоррупционное поведение",
+          "type": "practice",
+          "teacher": "доцент А.В. Орлова",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы естествознания и обществознания",
+          "type": "practice",
+          "teacher": "доцент В.А. Самкова",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "правописанию",
+          "type": "practice",
+          "teacher": "доцент А.Ю. Никитченкова",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "Основы литературоведения и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "практика",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "читательской деятельности",
+          "type": "practice",
+          "teacher": "доцент А.Ю. Никитченков",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математика и информатика старш",
+          "type": "practice",
+          "teacher": "преп. Т.А. Немкина",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "Методика обучения изобразительному искусству и труду (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доцент В.Ю. Борисов",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "Психология старш",
+          "type": "practice",
+          "teacher": "преп. М.Г. Абрамова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "417)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "Методы исследовательской и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "проектной деятельности",
+          "type": "practice",
+          "teacher": "доцент И.С. Конрад",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "07.10. 21.10, 18.11, 02.12",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "Нормативно-правовые основы",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "профессиональной деятельности и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "антикоррупционное поведение",
+          "type": "practice",
+          "teacher": "доцент А.В. Орлова",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

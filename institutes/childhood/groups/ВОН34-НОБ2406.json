@@ -1,0 +1,916 @@
+{
+  "name": "ВОН34-НОБ2406",
+  "year": 3,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01. Педагогическое образование",
+  "profile": "Начальное образование",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "проф. А.Н. Джуринский",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Проектирование и организация мероприятий в условиях дополнительного образования",
+          "type": "lecture",
+          "teacher": "доц. Э.М. Галямова",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплины по выбору Театральное искусство в системе дополнительного образования",
+          "type": "lecture",
+          "teacher": "доц. Э.М. Галямова",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Проектирование и организация мероприятий в условиях дополнительного образования",
+          "type": "practice",
+          "teacher": "доц. Э.М. Галямова",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплины по выбору : Театральное искусство в системе дополнительного образования",
+          "type": "practice",
+          "teacher": "ст.преп. Е.С. Черкасова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика метапредметного обучения в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. А.Э. Удрас (читальный зал)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплины по выбору : Театральное искусство в системе дополнительного образования",
+          "type": "practice",
+          "teacher": "ст.преп. Е.С. Черкасова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения математике в начальной школе Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения математике в начальной школе Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения математике в начальной школе Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения математике в начальной школе Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "427",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. М.А. Олейникова",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Лаврова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математика и информатика Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Лаврова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения литературному чтению в начальной школе Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Лаврова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Лаврова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Г.М. Выгонская",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика метапредметного обучения в начальной школе",
+          "type": "lecture",
+          "teacher": "проф. А.А. Локшин https:",
+          "room": "rbb.mpgu.su/b/rtd-smg-y6l",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Г.М. Выгонская",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика метапредметного обучения в начальной школе",
+          "type": "lecture",
+          "teacher": "проф. А.А. Локшин https:",
+          "room": "rbb.mpgu.su/b/rtd-smg-y6l",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. З.Б. Редько https:",
+          "room": "telemost.yandex.ru/j/04105895240469",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. З.Б. Редько https:",
+          "room": "telemost.yandex.ru/j/04105895240469",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "проф. А.Н. Джуринский",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Проектирование и организация мероприятий в условиях дополнительного образования",
+          "type": "lecture",
+          "teacher": "доц. Э.М. Галямова",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплины по выбору Театральное искусство в системе дополнительного образования",
+          "type": "lecture",
+          "teacher": "доц. Э.М. Галямова",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Проектирование и организация мероприятий в условиях дополнительного образования",
+          "type": "practice",
+          "teacher": "доц. Э.М. Галямова",
+          "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплины по выбору : Театральное искусство в системе дополнительного образования",
+          "type": "practice",
+          "teacher": "ст.преп. Е.С. Черкасова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика метапредметного обучения в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. А.Э. Удрас (читальный зал)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплины по выбору : Театральное искусство в системе дополнительного образования",
+          "type": "practice",
+          "teacher": "ст.преп. Е.С. Черкасова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения математике в начальной школе Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения математике в начальной школе Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения математике в начальной школе Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения математике в начальной школе Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. З.Б. Редько",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Л.С. Саломатина",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "427",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. М.А. Олейникова",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Лаврова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Русский язык с практикумом по правописанию Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Т.В.Рыженкова",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математика и информатика Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Лаврова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения литературному чтению в начальной школе Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Лаврова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Лаврова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Г.М. Выгонская",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика метапредметного обучения в начальной школе",
+          "type": "lecture",
+          "teacher": "проф. А.А. Локшин https:",
+          "room": "rbb.mpgu.su/b/rtd-smg-y6l",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
+          "type": "practice",
+          "teacher": "ст.преп. Г.М. Выгонская",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика метапредметного обучения в начальной школе",
+          "type": "lecture",
+          "teacher": "проф. А.А. Локшин https:",
+          "room": "rbb.mpgu.su/b/rtd-smg-y6l",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. З.Б. Редько https:",
+          "room": "telemost.yandex.ru/j/04105895240469",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. З.Б. Редько https:",
+          "room": "telemost.yandex.ru/j/04105895240469",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

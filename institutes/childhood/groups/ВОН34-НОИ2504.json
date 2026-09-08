@@ -1,0 +1,630 @@
+{
+  "name": "ВОН34-НОИ2504",
+  "year": 2,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "Начальное образование и Информатика",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Учебная практика (педагогическая практика)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика (педагогическая практика)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "доц. Г.А. Стюхина",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Учебная практика (педагогическая практика)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика (педагогическая практика)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Информационные системы",
+          "type": "lecture",
+          "teacher": "доц. А.И. Лебо",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационные системы",
+          "type": "practice",
+          "teacher": "доц. А.И. Лебо",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "доц. О.В. Бахтина",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Информационные системы",
+          "type": "practice",
+          "teacher": "доц. А.И. Лебо",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "доц. О.В. Бахтина",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Безопасность жизнедеятельности Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Безопасность жизнедеятельности Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория алгоритмов",
+          "type": "lecture",
+          "teacher": "проф. А.Г. Леонов",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания изобразительного искусства и труда (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. Ж.А. Першина",
+          "room": "433",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория алгоритмов",
+          "type": "practice",
+          "teacher": "асс. М.В. Райко",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика преподавания изобразительного искусства и труда (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. Н.Б. Пушина",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория алгоритмов",
+          "type": "practice",
+          "teacher": "асс. М.В. Райко",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Русский язык с практикумом по правописанию",
+          "type": "practice",
+          "teacher": "доц. А.Ю. Никитченкова",
+          "room": "433",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "room": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Е.В. Борисова",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Финансово-экономический практикум",
+          "type": "lecture",
+          "teacher": "ст.преп. О.С. Фомина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "room": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы естествознания и обществознания",
+          "type": "practice",
+          "teacher": "доц. В.А. Самкова",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "ст.преп. О.С. Фомина",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Учебная практика (педагогическая практика)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика (педагогическая практика)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология",
+          "type": "practice",
+          "teacher": "доц. Г.А. Стюхина",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Учебная практика (педагогическая практика)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учебная практика (педагогическая практика)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Информационные системы",
+          "type": "lecture",
+          "teacher": "доц. А.И. Лебо",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Информационные системы",
+          "type": "practice",
+          "teacher": "доц. А.И. Лебо",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "доц. О.В. Бахтина",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Информационные системы",
+          "type": "practice",
+          "teacher": "доц. А.И. Лебо",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "доц. О.В. Бахтина",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Безопасность жизнедеятельности Подгруппа А:",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "437",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Безопасность жизнедеятельности Подгруппа Б:",
+          "type": "practice",
+          "teacher": "доц. Л.Х. Зарипова",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория алгоритмов",
+          "type": "lecture",
+          "teacher": "проф. А.Г. Леонов",
+          "room": "441",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания изобразительного искусства и труда (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. Ж.А. Першина",
+          "room": "433",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория алгоритмов",
+          "type": "practice",
+          "teacher": "асс. М.В. Райко",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика преподавания изобразительного искусства и труда (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. Н.Б. Пушина",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория алгоритмов",
+          "type": "practice",
+          "teacher": "асс. М.В. Райко",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Русский язык с практикумом по правописанию",
+          "type": "practice",
+          "teacher": "доц. А.Ю. Никитченкова",
+          "room": "433",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "room": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Е.В. Борисова",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Финансово-экономический практикум",
+          "type": "lecture",
+          "teacher": "ст.преп. О.С. Фомина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "room": "ст.преп. А.В. Кулаков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы естествознания и обществознания",
+          "type": "practice",
+          "teacher": "доц. В.А. Самкова",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "ст.преп. О.С. Фомина",
+          "room": "413",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

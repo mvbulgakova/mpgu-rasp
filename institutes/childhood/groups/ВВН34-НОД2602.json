@@ -1,0 +1,274 @@
+{
+  "name": "ВВН34-НОД2602",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 Педагогическое образование",
+  "profile": "Начальное образование и Дополнительное образование",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "профессор Н.А. Красноперова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Русский язык с практикумом",
+          "type": "practice",
+          "teacher": "доцент С.В. Зотова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "Основы профессиональной деятельности в системе дополнительного образования",
+          "type": "practice",
+          "teacher": "доцент Э.М. Галямова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "доцент В.А. Литвиненко",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика обучения изобразительносу искусству и труду (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доцент Ж.А. Першина",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социально-гуманитарная направленность дополнительного образования",
+          "type": "practice",
+          "teacher": "доцент Н.Б. Пушина",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "доцент А.В. Орлова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "Основы литературоведения и практика читательской деятельности старш",
+          "type": "practice",
+          "teacher": "преп. Ю.С. Сиренко",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "Иностранный язык: английский язык старш",
+          "type": "practice",
+          "teacher": "преп. Ю.С. Сиренко",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "Методика обучения изобразительному искусству и труду (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доцент Ж.А. Першина",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "доцент В.В. Тимошенко",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "профессор Н.А. Красноперова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Русский язык с практикумом",
+          "type": "practice",
+          "teacher": "доцент С.В. Зотова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "Основы профессиональной деятельности в системе дополнительного образования",
+          "type": "practice",
+          "teacher": "доцент Э.М. Галямова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "доцент В.А. Литвиненко",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика обучения изобразительносу искусству и труду (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доцент Ж.А. Першина",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социально-гуманитарная направленность дополнительного образования",
+          "type": "practice",
+          "teacher": "доцент Н.Б. Пушина",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "доцент А.В. Орлова",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "Основы литературоведения и практика читательской деятельности старш",
+          "type": "practice",
+          "teacher": "преп. Ю.С. Сиренко",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "Иностранный язык: английский язык старш",
+          "type": "practice",
+          "teacher": "преп. Ю.С. Сиренко",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "Методика обучения изобразительному искусству и труду (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доцент Ж.А. Першина",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "19:10",
+          "time_end": "20:40",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "доцент В.В. Тимошенко",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}
