@@ -94,7 +94,7 @@
           "subject": "Дисциплина по выбору: Кибербезопасность",
           "type": "practice",
           "teacher": "доц. Ф.В. Шаройко",
-          "room": "528",
+          "room": "508",
           "subgroup": null,
           "notes": ""
         },
@@ -105,7 +105,7 @@
           "subject": "Дисциплина по выбору: Кибербезопасность",
           "type": "practice",
           "teacher": "доц. Ф.В. Шаройко",
-          "room": "528",
+          "room": "508",
           "subgroup": null,
           "notes": ""
         },
@@ -205,7 +205,7 @@
           "time_end": "12:10",
           "subject": "Основы делового общения",
           "type": "practice",
-          "teacher": "доц. М.С. Корнийчук  9.09-",
+          "teacher": "доц. М.С. Корнийчук",
           "room": "203",
           "subgroup": null,
           "notes": ""
@@ -227,7 +227,7 @@
           "time_end": "14:10",
           "subject": "Управление персоналом",
           "type": "practice",
-          "teacher": "доц. М.С. Корнийчук  9.09-",
+          "teacher": "доц. М.С. Корнийчук",
           "room": "203",
           "subgroup": null,
           "notes": ""
@@ -503,7 +503,7 @@
           "subject": "Дисциплина по выбору: Кибербезопасность",
           "type": "practice",
           "teacher": "доц. Ф.В. Шаройко",
-          "room": "528",
+          "room": "508",
           "subgroup": null,
           "notes": ""
         },
@@ -514,7 +514,7 @@
           "subject": "Дисциплина по выбору: Кибербезопасность",
           "type": "practice",
           "teacher": "доц. Ф.В. Шаройко",
-          "room": "528",
+          "room": "508",
           "subgroup": null,
           "notes": ""
         },
@@ -614,7 +614,7 @@
           "time_end": "12:10",
           "subject": "Основы делового общения",
           "type": "practice",
-          "teacher": "доц. М.С. Корнийчук  9.09-",
+          "teacher": "доц. М.С. Корнийчук",
           "room": "203",
           "subgroup": null,
           "notes": ""
@@ -636,7 +636,7 @@
           "time_end": "14:10",
           "subject": "Управление персоналом",
           "type": "practice",
-          "teacher": "доц. М.С. Корнийчук  9.09-",
+          "teacher": "доц. М.С. Корнийчук",
           "room": "203",
           "subgroup": null,
           "notes": ""
