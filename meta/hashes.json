@@ -251,28 +251,76 @@
     "size_bytes": 0,
     "last_changed": "2026-09-08T23:33:41.455083+00:00"
   },
-  "history:https://mpgu.su/wp-content/uploads/2026/09/dnevnoe-2026-2027-uchebnyi-god-1-semestr-2.xlsx": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/dnevnoe-2026-2027-uchebnyi-god-1-semestr-2.xlsx",
-    "md5": "341baeaa999593ebdeb94e8e6f4818ba",
+  "geography:https://mpgu.su/wp-content/uploads/2026/08/2_kurs-2-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/08/2_kurs-2-1.pdf",
+    "md5": "b7d5c77cb35b105802690a76dc770510",
     "size_bytes": 0,
-    "last_changed": "2026-09-09T09:23:06.731209+00:00"
+    "last_changed": "2026-09-09T09:23:03.470526+00:00"
   },
-  "history:https://mpgu.su/wp-content/uploads/2026/08/raspisanie-ozfo-na-1-semestr-2026-2027-uch.-goda-versija-7.xlsx": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/08/raspisanie-ozfo-na-1-semestr-2026-2027-uch.-goda-versija-7.xlsx",
-    "md5": "0ab8101844fc2dacca2e05fb94c2c967",
+  "geography:https://mpgu.su/wp-content/uploads/2026/08/3_kurs-4-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/08/3_kurs-4-1.pdf",
+    "md5": "c5e871d9ae6e0f23405ce1b07b4ab1d4",
     "size_bytes": 0,
-    "last_changed": "2026-09-09T09:23:06.731226+00:00"
+    "last_changed": "2026-09-09T09:23:03.470548+00:00"
   },
-  "history:https://mpgu.su/wp-content/uploads/2026/08/raspisanie-zfo-bvo-bakalavriata-na-1-semestr-2026-2027-uch.-god.xlsx": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/08/raspisanie-zfo-bvo-bakalavriata-na-1-semestr-2026-2027-uch.-god.xlsx",
-    "md5": "d063a98be67a8b0dcad6b5af801cd11b",
+  "geography:https://mpgu.su/wp-content/uploads/2026/09/zfo-1-3-kursy-2026.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/zfo-1-3-kursy-2026.pdf",
+    "md5": "fe1e9b64a14d5efa92bd55cc84f26ee7",
     "size_bytes": 0,
-    "last_changed": "2026-09-09T09:23:06.731231+00:00"
+    "last_changed": "2026-09-09T09:23:03.470553+00:00"
   },
-  "history:https://mpgu.su/wp-content/uploads/2026/08/raspisanie-zfo-spvo-magistratury-na-1-semestr-2026-2027-uch.-god.xlsx": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/08/raspisanie-zfo-spvo-magistratury-na-1-semestr-2026-2027-uch.-god.xlsx",
-    "md5": "cd03f57f305d88a1235c7487383e3791",
+  "geography:https://mpgu.su/wp-content/uploads/2026/08/4_kurs-4-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/08/4_kurs-4-1.pdf",
+    "md5": "cbf7c7e302bc072ddd283cb5ed6440dd",
     "size_bytes": 0,
-    "last_changed": "2026-09-09T09:23:06.731234+00:00"
+    "last_changed": "2026-09-09T09:23:03.470557+00:00"
+  },
+  "geography:https://mpgu.su/wp-content/uploads/2026/08/5_kurs-3-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/08/5_kurs-3-1.pdf",
+    "md5": "da695970cb3321c05c78716537e3125b",
+    "size_bytes": 0,
+    "last_changed": "2026-09-09T09:23:03.470561+00:00"
+  },
+  "geography:https://mpgu.su/wp-content/uploads/2026/09/zfo-4-5-kursy-2026.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/zfo-4-5-kursy-2026.pdf",
+    "md5": "18a14d4c2df09768887e26b1da03c645",
+    "size_bytes": 0,
+    "last_changed": "2026-09-09T09:23:03.470564+00:00"
+  },
+  "geography:https://mpgu.su/wp-content/uploads/2026/09/tgo-1-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/tgo-1-1.pdf",
+    "md5": "aef877c9eb2fdfa0a92cd9c57fac26f4",
+    "size_bytes": 0,
+    "last_changed": "2026-09-09T09:23:03.470566+00:00"
+  },
+  "geography:https://mpgu.su/wp-content/uploads/2026/09/tot-1-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/tot-1-1.pdf",
+    "md5": "89064c3d504ded00124b0c28dc41616d",
+    "size_bytes": 0,
+    "last_changed": "2026-09-09T09:23:03.470569+00:00"
+  },
+  "geography:https://mpgu.su/wp-content/uploads/2026/09/tojer-1-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/tojer-1-1.pdf",
+    "md5": "4805f4c754ca57ea5630f5585b781d4c",
+    "size_bytes": 0,
+    "last_changed": "2026-09-09T09:23:03.470572+00:00"
+  },
+  "geography:https://mpgu.su/wp-content/uploads/2026/09/gumgeo-2-kurs.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/gumgeo-2-kurs.pdf",
+    "md5": "77ebfd46dce8292eb1b983de9c406a78",
+    "size_bytes": 0,
+    "last_changed": "2026-09-09T09:23:03.470575+00:00"
+  },
+  "geography:https://mpgu.su/wp-content/uploads/2026/09/tdo-2-kurs.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/tdo-2-kurs.pdf",
+    "md5": "d0bc6cf52e88348b3e4d83f54e898c44",
+    "size_bytes": 0,
+    "last_changed": "2026-09-09T09:23:03.470618+00:00"
+  },
+  "geography:https://mpgu.su/wp-content/uploads/2026/09/tojer-2.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/tojer-2.pdf",
+    "md5": "a2c1d2511db1208802ac49ae738a29f2",
+    "size_bytes": 0,
+    "last_changed": "2026-09-09T09:23:03.470624+00:00"
   }
 }
