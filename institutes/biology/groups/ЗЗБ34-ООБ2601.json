@@ -1,0 +1,160 @@
+{
+  "name": "ЗЗБ34-ООБ2601",
+  "year": 1,
+  "form": "correspondence",
+  "degree": "bachelor",
+  "direction": "44.04.01 Педагогическое образование",
+  "profile": "Образовательные технологии безопасности жизнедеятельности",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ В ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ – 12.09, 19.09; –26.09, 31.10",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Кравченко (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ В ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ – 12.09, 19.09, 26.09, 24.10, 31.10",
+          "type": "practice",
+          "teacher": "Доцент А.В. Кравченко (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ – 03.10, 10.10, 17.10, 24.10, 19.12",
+          "type": "practice",
+          "teacher": "Доцент Т.С. Глазунова (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПЕДАГОГИКА И ПСИХОЛОГИЯ ШКОЛЫ – 07.11, 14.11, 21.11, 28.11, 05.12, 12.12",
+          "type": "practice",
+          "teacher": "Профессор М.А. Гончаров (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПСИХОФИЗИОЛОГИЯ БЕЗОПАСНОГО ПОВЕДЕНИЯ – 14.11, 21.11 – 12.12",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Погодаева (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПСИХОФИЗИОЛОГИЯ БЕЗОПАСНОГО ПОВЕДЕНИЯ – 14.11, 21.11",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ В ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ – 12.09, 19.09; –26.09, 31.10",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Кравченко (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ В ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ – 12.09, 19.09, 26.09, 24.10, 31.10",
+          "type": "practice",
+          "teacher": "Доцент А.В. Кравченко (412",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК ДЛЯ СПЕЦИАЛЬНЫХ ЦЕЛЕЙ – 03.10, 10.10, 17.10, 24.10, 19.12",
+          "type": "practice",
+          "teacher": "Доцент Т.С. Глазунова (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПЕДАГОГИКА И ПСИХОЛОГИЯ ШКОЛЫ – 07.11, 14.11, 21.11, 28.11, 05.12, 12.12",
+          "type": "practice",
+          "teacher": "Профессор М.А. Гончаров (506",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПСИХОФИЗИОЛОГИЯ БЕЗОПАСНОГО ПОВЕДЕНИЯ – 14.11, 21.11 – 12.12",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Погодаева (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПСИХОФИЗИОЛОГИЯ БЕЗОПАСНОГО ПОВЕДЕНИЯ – 14.11, 21.11",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
