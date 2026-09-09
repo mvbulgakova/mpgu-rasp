@@ -3,7 +3,7 @@
   "institute_name": "Институт журналистики, коммуникаций и медиаобразования",
   "short_name": "ИЖКМ",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-08T23:30:25.751863+00:00",
+  "updated_at": "2026-09-09T09:41:57.995888+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
@@ -15,6 +15,15 @@
       "degree": "bachelor",
       "direction": "44.03.01 Педагогическое образование",
       "profile": "Журналистика и Литература"
+    },
+    {
+      "name": "ВОЖ09-ЖРН2601",
+      "file": "ВОЖ09-ЖРН2601",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "Журналистика"
     },
     {
       "name": "ВОЖ34-МХК2501",
