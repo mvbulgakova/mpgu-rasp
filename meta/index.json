@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T09:23:06.841097+00:00",
+  "generated_at": "2026-09-09T09:23:31.847925+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -9,7 +9,7 @@
       "campus": "КГФ",
       "campus_address": "пр-т Вернадского, 88",
       "groups_count": 15,
-      "updated_at": "2026-09-08T23:16:55.088011+00:00",
+      "updated_at": "2026-09-09T09:23:31.833401+00:00",
       "status": "ok",
       "parser_used": "gsheets"
     },
