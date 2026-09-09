@@ -57,9 +57,7 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        }
-      ],
-      "friday": [
+        },
         {
           "slot": 6,
           "time_start": "17:40",
@@ -72,6 +70,7 @@
           "notes": ""
         }
       ],
+      "friday": [],
       "saturday": []
     },
     "even_week": {
@@ -125,9 +124,7 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        }
-      ],
-      "friday": [
+        },
         {
           "slot": 6,
           "time_start": "17:40",
@@ -140,6 +137,7 @@
           "notes": ""
         }
       ],
+      "friday": [],
       "saturday": []
     }
   }

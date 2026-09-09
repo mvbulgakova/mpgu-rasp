@@ -312,58 +312,23 @@
           "notes": "ПЗ"
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Кибербезопасность",
-          "type": "lecture",
-          "teacher": "ст. преп. Савин М.Э",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Кибербезопасность",
-          "type": "lecture",
-          "teacher": "ст. преп. Савин М.Э",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Кибербезопасность",
-          "type": "lecture",
-          "teacher": "ст. преп. Савин М.Э",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "БOЗ35-КДО2201 (23)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
-      "friday": [
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
           "subject": "Психологическая подготовка юных спортсменов",
           "type": "lecture",
           "teacher": "ст. преп. Кабанова Е.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Кибербезопасность",
+          "type": "lecture",
+          "teacher": "ст. преп. Савин М.Э",
           "room": null,
           "subgroup": null,
           "notes": "ПЗ"
@@ -383,9 +348,42 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
+          "subject": "Кибербезопасность",
+          "type": "lecture",
+          "teacher": "ст. преп. Савин М.Э",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "Программно-нормативное, научно-методическое и информационное обеспечение спортивной подготовки",
           "type": "practice",
           "teacher": "доц. Петрова Н.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Кибербезопасность",
+          "type": "lecture",
+          "teacher": "ст. преп. Савин М.Э",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-КДО2201 (23)",
+          "type": "other",
+          "teacher": null,
           "room": null,
           "subgroup": null,
           "notes": ""
@@ -435,6 +433,7 @@
           "notes": ""
         }
       ],
+      "friday": [],
       "saturday": []
     },
     "even_week": {
@@ -743,58 +742,23 @@
           "notes": "ПЗ"
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Кибербезопасность",
-          "type": "lecture",
-          "teacher": "ст. преп. Савин М.Э",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Кибербезопасность",
-          "type": "lecture",
-          "teacher": "ст. преп. Савин М.Э",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Кибербезопасность",
-          "type": "lecture",
-          "teacher": "ст. преп. Савин М.Э",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "БOЗ35-КДО2201 (23)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
-      "friday": [
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
           "subject": "Психологическая подготовка юных спортсменов",
           "type": "lecture",
           "teacher": "ст. преп. Кабанова Е.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Кибербезопасность",
+          "type": "lecture",
+          "teacher": "ст. преп. Савин М.Э",
           "room": null,
           "subgroup": null,
           "notes": "ПЗ"
@@ -814,9 +778,42 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
+          "subject": "Кибербезопасность",
+          "type": "lecture",
+          "teacher": "ст. преп. Савин М.Э",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "Программно-нормативное, научно-методическое и информационное обеспечение спортивной подготовки",
           "type": "practice",
           "teacher": "доц. Петрова Н.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Кибербезопасность",
+          "type": "lecture",
+          "teacher": "ст. преп. Савин М.Э",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-КДО2201 (23)",
+          "type": "other",
+          "teacher": null,
           "room": null,
           "subgroup": null,
           "notes": ""
@@ -866,6 +863,7 @@
           "notes": ""
         }
       ],
+      "friday": [],
       "saturday": []
     }
   }

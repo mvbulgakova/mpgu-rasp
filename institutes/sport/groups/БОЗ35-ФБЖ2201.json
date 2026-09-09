@@ -257,41 +257,6 @@
           "notes": "ПЗ"
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Проектирование просветительских программ по физической культуре",
-          "type": "lecture",
-          "teacher": "проф. Гросс И.Л",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Проектирование просветительских программ по физической культуре",
-          "type": "lecture",
-          "teacher": "проф. Гросс И.Л",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "БOЗ35-ФБЖ2201 (30)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
-      "friday": [
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -320,6 +285,17 @@
           "subject": "культуре , Гроф. Гросс И.Л",
           "type": "lecture",
           "teacher": null,
+          "room": "215",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Проектирование просветительских программ по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
           "room": null,
           "subgroup": null,
           "notes": "ПЗ"
@@ -353,6 +329,17 @@
           "subject": "культуре , Гроф. Гросс И.Л",
           "type": "lecture",
           "teacher": null,
+          "room": "215",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Проектирование просветительских программ по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
           "room": null,
           "subgroup": null,
           "notes": "ПЗ"
@@ -372,9 +359,31 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
+          "subject": "Спортивная медицина",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "221",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "Лечебная физическая культура и массаж",
           "type": "practice",
           "teacher": "ст. преп. Глазкова А.С",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-ФБЖ2201 (30)",
+          "type": "other",
+          "teacher": null,
           "room": null,
           "subgroup": null,
           "notes": ""
@@ -402,6 +411,7 @@
           "notes": ""
         }
       ],
+      "friday": [],
       "saturday": []
     },
     "even_week": {
@@ -655,41 +665,6 @@
           "notes": "ПЗ"
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Проектирование просветительских программ по физической культуре",
-          "type": "lecture",
-          "teacher": "проф. Гросс И.Л",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Проектирование просветительских программ по физической культуре",
-          "type": "lecture",
-          "teacher": "проф. Гросс И.Л",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "БOЗ35-ФБЖ2201 (30)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
-      "friday": [
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -718,6 +693,17 @@
           "subject": "культуре , Гроф. Гросс И.Л",
           "type": "lecture",
           "teacher": null,
+          "room": "215",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Проектирование просветительских программ по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
           "room": null,
           "subgroup": null,
           "notes": "ПЗ"
@@ -751,6 +737,17 @@
           "subject": "культуре , Гроф. Гросс И.Л",
           "type": "lecture",
           "teacher": null,
+          "room": "215",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Проектирование просветительских программ по физической культуре",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
           "room": null,
           "subgroup": null,
           "notes": "ПЗ"
@@ -770,9 +767,31 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
+          "subject": "Спортивная медицина",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "221",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "Лечебная физическая культура и массаж",
           "type": "practice",
           "teacher": "ст. преп. Глазкова А.С",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-ФБЖ2201 (30)",
+          "type": "other",
+          "teacher": null,
           "room": null,
           "subgroup": null,
           "notes": ""
@@ -800,6 +819,7 @@
           "notes": ""
         }
       ],
+      "friday": [],
       "saturday": []
     }
   }

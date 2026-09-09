@@ -53,20 +53,9 @@
           "notes": "ПЗ"
         },
         {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "Психо-физиология здоровья",
-          "type": "lecture",
-          "teacher": "проф. Воробьев В.С",
-          "room": "221",
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
           "subject": "ЗOЗ40-АФК2601",
           "type": "other",
           "teacher": null,
@@ -268,9 +257,20 @@
           "notes": "ПЗ"
         },
         {
-          "slot": 6,
-          "time_start": "17:40",
-          "time_end": "19:10",
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Психо-физиология здоровья",
+          "type": "lecture",
+          "teacher": "проф. Воробьев В.С",
+          "room": "221",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
           "subject": "ЗOЗ40-АФК2601",
           "type": "other",
           "teacher": null,
@@ -440,20 +440,9 @@
           "notes": "ПЗ"
         },
         {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "Психо-физиология здоровья",
-          "type": "lecture",
-          "teacher": "проф. Воробьев В.С",
-          "room": "221",
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
           "subject": "ЗOЗ40-АФК2601",
           "type": "other",
           "teacher": null,
@@ -655,9 +644,20 @@
           "notes": "ПЗ"
         },
         {
-          "slot": 6,
-          "time_start": "17:40",
-          "time_end": "19:10",
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Психо-физиология здоровья",
+          "type": "lecture",
+          "teacher": "проф. Воробьев В.С",
+          "room": "221",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
           "subject": "ЗOЗ40-АФК2601",
           "type": "other",
           "teacher": null,

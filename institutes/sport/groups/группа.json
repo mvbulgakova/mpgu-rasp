@@ -2042,6 +2042,17 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "доц. Чистова А.В",
+          "room": "КГФ",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
           "subject": "ЭК по ФКиС: Пляжный волейбол, Волейбол на снегу",
           "type": "other",
           "teacher": "асс. Терентьева Е.В",
@@ -2163,10 +2174,21 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "доц. Чистова А.В",
+          "room": "КГФ",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "Теоретические основы безопасности жизнедеятельности",
           "type": "lecture",
           "teacher": "проф. Газизулин Т.Г",
-          "room": "214",
+          "room": "218",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -2287,7 +2309,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "ст. преп. Маниева С.А",
-          "room": "213",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -2317,10 +2339,32 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ст. преп. Маниева С.А",
+          "room": "213",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
           "room": "218",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "доц. Чистова А.В",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -2353,7 +2397,7 @@
           "subject": "Анатомия человека",
           "type": "practice",
           "teacher": "доц. Шонус Д.Х",
-          "room": "221",
+          "room": "218",
           "subgroup": null,
           "notes": ""
         },
@@ -2375,7 +2419,7 @@
           "subject": "Педагогика",
           "type": "practice",
           "teacher": "доц. Тарасова Ю.А",
-          "room": null,
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -2507,7 +2551,7 @@
           "subject": "Педагогика",
           "type": "practice",
           "teacher": "доц. Тарасова Ю.А",
-          "room": null,
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -2661,7 +2705,7 @@
           "subject": "Психология воспитательных практик",
           "type": "practice",
           "teacher": "доц. Лукинова А.В",
-          "room": null,
+          "room": "214",
           "subgroup": null,
           "notes": ""
         },
@@ -2738,7 +2782,7 @@
           "subject": "Методика преподавания предмета «Физическая культура»",
           "type": "lecture",
           "teacher": "ст. преп. Ястребова Е.А",
-          "room": "213",
+          "room": "101",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -2861,7 +2905,7 @@
           "subject": "Лечебная физическая культура и массаж",
           "type": "practice",
           "teacher": "доц. Шонус Д.Х",
-          "room": "218",
+          "room": "221",
           "subgroup": null,
           "notes": ""
         },
@@ -2960,7 +3004,7 @@
           "subject": "Спортивная медицина",
           "type": "practice",
           "teacher": "доц. Шонус Д.Х",
-          "room": "218",
+          "room": "221",
           "subgroup": null,
           "notes": ""
         },
@@ -3070,7 +3114,7 @@
           "subject": "Организационно-правовые основы физкультурно-спортивной деятельности",
           "type": "practice",
           "teacher": "доц. Петрова Н.Г",
-          "room": "215",
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -3180,7 +3224,7 @@
           "subject": "Нормативно-правовое обеспечение дополнительного образования",
           "type": "practice",
           "teacher": "доц. Петрова Н.Г",
-          "room": "215",
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -6401,6 +6445,17 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "доц. Чистова А.В",
+          "room": "КГФ",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
           "subject": "ЭК по ФКиС: Пляжный волейбол, Волейбол на снегу",
           "type": "other",
           "teacher": "асс. Терентьева Е.В",
@@ -6522,10 +6577,21 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "доц. Чистова А.В",
+          "room": "КГФ",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "Теоретические основы безопасности жизнедеятельности",
           "type": "lecture",
           "teacher": "проф. Газизулин Т.Г",
-          "room": "214",
+          "room": "218",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -6646,7 +6712,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "ст. преп. Маниева С.А",
-          "room": "213",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -6676,10 +6742,32 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ст. преп. Маниева С.А",
+          "room": "213",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
           "room": "218",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "доц. Чистова А.В",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -6712,7 +6800,7 @@
           "subject": "Анатомия человека",
           "type": "practice",
           "teacher": "доц. Шонус Д.Х",
-          "room": "221",
+          "room": "218",
           "subgroup": null,
           "notes": ""
         },
@@ -6734,7 +6822,7 @@
           "subject": "Педагогика",
           "type": "practice",
           "teacher": "доц. Тарасова Ю.А",
-          "room": null,
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -6866,7 +6954,7 @@
           "subject": "Педагогика",
           "type": "practice",
           "teacher": "доц. Тарасова Ю.А",
-          "room": null,
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -7020,7 +7108,7 @@
           "subject": "Психология воспитательных практик",
           "type": "practice",
           "teacher": "доц. Лукинова А.В",
-          "room": null,
+          "room": "214",
           "subgroup": null,
           "notes": ""
         },
@@ -7097,7 +7185,7 @@
           "subject": "Методика преподавания предмета «Физическая культура»",
           "type": "lecture",
           "teacher": "ст. преп. Ястребова Е.А",
-          "room": "213",
+          "room": "101",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -7220,7 +7308,7 @@
           "subject": "Лечебная физическая культура и массаж",
           "type": "practice",
           "teacher": "доц. Шонус Д.Х",
-          "room": "218",
+          "room": "221",
           "subgroup": null,
           "notes": ""
         },
@@ -7319,7 +7407,7 @@
           "subject": "Спортивная медицина",
           "type": "practice",
           "teacher": "доц. Шонус Д.Х",
-          "room": "218",
+          "room": "221",
           "subgroup": null,
           "notes": ""
         },
@@ -7429,7 +7517,7 @@
           "subject": "Организационно-правовые основы физкультурно-спортивной деятельности",
           "type": "practice",
           "teacher": "доц. Петрова Н.Г",
-          "room": "215",
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -7539,7 +7627,7 @@
           "subject": "Нормативно-правовое обеспечение дополнительного образования",
           "type": "practice",
           "teacher": "доц. Петрова Н.Г",
-          "room": "215",
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
