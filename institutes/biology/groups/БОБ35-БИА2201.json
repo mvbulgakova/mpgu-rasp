@@ -251,7 +251,7 @@
           "time_end": "10:30",
           "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ",
           "type": "practice",
-          "teacher": "Ст. преп. Т.А. Смирнова (208",
+          "teacher": "Ст. преп. Т.А. Смирнова (204",
           "room": null,
           "subgroup": null,
           "notes": ""
@@ -358,19 +358,6 @@
           "notes": ""
         },
         {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "ОХРАНА ПРИРОДЫ И РАЦИ- ОНАЛЬНОЕ ПРИРОДОПОЛЬ- ЗОВАНИЕ",
-          "type": "practice",
-          "teacher": "Доцент А.А. Мосалов (509",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
-      "saturday": [
-        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -385,14 +372,15 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "ПРАВА РЕБЕНКА – 12.09, 26.09",
-          "type": "lecture",
-          "teacher": "Профессор Е.Л. Болотова (304",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИ- ОНАЛЬНОЕ ПРИРОДОПОЛЬ- ЗОВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (509",
           "room": null,
           "subgroup": null,
           "notes": ""
         }
-      ]
+      ],
+      "saturday": []
     },
     "even_week": {
       "monday": [
@@ -639,7 +627,7 @@
           "time_end": "10:30",
           "subject": "РЕШЕНИЕ ПРОФЕССИОНАЛЬНЫХ ЗАДАЧ УЧИТЕЛЯ",
           "type": "practice",
-          "teacher": "Ст. преп. Т.А. Смирнова (208",
+          "teacher": "Ст. преп. Т.А. Смирнова (204",
           "room": null,
           "subgroup": null,
           "notes": ""
@@ -746,19 +734,6 @@
           "notes": ""
         },
         {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "ОХРАНА ПРИРОДЫ И РАЦИ- ОНАЛЬНОЕ ПРИРОДОПОЛЬ- ЗОВАНИЕ",
-          "type": "practice",
-          "teacher": "Доцент А.А. Мосалов (509",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
-      "saturday": [
-        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -773,14 +748,15 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "ПРАВА РЕБЕНКА – 12.09, 26.09",
-          "type": "lecture",
-          "teacher": "Профессор Е.Л. Болотова (304",
+          "subject": "ОХРАНА ПРИРОДЫ И РАЦИ- ОНАЛЬНОЕ ПРИРОДОПОЛЬ- ЗОВАНИЕ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мосалов (509",
           "room": null,
           "subgroup": null,
           "notes": ""
         }
-      ]
+      ],
+      "saturday": []
     }
   }
 }
