@@ -1,5 +1,5 @@
 {
-  "name": "ВОН35-НИЯ2602",
+  "name": "ВОН34-НИЯ2602",
   "year": 1,
   "form": "full_time",
   "degree": "bachelor",
@@ -14,10 +14,10 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "Практическая грамматика",
+          "subject": "Практическая грамматика Подгруппа А:",
           "type": "practice",
           "teacher": "доц. Е.А. Жигайкова",
-          "room": null,
+          "room": "414",
           "subgroup": null,
           "notes": ""
         },
@@ -28,7 +28,7 @@
           "subject": "Основы литературоведения и практика читательской деятельности",
           "type": "practice",
           "teacher": "ст.преп. Ю.С. Сиренко",
-          "room": null,
+          "room": "416",
           "subgroup": null,
           "notes": ""
         },
@@ -39,7 +39,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. А.Г. Смирнов",
-          "room": null,
+          "room": "424",
           "subgroup": null,
           "notes": ""
         },
@@ -50,7 +50,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "доц. А.В. Орлова",
-          "room": null,
+          "room": "424",
           "subgroup": null,
           "notes": ""
         },
@@ -61,7 +61,7 @@
           "subject": "Методика обучения изобразительному искусству и труду (технологии) в начальной школе с практикумом",
           "type": "practice",
           "teacher": "доц. Н.Б. Пушина",
-          "room": null,
+          "room": "417",
           "subgroup": null,
           "notes": ""
         },
@@ -72,7 +72,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "доц. А.В. Орлова",
-          "room": null,
+          "room": "424",
           "subgroup": null,
           "notes": ""
         },
@@ -83,7 +83,7 @@
           "subject": "Основы литературоведения и практика читательской деятельности",
           "type": "practice",
           "teacher": "ст.преп. Ю.С. Сиренко",
-          "room": null,
+          "room": "433",
           "subgroup": null,
           "notes": ""
         },
@@ -94,7 +94,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "доц. А.В. Орлова",
-          "room": null,
+          "room": "208",
           "subgroup": null,
           "notes": ""
         }
@@ -106,8 +106,8 @@
           "time_end": "10:30",
           "subject": "Физическая культура и спорт",
           "type": "practice",
-          "teacher": "доц. К.Ю. Машков",
-          "room": null,
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
           "subgroup": null,
           "notes": ""
         },
@@ -115,10 +115,10 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "Иностранный язык Подгруппа Б:",
+          "subject": "Иностранный язык Подгруппа А:",
           "type": "practice",
           "teacher": "асс. К.С. Божанова",
-          "room": null,
+          "room": "414",
           "subgroup": null,
           "notes": ""
         },
@@ -129,7 +129,7 @@
           "subject": "Возрастная анатомия, физиология и культура здоровья",
           "type": "practice",
           "teacher": "проф. Н.А. Красноперова",
-          "room": null,
+          "room": "416",
           "subgroup": null,
           "notes": ""
         },
@@ -140,7 +140,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "доц. А.В. Орлова",
-          "room": null,
+          "room": "413",
           "subgroup": null,
           "notes": ""
         },
@@ -148,10 +148,10 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "Иностранный язык Подгруппа Б:",
+          "subject": "Иностранный язык Подгруппа А:",
           "type": "practice",
           "teacher": "асс. К.С. Божанова",
-          "room": null,
+          "room": "404",
           "subgroup": null,
           "notes": ""
         },
@@ -162,7 +162,7 @@
           "subject": "Безопасность жизнедеятельности",
           "type": "practice",
           "teacher": "асс. Н.В. Титов",
-          "room": null,
+          "room": "414",
           "subgroup": null,
           "notes": ""
         }
@@ -174,8 +174,8 @@
           "time_end": "10:30",
           "subject": "Физическая культура и спорт",
           "type": "practice",
-          "teacher": "доц. К.Ю. Машков",
-          "room": null,
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
           "subgroup": null,
           "notes": ""
         },
@@ -186,7 +186,7 @@
           "subject": "Русский язык с практикумом",
           "type": "practice",
           "teacher": "ст.преп. Е.В. Корпечкова",
-          "room": null,
+          "room": "415",
           "subgroup": null,
           "notes": ""
         },
@@ -197,7 +197,7 @@
           "subject": "Математика и информатика",
           "type": "practice",
           "teacher": "проф. А.Л. Чекин",
-          "room": null,
+          "room": "415",
           "subgroup": null,
           "notes": ""
         },
@@ -208,7 +208,7 @@
           "subject": "Методика обучения изобразительному искусству и труду (технологии) в начальной школе с практикумом",
           "type": "practice",
           "teacher": "доц. Ж.А. Першина",
-          "room": null,
+          "room": "433",
           "subgroup": null,
           "notes": ""
         },
@@ -219,7 +219,7 @@
           "subject": "Математика и информатика",
           "type": "practice",
           "teacher": "проф. А.Л. Чекин",
-          "room": null,
+          "room": "415",
           "subgroup": null,
           "notes": ""
         },
@@ -227,10 +227,10 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "Практическая фонетика",
+          "subject": "Практическая фонетика Подгруппа А:",
           "type": "practice",
           "teacher": "доц. О.М. Лазарева",
-          "room": null,
+          "room": "421",
           "subgroup": null,
           "notes": ""
         }
@@ -243,7 +243,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. А.Г. Смирнов",
-          "room": null,
+          "room": "412",
           "subgroup": null,
           "notes": ""
         }
@@ -257,10 +257,10 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "Практическая грамматика",
+          "subject": "Практическая грамматика Подгруппа А:",
           "type": "practice",
           "teacher": "доц. Е.А. Жигайкова",
-          "room": null,
+          "room": "414",
           "subgroup": null,
           "notes": ""
         },
@@ -271,7 +271,7 @@
           "subject": "Основы литературоведения и практика читательской деятельности",
           "type": "practice",
           "teacher": "ст.преп. Ю.С. Сиренко",
-          "room": null,
+          "room": "416",
           "subgroup": null,
           "notes": ""
         },
@@ -282,7 +282,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. А.Г. Смирнов",
-          "room": null,
+          "room": "424",
           "subgroup": null,
           "notes": ""
         },
@@ -293,7 +293,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "доц. А.В. Орлова",
-          "room": null,
+          "room": "424",
           "subgroup": null,
           "notes": ""
         },
@@ -304,7 +304,7 @@
           "subject": "Методика обучения изобразительному искусству и труду (технологии) в начальной школе с практикумом",
           "type": "practice",
           "teacher": "доц. Н.Б. Пушина",
-          "room": null,
+          "room": "417",
           "subgroup": null,
           "notes": ""
         },
@@ -315,7 +315,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "доц. А.В. Орлова",
-          "room": null,
+          "room": "424",
           "subgroup": null,
           "notes": ""
         },
@@ -326,7 +326,7 @@
           "subject": "Основы литературоведения и практика читательской деятельности",
           "type": "practice",
           "teacher": "ст.преп. Ю.С. Сиренко",
-          "room": null,
+          "room": "433",
           "subgroup": null,
           "notes": ""
         },
@@ -337,7 +337,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "доц. А.В. Орлова",
-          "room": null,
+          "room": "208",
           "subgroup": null,
           "notes": ""
         }
@@ -349,8 +349,8 @@
           "time_end": "10:30",
           "subject": "Физическая культура и спорт",
           "type": "practice",
-          "teacher": "доц. К.Ю. Машков",
-          "room": null,
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
           "subgroup": null,
           "notes": ""
         },
@@ -358,10 +358,10 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "Иностранный язык Подгруппа Б:",
+          "subject": "Иностранный язык Подгруппа А:",
           "type": "practice",
           "teacher": "асс. К.С. Божанова",
-          "room": null,
+          "room": "414",
           "subgroup": null,
           "notes": ""
         },
@@ -372,7 +372,7 @@
           "subject": "Возрастная анатомия, физиология и культура здоровья",
           "type": "practice",
           "teacher": "проф. Н.А. Красноперова",
-          "room": null,
+          "room": "416",
           "subgroup": null,
           "notes": ""
         },
@@ -383,7 +383,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "доц. А.В. Орлова",
-          "room": null,
+          "room": "413",
           "subgroup": null,
           "notes": ""
         },
@@ -391,10 +391,10 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "Иностранный язык Подгруппа Б:",
+          "subject": "Иностранный язык Подгруппа А:",
           "type": "practice",
           "teacher": "асс. К.С. Божанова",
-          "room": null,
+          "room": "404",
           "subgroup": null,
           "notes": ""
         },
@@ -405,7 +405,7 @@
           "subject": "Безопасность жизнедеятельности",
           "type": "practice",
           "teacher": "асс. Н.В. Титов",
-          "room": null,
+          "room": "414",
           "subgroup": null,
           "notes": ""
         }
@@ -417,8 +417,8 @@
           "time_end": "10:30",
           "subject": "Физическая культура и спорт",
           "type": "practice",
-          "teacher": "доц. К.Ю. Машков",
-          "room": null,
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
           "subgroup": null,
           "notes": ""
         },
@@ -429,7 +429,7 @@
           "subject": "Русский язык с практикумом",
           "type": "practice",
           "teacher": "ст.преп. Е.В. Корпечкова",
-          "room": null,
+          "room": "415",
           "subgroup": null,
           "notes": ""
         },
@@ -440,7 +440,7 @@
           "subject": "Математика и информатика",
           "type": "practice",
           "teacher": "проф. А.Л. Чекин",
-          "room": null,
+          "room": "415",
           "subgroup": null,
           "notes": ""
         },
@@ -451,7 +451,7 @@
           "subject": "Методика обучения изобразительному искусству и труду (технологии) в начальной школе с практикумом",
           "type": "practice",
           "teacher": "доц. Ж.А. Першина",
-          "room": null,
+          "room": "433",
           "subgroup": null,
           "notes": ""
         },
@@ -462,7 +462,7 @@
           "subject": "Математика и информатика",
           "type": "practice",
           "teacher": "проф. А.Л. Чекин",
-          "room": null,
+          "room": "415",
           "subgroup": null,
           "notes": ""
         },
@@ -470,10 +470,10 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "Практическая фонетика",
+          "subject": "Практическая фонетика Подгруппа А:",
           "type": "practice",
           "teacher": "доц. О.М. Лазарева",
-          "room": null,
+          "room": "421",
           "subgroup": null,
           "notes": ""
         }
@@ -486,7 +486,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. А.Г. Смирнов",
-          "room": null,
+          "room": "412",
           "subgroup": null,
           "notes": ""
         }

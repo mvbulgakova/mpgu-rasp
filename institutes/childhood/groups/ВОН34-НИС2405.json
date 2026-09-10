@@ -122,28 +122,6 @@
       "tuesday": [],
       "wednesday": [
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -172,7 +150,7 @@
           "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
           "type": "practice",
           "teacher": "ст.преп. Г.М. Выгонская",
-          "room": "421",
+          "room": "415",
           "subgroup": null,
           "notes": ""
         },
@@ -409,28 +387,6 @@
       "tuesday": [],
       "wednesday": [
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -459,7 +415,7 @@
           "subject": "Методика преподавания курса «Окружающий мир» в начальной школе",
           "type": "practice",
           "teacher": "ст.преп. Г.М. Выгонская",
-          "room": "421",
+          "room": "415",
           "subgroup": null,
           "notes": ""
         },

@@ -3,7 +3,7 @@
   "institute_name": "Институт детства",
   "short_name": "ИД",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-09T09:30:58.590172+00:00",
+  "updated_at": "2026-09-10T19:36:53.126550+00:00",
   "parser_used": "claude",
   "version": 1,
   "groups": [
@@ -143,8 +143,8 @@
       "profile": null
     },
     {
-      "name": "ВОН35-НИЯ2601",
-      "file": "ВОН35-НИЯ2601",
+      "name": "ВОН34-НИЯ2601",
+      "file": "ВОН34-НИЯ2601",
       "year": 1,
       "form": "full_time",
       "degree": "bachelor",
@@ -152,8 +152,8 @@
       "profile": "Начальное образование и Иностранный язык (английский)"
     },
     {
-      "name": "ВОН35-НИЯ2602",
-      "file": "ВОН35-НИЯ2602",
+      "name": "ВОН34-НИЯ2602",
+      "file": "ВОН34-НИЯ2602",
       "year": 1,
       "form": "full_time",
       "degree": "bachelor",
@@ -161,13 +161,13 @@
       "profile": "Начальное образование и Иностранный язык (английский)"
     },
     {
-      "name": "ВОН35-НОИ2603",
-      "file": "ВОН35-НОИ2603",
+      "name": "ВОН34-НИЯ2603",
+      "file": "ВОН34-НИЯ2603",
       "year": 1,
       "form": "full_time",
       "degree": "bachelor",
       "direction": null,
-      "profile": "Начальное образование и Информатика"
+      "profile": "Начальное образование и Иностранный язык (английский)"
     },
     {
       "name": "ВОН34-НОР2604",
@@ -177,6 +177,24 @@
       "degree": "bachelor",
       "direction": null,
       "profile": "Начальное образование и Русский язык"
+    },
+    {
+      "name": "ВОН34-НОР2605",
+      "file": "ВОН34-НОР2605",
+      "year": 1,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": "Начальное образование и Русский язык"
+    },
+    {
+      "name": "ВОН34-НОИ2603",
+      "file": "ВОН34-НОИ2603",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
     },
     {
       "name": "ВОН34-НИЯ2501",

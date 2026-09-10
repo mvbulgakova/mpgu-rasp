@@ -20,17 +20,6 @@
           "notes": ""
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -56,17 +45,6 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
           "subject": "Элективные курсы по физической культуре и спорту",
           "type": "practice",
           "teacher": "доц. К.Ю. Машков (спортивный зал)",
@@ -82,17 +60,6 @@
           "type": "practice",
           "teacher": "доц. М.В. Каравашкина",
           "room": "424",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -126,17 +93,6 @@
           "type": "practice",
           "teacher": "проф. Е.Н. Землянская",
           "room": "430",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -228,6 +184,17 @@
           "type": "practice",
           "teacher": "доц. И.А. Якимов",
           "room": "415",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. И.А. Якимов",
+          "room": "421",
           "subgroup": null,
           "notes": ""
         },
@@ -462,17 +429,6 @@
           "notes": ""
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -498,17 +454,6 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
           "subject": "Элективные курсы по физической культуре и спорту",
           "type": "practice",
           "teacher": "доц. К.Ю. Машков (спортивный зал)",
@@ -524,17 +469,6 @@
           "type": "practice",
           "teacher": "доц. М.В. Каравашкина",
           "room": "424",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -568,17 +502,6 @@
           "type": "practice",
           "teacher": "проф. Е.Н. Землянская",
           "room": "430",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Учебная практика (технологическая, педагогическая диагностика метапредметных образовательных результатов)",
-          "type": "other",
-          "teacher": null,
-          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -670,6 +593,17 @@
           "type": "practice",
           "teacher": "доц. И.А. Якимов",
           "room": "415",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика обучения литературному чтению в начальной школе",
+          "type": "practice",
+          "teacher": "доц. И.А. Якимов",
+          "room": "421",
           "subgroup": null,
           "notes": ""
         },

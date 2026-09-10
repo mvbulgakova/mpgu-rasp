@@ -1,0 +1,140 @@
+{
+  "name": "ВОН34-НИЯ2603",
+  "year": 1,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "Начальное образование и Иностранный язык (английский)",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова https:",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Практическая грамматика",
+          "type": "practice",
+          "teacher": "асс. Г.М. Кусмарцев",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Практическая грамматика",
+          "type": "practice",
+          "teacher": "асс. Г.М. Кусмарцев",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "ст.преп. Ю.С. Сиренко",
+          "room": "433",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "доц. А.Г. Смирнов",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова https:",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Практическая грамматика",
+          "type": "practice",
+          "teacher": "асс. Г.М. Кусмарцев",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Практическая грамматика",
+          "type": "practice",
+          "teacher": "асс. Г.М. Кусмарцев",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "ст.преп. Ю.С. Сиренко",
+          "room": "433",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "доц. А.Г. Смирнов",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}
