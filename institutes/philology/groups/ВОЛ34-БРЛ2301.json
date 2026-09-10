@@ -1,0 +1,94 @@
+{
+  "name": "ВОЛ34-БРЛ2301",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "Педагогическое образование",
+  "profile": "Русский язык, Литература и История",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "История русской литературы XX-XXI веков",
+          "type": "lecture",
+          "teacher": "Проф. И.Г. Минералова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Литературное краеведение / Историческое краеведение / История и искусство: взаимодействие и взаимоотражение",
+          "type": "lecture",
+          "teacher": "Проф. А.В. Святославский /",
+          "room": "9/307/310",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Методика обучения русскому языку",
+          "type": "practice",
+          "teacher": "Проф. В.Д. Янченко",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "История русской литературы XX-XXI веков",
+          "type": "lecture",
+          "teacher": "Проф. И.Г. Минералова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Литературное краеведение / Историческое краеведение / История и искусство: взаимодействие и взаимоотражение",
+          "type": "lecture",
+          "teacher": "Проф. А.В. Святославский /",
+          "room": "9/307/310",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Методика обучения русскому языку",
+          "type": "practice",
+          "teacher": "Проф. В.Д. Янченко",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

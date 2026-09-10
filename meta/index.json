@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T19:27:45.593067+00:00",
+  "generated_at": "2026-09-10T19:38:36.205158+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -140,10 +140,10 @@
       "short_name": "ИФил",
       "campus": "ИФил",
       "campus_address": "ул. Малая Пироговская, 1 / пр-т Вернадского, 88",
-      "groups_count": 6,
-      "updated_at": "2026-09-09T19:43:29.897247+00:00",
+      "groups_count": 15,
+      "updated_at": "2026-09-10T19:38:36.189968+00:00",
       "status": "ok",
-      "parser_used": "claude"
+      "parser_used": "pdfplumber"
     }
   ]
 }

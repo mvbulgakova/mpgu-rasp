@@ -1,0 +1,228 @@
+{
+  "name": "ЗОЛ34-РУС2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "Русский язык и литература в цифровой образовательной среде",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Игровые технологии в преподавании русского языка и литературы в цифровой среде",
+          "type": "practice",
+          "teacher": "Проф.О.Н.Левушкина",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Методы исследовательской и проектной деятельности в цифровой образовательной среде при обучении русскому языку и литературе +",
+          "type": "lecture",
+          "teacher": "Проф.О.Н.Левушкина",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Цифровые образовательные платформы в обучении русскому языку и литературе",
+          "type": "practice",
+          "teacher": "Доц.Н.П.Дутко",
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "Цифровые образовательные платформы в обучении русскому языку и литературе",
+          "type": "practice",
+          "teacher": "Доц.Н.П.Дутко",
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Инновационные цифровые технологии",
+          "type": "practice",
+          "teacher": "Асс.Пимушкин Д.И",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Инновационные цифровые технологии",
+          "type": "practice",
+          "teacher": "Асс.Пимушкин Д.И",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Технологии работы в \"Московской электронной школе\" и \"Российской электронной школе\"",
+          "type": "other",
+          "teacher": "Доц. Н.А.Миронова",
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "Проф. Е.Л. Ерохина",
+          "room": "309",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "Технологии работы в \"Московской электронной школе\" и \"Российской электронной школе\"",
+          "type": "other",
+          "teacher": "Доц. Н.А.Миронова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Игровые технологии в преподавании русского языка и литературы в цифровой среде",
+          "type": "practice",
+          "teacher": "Проф.О.Н.Левушкина",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Методы исследовательской и проектной деятельности в цифровой образовательной среде при обучении русскому языку и литературе +",
+          "type": "lecture",
+          "teacher": "Проф.О.Н.Левушкина",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Цифровые образовательные платформы в обучении русскому языку и литературе",
+          "type": "practice",
+          "teacher": "Доц.Н.П.Дутко",
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "Цифровые образовательные платформы в обучении русскому языку и литературе",
+          "type": "practice",
+          "teacher": "Доц.Н.П.Дутко",
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Инновационные цифровые технологии",
+          "type": "practice",
+          "teacher": "Асс.Пимушкин Д.И",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Инновационные цифровые технологии",
+          "type": "practice",
+          "teacher": "Асс.Пимушкин Д.И",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Технологии работы в \"Московской электронной школе\" и \"Российской электронной школе\"",
+          "type": "other",
+          "teacher": "Доц. Н.А.Миронова",
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "Проф. Е.Л. Ерохина",
+          "room": "309",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "Технологии работы в \"Московской электронной школе\" и \"Российской электронной школе\"",
+          "type": "other",
+          "teacher": "Доц. Н.А.Миронова",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

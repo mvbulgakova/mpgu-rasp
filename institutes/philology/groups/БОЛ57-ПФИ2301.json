@@ -1,0 +1,94 @@
+{
+  "name": "БОЛ57-ПФИ2301",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "45.03.01 Филология",
+  "profile": "Прикладная филология",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "lecture",
+          "teacher": "Проф. М.В. Жигорева",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "Проф. М.В. Жигорева",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "История русской литературы",
+          "type": "lecture",
+          "teacher": "Проф. О.В. Дефье",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "lecture",
+          "teacher": "Проф. М.В. Жигорева",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "Проф. М.В. Жигорева",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "История русской литературы",
+          "type": "lecture",
+          "teacher": "Проф. О.В. Дефье",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

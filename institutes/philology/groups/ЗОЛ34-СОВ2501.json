@@ -1,0 +1,362 @@
+{
+  "name": "ЗОЛ34-СОВ2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "Современные технологии преподавания русского языка как иностранного",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Лингводидактические основы обучения билингвов",
+          "type": "lecture",
+          "teacher": "Проф.Хамраева Е.А",
+          "room": "446",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Лингводидактические основы обучения билингвов",
+          "type": "practice",
+          "teacher": "Проф.Хамраева Е.А",
+          "room": "446",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Методика преподавания русского языка в высшей школе А.Д. Дейкина",
+          "type": "lecture",
+          "teacher": "Доцент С.В.Феликсов",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Преподавание русского языка как иностранного на уровнях В1-С2",
+          "type": "lecture",
+          "teacher": "Доц. Н.Н.Конева",
+          "room": "418",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Методика преподавания русского языка в высшей школе А.Д. Дейкина",
+          "type": "practice",
+          "teacher": "Доцент С.В.Феликсов",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Преподавание русского языка как иностранного на уровнях В1-С2",
+          "type": "practice",
+          "teacher": "Доц. Н.Н.Конева",
+          "room": "418",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "----------------------------------------------------------------- Проблемы аккультурации в процессе мультилингвального образования",
+          "type": "practice",
+          "teacher": "Проф. А.Ю. Устинов",
+          "room": "418",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Преподавание русского языка как иностранного на уровнях В1-С2",
+          "type": "practice",
+          "teacher": "Доц. Н.Н.Конева",
+          "room": "418",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "--------------------------------------------------------- Проблемы аккультурации в процессе мультилингвального образования",
+          "type": "practice",
+          "teacher": "Проф. А.Ю. Устинов",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Анализ и интерпретация прецедентных текстов",
+          "type": "practice",
+          "teacher": "Проф. С.А.Зинин",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Преподавание русского языка как иностранного на уровнях А1-А2",
+          "type": "lecture",
+          "teacher": "Проф. О.Ю.Ряузова",
+          "room": "446",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Методика преподавания литературы в высшей школе",
+          "type": "lecture",
+          "teacher": "Проф. С.А. Зинин",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Преподавание русского языка как иностранного на уровнях А1-А2",
+          "type": "practice",
+          "teacher": "Проф. О.Ю.Ряузова",
+          "room": "446",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Методика преподавания литературы в высшей школе",
+          "type": "practice",
+          "teacher": "Проф. С.А. Зинин",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "Проф. Е.Л. Ерохина",
+          "room": "309",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Лингводидактические основы обучения билингвов",
+          "type": "lecture",
+          "teacher": "Проф.Хамраева Е.А",
+          "room": "446",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Лингводидактические основы обучения билингвов",
+          "type": "practice",
+          "teacher": "Проф.Хамраева Е.А",
+          "room": "446",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Методика преподавания русского языка в высшей школе А.Д. Дейкина",
+          "type": "lecture",
+          "teacher": "Доцент С.В.Феликсов",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Преподавание русского языка как иностранного на уровнях В1-С2",
+          "type": "lecture",
+          "teacher": "Доц. Н.Н.Конева",
+          "room": "418",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Методика преподавания русского языка в высшей школе А.Д. Дейкина",
+          "type": "practice",
+          "teacher": "Доцент С.В.Феликсов",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Преподавание русского языка как иностранного на уровнях В1-С2",
+          "type": "practice",
+          "teacher": "Доц. Н.Н.Конева",
+          "room": "418",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "----------------------------------------------------------------- Проблемы аккультурации в процессе мультилингвального образования",
+          "type": "practice",
+          "teacher": "Проф. А.Ю. Устинов",
+          "room": "418",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Преподавание русского языка как иностранного на уровнях В1-С2",
+          "type": "practice",
+          "teacher": "Доц. Н.Н.Конева",
+          "room": "418",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "20:20",
+          "time_end": "21:50",
+          "subject": "--------------------------------------------------------- Проблемы аккультурации в процессе мультилингвального образования",
+          "type": "practice",
+          "teacher": "Проф. А.Ю. Устинов",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Анализ и интерпретация прецедентных текстов",
+          "type": "practice",
+          "teacher": "Проф. С.А.Зинин",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Преподавание русского языка как иностранного на уровнях А1-А2",
+          "type": "lecture",
+          "teacher": "Проф. О.Ю.Ряузова",
+          "room": "446",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Методика преподавания литературы в высшей школе",
+          "type": "lecture",
+          "teacher": "Проф. С.А. Зинин",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Преподавание русского языка как иностранного на уровнях А1-А2",
+          "type": "practice",
+          "teacher": "Проф. О.Ю.Ряузова",
+          "room": "446",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Методика преподавания литературы в высшей школе",
+          "type": "practice",
+          "teacher": "Проф. С.А. Зинин",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "Проф. Е.Л. Ерохина",
+          "room": "309",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}
