@@ -2042,17 +2042,6 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "История России",
-          "type": "practice",
-          "teacher": "доц. Чистова А.В",
-          "room": "КГФ",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
           "subject": "ЭК по ФКиС: Пляжный волейбол, Волейбол на снегу",
           "type": "other",
           "teacher": "асс. Терентьева Е.В",
@@ -2177,7 +2166,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
-          "room": "КГФ",
+          "room": "729",
           "subgroup": null,
           "notes": ""
         },
@@ -2309,7 +2298,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "ст. преп. Маниева С.А",
-          "room": "КГФ",
+          "room": "208",
           "subgroup": null,
           "notes": ""
         },
@@ -2364,7 +2353,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
-          "room": "КГФ",
+          "room": "729",
           "subgroup": null,
           "notes": ""
         },
@@ -3905,7 +3894,7 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "Психология воспитательных практик",
+          "subject": "Психология",
           "type": "lecture",
           "teacher": "доц. Лукинова А.В",
           "room": null,
@@ -3927,12 +3916,12 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "Психология",
-          "type": "lecture",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
           "teacher": "доц. Лукинова А.В",
           "room": null,
           "subgroup": null,
-          "notes": "ПЗ"
+          "notes": ""
         },
         {
           "slot": 4,
@@ -4114,7 +4103,7 @@
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
-          "subject": "Психология воспитательных практик",
+          "subject": "Психология",
           "type": "lecture",
           "teacher": "доц. Лукинова А.В",
           "room": null,
@@ -4164,17 +4153,6 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Психология",
-          "type": "lecture",
-          "teacher": "доц. Лукинова А.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
         },
         {
           "slot": 5,
@@ -6445,17 +6423,6 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "История России",
-          "type": "practice",
-          "teacher": "доц. Чистова А.В",
-          "room": "КГФ",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
           "subject": "ЭК по ФКиС: Пляжный волейбол, Волейбол на снегу",
           "type": "other",
           "teacher": "асс. Терентьева Е.В",
@@ -6580,7 +6547,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
-          "room": "КГФ",
+          "room": "729",
           "subgroup": null,
           "notes": ""
         },
@@ -6712,7 +6679,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "ст. преп. Маниева С.А",
-          "room": "КГФ",
+          "room": "208",
           "subgroup": null,
           "notes": ""
         },
@@ -6767,7 +6734,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
-          "room": "КГФ",
+          "room": "729",
           "subgroup": null,
           "notes": ""
         },
@@ -8308,7 +8275,7 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "Психология воспитательных практик",
+          "subject": "Психология",
           "type": "lecture",
           "teacher": "доц. Лукинова А.В",
           "room": null,
@@ -8330,12 +8297,12 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "Психология",
-          "type": "lecture",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
           "teacher": "доц. Лукинова А.В",
           "room": null,
           "subgroup": null,
-          "notes": "ПЗ"
+          "notes": ""
         },
         {
           "slot": 4,
@@ -8517,7 +8484,7 @@
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
-          "subject": "Психология воспитательных практик",
+          "subject": "Психология",
           "type": "lecture",
           "teacher": "доц. Лукинова А.В",
           "room": null,
@@ -8567,17 +8534,6 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Психология",
-          "type": "lecture",
-          "teacher": "доц. Лукинова А.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
         },
         {
           "slot": 5,
