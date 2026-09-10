@@ -1,0 +1,808 @@
+{
+  "name": "ВОЖ34-МХК2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ (С ДВУМЯ ПРОФИЛЯМИ ПОДГОТОВКИ)",
+  "profile": "Мировая художественная культура и Дополнительное образование (журналистика)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
+          "type": "lecture",
+          "teacher": "преподаватель А.В. Мажура",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель А.В. Мажура",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
+          "type": "lecture",
+          "teacher": "преподаватель А.В. Мажура",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент П.В. Макарова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент П.В. Макарова",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Т.С. Пугачева",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Т.С. Пугачева",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Т.С. Пугачева",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ ТЕОРИИ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lecture",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ ТЕОРИИ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ ТЕОРИИ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ ТЕОРИИ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ ПРОЕКТНОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "преподаватель Е.Н. Матюхина",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВВЕДЕНИЕ В КРЕАТИВНЫЕ (ТВОРЧЕСКИЕ) ИНДУСТРИИ",
+          "type": "lecture",
+          "teacher": "Профессор И.А. Купцова",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ ПРОЕКТНОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "преподаватель Е.Н. Матюхина",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВВЕДЕНИЕ В КРЕАТИВНЫЕ (ТВОРЧЕСКИЕ) ИНДУСТРИИ",
+          "type": "lecture",
+          "teacher": "Профессор И.А. Купцова",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВВЕДЕНИЕ В КРЕАТИВНЫЕ (ТВОРЧЕСКИЕ) ИНДУСТРИИ",
+          "type": "practice",
+          "teacher": "преподаватель Ю.И. Плыгун",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТЕХНИКА РЕЧИ",
+          "type": "practice",
+          "teacher": "Ассистент Ю.О. Паилодзе",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ТЕХНИКА РЕЧИ",
+          "type": "practice",
+          "teacher": "Ассистент Ю.О. Паилодзе",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Алимов М.М",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Алимов М.М",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель В.В. Захарова",
+          "room": "Спортивный зал, Рязанский проспект, д. 9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель В.В. Захарова",
+          "room": "Спортивный зал, Рязанский проспект, д. 9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель В.В. Захарова",
+          "room": "Спортивный зал, Рязанский проспект, д. 9",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
+          "type": "lecture",
+          "teacher": "преподаватель А.В. Мажура",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель А.В. Мажура",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
+          "type": "lecture",
+          "teacher": "преподаватель А.В. Мажура",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент П.В. Макарова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент П.В. Макарова",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Т.С. Пугачева",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Т.С. Пугачева",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Т.С. Пугачева",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ ТЕОРИИ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lecture",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ ТЕОРИИ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ ТЕОРИИ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ ТЕОРИИ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ ПРОЕКТНОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "преподаватель Е.Н. Матюхина",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВВЕДЕНИЕ В КРЕАТИВНЫЕ (ТВОРЧЕСКИЕ) ИНДУСТРИИ",
+          "type": "lecture",
+          "teacher": "Профессор И.А. Купцова",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ ПРОЕКТНОЙ ДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "преподаватель Е.Н. Матюхина",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВВЕДЕНИЕ В КРЕАТИВНЫЕ (ТВОРЧЕСКИЕ) ИНДУСТРИИ",
+          "type": "lecture",
+          "teacher": "Профессор И.А. Купцова",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВВЕДЕНИЕ В КРЕАТИВНЫЕ (ТВОРЧЕСКИЕ) ИНДУСТРИИ",
+          "type": "practice",
+          "teacher": "преподаватель Ю.И. Плыгун",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТЕХНИКА РЕЧИ",
+          "type": "practice",
+          "teacher": "Ассистент Ю.О. Паилодзе",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ТЕХНИКА РЕЧИ",
+          "type": "practice",
+          "teacher": "Ассистент Ю.О. Паилодзе",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Алимов М.М",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Алимов М.М",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель В.В. Захарова",
+          "room": "Спортивный зал, Рязанский проспект, д. 9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель В.В. Захарова",
+          "room": "Спортивный зал, Рязанский проспект, д. 9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель В.В. Захарова",
+          "room": "Спортивный зал, Рязанский проспект, д. 9",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

@@ -1583,46 +1583,22 @@
     "size_bytes": 0,
     "last_changed": "2026-09-10T09:24:26.837187+00:00"
   },
-  "math:https://mpgu.su/wp-content/uploads/2026/08/rasp-bvo-2k-ofo-osen-2026-2027-1.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/08/rasp-bvo-2k-ofo-osen-2026-2027-1.pdf",
-    "md5": "9161c18cb7a42d692ee6d2a2a4dd91f1",
+  "journalism:https://mpgu.su/wp-content/uploads/2026/09/1-kurs-zhurnalistika.-ochnaja-forma-2.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/1-kurs-zhurnalistika.-ochnaja-forma-2.pdf",
+    "md5": "0183a4bb3bbb37a48c0d16ff0f131b97",
     "size_bytes": 0,
-    "last_changed": "2026-09-10T19:28:08.495307+00:00"
+    "last_changed": "2026-09-10T19:28:47.360236+00:00"
   },
-  "math:https://mpgu.su/wp-content/uploads/2026/08/a-rasp-bvo_bak-3k-ofo-osen-2026-2027.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/08/a-rasp-bvo_bak-3k-ofo-osen-2026-2027.pdf",
-    "md5": "4bc52d4e6608c96e0adc7f4d209b82c5",
+  "journalism:https://mpgu.su/wp-content/uploads/2026/09/1-kurs-mirovaja-hudozhestvennaja-kultura-i-dopolnitelnoe-obrazovanie-zhurnalistika.-ochnaja-forma.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/1-kurs-mirovaja-hudozhestvennaja-kultura-i-dopolnitelnoe-obrazovanie-zhurnalistika.-ochnaja-forma.pdf",
+    "md5": "0691786a5602dbeb674525dfb52bcee9",
     "size_bytes": 0,
-    "last_changed": "2026-09-10T19:28:08.495330+00:00"
+    "last_changed": "2026-09-10T19:28:47.360269+00:00"
   },
-  "math:https://mpgu.su/wp-content/uploads/2026/08/rasp-bvo-3k-ozfo-osen-2026-2027.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/08/rasp-bvo-3k-ozfo-osen-2026-2027.pdf",
-    "md5": "5dcab6c07e3b9e9c716645ac961bae20",
+  "journalism:https://mpgu.su/wp-content/uploads/2026/09/5-kurs-reklama-i-svjazi-s-obshhestvennostju.-ochno-zaochnaja-forma.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/5-kurs-reklama-i-svjazi-s-obshhestvennostju.-ochno-zaochnaja-forma.pdf",
+    "md5": "2d424d832e733b8889cfc2d88b30d33c",
     "size_bytes": 0,
-    "last_changed": "2026-09-10T19:28:08.495334+00:00"
-  },
-  "math:https://mpgu.su/wp-content/uploads/2026/08/a-rasp-bak-4k-ofo-osen-2026-2027.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/08/a-rasp-bak-4k-ofo-osen-2026-2027.pdf",
-    "md5": "921c123ef95b4e2199ead6a2e75e153b",
-    "size_bytes": 0,
-    "last_changed": "2026-09-10T19:28:08.495338+00:00"
-  },
-  "math:https://mpgu.su/wp-content/uploads/2026/08/a-rasp-bak-5k-ofo-osen-2026-2027.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/08/a-rasp-bak-5k-ofo-osen-2026-2027.pdf",
-    "md5": "73c5ae6f7a0895e0386d2fb753dde91d",
-    "size_bytes": 0,
-    "last_changed": "2026-09-10T19:28:08.495341+00:00"
-  },
-  "math:https://mpgu.su/wp-content/uploads/2026/08/rasp-spvo-1k-ofo-osen-2026-2027.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/08/rasp-spvo-1k-ofo-osen-2026-2027.pdf",
-    "md5": "95d3cbb2a6f2f4b58eb3b321e5a0b241",
-    "size_bytes": 0,
-    "last_changed": "2026-09-10T19:28:08.495345+00:00"
-  },
-  "math:https://mpgu.su/wp-content/uploads/2026/08/rasp-spvo-2k-ofo-osen-2026-2027.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/08/rasp-spvo-2k-ofo-osen-2026-2027.pdf",
-    "md5": "c1260cc021bf83061e7bb40010e4475f",
-    "size_bytes": 0,
-    "last_changed": "2026-09-10T19:28:08.495348+00:00"
+    "last_changed": "2026-09-10T19:28:47.360273+00:00"
   }
 }
