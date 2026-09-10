@@ -132,25 +132,14 @@
           "notes": ""
         },
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
-          "type": "practice",
-          "teacher": null,
-          "room": null,
-          "subgroup": 2,
-          "notes": ""
-        },
-        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "Старший",
-          "type": "other",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
           "teacher": "преподаватель Д.А. Арсеньева",
           "room": "112",
-          "subgroup": null,
+          "subgroup": 2,
           "notes": ""
         },
         {
@@ -194,8 +183,8 @@
           "time_end": "10:30",
           "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
           "type": "lecture",
-          "teacher": "преподаватель А.В. Мажура",
-          "room": "113",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -203,8 +192,8 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
-          "type": "practice",
+          "subject": "Старший",
+          "type": "other",
           "teacher": "преподаватель А.В. Мажура",
           "room": "113",
           "subgroup": null,
@@ -215,7 +204,7 @@
           "time_start": "12:40",
           "time_end": "14:10",
           "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ",
-          "type": "lecture",
+          "type": "practice",
           "teacher": "Доцент Е.С. Зубаркина",
           "room": "113",
           "subgroup": null,
@@ -227,6 +216,17 @@
           "time_end": "15:50",
           "subject": "ОСНОВЫ ТЕОРИИ ЛИТЕРАТУРЫ",
           "type": "lecture",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ ТЕОРИИ ЛИТЕРАТУРЫ",
+          "type": "practice",
           "teacher": "Доцент О.Н. Щалпегин",
           "room": "113",
           "subgroup": null,
@@ -306,8 +306,8 @@
           "time_end": "12:10",
           "subject": "ИСТОРИЯ РОССИИ",
           "type": "lecture",
-          "teacher": "Доцент А.М. Черныш",
-          "room": "202",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -319,17 +319,6 @@
           "type": "practice",
           "teacher": "Ассистент С.А. Самохина",
           "room": "206",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ",
-          "type": "practice",
-          "teacher": "Доцент Е.С. Зубаркина",
-          "room": "113",
           "subgroup": null,
           "notes": ""
         },
@@ -347,9 +336,9 @@
       ],
       "friday": [
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
           "type": "practice",
           "teacher": "преподаватель Алимов М.М",
@@ -358,13 +347,13 @@
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
           "type": "practice",
           "teacher": "преподаватель Алимов М.М",
-          "room": "116",
+          "room": null,
           "subgroup": null,
           "notes": ""
         }
@@ -398,18 +387,7 @@
           "time_end": "13:10",
           "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
           "type": "lecture",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "11:40",
-          "time_end": "13:10",
-          "subject": "Лекцию проводит Д.В. Иванова",
-          "type": "other",
-          "teacher": null,
+          "teacher": "Доцент Д.В. Иванова",
           "room": "117",
           "subgroup": null,
           "notes": ""
@@ -437,34 +415,12 @@
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "РЕЧЕВЫЕ ПРАКТИКИ",
-          "type": "practice",
-          "teacher": "Доцент О.А. Сальникова",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:20",
-          "time_end": "14:50",
-          "subject": "Лекцию проводит Д.В. Иванова",
-          "type": "other",
-          "teacher": null,
-          "room": "117",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": null,
           "time_start": "13:20",
           "time_end": "14:50",
           "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
           "type": "practice",
-          "teacher": null,
+          "teacher": "Доцент Д.В. Иванова",
           "room": "117",
           "subgroup": null,
           "notes": ""
@@ -475,30 +431,8 @@
           "time_end": "14:50",
           "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
           "type": "lecture",
-          "teacher": null,
+          "teacher": "Доцент Д.В. Иванова",
           "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:20",
-          "time_end": "14:50",
-          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
-          "type": "practice",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "15:00",
-          "time_end": "16:30",
-          "subject": "Лекцию проводит Д.В. Иванова",
-          "type": "other",
-          "teacher": null,
-          "room": "117",
           "subgroup": null,
           "notes": ""
         },
@@ -509,7 +443,7 @@
           "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
           "type": "practice",
           "teacher": null,
-          "room": "117",
+          "room": null,
           "subgroup": null,
           "notes": ""
         }
@@ -641,25 +575,14 @@
           "notes": ""
         },
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
-          "type": "practice",
-          "teacher": null,
-          "room": null,
-          "subgroup": 2,
-          "notes": ""
-        },
-        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "Старший",
-          "type": "other",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
           "teacher": "преподаватель Д.А. Арсеньева",
           "room": "112",
-          "subgroup": null,
+          "subgroup": 2,
           "notes": ""
         },
         {
@@ -703,8 +626,8 @@
           "time_end": "10:30",
           "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
           "type": "lecture",
-          "teacher": "преподаватель А.В. Мажура",
-          "room": "113",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -712,8 +635,8 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
-          "type": "practice",
+          "subject": "Старший",
+          "type": "other",
           "teacher": "преподаватель А.В. Мажура",
           "room": "113",
           "subgroup": null,
@@ -724,7 +647,7 @@
           "time_start": "12:40",
           "time_end": "14:10",
           "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ",
-          "type": "lecture",
+          "type": "practice",
           "teacher": "Доцент Е.С. Зубаркина",
           "room": "113",
           "subgroup": null,
@@ -736,6 +659,17 @@
           "time_end": "15:50",
           "subject": "ОСНОВЫ ТЕОРИИ ЛИТЕРАТУРЫ",
           "type": "lecture",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ ТЕОРИИ ЛИТЕРАТУРЫ",
+          "type": "practice",
           "teacher": "Доцент О.Н. Щалпегин",
           "room": "113",
           "subgroup": null,
@@ -815,8 +749,8 @@
           "time_end": "12:10",
           "subject": "ИСТОРИЯ РОССИИ",
           "type": "lecture",
-          "teacher": "Доцент А.М. Черныш",
-          "room": "202",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -828,17 +762,6 @@
           "type": "practice",
           "teacher": "Ассистент С.А. Самохина",
           "room": "206",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ",
-          "type": "practice",
-          "teacher": "Доцент Е.С. Зубаркина",
-          "room": "113",
           "subgroup": null,
           "notes": ""
         },
@@ -856,9 +779,9 @@
       ],
       "friday": [
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
           "type": "practice",
           "teacher": "преподаватель Алимов М.М",
@@ -867,13 +790,13 @@
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
           "type": "practice",
           "teacher": "преподаватель Алимов М.М",
-          "room": "116",
+          "room": null,
           "subgroup": null,
           "notes": ""
         }
@@ -907,18 +830,7 @@
           "time_end": "13:10",
           "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
           "type": "lecture",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "11:40",
-          "time_end": "13:10",
-          "subject": "Лекцию проводит Д.В. Иванова",
-          "type": "other",
-          "teacher": null,
+          "teacher": "Доцент Д.В. Иванова",
           "room": "117",
           "subgroup": null,
           "notes": ""
@@ -946,34 +858,12 @@
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "РЕЧЕВЫЕ ПРАКТИКИ",
-          "type": "practice",
-          "teacher": "Доцент О.А. Сальникова",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:20",
-          "time_end": "14:50",
-          "subject": "Лекцию проводит Д.В. Иванова",
-          "type": "other",
-          "teacher": null,
-          "room": "117",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": null,
           "time_start": "13:20",
           "time_end": "14:50",
           "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
           "type": "practice",
-          "teacher": null,
+          "teacher": "Доцент Д.В. Иванова",
           "room": "117",
           "subgroup": null,
           "notes": ""
@@ -984,30 +874,8 @@
           "time_end": "14:50",
           "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
           "type": "lecture",
-          "teacher": null,
+          "teacher": "Доцент Д.В. Иванова",
           "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:20",
-          "time_end": "14:50",
-          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
-          "type": "practice",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "15:00",
-          "time_end": "16:30",
-          "subject": "Лекцию проводит Д.В. Иванова",
-          "type": "other",
-          "teacher": null,
-          "room": "117",
           "subgroup": null,
           "notes": ""
         },
@@ -1018,7 +886,7 @@
           "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
           "type": "practice",
           "teacher": null,
-          "room": "117",
+          "room": null,
           "subgroup": null,
           "notes": ""
         }
