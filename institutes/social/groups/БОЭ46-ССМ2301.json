@@ -15,7 +15,7 @@
           "subject": "Дисциплина по выбору: Психология маркетинга",
           "type": "practice",
           "teacher": "проф. М.А. Лимонова",
-          "room": null,
+          "room": "816",
           "subgroup": null,
           "notes": ""
         },
@@ -275,7 +275,7 @@
           "time_end": "14:10",
           "subject": "Социальная антропология",
           "type": "lecture",
-          "teacher": "доц. П.В. Рябов  -",
+          "teacher": "доц. П.В. Рябов",
           "room": "816",
           "subgroup": null,
           "notes": ""
@@ -286,7 +286,7 @@
           "time_end": "15:50",
           "subject": "Социальная антропология",
           "type": "practice",
-          "teacher": "доц. П.В. Рябов  -",
+          "teacher": "доц. П.В. Рябов",
           "room": "816",
           "subgroup": null,
           "notes": ""
@@ -297,7 +297,7 @@
           "time_end": "17:30",
           "subject": "Социальная антропология",
           "type": "practice",
-          "teacher": "доц. П.В. Рябов  -",
+          "teacher": "доц. П.В. Рябов",
           "room": "816",
           "subgroup": null,
           "notes": ""
@@ -314,7 +314,7 @@
           "subject": "Дисциплина по выбору: Психология маркетинга",
           "type": "practice",
           "teacher": "проф. М.А. Лимонова",
-          "room": null,
+          "room": "816",
           "subgroup": null,
           "notes": ""
         },
@@ -574,7 +574,7 @@
           "time_end": "14:10",
           "subject": "Социальная антропология",
           "type": "lecture",
-          "teacher": "доц. П.В. Рябов  -",
+          "teacher": "доц. П.В. Рябов",
           "room": "816",
           "subgroup": null,
           "notes": ""
@@ -585,7 +585,7 @@
           "time_end": "15:50",
           "subject": "Социальная антропология",
           "type": "practice",
-          "teacher": "доц. П.В. Рябов  -",
+          "teacher": "доц. П.В. Рябов",
           "room": "816",
           "subgroup": null,
           "notes": ""
@@ -596,7 +596,7 @@
           "time_end": "17:30",
           "subject": "Социальная антропология",
           "type": "practice",
-          "teacher": "доц. П.В. Рябов  -",
+          "teacher": "доц. П.В. Рябов",
           "room": "816",
           "subgroup": null,
           "notes": ""

@@ -67,6 +67,17 @@
           "notes": ""
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Институциональная экономика",
+          "type": "practice",
+          "teacher": "доц. М.В. Николаев",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -185,6 +196,17 @@
           "type": "practice",
           "teacher": "доц. М.В. Николаев",
           "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Институциональная экономика",
+          "type": "practice",
+          "teacher": "доц. М.В. Николаев",
+          "room": "204",
           "subgroup": null,
           "notes": ""
         },

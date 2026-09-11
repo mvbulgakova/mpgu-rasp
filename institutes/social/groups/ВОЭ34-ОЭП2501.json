@@ -457,6 +457,17 @@
           "room": "528",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "проф. Л.В. Козилова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
         }
       ]
     },
@@ -905,6 +916,17 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "проф. Л.В. Козилова",
+          "room": "528",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "Педагогика",
           "type": "lecture",
           "teacher": "проф. Л.В. Козилова",
