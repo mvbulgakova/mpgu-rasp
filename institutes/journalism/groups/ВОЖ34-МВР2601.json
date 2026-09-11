@@ -1,0 +1,962 @@
+{
+  "name": "ВОЖ34-МВР2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+  "profile": "Медиапедагогика и Воспитательная работа",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ВВЕДЕНИЕ В МЕДИАПЕДАГОГИКУ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ВВЕДЕНИЕ В МЕДИАПЕДАГОГИКУ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ ФОТОДЕЛА",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Мостовая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВВЕДЕНИЕ В МЕДИАПЕДАГОГИКУ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВВЕДЕНИЕ В МЕДИАПЕДАГОГИКУ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ ФОТОДЕЛА",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Мостовая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВВЕДЕНИЕ В ЖУРНАЛИСТИКУ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В. Опарина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВВЕДЕНИЕ В МЕДИАПЕДАГОГИКУ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ МЕДИАГРАМОТНОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВВЕДЕНИЕ В ЖУРНАЛИСТИКУ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Опарина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВВЕДЕНИЕ В МЕДИАПЕДАГОГИКУ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": "Спортивный зал, Рязанский проспект, д. 9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Т.С. Пугачева",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": "Спортивный зал, Рязанский проспект, д. 9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Т.С. Пугачева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lecture",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ МЕДИАГРАМОТНОСТИ",
+          "type": "lecture",
+          "teacher": "преподаватель А.С. Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ МЕДИАГРАМОТНОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПЕДАГОГИЧЕСКАЯ МАСТЕРСКАЯ",
+          "type": "practice",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "106",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПЕДАГОГИЧЕСКАЯ МАСТЕРСКАЯ",
+          "type": "practice",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "106",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ПЕДАГОГИЧЕСКАЯ МАСТЕРСКАЯ",
+          "type": "practice",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "106",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ВВЕДЕНИЕ В ПЕДАГОГИЧЕСКУЮ ПРОФЕССИЮ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Старший",
+          "type": "other",
+          "teacher": "преподаватель Е.Н. Матюхина",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВВЕДЕНИЕ В ПЕДАГОГИЧЕСКУЮ ПРОФЕССИЮ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВВЕДЕНИЕ В ЖУРНАЛИСТИКУ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Опарина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВВЕДЕНИЕ В ЖУРНАЛИСТИКУ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ВВЕДЕНИЕ В МЕДИАПЕДАГОГИКУ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ВВЕДЕНИЕ В МЕДИАПЕДАГОГИКУ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ ФОТОДЕЛА",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Мостовая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВВЕДЕНИЕ В МЕДИАПЕДАГОГИКУ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВВЕДЕНИЕ В МЕДИАПЕДАГОГИКУ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ ФОТОДЕЛА",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Мостовая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВВЕДЕНИЕ В ЖУРНАЛИСТИКУ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В. Опарина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВВЕДЕНИЕ В МЕДИАПЕДАГОГИКУ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ МЕДИАГРАМОТНОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВВЕДЕНИЕ В ЖУРНАЛИСТИКУ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Опарина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВВЕДЕНИЕ В МЕДИАПЕДАГОГИКУ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": "Спортивный зал, Рязанский проспект, д. 9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Т.С. Пугачева",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": "Спортивный зал, Рязанский проспект, д. 9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ)",
+          "type": "practice",
+          "teacher": "преподаватель Т.С. Пугачева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lecture",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ МЕДИАГРАМОТНОСТИ",
+          "type": "lecture",
+          "teacher": "преподаватель А.С. Савенок",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ МЕДИАГРАМОТНОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПЕДАГОГИЧЕСКАЯ МАСТЕРСКАЯ",
+          "type": "practice",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "106",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПЕДАГОГИЧЕСКАЯ МАСТЕРСКАЯ",
+          "type": "practice",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "106",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ПЕДАГОГИЧЕСКАЯ МАСТЕРСКАЯ",
+          "type": "practice",
+          "teacher": "Доцент Т.А. Чекалина",
+          "room": "106",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ВВЕДЕНИЕ В ПЕДАГОГИЧЕСКУЮ ПРОФЕССИЮ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Старший",
+          "type": "other",
+          "teacher": "преподаватель Е.Н. Матюхина",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВВЕДЕНИЕ В ПЕДАГОГИЧЕСКУЮ ПРОФЕССИЮ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Бучкина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВВЕДЕНИЕ В ЖУРНАЛИСТИКУ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Опарина",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВВЕДЕНИЕ В ЖУРНАЛИСТИКУ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
