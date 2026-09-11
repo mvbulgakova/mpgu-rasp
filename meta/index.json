@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T19:25:42.801753+00:00",
+  "generated_at": "2026-09-11T19:26:53.915868+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -64,7 +64,7 @@
       "campus": "ИФТИС",
       "campus_address": "ул. Малая Пироговская, 29",
       "groups_count": 16,
-      "updated_at": "2026-09-11T09:21:40.881421+00:00",
+      "updated_at": "2026-09-11T19:26:53.899639+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
     },
