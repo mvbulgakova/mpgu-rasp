@@ -3,7 +3,7 @@
   "institute_name": "Институт истории и политики",
   "short_name": "ИИиП",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-10T19:27:45.549342+00:00",
+  "updated_at": "2026-09-11T19:25:45.638645+00:00",
   "parser_used": "excel",
   "version": 1,
   "groups": [
@@ -53,8 +53,17 @@
       "profile": "История и Обществознание. Организация воспитательной деятельности"
     },
     {
-      "name": "ВОИ34-ИИН2606",
-      "file": "ВОИ34-ИИН2606",
+      "name": "ВОИ34-ИОВ2606",
+      "file": "ВОИ34-ИОВ2606",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "История и Обществознание. Организация воспитательной деятельности"
+    },
+    {
+      "name": "ВОИ34-ИИН2607",
+      "file": "ВОИ34-ИИН2607",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
@@ -62,8 +71,8 @@
       "profile": "История и Иностранный язык (английский)"
     },
     {
-      "name": "ВОИ34-ИИН2607",
-      "file": "ВОИ34-ИИН2607",
+      "name": "ВОИ34-ИИН2608",
+      "file": "ВОИ34-ИИН2608",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
@@ -393,141 +402,6 @@
       "degree": "master",
       "direction": "41.04.04 Политология",
       "profile": "Политическое прогнозирование и проектирование"
-    },
-    {
-      "name": "ВВИ34-ИСТ2601",
-      "file": "ВВИ34-ИСТ2601",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "История"
-    },
-    {
-      "name": "ВВИ34-ИСТ2602",
-      "file": "ВВИ34-ИСТ2602",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "История"
-    },
-    {
-      "name": "ВВИ34-ИСТ2501",
-      "file": "ВВИ34-ИСТ2501",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "История"
-    },
-    {
-      "name": "ВВИ34-ИСТ2502",
-      "file": "ВВИ34-ИСТ2502",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "История"
-    },
-    {
-      "name": "БВИ34-ИСТ2401",
-      "file": "БВИ34-ИСТ2401",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "История"
-    },
-    {
-      "name": "БВИ34-ИСТ2301",
-      "file": "БВИ34-ИСТ2301",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "История"
-    },
-    {
-      "name": "БВИ34-ИСТ2201",
-      "file": "БВИ34-ИСТ2201",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "История"
-    },
-    {
-      "name": "ВЗИ34-ИСТ2601",
-      "file": "ВЗИ34-ИСТ2601",
-      "year": null,
-      "form": "correspondence",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "История"
-    },
-    {
-      "name": "ВЗИ34-ИСТ2602",
-      "file": "ВЗИ34-ИСТ2602",
-      "year": null,
-      "form": "correspondence",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "История"
-    },
-    {
-      "name": "ВЗИ34-ИСТ2501",
-      "file": "ВЗИ34-ИСТ2501",
-      "year": null,
-      "form": "correspondence",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "История"
-    },
-    {
-      "name": "ВЗИ34-ИСТ2502",
-      "file": "ВЗИ34-ИСТ2502",
-      "year": null,
-      "form": "correspondence",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "История"
-    },
-    {
-      "name": "БЗИ34-ИСТ2401",
-      "file": "БЗИ34-ИСТ2401",
-      "year": null,
-      "form": "correspondence",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "История"
-    },
-    {
-      "name": "БЗИ34-ИСТ-2201",
-      "file": "БЗИ34-ИСТ-2201",
-      "year": null,
-      "form": "correspondence",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "История"
-    },
-    {
-      "name": "ЗЗИ34-УПР2601",
-      "file": "ЗЗИ34-УПР2601",
-      "year": null,
-      "form": "correspondence",
-      "degree": "bachelor",
-      "direction": "44.04.01 Педагогическое образование",
-      "profile": "Управление профессиональным ростом учителя истории"
-    },
-    {
-      "name": "МЗИ34-УПР2401",
-      "file": "МЗИ34-УПР2401",
-      "year": null,
-      "form": "correspondence",
-      "degree": "bachelor",
-      "direction": "44.04.01 Педагогическое образование",
-      "profile": "Управление профессиональным ростом учителя истории"
     }
   ]
 }

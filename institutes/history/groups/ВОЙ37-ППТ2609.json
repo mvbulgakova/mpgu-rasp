@@ -18,17 +18,6 @@
           "notes": ""
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Теория политики",
-          "type": "practice",
-          "teacher": "проф. Асонов Н. В",
-          "room": "314",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -44,7 +33,7 @@
           "time_start": "12:40",
           "time_end": "14:10",
           "subject": "Теория политики",
-          "type": "practice",
+          "type": "lecture",
           "teacher": "проф. Асонов Н. В",
           "room": "322",
           "subgroup": null,
@@ -57,18 +46,7 @@
           "subject": "История политических учений",
           "type": "practice",
           "teacher": "доц. Мусина Р.И",
-          "room": "313",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Теория политики",
-          "type": "practice",
-          "teacher": "проф. Асонов Н. В",
-          "room": "340",
+          "room": "324",
           "subgroup": null,
           "notes": ""
         },
@@ -79,7 +57,7 @@
           "subject": "История политических учений",
           "type": "practice",
           "teacher": "доц. Мусина Р.И",
-          "room": "323",
+          "room": "324",
           "subgroup": null,
           "notes": ""
         }
@@ -100,10 +78,10 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "История России",
+          "subject": "Теория политики",
           "type": "practice",
-          "teacher": "ст. пр. Копоть Е. М",
-          "room": "301",
+          "teacher": "проф. Асонов Н. В",
+          "room": "314",
           "subgroup": null,
           "notes": ""
         },
@@ -139,31 +117,9 @@
           "room": "324",
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "История политических учений",
-          "type": "practice",
-          "teacher": "доц. Мусина Р. И",
-          "room": "317",
-          "subgroup": null,
-          "notes": ""
         }
       ],
       "wednesday": [
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Речевые практики",
-          "type": "practice",
-          "teacher": "доц. Александрова Г. В",
-          "room": "336",
-          "subgroup": null,
-          "notes": ""
-        },
         {
           "slot": 2,
           "time_start": "10:40",
@@ -176,17 +132,6 @@
           "notes": ""
         },
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Введение в специальность",
-          "type": "practice",
-          "teacher": "проф. Карадже Т. В",
-          "room": "315",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -194,17 +139,6 @@
           "type": "lecture",
           "teacher": "проф. Асонов Н.В",
           "room": "209",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Введение в специальность",
-          "type": "practice",
-          "teacher": "проф. Карадже Т. В",
-          "room": "302",
           "subgroup": null,
           "notes": ""
         },
@@ -247,32 +181,10 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "Основы российской государственности",
-          "type": "practice",
-          "teacher": "доц. Деева Н. В",
-          "room": "315",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
           "subject": "Иностранный язык (французский)",
           "type": "practice",
           "teacher": "доц. Бузунов Н.Н",
           "room": "314",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Основы российской государственности",
-          "type": "practice",
-          "teacher": "доц. Деева Н. В",
-          "room": "315",
           "subgroup": null,
           "notes": ""
         },
@@ -312,57 +224,24 @@
           "notes": ""
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
           "subject": "Политическая антропология",
           "type": "lecture",
           "teacher": "доц. Майстат М. А",
-          "room": "327",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Высшая математика",
-          "type": "practice",
-          "teacher": "доц. Шаронова О. В",
-          "room": "334",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Политическая антропология",
-          "type": "practice",
-          "teacher": null,
           "room": null,
           "subgroup": null,
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "Высшая математика",
           "type": "practice",
           "teacher": "доц. Шаронова О. В",
-          "room": "334",
+          "room": "312",
           "subgroup": null,
           "notes": ""
         }
@@ -383,17 +262,6 @@
           "notes": ""
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Теория политики",
-          "type": "practice",
-          "teacher": "проф. Асонов Н. В",
-          "room": "314",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -409,7 +277,7 @@
           "time_start": "12:40",
           "time_end": "14:10",
           "subject": "Теория политики",
-          "type": "practice",
+          "type": "lecture",
           "teacher": "проф. Асонов Н. В",
           "room": "322",
           "subgroup": null,
@@ -422,18 +290,7 @@
           "subject": "История политических учений",
           "type": "practice",
           "teacher": "доц. Мусина Р.И",
-          "room": "313",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Теория политики",
-          "type": "practice",
-          "teacher": "проф. Асонов Н. В",
-          "room": "340",
+          "room": "324",
           "subgroup": null,
           "notes": ""
         },
@@ -444,7 +301,7 @@
           "subject": "История политических учений",
           "type": "practice",
           "teacher": "доц. Мусина Р.И",
-          "room": "323",
+          "room": "324",
           "subgroup": null,
           "notes": ""
         }
@@ -465,10 +322,10 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "История России",
+          "subject": "Теория политики",
           "type": "practice",
-          "teacher": "ст. пр. Копоть Е. М",
-          "room": "301",
+          "teacher": "проф. Асонов Н. В",
+          "room": "314",
           "subgroup": null,
           "notes": ""
         },
@@ -504,31 +361,9 @@
           "room": "324",
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "История политических учений",
-          "type": "practice",
-          "teacher": "доц. Мусина Р. И",
-          "room": "317",
-          "subgroup": null,
-          "notes": ""
         }
       ],
       "wednesday": [
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Речевые практики",
-          "type": "practice",
-          "teacher": "доц. Александрова Г. В",
-          "room": "336",
-          "subgroup": null,
-          "notes": ""
-        },
         {
           "slot": 2,
           "time_start": "10:40",
@@ -541,17 +376,6 @@
           "notes": ""
         },
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Введение в специальность",
-          "type": "practice",
-          "teacher": "проф. Карадже Т. В",
-          "room": "315",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -559,17 +383,6 @@
           "type": "lecture",
           "teacher": "проф. Асонов Н.В",
           "room": "209",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Введение в специальность",
-          "type": "practice",
-          "teacher": "проф. Карадже Т. В",
-          "room": "302",
           "subgroup": null,
           "notes": ""
         },
@@ -612,32 +425,10 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "Основы российской государственности",
-          "type": "practice",
-          "teacher": "доц. Деева Н. В",
-          "room": "315",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
           "subject": "Иностранный язык (французский)",
           "type": "practice",
           "teacher": "доц. Бузунов Н.Н",
           "room": "314",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Основы российской государственности",
-          "type": "practice",
-          "teacher": "доц. Деева Н. В",
-          "room": "315",
           "subgroup": null,
           "notes": ""
         },
@@ -677,57 +468,24 @@
           "notes": ""
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
           "subject": "Политическая антропология",
           "type": "lecture",
           "teacher": "доц. Майстат М. А",
-          "room": "327",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Высшая математика",
-          "type": "practice",
-          "teacher": "доц. Шаронова О. В",
-          "room": "334",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Политическая антропология",
-          "type": "practice",
-          "teacher": null,
           "room": null,
           "subgroup": null,
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "Высшая математика",
           "type": "practice",
           "teacher": "доц. Шаронова О. В",
-          "room": "334",
+          "room": "312",
           "subgroup": null,
           "notes": ""
         }
