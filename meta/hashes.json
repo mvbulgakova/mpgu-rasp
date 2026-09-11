@@ -1643,28 +1643,46 @@
     "size_bytes": 0,
     "last_changed": "2026-09-10T19:38:36.177763+00:00"
   },
-  "journalism:https://mpgu.su/wp-content/uploads/2026/09/1-kurs-zhurnalistika.-ochnaja-forma-2.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/1-kurs-zhurnalistika.-ochnaja-forma-2.pdf",
-    "md5": "0183a4bb3bbb37a48c0d16ff0f131b97",
+  "physics:https://mpgu.su/wp-content/uploads/2026/08/nedeli_nad_pod_chertoy_26-27.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/08/nedeli_nad_pod_chertoy_26-27.pdf",
+    "md5": "237f9a696112562f7ff877cc5d39a6e7",
     "size_bytes": 0,
-    "last_changed": "2026-09-11T09:21:39.362416+00:00"
+    "last_changed": "2026-09-11T09:21:40.873267+00:00"
   },
-  "journalism:https://mpgu.su/wp-content/uploads/2026/09/1-kurs-mediapedagogika-i-vospitatelnaja-rabota.-ochnaja-forma.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/1-kurs-mediapedagogika-i-vospitatelnaja-rabota.-ochnaja-forma.pdf",
-    "md5": "02b3cdf0ef7ed306c5e6e6710c7bb347",
+  "physics:https://mpgu.su/wp-content/uploads/2026/08/nedeli_nad_pod_chertoy_26-27.docx": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/08/nedeli_nad_pod_chertoy_26-27.docx",
+    "md5": "61c22d770e6306266d5d62be2018bb89",
     "size_bytes": 0,
-    "last_changed": "2026-09-11T09:21:39.362431+00:00"
+    "last_changed": "2026-09-11T09:21:40.873291+00:00"
   },
-  "journalism:https://mpgu.su/wp-content/uploads/2026/09/1-kurs-mirovaja-hudozhestvennaja-kultura-i-dopolnitelnoe-obrazovanie-zhurnalistika.-ochnaja-forma.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/1-kurs-mirovaja-hudozhestvennaja-kultura-i-dopolnitelnoe-obrazovanie-zhurnalistika.-ochnaja-forma.pdf",
-    "md5": "0691786a5602dbeb674525dfb52bcee9",
+  "physics:https://mpgu.su/wp-content/uploads/2026/08/raspisanie-1-kurs-0-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/08/raspisanie-1-kurs-0-1.pdf",
+    "md5": "bfc28714655dbcc6e4f7161d630b40c2",
     "size_bytes": 0,
-    "last_changed": "2026-09-11T09:21:39.362436+00:00"
+    "last_changed": "2026-09-11T09:21:40.873295+00:00"
   },
-  "journalism:https://mpgu.su/wp-content/uploads/2026/09/5-kurs-reklama-i-svjazi-s-obshhestvennostju.-ochno-zaochnaja-forma.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/5-kurs-reklama-i-svjazi-s-obshhestvennostju.-ochno-zaochnaja-forma.pdf",
-    "md5": "2d424d832e733b8889cfc2d88b30d33c",
+  "physics:https://mpgu.su/wp-content/uploads/2026/08/raspisanie-2-kurs-0-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/08/raspisanie-2-kurs-0-1.pdf",
+    "md5": "18136b4c5b87c5b37b7568779db624d5",
     "size_bytes": 0,
-    "last_changed": "2026-09-11T09:21:39.362440+00:00"
+    "last_changed": "2026-09-11T09:21:40.873299+00:00"
+  },
+  "physics:https://mpgu.su/wp-content/uploads/2026/08/raspisanie-3-kurs-0-2.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/08/raspisanie-3-kurs-0-2.pdf",
+    "md5": "ddd375c4c6ebeffd4f77b02b02cbaf04",
+    "size_bytes": 0,
+    "last_changed": "2026-09-11T09:21:40.873301+00:00"
+  },
+  "physics:https://mpgu.su/wp-content/uploads/2026/08/raspisanie-4-kurs-0-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/08/raspisanie-4-kurs-0-1.pdf",
+    "md5": "d03da3fe0a2113df03b6c9a7f012887a",
+    "size_bytes": 0,
+    "last_changed": "2026-09-11T09:21:40.873304+00:00"
+  },
+  "physics:https://mpgu.su/wp-content/uploads/2026/08/raspisanie-5-kurs-0-2.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/08/raspisanie-5-kurs-0-2.pdf",
+    "md5": "176d67a2c8020f376ed5a20d799aace7",
+    "size_bytes": 0,
+    "last_changed": "2026-09-11T09:21:40.873307+00:00"
   }
 }
