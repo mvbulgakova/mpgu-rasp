@@ -1,0 +1,544 @@
+{
+  "name": "ВОЖ34-МХК2401",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ (С ДВУМЯ ПРОФИЛЯМИ ПОДГОТОВКИ)",
+  "profile": "Мировая художественная культура и Дополнительное образование (журналистика)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ РАДИОЖУРНАЛИСТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.С. Зубаркина",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ РАДИОЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Ассистент С.А. Самохина",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ РАДИОЖУРНАЛИСТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.С. Зубаркина",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "lecture",
+          "teacher": "Доцент Позерт И.Н",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "16.00-17.30",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКТИК",
+          "type": "practice",
+          "teacher": "Профессор И.В. Хлызова",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКТИК",
+          "type": "lecture",
+          "teacher": "Профессор И.В. Хлызова",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКТИК",
+          "type": "practice",
+          "teacher": "Профессор И.В. Хлызова",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКТИК",
+          "type": "lecture",
+          "teacher": "Профессор И.В. Хлызова",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "14.20-15.50",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКТИК",
+          "type": "lecture",
+          "teacher": "Профессор И.В. Хлызова",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКТИК",
+          "type": "practice",
+          "teacher": "Профессор И.В. Хлызова",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "16.00-17.30",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ ГОСУДАРСТВЕННОЙ ПОЛИТИКИ В СФЕРЕ МЕЖЭТНИЧЕСКИХ И МЕЖКОНФЕССИОНАЛЬНЫХ ОТНОШЕНИЙ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ ГОСУДАРСТВЕННОЙ ПОЛИТИКИ В СФЕРЕ МЕЖЭТНИЧЕСКИХ И МЕЖКОНФЕССИОНАЛЬНЫХ ОТНОШЕНИЙ",
+          "type": "practice",
+          "teacher": null,
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ ГОСУДАРСТВЕННОЙ ПОЛИТИКИ В СФЕРЕ МЕЖЭТНИЧЕСКИХ И МЕЖКОНФЕССИОНАЛЬНЫХ ОТНОШЕНИЙ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ ГОСУДАРСТВЕННОЙ ПОЛИТИКИ В СФЕРЕ МЕЖЭТНИЧЕСКИХ И МЕЖКОНФЕССИОНАЛЬНЫХ ОТНОШЕНИЙ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ ГОСУДАРСТВЕННОЙ ПОЛИТИКИ В СФЕРЕ МЕЖЭТНИЧЕСКИХ И МЕЖКОНФЕССИОНАЛЬНЫХ ОТНОШЕНИЙ",
+          "type": "practice",
+          "teacher": null,
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Алимов М.М",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИНФОГРАФИКА",
+          "type": "practice",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИНФОГРАФИКА",
+          "type": "practice",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ *",
+          "type": "practice",
+          "teacher": "преподаватель Захарова В.В",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ РАДИОЖУРНАЛИСТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.С. Зубаркина",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ РАДИОЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Ассистент С.А. Самохина",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ РАДИОЖУРНАЛИСТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.С. Зубаркина",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "lecture",
+          "teacher": "Доцент Позерт И.Н",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "16.00-17.30",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКТИК",
+          "type": "practice",
+          "teacher": "Профессор И.В. Хлызова",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКТИК",
+          "type": "lecture",
+          "teacher": "Профессор И.В. Хлызова",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКТИК",
+          "type": "practice",
+          "teacher": "Профессор И.В. Хлызова",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКТИК",
+          "type": "lecture",
+          "teacher": "Профессор И.В. Хлызова",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "14.20-15.50",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКТИК",
+          "type": "lecture",
+          "teacher": "Профессор И.В. Хлызова",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПСИХОЛОГИЯ ВОСПИТАТЕЛЬНЫХ ПРАКТИК",
+          "type": "practice",
+          "teacher": "Профессор И.В. Хлызова",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "16.00-17.30",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ ГОСУДАРСТВЕННОЙ ПОЛИТИКИ В СФЕРЕ МЕЖЭТНИЧЕСКИХ И МЕЖКОНФЕССИОНАЛЬНЫХ ОТНОШЕНИЙ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ ГОСУДАРСТВЕННОЙ ПОЛИТИКИ В СФЕРЕ МЕЖЭТНИЧЕСКИХ И МЕЖКОНФЕССИОНАЛЬНЫХ ОТНОШЕНИЙ",
+          "type": "practice",
+          "teacher": null,
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ ГОСУДАРСТВЕННОЙ ПОЛИТИКИ В СФЕРЕ МЕЖЭТНИЧЕСКИХ И МЕЖКОНФЕССИОНАЛЬНЫХ ОТНОШЕНИЙ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ ГОСУДАРСТВЕННОЙ ПОЛИТИКИ В СФЕРЕ МЕЖЭТНИЧЕСКИХ И МЕЖКОНФЕССИОНАЛЬНЫХ ОТНОШЕНИЙ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ ГОСУДАРСТВЕННОЙ ПОЛИТИКИ В СФЕРЕ МЕЖЭТНИЧЕСКИХ И МЕЖКОНФЕССИОНАЛЬНЫХ ОТНОШЕНИЙ",
+          "type": "practice",
+          "teacher": null,
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Алимов М.М",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИНФОГРАФИКА",
+          "type": "practice",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИНФОГРАФИКА",
+          "type": "practice",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ *",
+          "type": "practice",
+          "teacher": "преподаватель Захарова В.В",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
