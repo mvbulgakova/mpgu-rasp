@@ -58,7 +58,7 @@
           "time_end": "15:50",
           "subject": "Управление персоналом",
           "type": "lecture",
-          "teacher": "доц. М.С. Корнийчук",
+          "teacher": "доц. М.С. Корнийчук    -",
           "room": "802",
           "subgroup": null,
           "notes": ""
@@ -263,7 +263,7 @@
           "subject": "История государственного управления",
           "type": "practice",
           "teacher": "асс. И Сун Чер",
-          "room": null,
+          "room": "817",
           "subgroup": null,
           "notes": ""
         },
@@ -274,7 +274,7 @@
           "subject": "История государственного управления",
           "type": "practice",
           "teacher": "асс. И Сун Чер",
-          "room": null,
+          "room": "817",
           "subgroup": null,
           "notes": ""
         },
@@ -467,7 +467,7 @@
           "time_end": "15:50",
           "subject": "Управление персоналом",
           "type": "lecture",
-          "teacher": "доц. М.С. Корнийчук",
+          "teacher": "доц. М.С. Корнийчук    -",
           "room": "802",
           "subgroup": null,
           "notes": ""
@@ -672,7 +672,7 @@
           "subject": "История государственного управления",
           "type": "practice",
           "teacher": "асс. И Сун Чер",
-          "room": null,
+          "room": "817",
           "subgroup": null,
           "notes": ""
         },
@@ -683,7 +683,7 @@
           "subject": "История государственного управления",
           "type": "practice",
           "teacher": "асс. И Сун Чер",
-          "room": null,
+          "room": "817",
           "subgroup": null,
           "notes": ""
         },

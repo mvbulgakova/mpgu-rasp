@@ -36,7 +36,7 @@
           "time_end": "14:10",
           "subject": "Управление персоналом",
           "type": "practice",
-          "teacher": "доц. М.С. Корнийчук",
+          "teacher": "доц. М.С. Корнийчук    -",
           "room": "817",
           "subgroup": null,
           "notes": ""
@@ -173,7 +173,7 @@
           "subject": "Управление персоналом",
           "type": "practice",
           "teacher": "доц. М.С. Корнийчук",
-          "room": "203",
+          "room": "512",
           "subgroup": null,
           "notes": ""
         },
@@ -208,7 +208,7 @@
           "subject": "История государственного управления",
           "type": "practice",
           "teacher": "асс. И Сун Чер   -",
-          "room": "512",
+          "room": "846",
           "subgroup": null,
           "notes": ""
         },
@@ -229,8 +229,8 @@
           "time_end": "12:10",
           "subject": "История государственного управления",
           "type": "practice",
-          "teacher": "асс. И Сун Чер   -",
-          "room": "512",
+          "teacher": "асс. И Сун Чер  -АУД.; -АУД.; -АУД.; -",
+          "room": "508",
           "subgroup": null,
           "notes": ""
         },
@@ -290,7 +290,7 @@
           "time_end": "14:10",
           "subject": "Управление персоналом",
           "type": "practice",
-          "teacher": "доц. М.С. Корнийчук",
+          "teacher": "доц. М.С. Корнийчук    -",
           "room": "817",
           "subgroup": null,
           "notes": ""
@@ -427,7 +427,7 @@
           "subject": "Управление персоналом",
           "type": "practice",
           "teacher": "доц. М.С. Корнийчук",
-          "room": "203",
+          "room": "512",
           "subgroup": null,
           "notes": ""
         },
@@ -462,7 +462,7 @@
           "subject": "История государственного управления",
           "type": "practice",
           "teacher": "асс. И Сун Чер   -",
-          "room": "512",
+          "room": "846",
           "subgroup": null,
           "notes": ""
         },
@@ -483,8 +483,8 @@
           "time_end": "12:10",
           "subject": "История государственного управления",
           "type": "practice",
-          "teacher": "асс. И Сун Чер   -",
-          "room": "512",
+          "teacher": "асс. И Сун Чер  -АУД.; -АУД.; -АУД.; -",
+          "room": "508",
           "subgroup": null,
           "notes": ""
         },
