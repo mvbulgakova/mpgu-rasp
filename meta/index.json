@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T09:00:11.323643+00:00",
+  "generated_at": "2026-09-12T09:01:29.779916+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -129,8 +129,8 @@
       "short_name": "ИЖКМ",
       "campus": "ИЖКМ",
       "campus_address": "Верхняя Радищевская, 16-18",
-      "groups_count": 6,
-      "updated_at": "2026-09-11T19:26:53.643510+00:00",
+      "groups_count": 9,
+      "updated_at": "2026-09-12T09:01:29.767705+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
     },
