@@ -48,7 +48,7 @@
           "subject": "Дополнительные главы дискретной математики",
           "type": "lecture",
           "teacher": "доц. Хилюк Е.А",
-          "room": "305",
+          "room": "404",
           "subgroup": null,
           "notes": "/ПЗ"
         }
@@ -61,7 +61,7 @@
           "subject": "Нейронные сети",
           "type": "practice",
           "teacher": "доц. Шишарина Е.В",
-          "room": "el",
+          "room": "308а",
           "subgroup": null,
           "notes": ""
         },
@@ -71,8 +71,8 @@
           "time_end": "15:50",
           "subject": "Методы машинного обучения",
           "type": "lecture",
-          "teacher": "проф. Шибзухов З.М., el.mpgu.su",
-          "room": null,
+          "teacher": "проф. Шибзухов З.М",
+          "room": "209",
           "subgroup": null,
           "notes": ""
         },
@@ -82,8 +82,8 @@
           "time_end": "15:50",
           "subject": "Методы машинного обучения",
           "type": "lab",
-          "teacher": "ассист. Приходько Ю.Д., el.mpgu.su",
-          "room": null,
+          "teacher": "ассист. Приходько Ю.Д",
+          "room": "209",
           "subgroup": null,
           "notes": ""
         },
@@ -94,7 +94,7 @@
           "subject": "Анализ данных и бизнес-аналитика",
           "type": "lecture",
           "teacher": "доц. Ковалев Е.Е",
-          "room": "211",
+          "room": "209",
           "subgroup": null,
           "notes": "/лаб"
         }
@@ -107,7 +107,7 @@
           "subject": "Математическое моделирование социально- экономических систем",
           "type": "lab",
           "teacher": "доц. Шишарина Е.В",
-          "room": "210",
+          "room": "211",
           "subgroup": null,
           "notes": ""
         },
@@ -123,13 +123,13 @@
           "notes": ""
         },
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "Теория игр и исследование операций",
-          "type": "lecture",
+          "type": "lab",
           "teacher": "доц. Муравьева О.В",
-          "room": "407",
+          "room": "308",
           "subgroup": null,
           "notes": ""
         },
@@ -140,29 +140,29 @@
           "subject": "Математическое моделирование социально- экономических систем",
           "type": "lecture",
           "teacher": "доц. Шишарина Е.В",
-          "room": "407",
+          "room": "404",
           "subgroup": null,
           "notes": ""
         }
       ],
       "thursday": [
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Нейронные сети",
-          "type": "practice",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математическое моделирование социально- экономических систем",
+          "type": "lab",
           "teacher": "доц. Шишарина Е.В",
           "room": "211",
           "subgroup": null,
           "notes": ""
         },
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Математическое моделирование социально- экономических систем",
-          "type": "lab",
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нейронные сети",
+          "type": "practice",
           "teacher": "доц. Шишарина Е.В",
           "room": "211",
           "subgroup": null,
@@ -178,7 +178,7 @@
           "subject": "Теория игр и исследование операций",
           "type": "lab",
           "teacher": "доц. Муравьева О.В",
-          "room": "205",
+          "room": "301",
           "subgroup": null,
           "notes": ""
         },
@@ -189,14 +189,14 @@
           "subject": "Теория случайных процессов",
           "type": "lecture",
           "teacher": "доц. Алфимова А.С",
-          "room": "205",
+          "room": "108",
           "subgroup": null,
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "Теория случайных процессов",
           "type": "other",
           "teacher": "доц. Алфимова А.С",
@@ -205,13 +205,13 @@
           "notes": ""
         },
         {
-          "slot": 6,
-          "time_start": "17:40",
-          "time_end": "19:10",
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:40",
           "subject": "Теория случайных процессов",
           "type": "lecture",
           "teacher": "доц. Алфимова А.С",
-          "room": "205",
+          "room": "108",
           "subgroup": null,
           "notes": ""
         }
@@ -259,7 +259,7 @@
           "subject": "Дополнительные главы дискретной математики",
           "type": "lecture",
           "teacher": "доц. Хилюк Е.А",
-          "room": "305",
+          "room": "404",
           "subgroup": null,
           "notes": "/ПЗ"
         }
@@ -272,7 +272,7 @@
           "subject": "Нейронные сети",
           "type": "practice",
           "teacher": "доц. Шишарина Е.В",
-          "room": "el",
+          "room": "308а",
           "subgroup": null,
           "notes": ""
         },
@@ -282,8 +282,8 @@
           "time_end": "15:50",
           "subject": "Методы машинного обучения",
           "type": "lecture",
-          "teacher": "проф. Шибзухов З.М., el.mpgu.su",
-          "room": null,
+          "teacher": "проф. Шибзухов З.М",
+          "room": "209",
           "subgroup": null,
           "notes": ""
         },
@@ -293,8 +293,8 @@
           "time_end": "15:50",
           "subject": "Методы машинного обучения",
           "type": "lab",
-          "teacher": "ассист. Приходько Ю.Д., el.mpgu.su",
-          "room": null,
+          "teacher": "ассист. Приходько Ю.Д",
+          "room": "209",
           "subgroup": null,
           "notes": ""
         },
@@ -305,7 +305,7 @@
           "subject": "Анализ данных и бизнес-аналитика",
           "type": "lecture",
           "teacher": "доц. Ковалев Е.Е",
-          "room": "211",
+          "room": "209",
           "subgroup": null,
           "notes": "/лаб"
         }
@@ -318,7 +318,7 @@
           "subject": "Математическое моделирование социально- экономических систем",
           "type": "lab",
           "teacher": "доц. Шишарина Е.В",
-          "room": "210",
+          "room": "211",
           "subgroup": null,
           "notes": ""
         },
@@ -334,13 +334,13 @@
           "notes": ""
         },
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "Теория игр и исследование операций",
-          "type": "lecture",
+          "type": "lab",
           "teacher": "доц. Муравьева О.В",
-          "room": "407",
+          "room": "308",
           "subgroup": null,
           "notes": ""
         },
@@ -351,29 +351,29 @@
           "subject": "Математическое моделирование социально- экономических систем",
           "type": "lecture",
           "teacher": "доц. Шишарина Е.В",
-          "room": "407",
+          "room": "404",
           "subgroup": null,
           "notes": ""
         }
       ],
       "thursday": [
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Нейронные сети",
-          "type": "practice",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математическое моделирование социально- экономических систем",
+          "type": "lab",
           "teacher": "доц. Шишарина Е.В",
           "room": "211",
           "subgroup": null,
           "notes": ""
         },
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Математическое моделирование социально- экономических систем",
-          "type": "lab",
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нейронные сети",
+          "type": "practice",
           "teacher": "доц. Шишарина Е.В",
           "room": "211",
           "subgroup": null,
@@ -389,7 +389,7 @@
           "subject": "Теория игр и исследование операций",
           "type": "lab",
           "teacher": "доц. Муравьева О.В",
-          "room": "205",
+          "room": "301",
           "subgroup": null,
           "notes": ""
         },
@@ -400,14 +400,14 @@
           "subject": "Теория случайных процессов",
           "type": "lecture",
           "teacher": "доц. Алфимова А.С",
-          "room": "205",
+          "room": "108",
           "subgroup": null,
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "Теория случайных процессов",
           "type": "other",
           "teacher": "доц. Алфимова А.С",
@@ -416,13 +416,13 @@
           "notes": ""
         },
         {
-          "slot": 6,
-          "time_start": "17:40",
-          "time_end": "19:10",
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:40",
           "subject": "Теория случайных процессов",
           "type": "lecture",
           "teacher": "доц. Алфимова А.С",
-          "room": "205",
+          "room": "108",
           "subgroup": null,
           "notes": ""
         }

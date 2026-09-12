@@ -15,7 +15,7 @@
           "subject": "Алгебра",
           "type": "practice",
           "teacher": "ассист. Артемов Д.Ю",
-          "room": "407",
+          "room": "207",
           "subgroup": null,
           "notes": ""
         },
@@ -37,7 +37,7 @@
           "subject": "Языки и методы программирования",
           "type": "lecture",
           "teacher": "доц. Муратова Д.А",
-          "room": "305",
+          "room": "205",
           "subgroup": null,
           "notes": ""
         },
@@ -48,7 +48,7 @@
           "subject": "Возрастная анатомия физиология и гигиена",
           "type": "lecture",
           "teacher": "проф. Лещенко М.В",
-          "room": "305",
+          "room": "407",
           "subgroup": null,
           "notes": "/ПЗ"
         }
@@ -83,7 +83,7 @@
           "subject": "Дискретная математика",
           "type": "lecture",
           "teacher": "проф. Деза Е.И",
-          "room": "206",
+          "room": "207",
           "subgroup": null,
           "notes": ""
         },
@@ -164,7 +164,7 @@
           "subject": "Алгебра",
           "type": "lecture",
           "teacher": "проф. Михайлова М.В",
-          "room": "407",
+          "room": "305",
           "subgroup": null,
           "notes": ""
         },
@@ -175,7 +175,7 @@
           "subject": "Нормативно-правовые и этические основы педагогической деятельности",
           "type": "lecture",
           "teacher": "ст. пр. Харламов П.В",
-          "room": "305",
+          "room": "105",
           "subgroup": null,
           "notes": "/ПЗ"
         }
@@ -192,7 +192,7 @@
           "subject": "Алгебра",
           "type": "practice",
           "teacher": "ассист. Артемов Д.Ю",
-          "room": "407",
+          "room": "207",
           "subgroup": null,
           "notes": ""
         },
@@ -214,7 +214,7 @@
           "subject": "Языки и методы программирования",
           "type": "lecture",
           "teacher": "доц. Муратова Д.А",
-          "room": "305",
+          "room": "205",
           "subgroup": null,
           "notes": ""
         },
@@ -225,7 +225,7 @@
           "subject": "Возрастная анатомия физиология и гигиена",
           "type": "lecture",
           "teacher": "проф. Лещенко М.В",
-          "room": "305",
+          "room": "407",
           "subgroup": null,
           "notes": "/ПЗ"
         }
@@ -260,7 +260,7 @@
           "subject": "Дискретная математика",
           "type": "lecture",
           "teacher": "проф. Деза Е.И",
-          "room": "206",
+          "room": "207",
           "subgroup": null,
           "notes": ""
         },
@@ -341,7 +341,7 @@
           "subject": "Алгебра",
           "type": "lecture",
           "teacher": "проф. Михайлова М.В",
-          "room": "407",
+          "room": "305",
           "subgroup": null,
           "notes": ""
         },
@@ -352,7 +352,7 @@
           "subject": "Нормативно-правовые и этические основы педагогической деятельности",
           "type": "lecture",
           "teacher": "ст. пр. Харламов П.В",
-          "room": "305",
+          "room": "105",
           "subgroup": null,
           "notes": "/ПЗ"
         }

@@ -15,8 +15,8 @@
           "time_end": "10:30",
           "subject": "Математическая логика и теория алгоритмов",
           "type": "lecture",
-          "teacher": "доц. Инишева Н.В., el.mpgu.su",
-          "room": null,
+          "teacher": "доц. Инишева Н.В",
+          "room": "207",
           "subgroup": null,
           "notes": ""
         },
@@ -37,8 +37,8 @@
           "time_end": "12:10",
           "subject": "Теория вероятностей и математическая статистика",
           "type": "lecture",
-          "teacher": "доц. Инишева Н.В., el.mpgu.su",
-          "room": null,
+          "teacher": "доц. Инишева Н.В",
+          "room": "207",
           "subgroup": null,
           "notes": ""
         },
@@ -225,8 +225,8 @@
           "time_end": "10:30",
           "subject": "Математическая логика и теория алгоритмов",
           "type": "lecture",
-          "teacher": "доц. Инишева Н.В., el.mpgu.su",
-          "room": null,
+          "teacher": "доц. Инишева Н.В",
+          "room": "207",
           "subgroup": null,
           "notes": ""
         },
@@ -247,8 +247,8 @@
           "time_end": "12:10",
           "subject": "Теория вероятностей и математическая статистика",
           "type": "lecture",
-          "teacher": "доц. Инишева Н.В., el.mpgu.su",
-          "room": null,
+          "teacher": "доц. Инишева Н.В",
+          "room": "207",
           "subgroup": null,
           "notes": ""
         },

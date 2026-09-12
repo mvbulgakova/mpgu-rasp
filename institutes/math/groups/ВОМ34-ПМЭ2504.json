@@ -118,7 +118,7 @@
           "subject": "Математический анализ",
           "type": "practice",
           "teacher": "ассист. Олейник А.А",
-          "room": "405",
+          "room": "406",
           "subgroup": null,
           "notes": ""
         },
@@ -164,7 +164,7 @@
           "subject": "Финансово-экономический практикум",
           "type": "lecture",
           "teacher": "доц. Шатаева О.В",
-          "room": "205",
+          "room": "301",
           "subgroup": null,
           "notes": "по 15.10"
         },
@@ -221,7 +221,7 @@
           "subject": "Геометрия",
           "type": "lecture",
           "teacher": "проф. Гусева Н.И",
-          "room": "404",
+          "room": "301",
           "subgroup": null,
           "notes": ""
         },
@@ -278,7 +278,7 @@
           "subject": "Экономика фирмы",
           "type": "lecture",
           "teacher": "ст. пр. Москвитин А.Г",
-          "room": "40",
+          "room": "406",
           "subgroup": null,
           "notes": "по 24.10"
         },
@@ -289,7 +289,7 @@
           "subject": "Экономика фирмы",
           "type": "practice",
           "teacher": "ст. пр. Москвитин А.Г",
-          "room": "401",
+          "room": "406",
           "subgroup": null,
           "notes": "10.10"
         },
@@ -300,7 +300,7 @@
           "subject": "Экономика фирмы",
           "type": "practice",
           "teacher": "ст. пр. Москвитин А.Г",
-          "room": "401",
+          "room": "406",
           "subgroup": null,
           "notes": "10.10"
         }
@@ -418,7 +418,7 @@
           "subject": "Математический анализ",
           "type": "practice",
           "teacher": "ассист. Олейник А.А",
-          "room": "405",
+          "room": "406",
           "subgroup": null,
           "notes": ""
         },
@@ -464,7 +464,7 @@
           "subject": "Финансово-экономический практикум",
           "type": "lecture",
           "teacher": "доц. Шатаева О.В",
-          "room": "205",
+          "room": "301",
           "subgroup": null,
           "notes": "по 15.10"
         },
@@ -521,7 +521,7 @@
           "subject": "Геометрия",
           "type": "lecture",
           "teacher": "проф. Гусева Н.И",
-          "room": "404",
+          "room": "301",
           "subgroup": null,
           "notes": ""
         },
@@ -578,7 +578,7 @@
           "subject": "Экономика фирмы",
           "type": "lecture",
           "teacher": "ст. пр. Москвитин А.Г",
-          "room": "40",
+          "room": "406",
           "subgroup": null,
           "notes": "по 24.10"
         },
@@ -589,7 +589,7 @@
           "subject": "Экономика фирмы",
           "type": "practice",
           "teacher": "ст. пр. Москвитин А.Г",
-          "room": "401",
+          "room": "406",
           "subgroup": null,
           "notes": "10.10"
         },
@@ -600,7 +600,7 @@
           "subject": "Экономика фирмы",
           "type": "practice",
           "teacher": "ст. пр. Москвитин А.Г",
-          "room": "401",
+          "room": "406",
           "subgroup": null,
           "notes": "10.10"
         }

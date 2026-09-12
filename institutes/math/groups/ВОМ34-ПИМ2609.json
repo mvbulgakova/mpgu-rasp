@@ -1,0 +1,234 @@
+{
+  "name": "ВОМ34-ПИМ2609",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 - Педагогическое образование",
+  "profile": "Информатика и Математика",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика (ознакомительная практика по профилю Математика)",
+          "type": "other",
+          "teacher": "доц. Никифорова А.В",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "доц. Давыдова О.И",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "доц. Давыдова О.И",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Возрастная анатомия физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "проф. Лещенко М.В",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ассист. Куанова И.Б",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Кашпарова В.С",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Вводный курс математики",
+          "type": "practice",
+          "teacher": "ст. пр. Селин Г.Ю",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Программное обеспечение программ и сетей",
+          "type": "lab",
+          "teacher": "доц. Маняхина В.Г.",
+          "room": "105",
+          "subgroup": 1,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "доц. Арсеньева О.Е",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика (ознакомительная практика по профилю Математика)",
+          "type": "other",
+          "teacher": "доц. Никифорова А.В",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "доц. Давыдова О.И",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "доц. Давыдова О.И",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Возрастная анатомия физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "проф. Лещенко М.В",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ассист. Куанова И.Б",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Кашпарова В.С",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Вводный курс математики",
+          "type": "practice",
+          "teacher": "ст. пр. Селин Г.Ю",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Программное обеспечение программ и сетей",
+          "type": "lab",
+          "teacher": "доц. Маняхина В.Г.",
+          "room": "105",
+          "subgroup": 1,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "доц. Арсеньева О.Е",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

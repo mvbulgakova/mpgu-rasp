@@ -153,7 +153,7 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "teacher": "проф. Матвеев Е.М",
-          "room": "207",
+          "room": "404",
           "subgroup": null,
           "notes": ""
         },
@@ -164,7 +164,7 @@
           "subject": "Педагогика",
           "type": "lecture",
           "teacher": "доц. Кузнецова Г.Д",
-          "room": "301",
+          "room": "404",
           "subgroup": null,
           "notes": ""
         },
@@ -197,7 +197,7 @@
           "subject": "Финансово-экономический практикум",
           "type": "lecture",
           "teacher": "доц. Шатаева О.В",
-          "room": "205",
+          "room": "301",
           "subgroup": null,
           "notes": "по 15.10"
         },
@@ -208,7 +208,7 @@
           "subject": "Финансово-экономический практикум",
           "type": "practice",
           "teacher": "доц. Шатаева О.В",
-          "room": "305",
+          "room": "105",
           "subgroup": null,
           "notes": "по 22.10"
         },
@@ -230,7 +230,7 @@
           "subject": "Финансово-экономический практикум",
           "type": "practice",
           "teacher": "доц. Шатаева О.В",
-          "room": "305",
+          "room": "105",
           "subgroup": null,
           "notes": "05.11"
         },
@@ -252,7 +252,7 @@
           "subject": "Психология",
           "type": "lecture",
           "teacher": "доц. Горбенко И.А",
-          "room": "301",
+          "room": "402",
           "subgroup": null,
           "notes": ""
         },
@@ -429,7 +429,7 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "teacher": "проф. Матвеев Е.М",
-          "room": "207",
+          "room": "404",
           "subgroup": null,
           "notes": ""
         },
@@ -440,7 +440,7 @@
           "subject": "Педагогика",
           "type": "lecture",
           "teacher": "доц. Кузнецова Г.Д",
-          "room": "301",
+          "room": "404",
           "subgroup": null,
           "notes": ""
         },
@@ -473,7 +473,7 @@
           "subject": "Финансово-экономический практикум",
           "type": "lecture",
           "teacher": "доц. Шатаева О.В",
-          "room": "205",
+          "room": "301",
           "subgroup": null,
           "notes": "по 15.10"
         },
@@ -484,7 +484,7 @@
           "subject": "Финансово-экономический практикум",
           "type": "practice",
           "teacher": "доц. Шатаева О.В",
-          "room": "305",
+          "room": "105",
           "subgroup": null,
           "notes": "по 22.10"
         },
@@ -506,7 +506,7 @@
           "subject": "Финансово-экономический практикум",
           "type": "practice",
           "teacher": "доц. Шатаева О.В",
-          "room": "305",
+          "room": "105",
           "subgroup": null,
           "notes": "05.11"
         },
@@ -528,7 +528,7 @@
           "subject": "Психология",
           "type": "lecture",
           "teacher": "доц. Горбенко И.А",
-          "room": "301",
+          "room": "402",
           "subgroup": null,
           "notes": ""
         },

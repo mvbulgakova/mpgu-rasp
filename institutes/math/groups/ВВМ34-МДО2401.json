@@ -57,13 +57,35 @@
       ],
       "thursday": [
         {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Инишева Н.В",
+          "room": "206",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Практикум по решению задач на ЭВМ",
+          "type": "lab",
+          "teacher": "доц. Стесева О.И",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 7,
           "time_start": "19:20",
           "time_end": "20:50",
           "subject": "Теория вероятностей и математическая статистика",
           "type": "lecture",
           "teacher": "доц. Инишева Н.В",
-          "room": "207",
+          "room": "206",
           "subgroup": null,
           "notes": "/ПЗ"
         },
@@ -87,7 +109,7 @@
           "subject": "Педагогика",
           "type": "lecture",
           "teacher": "доц. Кузнецова Г.Д",
-          "room": "301Г",
+          "room": "305",
           "subgroup": null,
           "notes": "по 16.10"
         },
@@ -98,7 +120,7 @@
           "subject": "Педагогика",
           "type": "practice",
           "teacher": "доц. Кузнецова Г.Д",
-          "room": "301Г",
+          "room": "305",
           "subgroup": null,
           "notes": "по 16.10"
         }
@@ -108,10 +130,21 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
+          "subject": "21 1",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
           "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное поведение",
           "type": "lecture",
           "teacher": "ст. пр. Харламов П.В",
-          "room": "207Г",
+          "room": "207",
           "subgroup": null,
           "notes": "/ПЗ с 31.10"
         },
@@ -127,6 +160,17 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное 0 1 поведение",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "/ПЗ с 31.10"
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -135,7 +179,7 @@
           "teacher": "ст. пр. Шевченко Т.С",
           "room": "305",
           "subgroup": null,
-          "notes": "/ПЗ 12.09, 26.09, 24.10"
+          "notes": "/ПЗ 12.09, 26.09, 07.11"
         },
         {
           "slot": 4,
@@ -146,7 +190,7 @@
           "teacher": "ст. пр. Шевченко Т.С",
           "room": "305",
           "subgroup": null,
-          "notes": "/ПЗ 12.09, 26.09, 24.10"
+          "notes": "/ПЗ 12.09, 26.09, 07.11"
         }
       ]
     },
@@ -201,13 +245,35 @@
       ],
       "thursday": [
         {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "lecture",
+          "teacher": "доц. Инишева Н.В",
+          "room": "206",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Практикум по решению задач на ЭВМ",
+          "type": "lab",
+          "teacher": "доц. Стесева О.И",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 7,
           "time_start": "19:20",
           "time_end": "20:50",
           "subject": "Теория вероятностей и математическая статистика",
           "type": "lecture",
           "teacher": "доц. Инишева Н.В",
-          "room": "207",
+          "room": "206",
           "subgroup": null,
           "notes": "/ПЗ"
         },
@@ -231,7 +297,7 @@
           "subject": "Педагогика",
           "type": "lecture",
           "teacher": "доц. Кузнецова Г.Д",
-          "room": "301Г",
+          "room": "305",
           "subgroup": null,
           "notes": "по 16.10"
         },
@@ -242,7 +308,7 @@
           "subject": "Педагогика",
           "type": "practice",
           "teacher": "доц. Кузнецова Г.Д",
-          "room": "301Г",
+          "room": "305",
           "subgroup": null,
           "notes": "по 16.10"
         }
@@ -252,10 +318,21 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
+          "subject": "21 1",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
           "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное поведение",
           "type": "lecture",
           "teacher": "ст. пр. Харламов П.В",
-          "room": "207Г",
+          "room": "207",
           "subgroup": null,
           "notes": "/ПЗ с 31.10"
         },
@@ -271,6 +348,17 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное 0 1 поведение",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "/ПЗ с 31.10"
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -279,7 +367,7 @@
           "teacher": "ст. пр. Шевченко Т.С",
           "room": "305",
           "subgroup": null,
-          "notes": "/ПЗ 12.09, 26.09, 24.10"
+          "notes": "/ПЗ 12.09, 26.09, 07.11"
         },
         {
           "slot": 4,
@@ -290,7 +378,7 @@
           "teacher": "ст. пр. Шевченко Т.С",
           "room": "305",
           "subgroup": null,
-          "notes": "/ПЗ 12.09, 26.09, 24.10"
+          "notes": "/ПЗ 12.09, 26.09, 07.11"
         }
       ]
     }

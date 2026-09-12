@@ -106,7 +106,7 @@
           "subject": "Теория функций действительного переменного",
           "type": "lecture",
           "teacher": "доц. Быкова О.Н",
-          "room": "207",
+          "room": "404",
           "subgroup": null,
           "notes": ""
         },
@@ -118,6 +118,28 @@
           "type": "lab",
           "teacher": "доц. Муравьева О.В",
           "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "0а 1",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "0 -103 0",
+          "type": "other",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         }
@@ -154,7 +176,7 @@
           "subject": "Теоретические основы информатики",
           "type": "lecture",
           "teacher": "доц. Муравьева О.В",
-          "room": "205",
+          "room": "108",
           "subgroup": null,
           "notes": ""
         },
@@ -176,7 +198,7 @@
           "subject": "Теоретические основы информатики",
           "type": "lab",
           "teacher": "доц. Муравьева О.В",
-          "room": "208",
+          "room": "108",
           "subgroup": null,
           "notes": ""
         }
@@ -282,7 +304,7 @@
           "subject": "Теория функций действительного переменного",
           "type": "lecture",
           "teacher": "доц. Быкова О.Н",
-          "room": "207",
+          "room": "404",
           "subgroup": null,
           "notes": ""
         },
@@ -294,6 +316,28 @@
           "type": "lab",
           "teacher": "доц. Муравьева О.В",
           "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "0а 1",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "0 -103 0",
+          "type": "other",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         }
@@ -330,7 +374,7 @@
           "subject": "Теоретические основы информатики",
           "type": "lecture",
           "teacher": "доц. Муравьева О.В",
-          "room": "205",
+          "room": "108",
           "subgroup": null,
           "notes": ""
         },
@@ -352,7 +396,7 @@
           "subject": "Теоретические основы информатики",
           "type": "lab",
           "teacher": "доц. Муравьева О.В",
-          "room": "208",
+          "room": "108",
           "subgroup": null,
           "notes": ""
         }

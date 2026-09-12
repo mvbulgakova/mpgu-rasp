@@ -1,0 +1,476 @@
+{
+  "name": "ВОМ34-МКН2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 - Педагогическое образование",
+  "profile": "Математика и Компьютерные науки",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Физическая культура и спорт улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Возрастная анатомия физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "проф. Лещенко М.В",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Возрастная анатомия физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "проф. Лещенко М.В",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Смирнова Н.В",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Иностранный язык (французский, немецкий)",
+          "type": "practice",
+          "teacher": null,
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ассист. Куанова И.Б",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Системное и прикладное программное обеспечение",
+          "type": "lab",
+          "teacher": "доц. Иванова Н.Ю., , ст",
+          "room": "211",
+          "subgroup": 1,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Замечательные кривые",
+          "type": "practice",
+          "teacher": "проф. Смирнов В.А",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История",
+          "type": "lecture",
+          "teacher": "доц. Филина Е.И",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История",
+          "type": "practice",
+          "teacher": "доц. Филина Е.И",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "доц. Цыбуля Л.М",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Алгебра",
+          "type": "lecture",
+          "teacher": "доц. Цыбуля Л.М",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Вводный курс математики",
+          "type": "practice",
+          "teacher": "доц. Сергеева И.Е",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "доц. Чуйкова Н.В",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Геометрия",
+          "type": "lecture",
+          "teacher": "проф. Атанасян С.Л",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "teacher": "проф. Матвеев Е.М",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Учебная практика (ознакомительная практика по профилю Математика)",
+          "type": "other",
+          "teacher": "доц. Тесля О.Ю",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Системное и прикладное программное обеспечение",
+          "type": "lab",
+          "teacher": "доц. Иванова Н.Ю.",
+          "room": "108",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математический анализ",
+          "type": "practice",
+          "teacher": "ассист. Морозенкова М.С",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Системное и прикладное программное обеспечение",
+          "type": "lecture",
+          "teacher": "доц. Маняхина В.Г",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Физическая культура и спорт улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Возрастная анатомия физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "проф. Лещенко М.В",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Возрастная анатомия физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "проф. Лещенко М.В",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Смирнова Н.В",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Иностранный язык (французский, немецкий)",
+          "type": "practice",
+          "teacher": null,
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ассист. Куанова И.Б",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Системное и прикладное программное обеспечение",
+          "type": "lab",
+          "teacher": "доц. Иванова Н.Ю., , ст",
+          "room": "211",
+          "subgroup": 1,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Замечательные кривые",
+          "type": "practice",
+          "teacher": "проф. Смирнов В.А",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История",
+          "type": "lecture",
+          "teacher": "доц. Филина Е.И",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История",
+          "type": "practice",
+          "teacher": "доц. Филина Е.И",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "доц. Цыбуля Л.М",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Алгебра",
+          "type": "lecture",
+          "teacher": "доц. Цыбуля Л.М",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Вводный курс математики",
+          "type": "practice",
+          "teacher": "доц. Сергеева И.Е",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "доц. Чуйкова Н.В",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Геометрия",
+          "type": "lecture",
+          "teacher": "проф. Атанасян С.Л",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "teacher": "проф. Матвеев Е.М",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Учебная практика (ознакомительная практика по профилю Математика)",
+          "type": "other",
+          "teacher": "доц. Тесля О.Ю",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Системное и прикладное программное обеспечение",
+          "type": "lab",
+          "teacher": "доц. Иванова Н.Ю.",
+          "room": "108",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Математический анализ",
+          "type": "practice",
+          "teacher": "ассист. Морозенкова М.С",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Системное и прикладное программное обеспечение",
+          "type": "lecture",
+          "teacher": "доц. Маняхина В.Г",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

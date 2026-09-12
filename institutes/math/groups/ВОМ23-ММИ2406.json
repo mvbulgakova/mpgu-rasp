@@ -69,20 +69,20 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "51 1",
+          "subject": "Д/В 1.2 Методы машинного обучения",
           "type": "other",
-          "teacher": null,
+          "teacher": "проф. Шибзухов З.М.",
           "room": null,
-          "subgroup": null,
+          "subgroup": 1,
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Д/В 1.1 Теория игр",
-          "type": "other",
-          "teacher": "доц. Муравьева О.В., el.mpgu.su",
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психолого-педагогические основы образовательной деятельности",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д",
           "room": null,
           "subgroup": null,
           "notes": ""
@@ -134,18 +134,51 @@
           "notes": ""
         },
         {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
           "subject": "Функциональный анализ",
           "type": "lecture",
           "teacher": "доц. Быкова О.Н",
           "room": "304",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 1.1 Теория игр",
+          "type": "other",
+          "teacher": "доц. Муравьева О.В",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения и воспитания (математика и информатика)",
+          "type": "lecture",
+          "teacher": "доц. Нателаури Н.К",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дифференциальная геометрия и топология",
+          "type": "lecture",
+          "teacher": "доц. Игнаточкина Л.А",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": 4,
           "time_start": "14:20",
@@ -161,20 +194,9 @@
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
-          "subject": "Дифференциальная геометрия и топология",
-          "type": "lecture",
-          "teacher": "доц. Игнаточкина Л.А",
-          "room": "207",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Методика обучения и воспитания (математика и информатика)",
-          "type": "lecture",
-          "teacher": "доц. Нателаури Н.К",
+          "subject": "Д/В 1.1 Теория игр",
+          "type": "other",
+          "teacher": "доц. Муравьева О.В",
           "room": "205",
           "subgroup": null,
           "notes": ""
@@ -204,9 +226,9 @@
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
           "type": "other",
           "teacher": null,
@@ -280,20 +302,20 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "51 1",
+          "subject": "Д/В 1.2 Методы машинного обучения",
           "type": "other",
-          "teacher": null,
+          "teacher": "проф. Шибзухов З.М.",
           "room": null,
-          "subgroup": null,
+          "subgroup": 1,
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Д/В 1.1 Теория игр",
-          "type": "other",
-          "teacher": "доц. Муравьева О.В., el.mpgu.su",
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психолого-педагогические основы образовательной деятельности",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д",
           "room": null,
           "subgroup": null,
           "notes": ""
@@ -345,18 +367,51 @@
           "notes": ""
         },
         {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
           "subject": "Функциональный анализ",
           "type": "lecture",
           "teacher": "доц. Быкова О.Н",
           "room": "304",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Д/В 1.1 Теория игр",
+          "type": "other",
+          "teacher": "доц. Муравьева О.В",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения и воспитания (математика и информатика)",
+          "type": "lecture",
+          "teacher": "доц. Нателаури Н.К",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дифференциальная геометрия и топология",
+          "type": "lecture",
+          "teacher": "доц. Игнаточкина Л.А",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": 4,
           "time_start": "14:20",
@@ -372,20 +427,9 @@
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
-          "subject": "Дифференциальная геометрия и топология",
-          "type": "lecture",
-          "teacher": "доц. Игнаточкина Л.А",
-          "room": "207",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Методика обучения и воспитания (математика и информатика)",
-          "type": "lecture",
-          "teacher": "доц. Нателаури Н.К",
+          "subject": "Д/В 1.1 Теория игр",
+          "type": "other",
+          "teacher": "доц. Муравьева О.В",
           "room": "205",
           "subgroup": null,
           "notes": ""
@@ -415,9 +459,9 @@
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
           "type": "other",
           "teacher": null,

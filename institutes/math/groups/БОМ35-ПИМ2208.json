@@ -7,30 +7,53 @@
   "profile": "Информатика и Математика",
   "schedule": {
     "odd_week": {
-      "monday": [],
-      "tuesday": [
+      "monday": [
         {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
           "subject": "Методика обучения информатике",
-          "type": "lecture",
-          "teacher": "проф. Самылкина Н.Н",
-          "room": null,
-          "subgroup": null,
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "208",
+          "subgroup": 2,
           "notes": ""
         },
         {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Технологии искусственного интеллекта",
-          "type": "lecture",
-          "teacher": "проф. Шибзухов З.М",
-          "room": null,
-          "subgroup": null,
+          "subject": "Методика обучения информатике",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "208",
+          "subgroup": 1,
           "notes": ""
         },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения информатике",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "208",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения информатике",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "208",
+          "subgroup": 1,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
         {
           "slot": 3,
           "time_start": "12:40",
@@ -47,10 +70,21 @@
           "time_start": "14:20",
           "time_end": "15:50",
           "subject": "Методика обучения информатике",
-          "type": "lab",
-          "teacher": "проф. Самылкина Н.Н.",
+          "type": "lecture",
+          "teacher": "проф. Самылкина Н.Н",
           "room": null,
-          "subgroup": 1,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии искусственного интеллекта",
+          "type": "lecture",
+          "teacher": "проф. Шибзухов З.М",
+          "room": null,
+          "subgroup": null,
           "notes": ""
         },
         {
@@ -72,8 +106,8 @@
           "time_end": "10:30",
           "subject": "Д/В 2.1 Методика организации внеурочной деятельности по информатике и информационным технологиям",
           "type": "lab",
-          "teacher": "доц. Павлов Д.И",
-          "room": "108",
+          "teacher": "доц. Павлов Д.И., el.mpgu.su",
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -109,6 +143,17 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Образовательные технологии в обучении математик",
+          "type": "lab",
+          "teacher": "доц. Нателаури Н.К",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "thursday": [
@@ -119,7 +164,7 @@
           "subject": "Технологии воспитания средствами учебного предмета",
           "type": "practice",
           "teacher": "проф. Фирстова Н.И",
-          "room": null,
+          "room": "305",
           "subgroup": null,
           "notes": ""
         },
@@ -130,7 +175,7 @@
           "subject": "Д/В 3.1 Дополнительные главы дискретной математики",
           "type": "lab",
           "teacher": "ассист. Тихонов С.О",
-          "room": null,
+          "room": "210",
           "subgroup": null,
           "notes": ""
         },
@@ -140,8 +185,8 @@
           "time_end": "14:10",
           "subject": "Информационная безопасность и защита информации",
           "type": "lecture",
-          "teacher": "доц. Чанга М.Е., el.mpgu.su",
-          "room": null,
+          "teacher": "доц. Чанга М.Е",
+          "room": "304",
           "subgroup": null,
           "notes": ""
         },
@@ -152,7 +197,7 @@
           "subject": "Методика обучения математике",
           "type": "lecture",
           "teacher": "проф. Фирстова Н.И",
-          "room": null,
+          "room": "305",
           "subgroup": null,
           "notes": ""
         },
@@ -162,8 +207,8 @@
           "time_end": "15:50",
           "subject": "Информационная безопасность и защита информации",
           "type": "lab",
-          "teacher": "доц. Чанга М.Е., el.mpgu.su",
-          "room": null,
+          "teacher": "доц. Чанга М.Е",
+          "room": "405",
           "subgroup": null,
           "notes": ""
         }
@@ -217,30 +262,53 @@
       "saturday": []
     },
     "even_week": {
-      "monday": [],
-      "tuesday": [
+      "monday": [
         {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
           "subject": "Методика обучения информатике",
-          "type": "lecture",
-          "teacher": "проф. Самылкина Н.Н",
-          "room": null,
-          "subgroup": null,
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "208",
+          "subgroup": 2,
           "notes": ""
         },
         {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Технологии искусственного интеллекта",
-          "type": "lecture",
-          "teacher": "проф. Шибзухов З.М",
-          "room": null,
-          "subgroup": null,
+          "subject": "Методика обучения информатике",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "208",
+          "subgroup": 1,
           "notes": ""
         },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения информатике",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "208",
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения информатике",
+          "type": "lab",
+          "teacher": "проф. Самылкина Н.Н.",
+          "room": "208",
+          "subgroup": 1,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
         {
           "slot": 3,
           "time_start": "12:40",
@@ -257,10 +325,21 @@
           "time_start": "14:20",
           "time_end": "15:50",
           "subject": "Методика обучения информатике",
-          "type": "lab",
-          "teacher": "проф. Самылкина Н.Н.",
+          "type": "lecture",
+          "teacher": "проф. Самылкина Н.Н",
           "room": null,
-          "subgroup": 1,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии искусственного интеллекта",
+          "type": "lecture",
+          "teacher": "проф. Шибзухов З.М",
+          "room": null,
+          "subgroup": null,
           "notes": ""
         },
         {
@@ -282,8 +361,8 @@
           "time_end": "10:30",
           "subject": "Д/В 2.1 Методика организации внеурочной деятельности по информатике и информационным технологиям",
           "type": "lab",
-          "teacher": "доц. Павлов Д.И",
-          "room": "108",
+          "teacher": "доц. Павлов Д.И., el.mpgu.su",
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -319,6 +398,17 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Образовательные технологии в обучении математик",
+          "type": "lab",
+          "teacher": "доц. Нателаури Н.К",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "thursday": [
@@ -329,7 +419,7 @@
           "subject": "Технологии воспитания средствами учебного предмета",
           "type": "practice",
           "teacher": "проф. Фирстова Н.И",
-          "room": null,
+          "room": "305",
           "subgroup": null,
           "notes": ""
         },
@@ -340,7 +430,7 @@
           "subject": "Д/В 3.1 Дополнительные главы дискретной математики",
           "type": "lab",
           "teacher": "ассист. Тихонов С.О",
-          "room": null,
+          "room": "210",
           "subgroup": null,
           "notes": ""
         },
@@ -350,8 +440,8 @@
           "time_end": "14:10",
           "subject": "Информационная безопасность и защита информации",
           "type": "lecture",
-          "teacher": "доц. Чанга М.Е., el.mpgu.su",
-          "room": null,
+          "teacher": "доц. Чанга М.Е",
+          "room": "304",
           "subgroup": null,
           "notes": ""
         },
@@ -362,7 +452,7 @@
           "subject": "Методика обучения математике",
           "type": "lecture",
           "teacher": "проф. Фирстова Н.И",
-          "room": null,
+          "room": "305",
           "subgroup": null,
           "notes": ""
         },
@@ -372,8 +462,8 @@
           "time_end": "15:50",
           "subject": "Информационная безопасность и защита информации",
           "type": "lab",
-          "teacher": "доц. Чанга М.Е., el.mpgu.su",
-          "room": null,
+          "teacher": "доц. Чанга М.Е",
+          "room": "405",
           "subgroup": null,
           "notes": ""
         }

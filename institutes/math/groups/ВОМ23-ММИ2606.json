@@ -1,0 +1,342 @@
+{
+  "name": "ВОМ23-ММИ2606",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "01.03.01 - Математика",
+  "profile": "Математика. Преподавание математики",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Системное и прикладное программное обеспечение",
+          "type": "lab",
+          "teacher": "доц. Иванова Н.Ю.",
+          "room": "211",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "доц. Никифорова А.В",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "teacher": "проф. Матвеев Е.М",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геометрия",
+          "type": "lecture",
+          "teacher": "доц. Никифорова А.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Вводный курс математики",
+          "type": "practice",
+          "teacher": "доц. Сергеева И.Е",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "teacher": "доц. Максимова Л.Н",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Системное и прикладное программное обеспечение",
+          "type": "lecture",
+          "teacher": "доц. Маняхина В.Г",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математический анализ",
+          "type": "practice",
+          "teacher": "ассист. Морозенкова М.С",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ассист. Куанова И.Б",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "ассист. Редькина Д.А",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Учебная практика (практика по получению первичных профессиональных умений и навыков) (по 28.11)",
+          "type": "other",
+          "teacher": "ст. пр. Окорочков И.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика (практика по получению первичных профессиональных умений и навыков) (по 28.11)",
+          "type": "other",
+          "teacher": "ст. пр. Окорочков И.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ассист. Куанова И.Б",
+          "room": null,
+          "subgroup": null,
+          "notes": "19.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ассист. Куанова И.Б",
+          "room": null,
+          "subgroup": null,
+          "notes": "19.09"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Системное и прикладное программное обеспечение",
+          "type": "lab",
+          "teacher": "доц. Иванова Н.Ю.",
+          "room": "211",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геометрия",
+          "type": "practice",
+          "teacher": "доц. Никифорова А.В",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математический анализ",
+          "type": "lecture",
+          "teacher": "проф. Матвеев Е.М",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геометрия",
+          "type": "lecture",
+          "teacher": "доц. Никифорова А.В",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Вводный курс математики",
+          "type": "practice",
+          "teacher": "доц. Сергеева И.Е",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "teacher": "доц. Максимова Л.Н",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Системное и прикладное программное обеспечение",
+          "type": "lecture",
+          "teacher": "доц. Маняхина В.Г",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математический анализ",
+          "type": "practice",
+          "teacher": "ассист. Морозенкова М.С",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ассист. Куанова И.Б",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "ассист. Редькина Д.А",
+          "room": "407",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Учебная практика (практика по получению первичных профессиональных умений и навыков) (по 28.11)",
+          "type": "other",
+          "teacher": "ст. пр. Окорочков И.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика (практика по получению первичных профессиональных умений и навыков) (по 28.11)",
+          "type": "other",
+          "teacher": "ст. пр. Окорочков И.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ассист. Куанова И.Б",
+          "room": null,
+          "subgroup": null,
+          "notes": "19.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ассист. Куанова И.Б",
+          "room": null,
+          "subgroup": null,
+          "notes": "19.09"
+        }
+      ]
+    }
+  }
+}

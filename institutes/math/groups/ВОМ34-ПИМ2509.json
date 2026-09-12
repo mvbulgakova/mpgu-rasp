@@ -98,7 +98,7 @@
           "subject": "Педагогика",
           "type": "practice",
           "teacher": "доц. Кузнецова Г.Д",
-          "room": "405",
+          "room": "404",
           "subgroup": null,
           "notes": ""
         },
@@ -109,7 +109,7 @@
           "subject": "Финансово-экономический практикум",
           "type": "practice",
           "teacher": "доц. Шатаева О.В",
-          "room": "305",
+          "room": "105",
           "subgroup": null,
           "notes": "по 15.10"
         },
@@ -242,7 +242,7 @@
           "subject": "Педагогика",
           "type": "practice",
           "teacher": "доц. Кузнецова Г.Д",
-          "room": "405",
+          "room": "404",
           "subgroup": null,
           "notes": ""
         },
@@ -253,7 +253,7 @@
           "subject": "Финансово-экономический практикум",
           "type": "practice",
           "teacher": "доц. Шатаева О.В",
-          "room": "305",
+          "room": "105",
           "subgroup": null,
           "notes": "по 15.10"
         },

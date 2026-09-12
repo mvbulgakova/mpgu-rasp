@@ -3,10 +3,82 @@
   "institute_name": "Институт математики и информатики",
   "short_name": "ИМиИ",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-11T19:26:04.987918+00:00",
+  "updated_at": "2026-09-12T09:00:17.402809+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
+    {
+      "name": "ВОМ34-МКН2601",
+      "file": "ВОМ34-МКН2601",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 - Педагогическое образование",
+      "profile": "Математика и Компьютерные науки"
+    },
+    {
+      "name": "ВОМ34-ПМЭ2604",
+      "file": "ВОМ34-ПМЭ2604",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 - Педагогическое образование",
+      "profile": "Математика и Экономика"
+    },
+    {
+      "name": "ВОМ34-ПМЭ2605",
+      "file": "ВОМ34-ПМЭ2605",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 - Педагогическое образование",
+      "profile": "Математика и Экономика"
+    },
+    {
+      "name": "ВОМ23-ММИ2606",
+      "file": "ВОМ23-ММИ2606",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "01.03.01 - Математика",
+      "profile": "Математика. Преподавание математики"
+    },
+    {
+      "name": "ВОМ23-ММИ2607",
+      "file": "ВОМ23-ММИ2607",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "01.03.01 - Математика",
+      "profile": "Математика. Преподавание математики"
+    },
+    {
+      "name": "ВОМ34-ПИМ2608",
+      "file": "ВОМ34-ПИМ2608",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 - Педагогическое образование",
+      "profile": "Информатика и Математика"
+    },
+    {
+      "name": "ВОМ34-ПИМ2609",
+      "file": "ВОМ34-ПИМ2609",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 - Педагогическое образование",
+      "profile": "Информатика и Математика"
+    },
+    {
+      "name": "ВОМ34-МИМ2620",
+      "file": "ВОМ34-МИМ2620",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 - Педагогическое образование",
+      "profile": "Математика, Информатика и Медиаобразование"
+    },
     {
       "name": "ВОМ34-МКН2501",
       "file": "ВОМ34-МКН2501",

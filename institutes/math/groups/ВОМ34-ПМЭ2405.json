@@ -7,14 +7,26 @@
   "profile": "Математика и Экономика",
   "schedule": {
     "odd_week": {
-      "monday": [],
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
       "tuesday": [
         {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
           "subject": "Теория вероятностей и математическая статистика",
-          "type": "lecture",
+          "type": "practice",
           "teacher": "доц. Шаронова О.В., el.mpgu.su",
           "room": null,
           "subgroup": null,
@@ -128,7 +140,7 @@
           "subject": "Психолого-педагогические основы обучения математике",
           "type": "practice",
           "teacher": "проф. Егупова М.В",
-          "room": "404",
+          "room": "407",
           "subgroup": null,
           "notes": "кроме 09.09, 23.09, 07.10, 18.11"
         }
@@ -139,7 +151,7 @@
           "time_start": "09:00",
           "time_end": "10:30",
           "subject": "Теория вероятностей и математическая статистика",
-          "type": "lecture",
+          "type": "practice",
           "teacher": "доц. Шаронова О.В., el.mpgu.su",
           "room": null,
           "subgroup": null,
@@ -198,7 +210,7 @@
           "subject": "Элементарная математика",
           "type": "practice",
           "teacher": "доц. Буслаев А.В",
-          "room": "304",
+          "room": "206",
           "subgroup": null,
           "notes": ""
         }
@@ -206,14 +218,26 @@
       "saturday": []
     },
     "even_week": {
-      "monday": [],
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
       "tuesday": [
         {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
           "subject": "Теория вероятностей и математическая статистика",
-          "type": "lecture",
+          "type": "practice",
           "teacher": "доц. Шаронова О.В., el.mpgu.su",
           "room": null,
           "subgroup": null,
@@ -327,7 +351,7 @@
           "subject": "Психолого-педагогические основы обучения математике",
           "type": "practice",
           "teacher": "проф. Егупова М.В",
-          "room": "404",
+          "room": "407",
           "subgroup": null,
           "notes": "кроме 09.09, 23.09, 07.10, 18.11"
         }
@@ -338,7 +362,7 @@
           "time_start": "09:00",
           "time_end": "10:30",
           "subject": "Теория вероятностей и математическая статистика",
-          "type": "lecture",
+          "type": "practice",
           "teacher": "доц. Шаронова О.В., el.mpgu.su",
           "room": null,
           "subgroup": null,
@@ -397,7 +421,7 @@
           "subject": "Элементарная математика",
           "type": "practice",
           "teacher": "доц. Буслаев А.В",
-          "room": "304",
+          "room": "206",
           "subgroup": null,
           "notes": ""
         }

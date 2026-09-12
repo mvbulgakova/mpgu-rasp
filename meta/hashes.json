@@ -1919,10 +1919,52 @@
     "size_bytes": 0,
     "last_changed": "2026-09-11T19:26:51.043736+00:00"
   },
-  "history:https://mpgu.su/wp-content/uploads/2026/09/dnevnoe-2026-2027-uchebnyj-god.xlsx": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/dnevnoe-2026-2027-uchebnyj-god.xlsx",
-    "md5": "ec676542bca4faec5e6124aabe9fa822",
+  "math:https://mpgu.su/wp-content/uploads/2026/09/a-rasp-bvo-1k-ofo-osen-2026-2027.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/a-rasp-bvo-1k-ofo-osen-2026-2027.pdf",
+    "md5": "b725b7605250d329410cd34a1382f2bd",
     "size_bytes": 0,
-    "last_changed": "2026-09-12T09:00:15.828678+00:00"
+    "last_changed": "2026-09-12T09:00:17.387689+00:00"
+  },
+  "math:https://mpgu.su/wp-content/uploads/2026/09/a-rasp-bvo-2k-ofo-osen-2026-2027.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/a-rasp-bvo-2k-ofo-osen-2026-2027.pdf",
+    "md5": "f04043db8c3dc61aada2f9761c674538",
+    "size_bytes": 0,
+    "last_changed": "2026-09-12T09:00:17.387707+00:00"
+  },
+  "math:https://mpgu.su/wp-content/uploads/2026/09/a-v-s-rasp-bvo_bak-3k-ofo-osen-2026-2027.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/a-v-s-rasp-bvo_bak-3k-ofo-osen-2026-2027.pdf",
+    "md5": "8c020863bc6cd6fafa49ebde6bef620b",
+    "size_bytes": 0,
+    "last_changed": "2026-09-12T09:00:17.387711+00:00"
+  },
+  "math:https://mpgu.su/wp-content/uploads/2026/09/av-rasp-bvo-3k-ozfo-osen-2026-2027-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/av-rasp-bvo-3k-ozfo-osen-2026-2027-1.pdf",
+    "md5": "299be2c9174b4522d8361682dab6cc26",
+    "size_bytes": 0,
+    "last_changed": "2026-09-12T09:00:17.387714+00:00"
+  },
+  "math:https://mpgu.su/wp-content/uploads/2026/09/avs-rasp-bak-4k-ofo-osen-2026-2027.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/avs-rasp-bak-4k-ofo-osen-2026-2027.pdf",
+    "md5": "fe38735be21471d992d825e8ced1081a",
+    "size_bytes": 0,
+    "last_changed": "2026-09-12T09:00:17.387717+00:00"
+  },
+  "math:https://mpgu.su/wp-content/uploads/2026/09/a-rasp-bak-5k-ofo-osen-2026-2027.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/a-rasp-bak-5k-ofo-osen-2026-2027.pdf",
+    "md5": "5e168212c62f5d18949225d3914ff1d9",
+    "size_bytes": 0,
+    "last_changed": "2026-09-12T09:00:17.387720+00:00"
+  },
+  "math:https://mpgu.su/wp-content/uploads/2026/09/a-rasp-spvo-1k-ofo-osen-2026-2027.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/a-rasp-spvo-1k-ofo-osen-2026-2027.pdf",
+    "md5": "e284616746a347cca269c7c84f991255",
+    "size_bytes": 0,
+    "last_changed": "2026-09-12T09:00:17.387723+00:00"
+  },
+  "math:https://mpgu.su/wp-content/uploads/2026/09/a-rasp-spvo-2k-ofo-osen-2026-2027.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/a-rasp-spvo-2k-ofo-osen-2026-2027.pdf",
+    "md5": "33c1b69fe1e289e98f3b9d1f2effa0db",
+    "size_bytes": 0,
+    "last_changed": "2026-09-12T09:00:17.387726+00:00"
   }
 }

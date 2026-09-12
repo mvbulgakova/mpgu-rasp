@@ -9,6 +9,17 @@
     "odd_week": {
       "monday": [
         {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Управление персоналом",
+          "type": "practice",
+          "teacher": "доц. Тинькова Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -106,12 +117,23 @@
           "subject": "Д/В 1.2 Разработка электронных образовательных ресурсов на платформе МЭШ",
           "type": "lab",
           "teacher": "проф. Маняхина В.Г",
-          "room": null,
+          "room": "105",
           "subgroup": null,
           "notes": ""
         }
       ],
       "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Образовательные технологии в обучении математике и экономике",
+          "type": "practice",
+          "teacher": "доц. Нателаури Н.К",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": 2,
           "time_start": "10:40",
@@ -119,7 +141,7 @@
           "subject": "Образовательные технологии в обучении математике и экономике",
           "type": "practice",
           "teacher": "доц. Нателаури Н.К",
-          "room": null,
+          "room": "208",
           "subgroup": null,
           "notes": ""
         },
@@ -130,7 +152,7 @@
           "subject": "Технологии воспитания средствами учебного предмета",
           "type": "practice",
           "teacher": "проф. Фирстова Н.И",
-          "room": null,
+          "room": "305",
           "subgroup": null,
           "notes": ""
         },
@@ -141,7 +163,7 @@
           "subject": "Технологии воспитания средствами учебного предмета",
           "type": "practice",
           "teacher": "проф. Фирстова Н.И",
-          "room": null,
+          "room": "305",
           "subgroup": null,
           "notes": ""
         },
@@ -152,7 +174,7 @@
           "subject": "Образовательные технологии в обучении математике и экономике",
           "type": "lecture",
           "teacher": "доц. Нателаури Н.К",
-          "room": null,
+          "room": "208",
           "subgroup": null,
           "notes": ""
         },
@@ -163,7 +185,7 @@
           "subject": "Элементарная математика",
           "type": "practice",
           "teacher": "доц. Субботина И.В",
-          "room": null,
+          "room": "406",
           "subgroup": null,
           "notes": ""
         },
@@ -174,35 +196,12 @@
           "subject": "Элементарная математика",
           "type": "lecture",
           "teacher": "доц. Субботина И.В",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Образовательные технологии в обучении математике и экономике",
-          "type": "practice",
-          "teacher": null,
-          "room": null,
+          "room": "406",
           "subgroup": null,
           "notes": ""
         }
       ],
-      "friday": [],
-      "saturday": [
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Социально-экономическая статистика",
-          "type": "lecture",
-          "teacher": "ст. пр. Москвитин А.Г",
-          "room": "401",
-          "subgroup": null,
-          "notes": ""
-        },
+      "friday": [
         {
           "slot": 2,
           "time_start": "10:40",
@@ -210,7 +209,7 @@
           "subject": "Социально-экономическая статистика",
           "type": "practice",
           "teacher": "ст. пр. Москвитин А.Г",
-          "room": "401",
+          "room": "406",
           "subgroup": null,
           "notes": ""
         },
@@ -221,15 +220,38 @@
           "subject": "Социально-экономическая статистика",
           "type": "practice",
           "teacher": "ст. пр. Москвитин А.Г",
-          "room": "401",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Социально-экономическая статистика",
+          "type": "lecture",
+          "teacher": "ст. пр. Москвитин А.Г",
+          "room": "406",
           "subgroup": null,
           "notes": ""
         }
-      ]
+      ],
+      "saturday": []
     },
     "even_week": {
       "monday": [
         {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Управление персоналом",
+          "type": "practice",
+          "teacher": "доц. Тинькова Е.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -327,12 +349,23 @@
           "subject": "Д/В 1.2 Разработка электронных образовательных ресурсов на платформе МЭШ",
           "type": "lab",
           "teacher": "проф. Маняхина В.Г",
-          "room": null,
+          "room": "105",
           "subgroup": null,
           "notes": ""
         }
       ],
       "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Образовательные технологии в обучении математике и экономике",
+          "type": "practice",
+          "teacher": "доц. Нателаури Н.К",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": 2,
           "time_start": "10:40",
@@ -340,7 +373,7 @@
           "subject": "Образовательные технологии в обучении математике и экономике",
           "type": "practice",
           "teacher": "доц. Нателаури Н.К",
-          "room": null,
+          "room": "208",
           "subgroup": null,
           "notes": ""
         },
@@ -351,7 +384,7 @@
           "subject": "Технологии воспитания средствами учебного предмета",
           "type": "practice",
           "teacher": "проф. Фирстова Н.И",
-          "room": null,
+          "room": "305",
           "subgroup": null,
           "notes": ""
         },
@@ -362,7 +395,7 @@
           "subject": "Технологии воспитания средствами учебного предмета",
           "type": "practice",
           "teacher": "проф. Фирстова Н.И",
-          "room": null,
+          "room": "305",
           "subgroup": null,
           "notes": ""
         },
@@ -373,7 +406,7 @@
           "subject": "Образовательные технологии в обучении математике и экономике",
           "type": "lecture",
           "teacher": "доц. Нателаури Н.К",
-          "room": null,
+          "room": "208",
           "subgroup": null,
           "notes": ""
         },
@@ -384,7 +417,7 @@
           "subject": "Элементарная математика",
           "type": "practice",
           "teacher": "доц. Субботина И.В",
-          "room": null,
+          "room": "406",
           "subgroup": null,
           "notes": ""
         },
@@ -395,35 +428,12 @@
           "subject": "Элементарная математика",
           "type": "lecture",
           "teacher": "доц. Субботина И.В",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Образовательные технологии в обучении математике и экономике",
-          "type": "practice",
-          "teacher": null,
-          "room": null,
+          "room": "406",
           "subgroup": null,
           "notes": ""
         }
       ],
-      "friday": [],
-      "saturday": [
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Социально-экономическая статистика",
-          "type": "lecture",
-          "teacher": "ст. пр. Москвитин А.Г",
-          "room": "401",
-          "subgroup": null,
-          "notes": ""
-        },
+      "friday": [
         {
           "slot": 2,
           "time_start": "10:40",
@@ -431,7 +441,7 @@
           "subject": "Социально-экономическая статистика",
           "type": "practice",
           "teacher": "ст. пр. Москвитин А.Г",
-          "room": "401",
+          "room": "406",
           "subgroup": null,
           "notes": ""
         },
@@ -442,11 +452,23 @@
           "subject": "Социально-экономическая статистика",
           "type": "practice",
           "teacher": "ст. пр. Москвитин А.Г",
-          "room": "401",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Социально-экономическая статистика",
+          "type": "lecture",
+          "teacher": "ст. пр. Москвитин А.Г",
+          "room": "406",
           "subgroup": null,
           "notes": ""
         }
-      ]
+      ],
+      "saturday": []
     }
   }
 }

@@ -38,7 +38,7 @@
           "type": "lab",
           "teacher": "доц. Муравьева О.В",
           "room": "209",
-          "subgroup": null,
+          "subgroup": 1,
           "notes": ""
         },
         {
@@ -137,14 +137,14 @@
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Элективные курсы по физической культуре и спорту 1 п/гр, улица Кибальчича, дом 16",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теоретические основы информатики",
+          "type": "lab",
+          "teacher": "доц. Муравьева О.В",
+          "room": "209",
+          "subgroup": 2,
           "notes": ""
         }
       ],
@@ -182,7 +182,7 @@
           "type": "lab",
           "teacher": "доц. Муравьева О.В",
           "room": "209",
-          "subgroup": null,
+          "subgroup": 1,
           "notes": ""
         },
         {
@@ -281,14 +281,14 @@
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Элективные курсы по физической культуре и спорту 1 п/гр, улица Кибальчича, дом 16",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теоретические основы информатики",
+          "type": "lab",
+          "teacher": "доц. Муравьева О.В",
+          "room": "209",
+          "subgroup": 2,
           "notes": ""
         }
       ],
