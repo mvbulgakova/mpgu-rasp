@@ -74,10 +74,10 @@
       "short_name": "ИСГО",
       "campus": "КГФ",
       "campus_address": "пр-т Вернадского, 88",
-      "groups_count": 30,
-      "updated_at": "2026-09-11T19:26:51.053521+00:00",
+      "groups_count": 2,
+      "updated_at": "2026-09-13T19:12:00.926997+00:00",
       "status": "ok",
-      "parser_used": "pdfplumber"
+      "parser_used": "camelot"
     },
     {
       "id": "biology",

@@ -1,0 +1,12 @@
+[
+  {
+    "type": "groups_dropped",
+    "severity": "medium",
+    "institute_id": "social",
+    "institute_name": "Институт социально-гуманитарного образования",
+    "message": "Количество групп резко сократилось: 30 → 2 после обновления 4 файл(ов).",
+    "prev_count": 30,
+    "new_count": 2,
+    "changed_files": 4
+  }
+]
