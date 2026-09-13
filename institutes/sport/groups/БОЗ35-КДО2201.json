@@ -15,7 +15,7 @@
           "subject": "Психологическая подготовка юных спортсменов",
           "type": "lecture",
           "teacher": "ст. преп. Кабанова Е.А",
-          "room": null,
+          "room": "221",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -37,7 +37,7 @@
           "subject": "Психологическая подготовка юных спортсменов",
           "type": "lecture",
           "teacher": "ст. преп. Кабанова Е.А",
-          "room": null,
+          "room": "221",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -59,7 +59,7 @@
           "subject": "Планирование и контроль спортивной подготовки",
           "type": "lecture",
           "teacher": "ст. преп. Ерина О.И",
-          "room": null,
+          "room": "214",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -81,7 +81,7 @@
           "subject": "Планирование и контроль спортивной подготовки",
           "type": "lecture",
           "teacher": "ст. преп. Ерина О.И",
-          "room": null,
+          "room": "214",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -129,7 +129,7 @@
           "subject": "Основы дополнительного образования в сфере физической культуры и спорта",
           "type": "lecture",
           "teacher": "проф. Паршиков А.Т",
-          "room": null,
+          "room": "216",
           "subgroup": null,
           "notes": ""
         },
@@ -151,7 +151,7 @@
           "subject": "Основы дополнительного образования в сфере физической культуры и спорта",
           "type": "lecture",
           "teacher": "проф. Паршиков А.Т",
-          "room": null,
+          "room": "216",
           "subgroup": null,
           "notes": ""
         },
@@ -326,17 +326,6 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "Кибербезопасность",
-          "type": "lecture",
-          "teacher": "ст. преп. Савин М.Э",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
           "subject": "Проектирование тренировочного процесса и системы спортивных соревнований юных спортсменов",
           "type": "practice",
           "teacher": "проф. Гросс И.Л",
@@ -351,7 +340,7 @@
           "subject": "Кибербезопасность",
           "type": "lecture",
           "teacher": "ст. преп. Савин М.Э",
-          "room": null,
+          "room": "215",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -373,7 +362,7 @@
           "subject": "Кибербезопасность",
           "type": "lecture",
           "teacher": "ст. преп. Савин М.Э",
-          "room": null,
+          "room": "215",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -445,7 +434,7 @@
           "subject": "Психологическая подготовка юных спортсменов",
           "type": "lecture",
           "teacher": "ст. преп. Кабанова Е.А",
-          "room": null,
+          "room": "221",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -467,7 +456,7 @@
           "subject": "Психологическая подготовка юных спортсменов",
           "type": "lecture",
           "teacher": "ст. преп. Кабанова Е.А",
-          "room": null,
+          "room": "221",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -489,7 +478,7 @@
           "subject": "Планирование и контроль спортивной подготовки",
           "type": "lecture",
           "teacher": "ст. преп. Ерина О.И",
-          "room": null,
+          "room": "214",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -511,7 +500,7 @@
           "subject": "Планирование и контроль спортивной подготовки",
           "type": "lecture",
           "teacher": "ст. преп. Ерина О.И",
-          "room": null,
+          "room": "214",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -559,7 +548,7 @@
           "subject": "Основы дополнительного образования в сфере физической культуры и спорта",
           "type": "lecture",
           "teacher": "проф. Паршиков А.Т",
-          "room": null,
+          "room": "216",
           "subgroup": null,
           "notes": ""
         },
@@ -581,7 +570,7 @@
           "subject": "Основы дополнительного образования в сфере физической культуры и спорта",
           "type": "lecture",
           "teacher": "проф. Паршиков А.Т",
-          "room": null,
+          "room": "216",
           "subgroup": null,
           "notes": ""
         },
@@ -756,17 +745,6 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "Кибербезопасность",
-          "type": "lecture",
-          "teacher": "ст. преп. Савин М.Э",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
           "subject": "Проектирование тренировочного процесса и системы спортивных соревнований юных спортсменов",
           "type": "practice",
           "teacher": "проф. Гросс И.Л",
@@ -781,7 +759,7 @@
           "subject": "Кибербезопасность",
           "type": "lecture",
           "teacher": "ст. преп. Савин М.Э",
-          "room": null,
+          "room": "215",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -803,7 +781,7 @@
           "subject": "Кибербезопасность",
           "type": "lecture",
           "teacher": "ст. преп. Савин М.Э",
-          "room": null,
+          "room": "215",
           "subgroup": null,
           "notes": "ПЗ"
         },
