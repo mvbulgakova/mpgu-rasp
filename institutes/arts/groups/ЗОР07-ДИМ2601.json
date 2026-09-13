@@ -8,8 +8,76 @@
   "schedule": {
     "odd_week": {
       "monday": [],
-      "tuesday": [],
-      "wednesday": [],
+      "tuesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "АУДИОВИЗУАЛЬНЫЕ ТЕХНОЛОГИИ В ДИЗАЙНЕ МУЛЬТИМЕДИА",
+          "type": "lecture",
+          "teacher": "доц. Илья Юрьевич Демьяненко, https:",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": "только 15.09, затем ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "АУДИОВИЗУАЛЬНЫЕ ТЕХНОЛОГИИ В ДИЗАЙНЕ МУЛЬТИМЕДИА",
+          "type": "lecture",
+          "teacher": "доц. Илья Юрьевич Демьяненко, https:",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": "только 15.09, затем ПЗ"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВИЗУАЛЬНЫЙ СТОРИТЕЛЛИНГ И МУЛЬТИМЕДИА затем ТЕХНОЛОГИИ КРЕАТИВНОСТИ",
+          "type": "practice",
+          "teacher": "доц. Тамара Степановна Северова https:",
+          "room": "x02.pk.mpgu.su/b/7c9-go4-dgf",
+          "subgroup": null,
+          "notes": "с 16.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВИЗУАЛЬНЫЙ СТОРИТЕЛЛИНГ И МУЛЬТИМЕДИА затем ТЕХНОЛОГИИ КРЕАТИВНОСТИ",
+          "type": "lecture",
+          "teacher": "доц. Тамара Степановна Северова https:",
+          "room": "x02.pk.mpgu.su/b/7c9-go4-dgf",
+          "subgroup": null,
+          "notes": "только 9.09 затем ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВИЗУАЛЬНЫЙ СТОРИТЕЛЛИНГ И МУЛЬТИМЕДИА затем ТЕХНОЛОГИИ КРЕАТИВНОСТИ",
+          "type": "practice",
+          "teacher": "доц. Тамара Степановна Северова https:",
+          "room": "x02.pk.mpgu.su/b/7c9-go4-dgf",
+          "subgroup": null,
+          "notes": "с 16.09"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВИЗУАЛЬНЫЙ СТОРИТЕЛЛИНГ И МУЛЬТИМЕДИА затем ТЕХНОЛОГИИ КРЕАТИВНОСТИ",
+          "type": "practice",
+          "teacher": "доц. Тамара Степановна Северова https:",
+          "room": "x02.pk.mpgu.su/b/7c9-go4-dgf",
+          "subgroup": null,
+          "notes": "с 9.09"
+        }
+      ],
       "thursday": [],
       "friday": [],
       "saturday": [
@@ -22,7 +90,7 @@
           "teacher": "доц. Ксения Владимировна Зотова",
           "room": "208",
           "subgroup": null,
-          "notes": "только 12.09, затем ПЗ с 19.09"
+          "notes": "только 26.09, затем ПЗ"
         },
         {
           "slot": 2,
@@ -44,7 +112,7 @@
           "teacher": "доц. Ксения Владимировна Зотова",
           "room": "208",
           "subgroup": null,
-          "notes": "только 12.09, затем ПЗ с 19.09"
+          "notes": "только 26.09, затем П"
         },
         {
           "slot": 3,
@@ -61,8 +129,76 @@
     },
     "even_week": {
       "monday": [],
-      "tuesday": [],
-      "wednesday": [],
+      "tuesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "АУДИОВИЗУАЛЬНЫЕ ТЕХНОЛОГИИ В ДИЗАЙНЕ МУЛЬТИМЕДИА",
+          "type": "lecture",
+          "teacher": "доц. Илья Юрьевич Демьяненко, https:",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": "только 15.09, затем ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "АУДИОВИЗУАЛЬНЫЕ ТЕХНОЛОГИИ В ДИЗАЙНЕ МУЛЬТИМЕДИА",
+          "type": "lecture",
+          "teacher": "доц. Илья Юрьевич Демьяненко, https:",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": "только 15.09, затем ПЗ"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВИЗУАЛЬНЫЙ СТОРИТЕЛЛИНГ И МУЛЬТИМЕДИА затем ТЕХНОЛОГИИ КРЕАТИВНОСТИ",
+          "type": "practice",
+          "teacher": "доц. Тамара Степановна Северова https:",
+          "room": "x02.pk.mpgu.su/b/7c9-go4-dgf",
+          "subgroup": null,
+          "notes": "с 16.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВИЗУАЛЬНЫЙ СТОРИТЕЛЛИНГ И МУЛЬТИМЕДИА затем ТЕХНОЛОГИИ КРЕАТИВНОСТИ",
+          "type": "lecture",
+          "teacher": "доц. Тамара Степановна Северова https:",
+          "room": "x02.pk.mpgu.su/b/7c9-go4-dgf",
+          "subgroup": null,
+          "notes": "только 9.09 затем ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВИЗУАЛЬНЫЙ СТОРИТЕЛЛИНГ И МУЛЬТИМЕДИА затем ТЕХНОЛОГИИ КРЕАТИВНОСТИ",
+          "type": "practice",
+          "teacher": "доц. Тамара Степановна Северова https:",
+          "room": "x02.pk.mpgu.su/b/7c9-go4-dgf",
+          "subgroup": null,
+          "notes": "с 16.09"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВИЗУАЛЬНЫЙ СТОРИТЕЛЛИНГ И МУЛЬТИМЕДИА затем ТЕХНОЛОГИИ КРЕАТИВНОСТИ",
+          "type": "practice",
+          "teacher": "доц. Тамара Степановна Северова https:",
+          "room": "x02.pk.mpgu.su/b/7c9-go4-dgf",
+          "subgroup": null,
+          "notes": "с 9.09"
+        }
+      ],
       "thursday": [],
       "friday": [],
       "saturday": [
@@ -75,7 +211,7 @@
           "teacher": "доц. Ксения Владимировна Зотова",
           "room": "208",
           "subgroup": null,
-          "notes": "только 12.09, затем ПЗ с 19.09"
+          "notes": "только 26.09, затем ПЗ"
         },
         {
           "slot": 2,
@@ -97,7 +233,7 @@
           "teacher": "доц. Ксения Владимировна Зотова",
           "room": "208",
           "subgroup": null,
-          "notes": "только 12.09, затем ПЗ с 19.09"
+          "notes": "только 26.09, затем П"
         },
         {
           "slot": 3,

@@ -236,6 +236,17 @@
           "notes": ""
         },
         {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "317",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
@@ -475,6 +486,17 @@
           "type": "practice",
           "teacher": "доц. Александр Анатольевич Ворохоб",
           "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "проф. Ксения Викторовна Макарова",
+          "room": "317",
           "subgroup": null,
           "notes": ""
         },

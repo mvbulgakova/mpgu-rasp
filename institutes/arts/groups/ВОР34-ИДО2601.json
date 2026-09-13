@@ -345,6 +345,17 @@
           "notes": "с 1.10"
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "асс. Анастасия Сергеевна Деменева",
+          "room": "419",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -354,6 +365,17 @@
           "room": null,
           "subgroup": null,
           "notes": "с 1.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "асс. Анастасия Сергеевна Деменева",
+          "room": "419",
+          "subgroup": null,
+          "notes": ""
         },
         {
           "slot": 4,
@@ -374,6 +396,17 @@
           "type": "practice",
           "teacher": "доц. Мария Леонидовна Макарова",
           "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "асс. Анастасия Сергеевна Деменева",
+          "room": "419",
           "subgroup": null,
           "notes": ""
         }
@@ -459,37 +492,15 @@
       ],
       "saturday": [
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "ЖИВОПИСЬ",
-          "type": "practice",
-          "teacher": "доц. Елена Юрьевна Павловская",
-          "room": "419",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "ЖИВОПИСЬ",
-          "type": "practice",
-          "teacher": "доц. Елена Юрьевна Павловская",
-          "room": "419",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
           "subject": "ВВЕДЕНИЕ В ПРОФЕССИЮ",
-          "type": "practice",
+          "type": "lecture",
           "teacher": "доц. Наталья Викторовна Курбатова",
           "room": "403",
           "subgroup": null,
-          "notes": "с 3.10"
+          "notes": "только 26.09, 10.10, 24.10"
         },
         {
           "slot": 5,
@@ -843,6 +854,17 @@
           "notes": "с 1.10"
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "асс. Анастасия Сергеевна Деменева",
+          "room": "419",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -852,6 +874,17 @@
           "room": null,
           "subgroup": null,
           "notes": "с 1.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "асс. Анастасия Сергеевна Деменева",
+          "room": "419",
+          "subgroup": null,
+          "notes": ""
         },
         {
           "slot": 4,
@@ -872,6 +905,17 @@
           "type": "practice",
           "teacher": "доц. Мария Леонидовна Макарова",
           "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "асс. Анастасия Сергеевна Деменева",
+          "room": "419",
           "subgroup": null,
           "notes": ""
         }
@@ -957,37 +1001,15 @@
       ],
       "saturday": [
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "ЖИВОПИСЬ",
-          "type": "practice",
-          "teacher": "доц. Елена Юрьевна Павловская",
-          "room": "419",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "ЖИВОПИСЬ",
-          "type": "practice",
-          "teacher": "доц. Елена Юрьевна Павловская",
-          "room": "419",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
           "subject": "ВВЕДЕНИЕ В ПРОФЕССИЮ",
-          "type": "practice",
+          "type": "lecture",
           "teacher": "доц. Наталья Викторовна Курбатова",
           "room": "403",
           "subgroup": null,
-          "notes": "с 3.10"
+          "notes": "только 26.09, 10.10, 24.10"
         },
         {
           "slot": 5,

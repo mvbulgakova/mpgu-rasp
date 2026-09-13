@@ -1,5 +1,5 @@
 {
-  "name": "ЗОР34-ИИХ2602",
+  "name": "ЗОР34-ИХО2602",
   "year": 1,
   "form": "full_time",
   "degree": "bachelor",
@@ -201,6 +201,17 @@
           "notes": ""
         },
         {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
+          "type": "lecture",
+          "teacher": "доц. Юрий Владимирович Подисов",
+          "room": "407",
+          "subgroup": null,
+          "notes": "только 17.09, затем ПЗ"
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -210,6 +221,17 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
+          "type": "lecture",
+          "teacher": "доц. Юрий Владимирович Подисов",
+          "room": "407",
+          "subgroup": null,
+          "notes": "только 17.09, затем ПЗ"
         },
         {
           "slot": 3,
@@ -245,32 +267,10 @@
           "notes": "с 17.09"
         },
         {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
           "subject": "16:00-17:30",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА",
           "type": "other",
           "teacher": null,
           "room": null,
@@ -316,28 +316,6 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ",
-          "type": "other",
-          "teacher": "ЖИВОПИСИ (ЛК только 18.09, затем ПЗ) проф",
-          "room": "408",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
-          "type": "practice",
-          "teacher": "доц. Татьяна Владимировна Волкова",
-          "room": "316",
-          "subgroup": null,
-          "notes": "с 25.09"
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
           "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
           "type": "practice",
           "teacher": "доц. Татьяна Владимировна Волкова",
@@ -357,6 +335,17 @@
           "notes": "только 25.09, затем ПЗ"
         },
         {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "type": "practice",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
+          "subgroup": null,
+          "notes": "с 25.09"
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -371,10 +360,10 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
           "type": "practice",
-          "teacher": "проф. Леонид Георгиевич Медведев",
-          "room": "408",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
           "subgroup": null,
           "notes": "с 18.09"
         },
@@ -382,10 +371,10 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
           "type": "practice",
-          "teacher": "доц. Татьяна Владимировна Волкова",
-          "room": "316",
+          "teacher": "проф. Леонид Георгиевич Медведев",
+          "room": "408",
           "subgroup": null,
           "notes": "с 25.09"
         },
@@ -397,17 +386,6 @@
           "type": "practice",
           "teacher": "доц. Татьяна Владимировна Волкова",
           "room": "316",
-          "subgroup": null,
-          "notes": "с 18.09"
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
-          "type": "practice",
-          "teacher": "проф. Леонид Георгиевич Медведев",
-          "room": "408",
           "subgroup": null,
           "notes": "с 25.09"
         },
@@ -421,17 +399,6 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
-          "type": "practice",
-          "teacher": "проф. Леонид Георгиевич Медведев",
-          "room": "408",
-          "subgroup": null,
-          "notes": "с 18.09"
         },
         {
           "slot": 4,
@@ -742,6 +709,17 @@
           "notes": ""
         },
         {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
+          "type": "lecture",
+          "teacher": "доц. Юрий Владимирович Подисов",
+          "room": "407",
+          "subgroup": null,
+          "notes": "только 17.09, затем ПЗ"
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -751,6 +729,17 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
+          "type": "lecture",
+          "teacher": "доц. Юрий Владимирович Подисов",
+          "room": "407",
+          "subgroup": null,
+          "notes": "только 17.09, затем ПЗ"
         },
         {
           "slot": 3,
@@ -786,32 +775,10 @@
           "notes": "с 17.09"
         },
         {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
           "subject": "16:00-17:30",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА",
           "type": "other",
           "teacher": null,
           "room": null,
@@ -857,28 +824,6 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ",
-          "type": "other",
-          "teacher": "ЖИВОПИСИ (ЛК только 18.09, затем ПЗ) проф",
-          "room": "408",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
-          "type": "practice",
-          "teacher": "доц. Татьяна Владимировна Волкова",
-          "room": "316",
-          "subgroup": null,
-          "notes": "с 25.09"
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
           "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
           "type": "practice",
           "teacher": "доц. Татьяна Владимировна Волкова",
@@ -898,6 +843,17 @@
           "notes": "только 25.09, затем ПЗ"
         },
         {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "type": "practice",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
+          "subgroup": null,
+          "notes": "с 25.09"
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -912,10 +868,10 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
           "type": "practice",
-          "teacher": "проф. Леонид Георгиевич Медведев",
-          "room": "408",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
           "subgroup": null,
           "notes": "с 18.09"
         },
@@ -923,10 +879,10 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОГО РИСУНКА",
+          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
           "type": "practice",
-          "teacher": "доц. Татьяна Владимировна Волкова",
-          "room": "316",
+          "teacher": "проф. Леонид Георгиевич Медведев",
+          "room": "408",
           "subgroup": null,
           "notes": "с 25.09"
         },
@@ -938,17 +894,6 @@
           "type": "practice",
           "teacher": "доц. Татьяна Владимировна Волкова",
           "room": "316",
-          "subgroup": null,
-          "notes": "с 18.09"
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
-          "type": "practice",
-          "teacher": "проф. Леонид Георгиевич Медведев",
-          "room": "408",
           "subgroup": null,
           "notes": "с 25.09"
         },
@@ -962,17 +907,6 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "ТРАДИЦИИ ШКОЛЫ РЕАЛИСТИЧЕСКОЙ ЖИВОПИСИ",
-          "type": "practice",
-          "teacher": "проф. Леонид Георгиевич Медведев",
-          "room": "408",
-          "subgroup": null,
-          "notes": "с 18.09"
         },
         {
           "slot": 4,

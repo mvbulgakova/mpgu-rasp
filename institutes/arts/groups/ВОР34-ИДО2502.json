@@ -69,12 +69,23 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "БЕЗОПАСНОСТЬ ЖИЗНЕДЕЯТЕЛЬНОСТИ",
-          "type": "practice",
-          "teacher": "доц. Мариам Рустамовна Максиняева",
-          "room": "403",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
-          "notes": "с 13.10 по 24.11"
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "НОРМАТИВНО-ПРАВОВЫЕ ОСНОВЫ ПРОФЕССИОНАЛЬНОЙ ДЕЯТЕЛЬНОСТИ И АНТИКОРРУПЦИОННОЕ ПОВЕДЕНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Наталья Васильевна Черноусова",
+          "room": "207",
+          "subgroup": null,
+          "notes": "только 22.09, 6.10, 20.10, 3.11, 17.11"
         },
         {
           "slot": 5,
@@ -145,6 +156,17 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "БЕЗОПАСНОСТЬ ЖИЗНЕДЕЯТЕЛЬНОСТИ",
+          "type": "practice",
+          "teacher": "доц. Мариам Рустамовна Максиняева",
+          "room": "403",
+          "subgroup": null,
+          "notes": "со 2.10 по 27.11"
         },
         {
           "slot": 3,
@@ -317,6 +339,17 @@
           "type": "practice",
           "teacher": "ст. преп. Елена Александровна Толстая",
           "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         },

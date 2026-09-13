@@ -1,0 +1,388 @@
+{
+  "name": "ВВР35-ИИД2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 Педагогическое образование (БВО с двумя профилями подготовки)",
+  "profile": "Изобразительное искусство и дизайн",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "доц. Александр Георгиевич Смирнов",
+          "room": "telemost.360.yandex.ru/j/5975447444",
+          "subgroup": null,
+          "notes": "с 14.09.26"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "доц. Александр Георгиевич Смирнов",
+          "room": "telemost.360.yandex.ru/j/5975447444",
+          "subgroup": null,
+          "notes": "только 14.09.26"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "доц. Александр Георгиевич Смирнов",
+          "room": "221",
+          "subgroup": null,
+          "notes": "только 14.09.26"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (иностранный язык)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (иностранный язык)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Григорий Павлович Блуднов https:",
+          "room": "telemost.yandex.ru/j/58921820415677",
+          "subgroup": null,
+          "notes": "до 11.11"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Григорий Павлович Блуднов https:",
+          "room": "telemost.yandex.ru/j/58921820415677",
+          "subgroup": null,
+          "notes": "до 11.11"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lecture",
+          "teacher": "доц. Игорь Анатольевич",
+          "room": "telemost.yandex.ru/j/80876632552834",
+          "subgroup": null,
+          "notes": "только 15.10"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "доц. Наталия Юрьевна Бурнашова, спортивный зал",
+          "room": null,
+          "subgroup": null,
+          "notes": "только 18.09, 2.10, 16.10"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "доц. Алексей Сергеевич Чертков (дист)",
+          "room": "telemost.yandex.ru/j/80876632552834",
+          "subgroup": null,
+          "notes": "только 15.10 и 29.10 затем ПЗ 12.11, 26.11, 10.12"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Дмитрий Владимирович Волков",
+          "room": "317",
+          "subgroup": null,
+          "notes": "с 30.10"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "доц. Алексей Сергеевич Чертков (дист)",
+          "room": null,
+          "subgroup": null,
+          "notes": "только 15.10 и 29.10 затем ПЗ 12.11, 26.11"
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВВЕДЕНИЕ В ПРОФЕССИЮ",
+          "type": "lecture",
+          "teacher": "доц. Наталья Викторовна Курбатова",
+          "room": "403",
+          "subgroup": null,
+          "notes": "только 19.09, затем ПЗ до 31.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВВЕДЕНИЕ В ПРОФЕССИЮ",
+          "type": "practice",
+          "teacher": "доц. Наталья Викторовна Курбатова",
+          "room": "403",
+          "subgroup": null,
+          "notes": "с 19.09 до 31.10"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Анастасия Юрьевна Быданова",
+          "room": "telemost.yandex.ru/j/78981938411338",
+          "subgroup": null,
+          "notes": "с 26.09 по 21.11"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Анастасия Юрьевна Быданова",
+          "room": "telemost.yandex.ru/j/78981938411338",
+          "subgroup": null,
+          "notes": "с 26.09 по 21.11"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОМПОЗИЦИЯ В ДИЗАЙНЕ",
+          "type": "lecture",
+          "teacher": "доц. Людмила Николаевна Романова",
+          "room": "220",
+          "subgroup": null,
+          "notes": "только 5.10, затем ПЗ до 30.11"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КОМПОЗИЦИЯ В ДИЗАЙНЕ",
+          "type": "practice",
+          "teacher": "доц. Людмила Николаевна Романова",
+          "room": "220",
+          "subgroup": null,
+          "notes": "с 5.10 по 30.11"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "доц. Александр Георгиевич Смирнов",
+          "room": "221",
+          "subgroup": null,
+          "notes": "только 14.09.26"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич, https:",
+          "room": "us04web.zoom.us/j/73486178944?pwd=QmSpyaCMuu0hWpgbuAAV0yHdH8xaQq.1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич, https:",
+          "room": "us04web.zoom.us/j/73486178944?pwd=QmSpyaCMuu0hWpgbuAAV0yHdH8xaQq.1",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Григорий Павлович Блуднов https:",
+          "room": "telemost.yandex.ru/j/58921820415677",
+          "subgroup": null,
+          "notes": "до 11.11"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Григорий Павлович Блуднов https:",
+          "room": "telemost.yandex.ru/j/58921820415677",
+          "subgroup": null,
+          "notes": "до 11.11"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "доц. Игорь Анатольевич Кузнецов",
+          "room": "telemost.yandex.ru/j/80876632552834",
+          "subgroup": null,
+          "notes": "22.10, 5.11, 19.11, 3.12, 17.12"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "доц. Наталия Юрьевна Бурнашова, спортивный зал",
+          "room": null,
+          "subgroup": null,
+          "notes": "только 25.09, 9.10"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "доц. Алексей Сергеевич Чертков (дист)",
+          "room": "telemost.yandex.ru/j/80876632552834",
+          "subgroup": null,
+          "notes": "только 15.10 и 29.10 затем ПЗ 12.11, 26.11, 10.12"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Дмитрий Владимирович Волков",
+          "room": "317",
+          "subgroup": null,
+          "notes": "с 30.10"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "доц. Алексей Сергеевич Чертков (дист)",
+          "room": null,
+          "subgroup": null,
+          "notes": "только 15.10 и 29.10 затем ПЗ 12.11, 26.11"
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "lecture",
+          "teacher": "ст.преп. Юлия Алексеевна Николаева (дист)",
+          "room": null,
+          "subgroup": null,
+          "notes": "только 10.10, затема ПЗ до 5.12"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "practice",
+          "teacher": "ст.преп. Юлия Алексеевна Николаева (дист)",
+          "room": null,
+          "subgroup": null,
+          "notes": "с 10.10 по 5.12"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Анастасия Юрьевна Быданова",
+          "room": "telemost.yandex.ru/j/78981938411338",
+          "subgroup": null,
+          "notes": "с 26.09 по 21.11"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЧЕРЧЕНИЕ",
+          "type": "practice",
+          "teacher": "ст.преп. Анастасия Юрьевна Быданова",
+          "room": "telemost.yandex.ru/j/78981938411338",
+          "subgroup": null,
+          "notes": "с 26.09 по 21.11"
+        }
+      ]
+    }
+  }
+}

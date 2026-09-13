@@ -10,9 +10,9 @@
       "monday": [],
       "tuesday": [
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "ЖИВОПИСЬ",
           "type": "practice",
           "teacher": "проф. Виктор Петрович Копцев",
@@ -21,9 +21,9 @@
           "notes": ""
         },
         {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "ЖИВОПИСЬ",
           "type": "practice",
           "teacher": "проф. Виктор Петрович Копцев",
@@ -254,9 +254,9 @@
       "monday": [],
       "tuesday": [
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "ЖИВОПИСЬ",
           "type": "practice",
           "teacher": "проф. Виктор Петрович Копцев",
@@ -265,9 +265,9 @@
           "notes": ""
         },
         {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "ЖИВОПИСЬ",
           "type": "practice",
           "teacher": "проф. Виктор Петрович Копцев",

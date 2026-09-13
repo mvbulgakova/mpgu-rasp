@@ -203,6 +203,17 @@
       ],
       "friday": [
         {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -210,6 +221,17 @@
           "type": "practice",
           "teacher": "ст.преп. Антон Юрьевич Бурнашов",
           "room": "спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
           "subgroup": null,
           "notes": ""
         },
@@ -223,28 +245,6 @@
           "room": "216",
           "subgroup": null,
           "notes": "с 18.09"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "РИСУНОК",
-          "type": "practice",
-          "teacher": "доц. Татьяна Владимировна Волкова",
-          "room": "316",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "РИСУНОК",
-          "type": "practice",
-          "teacher": "доц. Татьяна Владимировна Волкова",
-          "room": "316",
-          "subgroup": null,
-          "notes": ""
         }
       ],
       "saturday": [
@@ -458,6 +458,17 @@
       ],
       "friday": [
         {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -469,6 +480,17 @@
           "notes": ""
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "РИСУНОК",
+          "type": "practice",
+          "teacher": "доц. Татьяна Владимировна Волкова",
+          "room": "316",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -476,28 +498,6 @@
           "type": "other",
           "teacher": null,
           "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "РИСУНОК",
-          "type": "practice",
-          "teacher": "доц. Татьяна Владимировна Волкова",
-          "room": "316",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "РИСУНОК",
-          "type": "practice",
-          "teacher": "доц. Татьяна Владимировна Волкова",
-          "room": "316",
           "subgroup": null,
           "notes": ""
         }
