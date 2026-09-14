@@ -30,6 +30,17 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "wednesday": [
@@ -83,6 +94,17 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "415",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
           "subject": "Современный русский язык с практикумом",
           "type": "practice",
           "teacher": "доц. Л.В. Шалина",
@@ -98,6 +120,17 @@
           "type": "practice",
           "teacher": "доц. Л.В. Шалина",
           "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "415",
           "subgroup": null,
           "notes": ""
         },
@@ -160,6 +193,17 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
+          "subject": "Теория языка",
+          "type": "lecture",
+          "teacher": "доц. С.В. Феликсов",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "Возрастная анатомия, физиология и культура здоровья",
           "type": "practice",
           "teacher": "проф. Н.А. Красноперова",
@@ -186,6 +230,17 @@
           "type": "practice",
           "teacher": "доц. Ю.И. Соловьева",
           "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория языка",
+          "type": "lecture",
+          "teacher": "доц. С.В. Феликсов",
+          "room": "208",
           "subgroup": null,
           "notes": ""
         },
@@ -239,6 +294,17 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "доц. А.В. Орлова",
@@ -254,6 +320,17 @@
           "type": "practice",
           "teacher": "ст.преп. Ю.С. Сиренко",
           "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "428",
           "subgroup": null,
           "notes": ""
         },
@@ -439,6 +516,17 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "wednesday": [
@@ -492,6 +580,17 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "415",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
           "subject": "Современный русский язык с практикумом",
           "type": "practice",
           "teacher": "доц. Л.В. Шалина",
@@ -507,6 +606,17 @@
           "type": "practice",
           "teacher": "доц. Л.В. Шалина",
           "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "415",
           "subgroup": null,
           "notes": ""
         },
@@ -569,6 +679,17 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
+          "subject": "Теория языка",
+          "type": "lecture",
+          "teacher": "доц. С.В. Феликсов",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "Возрастная анатомия, физиология и культура здоровья",
           "type": "practice",
           "teacher": "проф. Н.А. Красноперова",
@@ -595,6 +716,17 @@
           "type": "practice",
           "teacher": "доц. Ю.И. Соловьева",
           "room": "413",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория языка",
+          "type": "lecture",
+          "teacher": "доц. С.В. Феликсов",
+          "room": "208",
           "subgroup": null,
           "notes": ""
         },
@@ -648,6 +780,17 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "428",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "доц. А.В. Орлова",
@@ -663,6 +806,17 @@
           "type": "practice",
           "teacher": "ст.преп. Ю.С. Сиренко",
           "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы литературоведения и практика читательской деятельности",
+          "type": "practice",
+          "teacher": "доц. Ю.И. Соловьева",
+          "room": "428",
           "subgroup": null,
           "notes": ""
         },

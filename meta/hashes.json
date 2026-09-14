@@ -2171,16 +2171,40 @@
     "size_bytes": 0,
     "last_changed": "2026-09-14T10:24:53.974586+00:00"
   },
-  "journalism:https://mpgu.su/wp-content/uploads/2026/09/1-kurs-zhurnalistika-i-literatury.-ochnaja-forma-4.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/1-kurs-zhurnalistika-i-literatury.-ochnaja-forma-4.pdf",
-    "md5": "f82a4a629b80f6b125acebf04472e0c7",
+  "history:https://mpgu.su/wp-content/uploads/2026/09/proekt-raspisanija-zaochki-sessionnoj-1-1.xlsx": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/proekt-raspisanija-zaochki-sessionnoj-1-1.xlsx",
+    "md5": "5fd3e4918d74526076b77d6b0dfcd096",
     "size_bytes": 0,
-    "last_changed": "2026-09-14T20:44:51.724719+00:00"
+    "last_changed": "2026-09-14T20:44:09.058050+00:00"
   },
-  "journalism:https://mpgu.su/wp-content/uploads/2026/09/1-kurs-reklama-i-svjazi-s-obshhestvennostju.-ochnaja-forma-2.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/1-kurs-reklama-i-svjazi-s-obshhestvennostju.-ochnaja-forma-2.pdf",
-    "md5": "208048ef32cde4d462321b3f7287c26f",
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-1-semestra-1-kursa-bvo-ofo-na-2026-2027-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-1-semestra-1-kursa-bvo-ofo-na-2026-2027-1.pdf",
+    "md5": "1c6a3c7228e6100cf9141219d39336dc",
     "size_bytes": 0,
-    "last_changed": "2026-09-14T20:44:51.724735+00:00"
+    "last_changed": "2026-09-14T20:45:06.169575+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-2-kursa-3-semestra-bvo-ofo-na-2026-2027-3.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-2-kursa-3-semestra-bvo-ofo-na-2026-2027-3.pdf",
+    "md5": "b17b14f260b688625c0446338baea6da",
+    "size_bytes": 0,
+    "last_changed": "2026-09-14T20:45:06.169589+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-3-kursa-5-semestra-bak-i-bvo-ofo-na-2026-2027-3.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-3-kursa-5-semestra-bak-i-bvo-ofo-na-2026-2027-3.pdf",
+    "md5": "67f6510a3c852c2cbe4ff9cf7e6d53fa",
+    "size_bytes": 0,
+    "last_changed": "2026-09-14T20:45:06.169594+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-4-kursa-7-semestra-bak-bvo-ofo-na-2026-2027-3.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-4-kursa-7-semestra-bak-bvo-ofo-na-2026-2027-3.pdf",
+    "md5": "d10e00a3a5f8c22dfdb4bfbfce697282",
+    "size_bytes": 0,
+    "last_changed": "2026-09-14T20:45:06.169597+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-5-kursa-9-semestra-bak-ofo-na-2026-2027-3.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-5-kursa-9-semestra-bak-ofo-na-2026-2027-3.pdf",
+    "md5": "bbd68dcfe09daaced5ba8f20703a96b0",
+    "size_bytes": 0,
+    "last_changed": "2026-09-14T20:45:06.169600+00:00"
   }
 }

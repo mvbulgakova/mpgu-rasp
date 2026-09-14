@@ -107,10 +107,10 @@
       "short_name": "ИД",
       "campus": "КГФ",
       "campus_address": "пр-т Вернадского, 88",
-      "groups_count": 56,
-      "updated_at": "2026-09-11T09:29:49.522987+00:00",
+      "groups_count": 30,
+      "updated_at": "2026-09-14T20:45:06.188528+00:00",
       "status": "ok",
-      "parser_used": "claude"
+      "parser_used": "pdfplumber"
     },
     {
       "id": "digital",
