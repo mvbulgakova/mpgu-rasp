@@ -10,55 +10,31 @@
       "monday": [],
       "tuesday": [],
       "wednesday": [],
-      "thursday": [
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "ИСТОРИЯ РОССИИ",
-          "type": "lecture",
-          "teacher": "Доцент А.М. Черныш",
-          "room": "205",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "ИСТОРИЯ РОССИИ",
-          "type": "practice",
-          "teacher": "Доцент А.М. Черныш",
-          "room": "111",
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
-      "friday": [
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
-          "type": "practice",
-          "teacher": "преподаватель Алимов М.М",
-          "room": "116",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ОСНОВЫ ПРОЕКТНОЙ ДЕЯТЕЛЬНОСТИ",
-          "type": "practice",
-          "teacher": "преподаватель Е.Н. Матюхина",
-          "room": "111",
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
+      "thursday": [],
+      "friday": [],
       "saturday": [
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "преподаватель А.С. Чернавский",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": null,
           "time_start": "13:20",
@@ -76,55 +52,31 @@
       "monday": [],
       "tuesday": [],
       "wednesday": [],
-      "thursday": [
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "ИСТОРИЯ РОССИИ",
-          "type": "lecture",
-          "teacher": "Доцент А.М. Черныш",
-          "room": "205",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "ИСТОРИЯ РОССИИ",
-          "type": "practice",
-          "teacher": "Доцент А.М. Черныш",
-          "room": "111",
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
-      "friday": [
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
-          "type": "practice",
-          "teacher": "преподаватель Алимов М.М",
-          "room": "116",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ОСНОВЫ ПРОЕКТНОЙ ДЕЯТЕЛЬНОСТИ",
-          "type": "practice",
-          "teacher": "преподаватель Е.Н. Матюхина",
-          "room": "111",
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
+      "thursday": [],
+      "friday": [],
       "saturday": [
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "преподаватель А.С. Чернавский",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": null,
           "time_start": "13:20",
