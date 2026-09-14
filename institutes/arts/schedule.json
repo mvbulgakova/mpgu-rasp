@@ -3,7 +3,7 @@
   "institute_name": "Институт изящных искусств",
   "short_name": "ИИИ",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-13T19:11:56.703290+00:00",
+  "updated_at": "2026-09-14T10:19:37.022486+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
@@ -69,6 +69,15 @@
       "degree": "bachelor",
       "direction": "44.03.01 Педагогическое образование",
       "profile": "Живопись"
+    },
+    {
+      "name": "ВОР07-ГДЗ2601",
+      "file": "ВОР07-ГДЗ2601",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 ДИЗАЙН",
+      "profile": "Графический дизайн"
     },
     {
       "name": "БОР35-ИДО2301",
@@ -240,6 +249,15 @@
       "degree": "bachelor",
       "direction": "54.03.01 Дизайн",
       "profile": "Дизайн"
+    },
+    {
+      "name": "ЗВР07-ДИМ2601",
+      "file": "ЗВР07-ДИМ2601",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "54.04.01 Дизайн",
+      "profile": "Дизайн мультимедиа"
     }
   ]
 }

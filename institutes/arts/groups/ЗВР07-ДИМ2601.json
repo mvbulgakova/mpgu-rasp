@@ -1,0 +1,186 @@
+{
+  "name": "ЗВР07-ДИМ2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "54.04.01 Дизайн",
+  "profile": "Дизайн мультимедиа",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич",
+          "room": "us04web.zoom.us/j/73486178944?pwd=QmSpyaCMuu0hWpgbuAAV0yHdH8xaQq.1",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич",
+          "room": "us04web.zoom.us/j/73486178944?pwd=QmSpyaCMuu0hWpgbuAAV0yHdH8xaQq.1",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОНЦЕПТ-АРТ В ДИЗАЙНЕ МУЛЬТИМЕДИА",
+          "type": "practice",
+          "teacher": "доц. Илья Юрьевич Демьяненко",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АУДИОВИЗУАЛЬНЫЕ ТЕХНОЛОГИИ В ДИЗАЙНЕ МУЛЬТИМЕДИА , доц",
+          "type": "lecture",
+          "teacher": "АУДИОВИЗУАЛЬНЫЕ ТЕХНОЛОГИИ В ДИЗАЙНЕ МУЛЬТИМЕДИА (ЛК только 23.09, затем ПЗ), доц",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": "только 23.09, затем ПЗ"
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "lecture",
+          "teacher": "проф. Нина Анатольевна Дмитриева",
+          "room": "teams.live.com/l/community/FEAx7IWUm7nIefDiAI",
+          "subgroup": null,
+          "notes": "с 26.09 по 7.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "АНИМАЦИЯ",
+          "type": "lecture",
+          "teacher": "доц. Ксения Владимировна Зотова",
+          "room": "208",
+          "subgroup": null,
+          "notes": "только 19.09, затем ПЗ по 14.11"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "АНИМАЦИЯ",
+          "type": "practice",
+          "teacher": "доц. Ксения Владимировна Зотова",
+          "room": "208",
+          "subgroup": null,
+          "notes": "с 19.09 по 31.10"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВИЗУАЛЬНЫЙ СТОРИТЕЛЛИНГ И МУЛЬТИМЕДИА",
+          "type": "lecture",
+          "teacher": "доц. Тамара Степановна Северова, https:",
+          "room": "x02.pk.mpgu.su/b/7c9-go4-dgf",
+          "subgroup": null,
+          "notes": "только 6.10, затем ПЗ до 1.12"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ВИЗУАЛЬНЫЙ СТОРИТЕЛЛИНГ И МУЛЬТИМЕДИА",
+          "type": "practice",
+          "teacher": "доц. Тамара Степановна Северова, https:",
+          "room": "x02.pk.mpgu.su/b/7c9-go4-dgf",
+          "subgroup": null,
+          "notes": "с 6.10 по 1.12"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОНЦЕПТ-АРТ В ДИЗАЙНЕ МУЛЬТИМЕДИА",
+          "type": "practice",
+          "teacher": "доц. Илья Юрьевич Демьяненко",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АУДИОВИЗУАЛЬНЫЕ ТЕХНОЛОГИИ В ДИЗАЙНЕ МУЛЬТИМЕДИА , доц",
+          "type": "lecture",
+          "teacher": "АУДИОВИЗУАЛЬНЫЕ ТЕХНОЛОГИИ В ДИЗАЙНЕ МУЛЬТИМЕДИА (ЛК только 23.09, затем ПЗ), доц",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": "только 23.09, затем ПЗ"
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "lecture",
+          "teacher": "проф. Нина Анатольевна Дмитриева",
+          "room": "teams.live.com/l/community/FEAx7IWUm7nIefDiAI",
+          "subgroup": null,
+          "notes": "с 26.09 по 7.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "practice",
+          "teacher": "проф. Нина Анатольевна Дмитриева",
+          "room": "teams.live.com/l/community/FEAx7IWUm7nIefDiAI",
+          "subgroup": null,
+          "notes": "с 26.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЛОСОФИЯ НАУЧНОГО ПОЗНАНИЯ",
+          "type": "practice",
+          "teacher": "проф. Нина Анатольевна Дмитриева",
+          "room": "teams.live.com/l/community/FEAx7IWUm7nIefDiAI",
+          "subgroup": null,
+          "notes": "с 26.09"
+        }
+      ]
+    }
+  }
+}
