@@ -3,7 +3,7 @@
   "institute_name": "Институт социально-гуманитарного образования",
   "short_name": "ИСГО",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-15T09:47:11.971372+00:00",
+  "updated_at": "2026-09-15T19:58:55.568410+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
@@ -37,6 +37,42 @@
     {
       "name": "БОЭ04-ГМУ2502",
       "file": "БОЭ04-ГМУ2502",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЭ63-ЮРД2501",
+      "file": "БОЭ63-ЮРД2501",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЭ63-ЮРД2502",
+      "file": "БОЭ63-ЮРД2502",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЭ63-ЮРД2503",
+      "file": "БОЭ63-ЮРД2503",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЭ46-ССМ2301",
+      "file": "БОЭ46-ССМ2301",
       "year": null,
       "form": "part_time",
       "degree": "bachelor",
