@@ -31,6 +31,17 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ФОЛЬКЛОР",
+          "type": "practice",
+          "teacher": "Профессор Т.Н. Владимирова",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -86,6 +97,28 @@
           "notes": ""
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ 21.09, 19, 10, 02.11, 16.11, 30.11",
+          "type": "practice",
+          "teacher": "Доцент П.В. Макарова",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -104,6 +137,17 @@
           "type": "practice",
           "teacher": "Доцент П.В. Макарова",
           "room": "115",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "111",
           "subgroup": null,
           "notes": ""
         }
@@ -132,6 +176,17 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": "Спортивный зал, Рязанский проспект, д.9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -139,6 +194,28 @@
           "type": "practice",
           "teacher": "Доцент Е.А. Россинская",
           "room": "115",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": "Спортивный зал, Рязанский проспект, д.9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Самохин",
+          "room": "111",
           "subgroup": null,
           "notes": ""
         },
@@ -222,6 +299,61 @@
       ],
       "wednesday": [
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lecture",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель А.В. Мажура",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "115",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -283,6 +415,17 @@
           "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
           "type": "practice",
           "teacher": "преподаватель А.В. Мажура",
+          "room": "115",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент П.В. Макарова",
           "room": "115",
           "subgroup": null,
           "notes": ""
@@ -356,6 +499,17 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Спортивный зал, Рязанский проспект, д.9",
+          "type": "other",
+          "teacher": null,
+          "room": "Спортивный зал, Рязанский проспект, д.9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -373,6 +527,28 @@
           "subject": "ИСТОРИЯ РОССИИ",
           "type": "lecture",
           "teacher": "Доцент А.М. Черныш",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
+          "type": "lecture",
+          "teacher": "преподаватель А.В. Мажура",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТЕОРИЯ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Щалпегин",
           "room": "205",
           "subgroup": null,
           "notes": ""
@@ -400,6 +576,28 @@
           "notes": ""
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель А.В. Мажура",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": "Спортивный зал, Рязанский проспект, д.9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
@@ -407,6 +605,17 @@
           "type": "lecture",
           "teacher": "Доцент О.Н. Щалпегин",
           "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": null,
           "subgroup": null,
           "notes": ""
         }
@@ -431,6 +640,17 @@
           "type": "other",
           "teacher": "преподаватель Н.А. Пивненко",
           "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Алимов М.М",
+          "room": "116",
           "subgroup": null,
           "notes": ""
         },
@@ -540,6 +760,17 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ФОЛЬКЛОР",
+          "type": "practice",
+          "teacher": "Профессор Т.Н. Владимирова",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -595,6 +826,28 @@
           "notes": ""
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ 21.09, 19, 10, 02.11, 16.11, 30.11",
+          "type": "practice",
+          "teacher": "Доцент П.В. Макарова",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -613,6 +866,17 @@
           "type": "practice",
           "teacher": "Доцент П.В. Макарова",
           "room": "115",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "111",
           "subgroup": null,
           "notes": ""
         }
@@ -641,6 +905,17 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": "Спортивный зал, Рязанский проспект, д.9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -648,6 +923,28 @@
           "type": "practice",
           "teacher": "Доцент Е.А. Россинская",
           "room": "115",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": "Спортивный зал, Рязанский проспект, д.9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Самохин",
+          "room": "111",
           "subgroup": null,
           "notes": ""
         },
@@ -731,6 +1028,61 @@
       ],
       "wednesday": [
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lecture",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель А.В. Мажура",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "115",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -792,6 +1144,17 @@
           "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
           "type": "practice",
           "teacher": "преподаватель А.В. Мажура",
+          "room": "115",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент П.В. Макарова",
           "room": "115",
           "subgroup": null,
           "notes": ""
@@ -865,6 +1228,17 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Спортивный зал, Рязанский проспект, д.9",
+          "type": "other",
+          "teacher": null,
+          "room": "Спортивный зал, Рязанский проспект, д.9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -882,6 +1256,28 @@
           "subject": "ИСТОРИЯ РОССИИ",
           "type": "lecture",
           "teacher": "Доцент А.М. Черныш",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
+          "type": "lecture",
+          "teacher": "преподаватель А.В. Мажура",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ТЕОРИЯ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Щалпегин",
           "room": "205",
           "subgroup": null,
           "notes": ""
@@ -909,6 +1305,28 @@
           "notes": ""
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "НОВОСТНАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель А.В. Мажура",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": "Спортивный зал, Рязанский проспект, д.9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
@@ -916,6 +1334,17 @@
           "type": "lecture",
           "teacher": "Доцент О.Н. Щалпегин",
           "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": null,
           "subgroup": null,
           "notes": ""
         }
@@ -940,6 +1369,17 @@
           "type": "other",
           "teacher": "преподаватель Н.А. Пивненко",
           "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Алимов М.М",
+          "room": "116",
           "subgroup": null,
           "notes": ""
         },
