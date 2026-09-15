@@ -2189,22 +2189,94 @@
     "size_bytes": 0,
     "last_changed": "2026-09-15T09:46:00.079524+00:00"
   },
-  "journalism:https://mpgu.su/wp-content/uploads/2026/09/1-kurs-zhurnalistika-i-literatury.-ochnaja-forma-4.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/1-kurs-zhurnalistika-i-literatury.-ochnaja-forma-4.pdf",
-    "md5": "f82a4a629b80f6b125acebf04472e0c7",
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/edo.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/edo.pdf",
+    "md5": "822441c8761fe1f483dd914c1c519a2e",
     "size_bytes": 0,
-    "last_changed": "2026-09-15T09:47:22.367552+00:00"
+    "last_changed": "2026-09-15T09:47:34.764241+00:00"
   },
-  "journalism:https://mpgu.su/wp-content/uploads/2026/09/1-kurs-reklama-i-svjazi-s-obshhestvennostju.-ochnaja-forma-2.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/1-kurs-reklama-i-svjazi-s-obshhestvennostju.-ochnaja-forma-2.pdf",
-    "md5": "208048ef32cde4d462321b3f7287c26f",
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/mdo.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/mdo.pdf",
+    "md5": "5b244b2d7320b7967b3c02d4ff12dbc4",
     "size_bytes": 0,
-    "last_changed": "2026-09-15T09:47:22.367570+00:00"
+    "last_changed": "2026-09-15T09:47:34.764258+00:00"
   },
-  "journalism:https://mpgu.su/wp-content/uploads/2026/09/1-kurs-reklama-i-svjazi-s-obshhestvennostju.-ochnaja-forma-3.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/1-kurs-reklama-i-svjazi-s-obshhestvennostju.-ochnaja-forma-3.pdf",
-    "md5": "000d5eff1abcfac19be278b6c39bf63f",
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/akp.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/akp.pdf",
+    "md5": "9dd4dd9271f056d984fc3349430d9f26",
     "size_bytes": 0,
-    "last_changed": "2026-09-15T09:47:22.367574+00:00"
+    "last_changed": "2026-09-15T09:47:34.764263+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/pmo_1_kurs.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/pmo_1_kurs.pdf",
+    "md5": "8a95505bf66b5d16fc4031a6fc0cb12b",
+    "size_bytes": 0,
+    "last_changed": "2026-09-15T09:47:34.764267+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/zok34-upr2601.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/zok34-upr2601.pdf",
+    "md5": "5dd014a5e81b039464f09282cbcdca94",
+    "size_bytes": 0,
+    "last_changed": "2026-09-15T09:47:34.764270+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/pit.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/pit.pdf",
+    "md5": "3163d5c5537ed68ec4cf78485613fbd6",
+    "size_bytes": 0,
+    "last_changed": "2026-09-15T09:47:34.764274+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/pmo_2_kurs-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/pmo_2_kurs-1.pdf",
+    "md5": "a7417d57cadef17dc3795b066d00a4aa",
+    "size_bytes": 0,
+    "last_changed": "2026-09-15T09:47:34.764276+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/knr_bakalavry.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/knr_bakalavry.pdf",
+    "md5": "5d1f45a376048b8071751f04ffc593b1",
+    "size_bytes": 0,
+    "last_changed": "2026-09-15T09:47:34.764279+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/1_kurs_muzykalnoe_iskusstvo_i_obrazovanie.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/1_kurs_muzykalnoe_iskusstvo_i_obrazovanie.pdf",
+    "md5": "7fc9f7688a5a56760e5039b7c21b7aa4",
+    "size_bytes": 0,
+    "last_changed": "2026-09-15T09:47:34.764282+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/2_kurs_muzykalnoe_iskusstvo_i_obrazovanie.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/2_kurs_muzykalnoe_iskusstvo_i_obrazovanie.pdf",
+    "md5": "040cfe4f6bdecafec7f74961e854e80e",
+    "size_bytes": 0,
+    "last_changed": "2026-09-15T09:47:34.764285+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-1-semestra-1-kursa-bvo-ofo-na-2026-2027-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-1-semestra-1-kursa-bvo-ofo-na-2026-2027-1.pdf",
+    "md5": "1c6a3c7228e6100cf9141219d39336dc",
+    "size_bytes": 0,
+    "last_changed": "2026-09-15T09:47:34.764288+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-2-kursa-3-semestra-bvo-ofo-na-2026-2027-3.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-2-kursa-3-semestra-bvo-ofo-na-2026-2027-3.pdf",
+    "md5": "b17b14f260b688625c0446338baea6da",
+    "size_bytes": 0,
+    "last_changed": "2026-09-15T09:47:34.764291+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-3-kursa-5-semestra-bak-i-bvo-ofo-na-2026-2027-3.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-3-kursa-5-semestra-bak-i-bvo-ofo-na-2026-2027-3.pdf",
+    "md5": "67f6510a3c852c2cbe4ff9cf7e6d53fa",
+    "size_bytes": 0,
+    "last_changed": "2026-09-15T09:47:34.764294+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-4-kursa-7-semestra-bak-bvo-ofo-na-2026-2027-3.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-4-kursa-7-semestra-bak-bvo-ofo-na-2026-2027-3.pdf",
+    "md5": "d10e00a3a5f8c22dfdb4bfbfce697282",
+    "size_bytes": 0,
+    "last_changed": "2026-09-15T09:47:34.764297+00:00"
+  },
+  "childhood:https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-5-kursa-9-semestra-bak-ofo-na-2026-2027-3.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-5-kursa-9-semestra-bak-ofo-na-2026-2027-3.pdf",
+    "md5": "bbd68dcfe09daaced5ba8f20703a96b0",
+    "size_bytes": 0,
+    "last_changed": "2026-09-15T09:47:34.764300+00:00"
   }
 }
