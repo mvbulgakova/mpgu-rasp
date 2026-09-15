@@ -1,0 +1,340 @@
+{
+  "name": "МЗЭ04-УСО2401",
+  "year": null,
+  "form": "correspondence",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Инновации в управлении образованием",
+          "type": "lecture",
+          "teacher": "доц. Т.Ю. Щипкова https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Инновации в управлении образованием",
+          "type": "lecture",
+          "teacher": "доц. Т.Ю. Щипкова https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Инновации в управлении образованием",
+          "type": "lecture",
+          "teacher": "доц. Т.Ю. Щипкова https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "lecture",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ЛК) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "lecture",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ЛК) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "practice",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ПЗ) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "lecture",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ЛК) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "practice",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ПЗ) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:40",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "practice",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ПЗ) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "practice",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ПЗ) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "practice",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ЗАЧЁТ С ОЦЕНКОЙ) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Инновации в управлении образованием",
+          "type": "practice",
+          "teacher": "ст.преп. Д.К. Газарова https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": "12"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Инновации в управлении образованием",
+          "type": "practice",
+          "teacher": "ст.преп. Д.К. Газарова https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": "12"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Инновации в управлении образованием",
+          "type": "practice",
+          "teacher": "ст.преп. Д.К. Газарова https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": "12"
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Инновации в управлении образованием",
+          "type": "lecture",
+          "teacher": "доц. Т.Ю. Щипкова https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Инновации в управлении образованием",
+          "type": "lecture",
+          "teacher": "доц. Т.Ю. Щипкова https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Инновации в управлении образованием",
+          "type": "lecture",
+          "teacher": "доц. Т.Ю. Щипкова https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "lecture",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ЛК) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "lecture",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ЛК) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "practice",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ПЗ) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "lecture",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ЛК) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "practice",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ПЗ) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:40",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "practice",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ПЗ) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "practice",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ПЗ) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Актуальные вопросы государственного и муниципального управления в социальной сфере проф.А.Н. Ларионов https://x11.pk.mpgu.su/b/mjq-yog-yst",
+          "type": "practice",
+          "teacher": "Актуальные вопросы государственного и муниципального управления в социальной сфере (ЗАЧЁТ С ОЦЕНКОЙ) проф.А.Н. Ларионов https:",
+          "room": "x11.pk.mpgu.",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Инновации в управлении образованием",
+          "type": "practice",
+          "teacher": "ст.преп. Д.К. Газарова https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": "12"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Инновации в управлении образованием",
+          "type": "practice",
+          "teacher": "ст.преп. Д.К. Газарова https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": "12"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Инновации в управлении образованием",
+          "type": "practice",
+          "teacher": "ст.преп. Д.К. Газарова https:",
+          "room": "x11.pk.mpgu.su/b/mjq-yog-yst",
+          "subgroup": null,
+          "notes": "12"
+        }
+      ],
+      "saturday": []
+    }
+  }
+}
