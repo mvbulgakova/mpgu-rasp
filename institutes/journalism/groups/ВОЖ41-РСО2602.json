@@ -7,7 +7,52 @@
   "profile": "РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
   "schedule": {
     "odd_week": {
-      "monday": [],
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "Доцент И.Н. Позерт",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "lecture",
+          "teacher": "Доцент И.Н. Позерт",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
       "tuesday": [
         {
           "slot": 2,
@@ -25,6 +70,17 @@
           "time_start": "10:40",
           "time_end": "12:10",
           "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ) 2 подгруппа",
+          "type": "practice",
+          "teacher": "преподаватель А.А. Щербинина",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ) 3 подгруппа",
           "type": "practice",
           "teacher": "преподаватель А.А. Щербинина",
           "room": "203",
@@ -54,7 +110,30 @@
           "notes": ""
         }
       ],
-      "wednesday": [],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ РЕКЛАМЫ И PR",
+          "type": "lecture",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОРГАНИЗАЦИЯ И ПРОВЕДЕНИЕ РЕКЛАМНЫХ КАМПАНИЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Младковская",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
       "thursday": [
         {
           "slot": 3,
@@ -88,13 +167,148 @@
           "room": "111",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
         }
       ],
-      "friday": [],
-      "saturday": []
+      "friday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ РЕКЛАМЫ И PR",
+          "type": "lecture",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРАКТИКУМ В ОБЛАСТИ РЕКЛАМЫ И СВЯЗЕЙ С ОБЩЕСТВЕННОСТЬЮ",
+          "type": "practice",
+          "teacher": "Доцент Орлова Е.А",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "РЕЧЕВЫЕ ПРАКТИКИ",
+          "type": "practice",
+          "teacher": "Доцент О.А. Сальникова",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:40",
+          "time_end": "18:10",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель В.В. Захарова",
+          "room": "Спортивный зал, Рязанский проспект, д.9",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
     },
     "even_week": {
-      "monday": [],
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "Доцент И.Н. Позерт",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "СОВРЕМЕННЫЙ РУССКИЙ ЯЗЫК",
+          "type": "lecture",
+          "teacher": "Доцент И.Н. Позерт",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
       "tuesday": [
         {
           "slot": 2,
@@ -112,6 +326,17 @@
           "time_start": "10:40",
           "time_end": "12:10",
           "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ) 2 подгруппа",
+          "type": "practice",
+          "teacher": "преподаватель А.А. Щербинина",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (АНГЛИЙСКИЙ) 3 подгруппа",
           "type": "practice",
           "teacher": "преподаватель А.А. Щербинина",
           "room": "203",
@@ -141,7 +366,30 @@
           "notes": ""
         }
       ],
-      "wednesday": [],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ РЕКЛАМЫ И PR",
+          "type": "lecture",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОРГАНИЗАЦИЯ И ПРОВЕДЕНИЕ РЕКЛАМНЫХ КАМПАНИЙ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Младковская",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
       "thursday": [
         {
           "slot": 3,
@@ -175,10 +423,100 @@
           "room": "111",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
         }
       ],
-      "friday": [],
-      "saturday": []
+      "friday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ОСНОВЫ РЕКЛАМЫ И PR",
+          "type": "lecture",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРАКТИКУМ В ОБЛАСТИ РЕКЛАМЫ И СВЯЗЕЙ С ОБЩЕСТВЕННОСТЬЮ",
+          "type": "practice",
+          "teacher": "Доцент Орлова Е.А",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "РЕЧЕВЫЕ ПРАКТИКИ",
+          "type": "practice",
+          "teacher": "Доцент О.А. Сальникова",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:40",
+          "time_end": "18:10",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "преподаватель В.В. Захарова",
+          "room": "Спортивный зал, Рязанский проспект, д.9",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
     }
   }
 }
