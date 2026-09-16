@@ -143,6 +143,17 @@
           "room": "424",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Группа 101 (ВОН34-НИЯ2601)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "thursday": [
@@ -441,6 +452,17 @@
           "type": "practice",
           "teacher": "доц. А.Г. Смирнов",
           "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Группа 101 (ВОН34-НИЯ2601)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         }

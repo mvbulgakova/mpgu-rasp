@@ -16,7 +16,7 @@
           "subject": "Математика и информатика",
           "type": "lecture",
           "teacher": "доц. А.В. Орлова https:",
-          "room": "rbb.mpgu.su/b/vpf-gyu-2x5",
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -45,6 +45,72 @@
       ],
       "wednesday": [
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "доц. А.Г. Смирнов",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "проф. А.А. Локшин",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения изобразительному искусству и труду (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. Ж.А. Першина",
+          "room": "433",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -52,6 +118,17 @@
           "type": "practice",
           "teacher": "проф. А.А. Локшин",
           "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Иностранный язык Подгруппа А:",
+          "type": "practice",
+          "teacher": "ст.преп. Ю.С. Сиренко",
+          "room": "423",
           "subgroup": null,
           "notes": ""
         },
@@ -70,10 +147,32 @@
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
+          "subject": "Иностранный язык Подгруппа А:",
+          "type": "practice",
+          "teacher": "ст.преп. Ю.С. Сиренко",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. А.Г. Смирнов",
           "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Группа 104 (ВОН34-НОР2604)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         }
@@ -502,7 +601,7 @@
           "subject": "Математика и информатика",
           "type": "lecture",
           "teacher": "доц. А.В. Орлова https:",
-          "room": "rbb.mpgu.su/b/vpf-gyu-2x5",
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -531,6 +630,72 @@
       ],
       "wednesday": [
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "доц. К.Ю. Машков (спортивный зал)",
+          "room": "доц. К.Ю. Машков (спортивный зал)",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "доц. А.Г. Смирнов",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Математика и информатика",
+          "type": "practice",
+          "teacher": "проф. А.А. Локшин",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика обучения изобразительному искусству и труду (технологии) в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. Ж.А. Першина",
+          "room": "433",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "доц. А.В. Орлова",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -538,6 +703,17 @@
           "type": "practice",
           "teacher": "проф. А.А. Локшин",
           "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Иностранный язык Подгруппа А:",
+          "type": "practice",
+          "teacher": "ст.преп. Ю.С. Сиренко",
+          "room": "423",
           "subgroup": null,
           "notes": ""
         },
@@ -556,10 +732,32 @@
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
+          "subject": "Иностранный язык Подгруппа А:",
+          "type": "practice",
+          "teacher": "ст.преп. Ю.С. Сиренко",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. А.Г. Смирнов",
           "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Группа 104 (ВОН34-НОР2604)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         }
