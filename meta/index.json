@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T09:40:05.480262+00:00",
+  "generated_at": "2026-09-16T09:40:48.292193+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -31,7 +31,7 @@
       "campus": "ИМиИ",
       "campus_address": "ул. Краснопрудная, 14",
       "groups_count": 33,
-      "updated_at": "2026-09-15T20:00:09.119128+00:00",
+      "updated_at": "2026-09-16T09:40:48.270376+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
     },
