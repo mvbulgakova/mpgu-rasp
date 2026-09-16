@@ -9,6 +9,17 @@
     "odd_week": {
       "monday": [
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Логика",
+          "type": "practice",
+          "teacher": "доц. И.В. Калмыкова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -319,6 +330,17 @@
     },
     "even_week": {
       "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Логика",
+          "type": "practice",
+          "teacher": "доц. И.В. Калмыкова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": 3,
           "time_start": "12:40",
