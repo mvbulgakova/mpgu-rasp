@@ -3,10 +3,19 @@
   "institute_name": "Институт детства",
   "short_name": "ИД",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-16T19:52:29.606516+00:00",
+  "updated_at": "2026-09-17T09:50:27.289567+00:00",
   "parser_used": "claude",
   "version": 1,
   "groups": [
+    {
+      "name": "БОК35-МДО2201",
+      "file": "БОК35-МДО2201",
+      "year": 5,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
     {
       "name": "ВОН34-НИЯ2601",
       "file": "ВОН34-НИЯ2601",
