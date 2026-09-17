@@ -68,17 +68,6 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Сольфеджио",
-          "type": "lab",
-          "teacher": "доцент",
-          "room": "308",
-          "subgroup": 1,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
           "subject": "Психология воспитательных практик",
           "type": "lecture",
           "teacher": "доцент",
@@ -422,11 +411,22 @@
           "slot": null,
           "time_start": "12:30",
           "time_end": "14:00",
-          "subject": "Хоровое пение и практическая работа с хором",
+          "subject": "Хоровое пение и практическа я работа с хором",
           "type": "practice",
           "teacher": "профессор",
           "room": "315",
           "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Сольфеджио",
+          "type": "other",
+          "teacher": "доцент",
+          "room": "308",
+          "subgroup": null,
           "notes": ""
         },
         {
@@ -1489,17 +1489,6 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Сольфеджио",
-          "type": "lab",
-          "teacher": "доцент",
-          "room": "308",
-          "subgroup": 1,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
           "subject": "Психология воспитательных практик",
           "type": "lecture",
           "teacher": "доцент",
@@ -1843,11 +1832,22 @@
           "slot": null,
           "time_start": "12:30",
           "time_end": "14:00",
-          "subject": "Хоровое пение и практическая работа с хором",
+          "subject": "Хоровое пение и практическа я работа с хором",
           "type": "practice",
           "teacher": "профессор",
           "room": "315",
           "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Сольфеджио",
+          "type": "other",
+          "teacher": "доцент",
+          "room": "308",
+          "subgroup": null,
           "notes": ""
         },
         {
