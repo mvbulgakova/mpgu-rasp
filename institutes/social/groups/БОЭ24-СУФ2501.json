@@ -186,7 +186,7 @@
           "subject": "Теория менеджмента",
           "type": "practice",
           "teacher": "проф. О.А. Игумнов",
-          "room": "805",
+          "room": "802",
           "subgroup": null,
           "notes": ""
         },
@@ -229,8 +229,8 @@
           "time_end": "14:10",
           "subject": "Мировая экономика и международные отношения",
           "type": "lecture",
-          "teacher": "проф. М.О. Лихачев   -",
-          "room": "204",
+          "teacher": "проф. М.О. Лихачев",
+          "room": "802",
           "subgroup": null,
           "notes": ""
         },
@@ -440,7 +440,7 @@
           "subject": "Теория менеджмента",
           "type": "practice",
           "teacher": "проф. О.А. Игумнов",
-          "room": "805",
+          "room": "802",
           "subgroup": null,
           "notes": ""
         },
@@ -483,8 +483,8 @@
           "time_end": "14:10",
           "subject": "Мировая экономика и международные отношения",
           "type": "lecture",
-          "teacher": "проф. М.О. Лихачев   -",
-          "room": "204",
+          "teacher": "проф. М.О. Лихачев",
+          "room": "802",
           "subgroup": null,
           "notes": ""
         },

@@ -3,7 +3,7 @@
   "institute_name": "Институт социально-гуманитарного образования",
   "short_name": "ИСГО",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-16T19:51:19.055338+00:00",
+  "updated_at": "2026-09-17T09:49:12.128298+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
@@ -123,6 +123,15 @@
       "degree": "bachelor",
       "direction": null,
       "profile": null
+    },
+    {
+      "name": "ЗОЭ34-МВО2601",
+      "file": "ЗОЭ34-МВО2601",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Менеджмент в образовании"
     },
     {
       "name": "ЗОЭ34-КДС2601",
