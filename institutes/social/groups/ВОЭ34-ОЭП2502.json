@@ -9,13 +9,13 @@
     "odd_week": {
       "monday": [
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "Логика",
           "type": "practice",
           "teacher": "доц. И.В. Калмыкова",
-          "room": null,
+          "room": "818",
           "subgroup": null,
           "notes": ""
         },
@@ -36,7 +36,7 @@
           "time_end": "15:50",
           "subject": "Логика",
           "type": "practice",
-          "teacher": "доц. И.В. Калмыкова   -",
+          "teacher": "доц. И.В. Калмыкова",
           "room": "818",
           "subgroup": null,
           "notes": ""
@@ -59,7 +59,7 @@
           "subject": "Экономическая теория",
           "type": "practice",
           "teacher": "проф. В.В. Демина",
-          "room": "520",
+          "room": "508",
           "subgroup": null,
           "notes": ""
         }
@@ -176,7 +176,7 @@
           "time_end": "10:30",
           "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "practice",
-          "teacher": "проф. А.В. Терентьев",
+          "teacher": "проф. А.В. Терентьев   -дистанционно",
           "room": "817",
           "subgroup": null,
           "notes": ""
@@ -197,13 +197,13 @@
     "even_week": {
       "monday": [
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "Логика",
           "type": "practice",
           "teacher": "доц. И.В. Калмыкова",
-          "room": null,
+          "room": "818",
           "subgroup": null,
           "notes": ""
         },
@@ -224,7 +224,7 @@
           "time_end": "15:50",
           "subject": "Логика",
           "type": "practice",
-          "teacher": "доц. И.В. Калмыкова   -",
+          "teacher": "доц. И.В. Калмыкова",
           "room": "818",
           "subgroup": null,
           "notes": ""
@@ -247,7 +247,7 @@
           "subject": "Экономическая теория",
           "type": "practice",
           "teacher": "проф. В.В. Демина",
-          "room": "520",
+          "room": "508",
           "subgroup": null,
           "notes": ""
         }
@@ -364,7 +364,7 @@
           "time_end": "10:30",
           "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "practice",
-          "teacher": "проф. А.В. Терентьев",
+          "teacher": "проф. А.В. Терентьев   -дистанционно",
           "room": "817",
           "subgroup": null,
           "notes": ""
