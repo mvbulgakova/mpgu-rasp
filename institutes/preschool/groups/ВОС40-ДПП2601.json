@@ -224,17 +224,6 @@
           "notes": ""
         },
         {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Иностранный язык",
-          "type": "practice",
-          "teacher": "Ст.пр. А.Я. Маламуд -англ.яз",
-          "room": "204",
-          "subgroup": null,
-          "notes": "с 19.11.2026г."
-        },
-        {
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
@@ -243,7 +232,7 @@
           "teacher": "Ст.пр. А.Я. Маламуд -англ.яз",
           "room": "204",
           "subgroup": null,
-          "notes": ""
+          "notes": "с 26.11.2026г."
         }
       ],
       "friday": [
@@ -490,17 +479,6 @@
           "notes": ""
         },
         {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Иностранный язык",
-          "type": "practice",
-          "teacher": "Ст.пр. А.Я. Маламуд -англ.яз",
-          "room": "204",
-          "subgroup": null,
-          "notes": "с 19.11.2026г."
-        },
-        {
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
@@ -509,7 +487,7 @@
           "teacher": "Ст.пр. А.Я. Маламуд -англ.яз",
           "room": "204",
           "subgroup": null,
-          "notes": ""
+          "notes": "с 26.11.2026г."
         }
       ],
       "friday": [

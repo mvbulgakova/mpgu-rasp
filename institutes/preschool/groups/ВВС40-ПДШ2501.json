@@ -20,6 +20,17 @@
           "notes": ""
         },
         {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дошкольная педагогика с практикумом по педагогической диагностике",
+          "type": "lecture",
+          "teacher": "Проф. О.Л. Зверева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 6,
           "time_start": "17:40",
           "time_end": "19:10",
@@ -27,6 +38,17 @@
           "type": "practice",
           "teacher": "Ст.пр. К.А. Захарченко",
           "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Дошкольная педагогика с практикумом по педагогической диагностике",
+          "type": "practice",
+          "teacher": "Проф. О.Л. Зверева",
+          "room": "204",
           "subgroup": null,
           "notes": ""
         },
@@ -40,6 +62,17 @@
           "room": "301",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Дошкольная педагогика с практикумом по педагогической диагностике",
+          "type": "practice",
+          "teacher": "Проф. О.Л. Зверева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "tuesday": [
@@ -47,34 +80,12 @@
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
-          "subject": "Дошкольная педагогика с практикумом по педагогической диагностике",
-          "type": "lecture",
-          "teacher": "Проф. О.Л. Зверева",
-          "room": "204",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Дошкольная педагогика с практикумом по педагогической диагностике",
+          "subject": "Компьютерные игровые технологии в дошкольном образовании",
           "type": "practice",
-          "teacher": "Проф. О.Л. Зверева",
+          "teacher": "Доц. Т.В. Калинина",
           "room": "205",
           "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 6,
-          "time_start": "17:40",
-          "time_end": "19:10",
-          "subject": "Дошкольная педагогика с практикумом по педагогической диагностике",
-          "type": "practice",
-          "teacher": "Проф. О.Л. Зверева",
-          "room": "204",
-          "subgroup": null,
-          "notes": ""
+          "notes": "с 08.09.2026г. по 20.10.2026г."
         },
         {
           "slot": 6,
@@ -85,7 +96,7 @@
           "teacher": "Доц. Т.В. Калинина",
           "room": "205",
           "subgroup": null,
-          "notes": ""
+          "notes": "с 08.09.2026г. по 20.10.2026г."
         }
       ],
       "wednesday": [
@@ -106,7 +117,7 @@
           "time_end": "19:10",
           "subject": "Права ребенка, ЛК/ПЗ",
           "type": "other",
-          "teacher": "Ст.пр. М.В. Осиненко",
+          "teacher": "Доц. М.В. Осиненко",
           "room": "204",
           "subgroup": null,
           "notes": ""
@@ -175,6 +186,17 @@
           "notes": ""
         },
         {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дошкольная педагогика с практикумом по педагогической диагностике",
+          "type": "lecture",
+          "teacher": "Проф. О.Л. Зверева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 6,
           "time_start": "17:40",
           "time_end": "19:10",
@@ -182,6 +204,17 @@
           "type": "practice",
           "teacher": "Ст.пр. К.А. Захарченко",
           "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Дошкольная педагогика с практикумом по педагогической диагностике",
+          "type": "practice",
+          "teacher": "Проф. О.Л. Зверева",
+          "room": "204",
           "subgroup": null,
           "notes": ""
         },
@@ -195,6 +228,17 @@
           "room": "301",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Дошкольная педагогика с практикумом по педагогической диагностике",
+          "type": "practice",
+          "teacher": "Проф. О.Л. Зверева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "tuesday": [
@@ -202,34 +246,12 @@
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
-          "subject": "Дошкольная педагогика с практикумом по педагогической диагностике",
-          "type": "lecture",
-          "teacher": "Проф. О.Л. Зверева",
-          "room": "204",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Дошкольная педагогика с практикумом по педагогической диагностике",
+          "subject": "Компьютерные игровые технологии в дошкольном образовании",
           "type": "practice",
-          "teacher": "Проф. О.Л. Зверева",
+          "teacher": "Доц. Т.В. Калинина",
           "room": "205",
           "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 6,
-          "time_start": "17:40",
-          "time_end": "19:10",
-          "subject": "Дошкольная педагогика с практикумом по педагогической диагностике",
-          "type": "practice",
-          "teacher": "Проф. О.Л. Зверева",
-          "room": "204",
-          "subgroup": null,
-          "notes": ""
+          "notes": "с 08.09.2026г. по 20.10.2026г."
         },
         {
           "slot": 6,
@@ -240,7 +262,7 @@
           "teacher": "Доц. Т.В. Калинина",
           "room": "205",
           "subgroup": null,
-          "notes": ""
+          "notes": "с 08.09.2026г. по 20.10.2026г."
         }
       ],
       "wednesday": [
@@ -261,7 +283,7 @@
           "time_end": "19:10",
           "subject": "Права ребенка, ЛК/ПЗ",
           "type": "other",
-          "teacher": "Ст.пр. М.В. Осиненко",
+          "teacher": "Доц. М.В. Осиненко",
           "room": "204",
           "subgroup": null,
           "notes": ""
