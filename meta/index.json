@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T09:22:02.005782+00:00",
+  "generated_at": "2026-09-18T09:22:15.279840+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -8,8 +8,8 @@
       "short_name": "ИФКСиЗ",
       "campus": "КГФ",
       "campus_address": "пр-т Вернадского, 88",
-      "groups_count": 5,
-      "updated_at": "2026-09-17T09:48:39.471242+00:00",
+      "groups_count": 10,
+      "updated_at": "2026-09-18T09:22:15.265613+00:00",
       "status": "ok",
       "parser_used": "gsheets"
     },
