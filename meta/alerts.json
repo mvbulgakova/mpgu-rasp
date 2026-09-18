@@ -1,0 +1,12 @@
+[
+  {
+    "type": "parser_broken",
+    "severity": "high",
+    "institute_id": "philology",
+    "institute_name": "Институт филологии",
+    "message": "После обновления 2 файл(ов) парсер вернул 0 групп (раньше было 1). Возможно, изменился формат.",
+    "prev_count": 1,
+    "new_count": 0,
+    "changed_files": 2
+  }
+]
