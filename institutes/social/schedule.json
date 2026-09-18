@@ -3,7 +3,7 @@
   "institute_name": "Институт социально-гуманитарного образования",
   "short_name": "ИСГО",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-18T09:22:41.763997+00:00",
+  "updated_at": "2026-09-18T19:26:38.804990+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
@@ -28,6 +28,15 @@
     {
       "name": "ВВЭ34-ПИИ2501",
       "file": "ВВЭ34-ПИИ2501",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "ВОЭ34-ИВР2501",
+      "file": "ВОЭ34-ИВР2501",
       "year": null,
       "form": "part_time",
       "degree": "bachelor",
