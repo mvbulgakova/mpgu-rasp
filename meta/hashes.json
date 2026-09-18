@@ -2543,10 +2543,16 @@
     "size_bytes": 0,
     "last_changed": "2026-09-17T20:00:42.768765+00:00"
   },
-  "arts:https://mpgu.su/wp-content/uploads/2026/09/f496006f58042dd42e6a46716416ed87.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/f496006f58042dd42e6a46716416ed87.pdf",
-    "md5": "759aa76e2aa2e8079b181a0617e74ffa",
+  "philology:https://mpgu.su/wp-content/uploads/2026/09/peresdachi-4-kurs-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/peresdachi-4-kurs-1.pdf",
+    "md5": "cebfc8ce4e43e60e868dc6046e5198bb",
     "size_bytes": 0,
-    "last_changed": "2026-09-18T09:23:05.529497+00:00"
+    "last_changed": "2026-09-18T09:24:02.520515+00:00"
+  },
+  "philology:https://mpgu.su/wp-content/uploads/2026/09/1-kurs-ot-31-avg-26-g-5.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/1-kurs-ot-31-avg-26-g-5.pdf",
+    "md5": "bb6a8e09761682466a1ddb774a0c1e1e",
+    "size_bytes": 0,
+    "last_changed": "2026-09-18T09:24:02.520532+00:00"
   }
 }
