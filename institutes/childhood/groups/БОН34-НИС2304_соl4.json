@@ -1,0 +1,428 @@
+{
+  "name": "БОН34-НИС2304 (соl4)",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Обучение лиц с ОВЗ и особыми образовательными потребностями",
+          "type": "practice",
+          "teacher": "доц. С.А. Кузьминова",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. А.И. Самедова",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору: Историческое сознание и историческая память",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Глухарев",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Обучение лиц с ОВЗ и особыми образовательными потребностями",
+          "type": "lecture",
+          "teacher": "доц. С.А. Кузьминова",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору: Историческое сознание и историческая память",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Глухарев",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Новейшая отечественная история",
+          "type": "lecture",
+          "teacher": "проф. В.Ж. Цветков",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Технологии противодействия фальсификации истории",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Глухарев",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплина по выбору: Технологии противодействия фальсификации истории",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Глухарев",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания технологии и изобразительного искусства в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. И.Л. Голованова",
+          "room": "438",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения истории",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Юркина",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания технологии и изобразительного искусства в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. И.Л. Голованова",
+          "room": "438",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения истории",
+          "type": "lecture",
+          "teacher": "доц. Н.Н. Юркина",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Новейшая отечественная история",
+          "type": "practice",
+          "teacher": "доц. А.А. Еньшина",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Новейшая отечественная история",
+          "type": "practice",
+          "teacher": "доц. А.А. Еньшина",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История Новейшего времени",
+          "type": "lecture",
+          "teacher": "доц. С.В. Решетников https:",
+          "room": "telemost.yandex.ru/j/75787830763885",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения математике в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. О.В. Бахтина https:",
+          "room": "rbb.mpgu.su/b/w9k-csk-u5v",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История Новейшего времени",
+          "type": "lecture",
+          "teacher": "доц. С.В. Решетников https:",
+          "room": "telemost.yandex.ru/j/75787830763885",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения математике в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. О.В. Бахтина https:",
+          "room": "rbb.mpgu.su/b/w9k-csk-u5v",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Обучение лиц с ОВЗ и особыми образовательными потребностями",
+          "type": "practice",
+          "teacher": "доц. С.А. Кузьминова",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания русского языка в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. А.И. Самедова",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплина по выбору: Историческое сознание и историческая память",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Глухарев",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Обучение лиц с ОВЗ и особыми образовательными потребностями",
+          "type": "lecture",
+          "teacher": "доц. С.А. Кузьминова",
+          "room": "417",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Дисциплина по выбору: Историческое сознание и историческая память",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Глухарев",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Новейшая отечественная история",
+          "type": "lecture",
+          "teacher": "проф. В.Ж. Цветков",
+          "room": "423",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дисциплина по выбору: Технологии противодействия фальсификации истории",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Глухарев",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Дисциплина по выбору: Технологии противодействия фальсификации истории",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Глухарев",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика преподавания технологии и изобразительного искусства в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. И.Л. Голованова",
+          "room": "438",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения истории",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Юркина",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика преподавания технологии и изобразительного искусства в начальной школе с практикумом",
+          "type": "practice",
+          "teacher": "доц. И.Л. Голованова",
+          "room": "438",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения истории",
+          "type": "lecture",
+          "teacher": "доц. Н.Н. Юркина",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Новейшая отечественная история",
+          "type": "practice",
+          "teacher": "доц. А.А. Еньшина",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Новейшая отечественная история",
+          "type": "practice",
+          "teacher": "доц. А.А. Еньшина",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История Новейшего времени",
+          "type": "lecture",
+          "teacher": "доц. С.В. Решетников https:",
+          "room": "telemost.yandex.ru/j/75787830763885",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Методика обучения математике в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. О.В. Бахтина https:",
+          "room": "rbb.mpgu.su/b/w9k-csk-u5v",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История Новейшего времени",
+          "type": "lecture",
+          "teacher": "доц. С.В. Решетников https:",
+          "room": "telemost.yandex.ru/j/75787830763885",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика обучения математике в начальной школе",
+          "type": "lecture",
+          "teacher": "доц. О.В. Бахтина https:",
+          "room": "rbb.mpgu.su/b/w9k-csk-u5v",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

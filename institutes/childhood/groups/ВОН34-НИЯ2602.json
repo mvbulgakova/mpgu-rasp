@@ -244,6 +244,17 @@
           "room": "421",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практическая грамматика Подгруппа Б:",
+          "type": "practice",
+          "teacher": "асс. А.Л. Казьмина",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "saturday": [
@@ -496,6 +507,17 @@
           "type": "practice",
           "teacher": "доц. О.М. Лазарева",
           "room": "421",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Практическая грамматика Подгруппа Б:",
+          "type": "practice",
+          "teacher": "асс. А.Л. Казьмина",
+          "room": "426",
           "subgroup": null,
           "notes": ""
         }

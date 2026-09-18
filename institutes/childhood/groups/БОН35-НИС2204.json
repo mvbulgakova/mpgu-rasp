@@ -1,0 +1,542 @@
+{
+  "name": "БОН35-НИС2204",
+  "year": 5,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": "Начальное образование и Социальная педагогика",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальное партнерство в работе школьного социального педагога",
+          "type": "lecture",
+          "teacher": "доц. О.М. Дементьева",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "438",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное партнерство в работе школьного социального педагога",
+          "type": "practice",
+          "teacher": "доц. О.М. Дементьева",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное партнерство в работе школьного социального педагога",
+          "type": "practice",
+          "teacher": "доц. О.М. Дементьева",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. Е.В. Борисова",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. Е.В. Борисова",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дисциплины по выбору : Социально-педагогическая деятельность в системе детских оздоровительных лагерей",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплины по выбору : Социально-педагогическая деятельность в системе детских оздоровительных лагерей",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социально-педагогическое сопровождение семьи",
+          "type": "practice",
+          "teacher": "доц. Т.А. Креславская",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Арт-терапия в работе с детьми с ОВЗ",
+          "type": "practice",
+          "teacher": "доц. К.Б. Вовненко",
+          "room": "438",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социально-педагогическое сопровождение семьи",
+          "type": "practice",
+          "teacher": "доц. Т.А. Креславская",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Арт-терапия в работе с детьми с ОВЗ",
+          "type": "practice",
+          "teacher": "доц. К.Б. Вовненко",
+          "room": "438",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социально-педагогическое сопровождение семьи",
+          "type": "lecture",
+          "teacher": "доц. Т.А. Креславская",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Тьюторство и проектирование идивидуальной траектории развития обучающегося в современном образовании",
+          "type": "practice",
+          "teacher": "проф. Л.К. Веретенникова (читальный зал)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Педагогическая культура и психологическая устойчивость социального педагога",
+          "type": "practice",
+          "teacher": "проф. Л.К. Веретенникова (читальный зал)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Тьюторство и проектирование идивидуальной траектории развития обучающегося в современном образовании",
+          "type": "practice",
+          "teacher": "проф. Л.К. Веретенникова (читальный зал)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Педагогическая культура и психологическая устойчивость социального педагога",
+          "type": "practice",
+          "teacher": "проф. Л.К. Веретенникова (читальный зал)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социально-педагогическая профилактика девиантного поведения",
+          "type": "practice",
+          "teacher": "доц. Т.В. Зотова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социально-педагогическая профилактика девиантного поведения",
+          "type": "practice",
+          "teacher": "доц. Т.В. Зотова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальный педагог как организатор досуга школьников",
+          "type": "practice",
+          "teacher": "доц. О.М. Дементьева",
+          "room": "427",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальный педагог как организатор досуга школьников",
+          "type": "practice",
+          "teacher": "доц. О.М. Дементьева",
+          "room": "427",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социально-педагогическая профилактика девиантного поведения",
+          "type": "lecture",
+          "teacher": "доц. Т.В. Зотова",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальное партнерство в работе школьного социального педагога",
+          "type": "lecture",
+          "teacher": "доц. О.М. Дементьева",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Профессиональная деятельность педагога начального образования",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "438",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное партнерство в работе школьного социального педагога",
+          "type": "practice",
+          "teacher": "доц. О.М. Дементьева",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное партнерство в работе школьного социального педагога",
+          "type": "practice",
+          "teacher": "доц. О.М. Дементьева",
+          "room": "426",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. Е.В. Борисова",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Развитие образования в России и за рубежом",
+          "type": "practice",
+          "teacher": "доц. Е.В. Борисова",
+          "room": "424",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Дисциплины по выбору : Социально-педагогическая деятельность в системе детских оздоровительных лагерей",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Дисциплины по выбору : Социально-педагогическая деятельность в системе детских оздоровительных лагерей",
+          "type": "practice",
+          "teacher": "ст.преп. В.Н. Шарапов",
+          "room": "416",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социально-педагогическое сопровождение семьи",
+          "type": "practice",
+          "teacher": "доц. Т.А. Креславская",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Арт-терапия в работе с детьми с ОВЗ",
+          "type": "practice",
+          "teacher": "доц. К.Б. Вовненко",
+          "room": "438",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социально-педагогическое сопровождение семьи",
+          "type": "practice",
+          "teacher": "доц. Т.А. Креславская",
+          "room": "432",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Арт-терапия в работе с детьми с ОВЗ",
+          "type": "practice",
+          "teacher": "доц. К.Б. Вовненко",
+          "room": "438",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социально-педагогическое сопровождение семьи",
+          "type": "lecture",
+          "teacher": "доц. Т.А. Креславская",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Тьюторство и проектирование идивидуальной траектории развития обучающегося в современном образовании",
+          "type": "practice",
+          "teacher": "проф. Л.К. Веретенникова (читальный зал)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Педагогическая культура и психологическая устойчивость социального педагога",
+          "type": "practice",
+          "teacher": "проф. Л.К. Веретенникова (читальный зал)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Тьюторство и проектирование идивидуальной траектории развития обучающегося в современном образовании",
+          "type": "practice",
+          "teacher": "проф. Л.К. Веретенникова (читальный зал)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Педагогическая культура и психологическая устойчивость социального педагога",
+          "type": "practice",
+          "teacher": "проф. Л.К. Веретенникова (читальный зал)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социально-педагогическая профилактика девиантного поведения",
+          "type": "practice",
+          "teacher": "доц. Т.В. Зотова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социально-педагогическая профилактика девиантного поведения",
+          "type": "practice",
+          "teacher": "доц. Т.В. Зотова",
+          "room": "430",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальный педагог как организатор досуга школьников",
+          "type": "practice",
+          "teacher": "доц. О.М. Дементьева",
+          "room": "427",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальный педагог как организатор досуга школьников",
+          "type": "practice",
+          "teacher": "доц. О.М. Дементьева",
+          "room": "427",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социально-педагогическая профилактика девиантного поведения",
+          "type": "lecture",
+          "teacher": "доц. Т.В. Зотова",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}
