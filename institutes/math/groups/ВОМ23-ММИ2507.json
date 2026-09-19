@@ -107,7 +107,7 @@
           "subject": "Геометрия",
           "type": "lecture",
           "teacher": "доц. Никифорова А.В",
-          "room": "207",
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -118,7 +118,7 @@
           "subject": "Математический анализ",
           "type": "practice",
           "teacher": "доц. Лукьянова Е.В",
-          "room": "304",
+          "room": "407",
           "subgroup": null,
           "notes": ""
         }
@@ -132,17 +132,6 @@
           "type": "practice",
           "teacher": "доц. Субботина И.В",
           "room": "406",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
-          "type": "other",
-          "teacher": null,
-          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -175,13 +164,48 @@
           "subject": "Нормативно-правовые и этические основы педагогической деятельности",
           "type": "lecture",
           "teacher": "ст. пр. Харламов П.В",
-          "room": "105",
+          "room": "305",
           "subgroup": null,
-          "notes": "/ПЗ"
+          "notes": "12.11, ПЗ 26.11, 24.12"
         }
       ],
-      "friday": [],
-      "saturday": []
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Нормативно-правовые и этические основы педагогической деятельности",
+          "type": "lecture",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": "14.11, 28.11, 12.12"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовые и этические основы педагогической деятельности",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": "14.11, 28.11, 12.12"
+        }
+      ]
     },
     "even_week": {
       "monday": [
@@ -284,7 +308,7 @@
           "subject": "Геометрия",
           "type": "lecture",
           "teacher": "доц. Никифорова А.В",
-          "room": "207",
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -295,7 +319,7 @@
           "subject": "Математический анализ",
           "type": "practice",
           "teacher": "доц. Лукьянова Е.В",
-          "room": "304",
+          "room": "407",
           "subgroup": null,
           "notes": ""
         }
@@ -309,17 +333,6 @@
           "type": "practice",
           "teacher": "доц. Субботина И.В",
           "room": "406",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
-          "type": "other",
-          "teacher": null,
-          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -352,13 +365,48 @@
           "subject": "Нормативно-правовые и этические основы педагогической деятельности",
           "type": "lecture",
           "teacher": "ст. пр. Харламов П.В",
-          "room": "105",
+          "room": "305",
           "subgroup": null,
-          "notes": "/ПЗ"
+          "notes": "12.11, ПЗ 26.11, 24.12"
         }
       ],
-      "friday": [],
-      "saturday": []
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Элективные курсы по физической культуре и спорту улица Кибальчича, дом 16",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Нормативно-правовые и этические основы педагогической деятельности",
+          "type": "lecture",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": "14.11, 28.11, 12.12"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовые и этические основы педагогической деятельности",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": "14.11, 28.11, 12.12"
+        }
+      ]
     }
   }
 }

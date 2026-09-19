@@ -131,9 +131,9 @@
           "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "lecture",
           "teacher": "ст. пр. Харламов П.В",
-          "room": "401",
+          "room": "301",
           "subgroup": null,
-          "notes": "с 29.10"
+          "notes": "с 12.11"
         },
         {
           "slot": 3,
@@ -153,7 +153,7 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "teacher": "проф. Матвеев Е.М",
-          "room": "207",
+          "room": "304",
           "subgroup": null,
           "notes": ""
         },
@@ -164,9 +164,9 @@
           "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "practice",
           "teacher": "ст. пр. Харламов П.В",
-          "room": "305",
+          "room": "105",
           "subgroup": null,
-          "notes": "с 05.11"
+          "notes": "05.11"
         }
       ],
       "friday": [
@@ -213,9 +213,31 @@
           "room": "301",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": "14.11, 28.11, 12.12"
+        },
         {
           "slot": 3,
           "time_start": "12:40",
@@ -237,6 +259,17 @@
           "room": "407",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": "12.12"
         },
         {
           "slot": 5,
@@ -376,9 +409,9 @@
           "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "lecture",
           "teacher": "ст. пр. Харламов П.В",
-          "room": "401",
+          "room": "301",
           "subgroup": null,
-          "notes": "с 29.10"
+          "notes": "с 12.11"
         },
         {
           "slot": 3,
@@ -398,7 +431,7 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "teacher": "проф. Матвеев Е.М",
-          "room": "207",
+          "room": "304",
           "subgroup": null,
           "notes": ""
         },
@@ -409,9 +442,9 @@
           "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "practice",
           "teacher": "ст. пр. Харламов П.В",
-          "room": "305",
+          "room": "105",
           "subgroup": null,
-          "notes": "с 05.11"
+          "notes": "05.11"
         }
       ],
       "friday": [
@@ -458,9 +491,31 @@
           "room": "301",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": "14.11, 28.11, 12.12"
+        },
         {
           "slot": 3,
           "time_start": "12:40",
@@ -482,6 +537,17 @@
           "room": "407",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "304",
+          "subgroup": null,
+          "notes": "12.12"
         },
         {
           "slot": 5,

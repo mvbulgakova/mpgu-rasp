@@ -48,7 +48,7 @@
           "subject": "Алгебра",
           "type": "lecture",
           "teacher": "проф. Царев А.В",
-          "room": "205",
+          "room": "301",
           "subgroup": null,
           "notes": ""
         }
@@ -107,21 +107,21 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "Алгебра",
-          "type": "practice",
-          "teacher": "ст. пр. Окорочков И.В",
-          "room": "206",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
           "subject": "Физическая культура и спорт улица Кибальчича, дом 16",
           "type": "other",
           "teacher": null,
           "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "ст. пр. Окорочков И.В",
+          "room": "206",
           "subgroup": null,
           "notes": ""
         },
@@ -147,7 +147,7 @@
           "teacher": "ассист. Куанова И.Б",
           "room": "404",
           "subgroup": null,
-          "notes": "10.10"
+          "notes": "17.10"
         }
       ]
     },
@@ -193,7 +193,7 @@
           "subject": "Алгебра",
           "type": "lecture",
           "teacher": "проф. Царев А.В",
-          "room": "205",
+          "room": "301",
           "subgroup": null,
           "notes": ""
         }
@@ -252,21 +252,21 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "Алгебра",
-          "type": "practice",
-          "teacher": "ст. пр. Окорочков И.В",
-          "room": "206",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
           "subject": "Физическая культура и спорт улица Кибальчича, дом 16",
           "type": "other",
           "teacher": null,
           "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "ст. пр. Окорочков И.В",
+          "room": "206",
           "subgroup": null,
           "notes": ""
         },
@@ -292,7 +292,7 @@
           "teacher": "ассист. Куанова И.Б",
           "room": "404",
           "subgroup": null,
-          "notes": "10.10"
+          "notes": "17.10"
         }
       ]
     }

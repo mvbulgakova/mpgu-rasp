@@ -72,7 +72,7 @@
           "subject": "Математический анализ",
           "type": "practice",
           "teacher": "доц. Удовенко Л.Н",
-          "room": "304",
+          "room": "402",
           "subgroup": null,
           "notes": ""
         },
@@ -153,40 +153,7 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "teacher": "проф. Матвеев Е.М",
-          "room": "404",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Педагогика",
-          "type": "lecture",
-          "teacher": "доц. Кузнецова Г.Д",
-          "room": "404",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Программирование",
-          "type": "lab",
-          "teacher": "ст. пр. Бобров В.А.",
-          "room": "209",
-          "subgroup": 1,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Программирование",
-          "type": "lecture",
-          "teacher": "ст. пр. Бобров В.А",
-          "room": "404",
+          "room": "304",
           "subgroup": null,
           "notes": ""
         },
@@ -227,12 +194,47 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "Финансово-экономический практикум",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "practice",
-          "teacher": "доц. Шатаева О.В",
+          "teacher": "ст. пр. Харламов П.В",
           "room": "105",
           "subgroup": null,
-          "notes": "05.11"
+          "notes": "03.12"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Программирование",
+          "type": "lab",
+          "teacher": "ст. пр. Бобров В.А.",
+          "room": "209",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Программирование",
+          "type": "lecture",
+          "teacher": "ст. пр. Бобров В.А",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
         },
         {
           "slot": 4,
@@ -279,7 +281,6 @@
           "notes": ""
         }
       ],
-      "friday": [],
       "saturday": []
     },
     "even_week": {
@@ -348,7 +349,7 @@
           "subject": "Математический анализ",
           "type": "practice",
           "teacher": "доц. Удовенко Л.Н",
-          "room": "304",
+          "room": "402",
           "subgroup": null,
           "notes": ""
         },
@@ -429,40 +430,7 @@
           "subject": "Математический анализ",
           "type": "lecture",
           "teacher": "проф. Матвеев Е.М",
-          "room": "404",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Педагогика",
-          "type": "lecture",
-          "teacher": "доц. Кузнецова Г.Д",
-          "room": "404",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Программирование",
-          "type": "lab",
-          "teacher": "ст. пр. Бобров В.А.",
-          "room": "209",
-          "subgroup": 1,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Программирование",
-          "type": "lecture",
-          "teacher": "ст. пр. Бобров В.А",
-          "room": "404",
+          "room": "304",
           "subgroup": null,
           "notes": ""
         },
@@ -503,12 +471,47 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "Финансово-экономический практикум",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "practice",
-          "teacher": "доц. Шатаева О.В",
+          "teacher": "ст. пр. Харламов П.В",
           "room": "105",
           "subgroup": null,
-          "notes": "05.11"
+          "notes": "03.12"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "доц. Кузнецова Г.Д",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Программирование",
+          "type": "lab",
+          "teacher": "ст. пр. Бобров В.А.",
+          "room": "209",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Программирование",
+          "type": "lecture",
+          "teacher": "ст. пр. Бобров В.А",
+          "room": "404",
+          "subgroup": null,
+          "notes": ""
         },
         {
           "slot": 4,
@@ -555,7 +558,6 @@
           "notes": ""
         }
       ],
-      "friday": [],
       "saturday": []
     }
   }

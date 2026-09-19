@@ -20,17 +20,6 @@
           "notes": ""
         },
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Алгебра",
-          "type": "practice",
-          "teacher": "доц. Цыбуля Л.М",
-          "room": "206",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -49,6 +38,17 @@
           "type": "practice",
           "teacher": "доц. Кашпарова В.С",
           "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "доц. Цыбуля Л.М",
+          "room": "206",
           "subgroup": null,
           "notes": ""
         }
@@ -72,7 +72,7 @@
           "subject": "Информатика",
           "type": "lab",
           "teacher": "доц. Иванова Н.Ю.",
-          "room": null,
+          "room": "211",
           "subgroup": 1,
           "notes": ""
         },
@@ -164,17 +164,6 @@
           "notes": ""
         },
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Алгебра",
-          "type": "practice",
-          "teacher": "доц. Цыбуля Л.М",
-          "room": "206",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -193,6 +182,17 @@
           "type": "practice",
           "teacher": "доц. Кашпарова В.С",
           "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "доц. Цыбуля Л.М",
+          "room": "206",
           "subgroup": null,
           "notes": ""
         }
@@ -216,7 +216,7 @@
           "subject": "Информатика",
           "type": "lab",
           "teacher": "доц. Иванова Н.Ю.",
-          "room": null,
+          "room": "211",
           "subgroup": 1,
           "notes": ""
         },

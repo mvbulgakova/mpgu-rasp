@@ -92,17 +92,6 @@
       ],
       "thursday": [
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Финансово-экономический практикум",
-          "type": "practice",
-          "teacher": "доц. Шатаева О.В",
-          "room": "305",
-          "subgroup": null,
-          "notes": "05.11"
-        },
-        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -281,17 +270,6 @@
         }
       ],
       "thursday": [
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Финансово-экономический практикум",
-          "type": "practice",
-          "teacher": "доц. Шатаева О.В",
-          "room": "305",
-          "subgroup": null,
-          "notes": "05.11"
-        },
         {
           "slot": 4,
           "time_start": "14:20",

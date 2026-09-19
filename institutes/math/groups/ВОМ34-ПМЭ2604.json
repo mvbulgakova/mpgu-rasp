@@ -9,17 +9,6 @@
     "odd_week": {
       "monday": [
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Возрастная анатомия, физиология и культура здоровья",
-          "type": "lecture",
-          "teacher": "проф. Лещенко М.В",
-          "room": "301",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -182,6 +171,17 @@
       ],
       "friday": [
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Геометрия",
+          "type": "lecture",
+          "teacher": "проф. Гусева Н.И",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
@@ -200,17 +200,6 @@
           "type": "practice",
           "teacher": "доц. Чуйкова Н.В",
           "room": "205",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Геометрия",
-          "type": "lecture",
-          "teacher": "проф. Гусева Н.И",
-          "room": "301",
           "subgroup": null,
           "notes": ""
         }
@@ -220,17 +209,6 @@
     "even_week": {
       "monday": [
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Возрастная анатомия, физиология и культура здоровья",
-          "type": "lecture",
-          "teacher": "проф. Лещенко М.В",
-          "room": "301",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -393,6 +371,17 @@
       ],
       "friday": [
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Геометрия",
+          "type": "lecture",
+          "teacher": "проф. Гусева Н.И",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
@@ -411,17 +400,6 @@
           "type": "practice",
           "teacher": "доц. Чуйкова Н.В",
           "room": "205",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Геометрия",
-          "type": "lecture",
-          "teacher": "проф. Гусева Н.И",
-          "room": "301",
           "subgroup": null,
           "notes": ""
         }
