@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T09:10:23.412860+00:00",
+  "generated_at": "2026-09-19T09:11:32.927264+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -97,7 +97,7 @@
       "campus": "ФДПиП",
       "campus_address": "Госпитальный Вал, 4",
       "groups_count": 19,
-      "updated_at": "2026-09-18T19:26:20.855573+00:00",
+      "updated_at": "2026-09-19T09:11:32.909223+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
     },
