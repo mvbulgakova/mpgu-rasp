@@ -1,0 +1,698 @@
+{
+  "name": "БОП30-СПМ2508",
+  "year": 2,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "39.03.03 Организация работы с молодежью",
+  "profile": "Социальная психология молодежи",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Технологии игрового взаимодействия",
+          "type": "lecture",
+          "teacher": "Доцент В.А. Заикин",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии игрового взаимодействия",
+          "type": "practice",
+          "teacher": "Доцент В.А. Заикин",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социальная психология",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Керимова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальная психология",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Керимова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы управление проектами",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы управление проектами",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Производственная практика (научно-исследовательская работа)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "Ст. преподаватель",
+          "room": "ул. Проспект Вернадского д.88, спортзал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Информационная безопасность",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Информационная безопасность",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная педагогика",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология воспитательных практик",
+          "type": "lecture",
+          "teacher": "Доцент М.С. Сотниткова",
+          "room": "x11.pk.mpgu.su/b/uv6-sd5-t9m",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология воспитательных практик",
+          "type": "lecture",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "x11.pk.mpgu.su/b/uv6-sd5-t9m",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": "До 22.10.2026"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы управление проектами",
+          "type": "lecture",
+          "teacher": "Доцент В.В. Пустовойтов",
+          "room": "44",
+          "subgroup": null,
+          "notes": "До 16.10.2026"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная педагогика",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы управление проектами",
+          "type": "lecture",
+          "teacher": "Доцент В.В. Пустовойтов",
+          "room": "44",
+          "subgroup": null,
+          "notes": "До 16.10.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальная педагогика",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология развития и возрастная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель И.А. Журавлева",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология развития и возрастная психология",
+          "type": "lecture",
+          "teacher": "Профессор Т.Н. Сахарова",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Информационная безопасность",
+          "type": "lecture",
+          "teacher": "Доцент М.В. Ферапонтова",
+          "room": "43",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Информационная безопасность",
+          "type": "lecture",
+          "teacher": "Доцент М.В. Ферапонтова",
+          "room": "43",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Технологии игрового взаимодействия",
+          "type": "lecture",
+          "teacher": "Доцент В.А. Заикин",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии игрового взаимодействия",
+          "type": "practice",
+          "teacher": "Доцент В.А. Заикин",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социальная психология",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Керимова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальная психология",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Керимова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы управление проектами",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы управление проектами",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Производственная практика (научно-исследовательская работа)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "Ст. преподаватель",
+          "room": "ул. Проспект Вернадского д.88, спортзал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Информационная безопасность",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Информационная безопасность",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная педагогика",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология воспитательных практик",
+          "type": "lecture",
+          "teacher": "Доцент М.С. Сотниткова",
+          "room": "x11.pk.mpgu.su/b/uv6-sd5-t9m",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология воспитательных практик",
+          "type": "lecture",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "x11.pk.mpgu.su/b/uv6-sd5-t9m",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": "До 22.10.2026"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы управление проектами",
+          "type": "lecture",
+          "teacher": "Доцент В.В. Пустовойтов",
+          "room": "44",
+          "subgroup": null,
+          "notes": "До 16.10.2026"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная педагогика",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы управление проектами",
+          "type": "lecture",
+          "teacher": "Доцент В.В. Пустовойтов",
+          "room": "44",
+          "subgroup": null,
+          "notes": "До 16.10.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальная педагогика",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология развития и возрастная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель И.А. Журавлева",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология развития и возрастная психология",
+          "type": "lecture",
+          "teacher": "Профессор Т.Н. Сахарова",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Информационная безопасность",
+          "type": "lecture",
+          "teacher": "Доцент М.В. Ферапонтова",
+          "room": "43",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Информационная безопасность",
+          "type": "lecture",
+          "teacher": "Доцент М.В. Ферапонтова",
+          "room": "43",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

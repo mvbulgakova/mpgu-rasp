@@ -1,0 +1,1182 @@
+{
+  "name": "ВОП40-ПФК2501",
+  "year": 2,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.02 Психолого-педагогическое образование",
+  "profile": "Психология и педагогика. Профессиональное консультирование",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "lecture",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Современные модели общего образования",
+          "type": "lecture",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Современные модели общего образования",
+          "type": "practice",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Современные модели общего образования",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.А. Лимберг",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "lecture",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Современные модели общего образования",
+          "type": "lecture",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Современные модели общего образования",
+          "type": "practice",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Современные модели общего образования",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.А. Лимберг",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социальная психология",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Керимова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Современные модели общего образования",
+          "type": "practice",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Современные модели общего образования",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.А. Лимберг",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальная психология",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Керимова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Современные модели общего образования",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.А. Лимберг",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст.преподаватель О.А. Гурова, Ст.перподаватель С.Р. Давлетшн",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст.преподаватель О.А. Гурова, Ст.перподаватель С.Р. Давлетшн",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Производственная практика (научно-исследовательская работа)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология общения",
+          "type": "practice",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "22",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология общения",
+          "type": "lecture",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология общения",
+          "type": "practice",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология общения",
+          "type": "lecture",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология общения",
+          "type": "practice",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Дидаскология",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дидаскология",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная педагогика",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "x01.pk.mpgu.su/b/fhk-lxf-qyh",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология воспитательных практик",
+          "type": "lecture",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "x11.pk.mpgu.su/b/uv6-sd5-t9m",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Дидаскология",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология воспитательных практик",
+          "type": "lecture",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "x11.pk.mpgu.su/b/uv6-sd5-t9m",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "lecture",
+          "teacher": "Доцент М.Ю. Чибисова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дидаскология",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "practice",
+          "teacher": "Доцент М.Ю. Чибисова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "x01.pk.mpgu.su/b/fhk-lxf-qyh",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ассистент И.С. Новикова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "lecture",
+          "teacher": "Профессор Ю.М. Гришаева",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная педагогика",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология развития и возрастная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель И.А. Журавлева",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "practice",
+          "teacher": "Профессор Ю.М. Гришаева",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология развития и возрастная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель И.А. Журавлева",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социальная педагогика",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ассистент И.С. Новикова",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ассистент И.С. Новикова",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология развития и возрастная психология",
+          "type": "lecture",
+          "teacher": "Профессор Т.Н. Сахарова",
+          "room": "x01.pk.mpgu.su/b/fhk-lxf-qyh",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "lecture",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Современные модели общего образования",
+          "type": "lecture",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Современные модели общего образования",
+          "type": "practice",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Современные модели общего образования",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.А. Лимберг",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "lecture",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Современные модели общего образования",
+          "type": "lecture",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Современные модели общего образования",
+          "type": "practice",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Современные модели общего образования",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.А. Лимберг",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социальная психология",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Керимова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Современные модели общего образования",
+          "type": "practice",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Современные модели общего образования",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.А. Лимберг",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальная психология",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Керимова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Современные модели общего образования",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.А. Лимберг",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст.преподаватель О.А. Гурова, Ст.перподаватель С.Р. Давлетшн",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст.преподаватель О.А. Гурова, Ст.перподаватель С.Р. Давлетшн",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Производственная практика (научно-исследовательская работа)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология общения",
+          "type": "practice",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "22",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология общения",
+          "type": "lecture",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология общения",
+          "type": "practice",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология общения",
+          "type": "lecture",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология общения",
+          "type": "practice",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Дидаскология",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дидаскология",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная педагогика",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "x01.pk.mpgu.su/b/fhk-lxf-qyh",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология воспитательных практик",
+          "type": "lecture",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "x11.pk.mpgu.su/b/uv6-sd5-t9m",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Дидаскология",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология воспитательных практик",
+          "type": "lecture",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "x11.pk.mpgu.su/b/uv6-sd5-t9m",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "lecture",
+          "teacher": "Доцент М.Ю. Чибисова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Дидаскология",
+          "type": "practice",
+          "teacher": "Доцент М.С. Сотникова",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "practice",
+          "teacher": "Доцент М.Ю. Чибисова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "x01.pk.mpgu.su/b/fhk-lxf-qyh",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ассистент И.С. Новикова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "lecture",
+          "teacher": "Профессор Ю.М. Гришаева",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная педагогика",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология развития и возрастная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель И.А. Журавлева",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "practice",
+          "teacher": "Профессор Ю.М. Гришаева",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология развития и возрастная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель И.А. Журавлева",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социальная педагогика",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ассистент И.С. Новикова",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ассистент И.С. Новикова",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология развития и возрастная психология",
+          "type": "lecture",
+          "teacher": "Профессор Т.Н. Сахарова",
+          "room": "x01.pk.mpgu.su/b/fhk-lxf-qyh",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

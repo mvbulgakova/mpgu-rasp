@@ -1,0 +1,698 @@
+{
+  "name": "БОП39-СПР2513",
+  "year": 2,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "37.03.01 Психология",
+  "profile": "Социальная психология развития",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "ул. Проспект Вернадского д.88, спортзал",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Производственная практика (практика в профильных организациях)",
+          "type": "other",
+          "teacher": "Ст. преподаватель",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Производственная практика (практика в профильных организациях)",
+          "type": "other",
+          "teacher": "Ст. преподаватель",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Производственная практика (практика в профильных организациях)",
+          "type": "other",
+          "teacher": "Ст. преподаватель",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Производственная практика (практика в профильных организациях)",
+          "type": "other",
+          "teacher": "Ст. преподаватель",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Учебная практика (научно-исследовательская работа)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Ассистент И.С. Новикова",
+          "type": "other",
+          "teacher": "Ассистент И.С. Новикова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальная психология",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Керимова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Технологии оказания первой помощи",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Лещенко",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Общая психология (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии оказания первой помощи",
+          "type": "practice",
+          "teacher": "Профессор М.В. Лещенко",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Общий психологический практикум",
+          "type": "practice",
+          "teacher": "Ст.преподаватель М.Д. Батаева",
+          "room": "33",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология развития и возрастная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель И.А. Журавлева",
+          "room": "47",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная педагогика",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальная педагогика",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "47",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психологическое сопровождение личности в организации отдыха детей и их оздоровления",
+          "type": "lecture",
+          "teacher": "Доцент С.В. Мелков",
+          "room": "x11.pk.mpgu.su/b/tvd-a5z-jp6",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Общая психология (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психологическое сопровождение личности в организации отдыха детей и их оздоровления",
+          "type": "practice",
+          "teacher": "Ст.преподаватель М.Д. Батаева",
+          "room": "47",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": "До 22.10.2026"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "lecture",
+          "teacher": "Профессор Е.В. Беловол",
+          "room": "25",
+          "subgroup": null,
+          "notes": "До 06.11.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "lecture",
+          "teacher": "Профессор Е.В. Беловол",
+          "room": "25",
+          "subgroup": null,
+          "notes": "До 06.11.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель",
+          "room": "34",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель",
+          "room": "34",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "practice",
+          "teacher": "Профессор Е.В. Беловол",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология развития и возрастная психология",
+          "type": "lecture",
+          "teacher": "Профессор Т.Н. Сахарова",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "lecture",
+          "teacher": "Профессор В.С. Басюк",
+          "room": "39",
+          "subgroup": null,
+          "notes": "До 31.10.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Т.А. Заровская",
+          "room": "39",
+          "subgroup": null,
+          "notes": "До 31.10.2026"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "ул. Проспект Вернадского д.88, спортзал",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Производственная практика (практика в профильных организациях)",
+          "type": "other",
+          "teacher": "Ст. преподаватель",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Производственная практика (практика в профильных организациях)",
+          "type": "other",
+          "teacher": "Ст. преподаватель",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Производственная практика (практика в профильных организациях)",
+          "type": "other",
+          "teacher": "Ст. преподаватель",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Производственная практика (практика в профильных организациях)",
+          "type": "other",
+          "teacher": "Ст. преподаватель",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Учебная практика (научно-исследовательская работа)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Ассистент И.С. Новикова",
+          "type": "other",
+          "teacher": "Ассистент И.С. Новикова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальная психология",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Керимова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Технологии оказания первой помощи",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Лещенко",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Общая психология (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии оказания первой помощи",
+          "type": "practice",
+          "teacher": "Профессор М.В. Лещенко",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Общий психологический практикум",
+          "type": "practice",
+          "teacher": "Ст.преподаватель М.Д. Батаева",
+          "room": "33",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психология развития и возрастная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель И.А. Журавлева",
+          "room": "47",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социальная педагогика",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальная педагогика",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "47",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психологическое сопровождение личности в организации отдыха детей и их оздоровления",
+          "type": "lecture",
+          "teacher": "Доцент С.В. Мелков",
+          "room": "x11.pk.mpgu.su/b/tvd-a5z-jp6",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Общая психология (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психологическое сопровождение личности в организации отдыха детей и их оздоровления",
+          "type": "practice",
+          "teacher": "Ст.преподаватель М.Д. Батаева",
+          "room": "47",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": "До 22.10.2026"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "lecture",
+          "teacher": "Профессор Е.В. Беловол",
+          "room": "25",
+          "subgroup": null,
+          "notes": "До 06.11.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "lecture",
+          "teacher": "Профессор Е.В. Беловол",
+          "room": "25",
+          "subgroup": null,
+          "notes": "До 06.11.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель",
+          "room": "34",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель",
+          "room": "34",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "practice",
+          "teacher": "Профессор Е.В. Беловол",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология развития и возрастная психология",
+          "type": "lecture",
+          "teacher": "Профессор Т.Н. Сахарова",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "lecture",
+          "teacher": "Профессор В.С. Басюк",
+          "room": "39",
+          "subgroup": null,
+          "notes": "До 31.10.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Т.А. Заровская",
+          "room": "39",
+          "subgroup": null,
+          "notes": "До 31.10.2026"
+        }
+      ]
+    }
+  }
+}

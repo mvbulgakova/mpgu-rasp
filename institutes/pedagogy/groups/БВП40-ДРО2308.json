@@ -1,0 +1,472 @@
+{
+  "name": "БВП40-ДРО2308",
+  "year": null,
+  "form": "correspondence",
+  "degree": "bachelor",
+  "direction": "44.03.02 «Психолого-педагогическое образование",
+  "profile": "Психология детско-родительских отношений",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Производственная практика, научно-исследовательская работа",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психолого-педагогическое взаимодействия участников образовательного процесса",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.Н. Шевцова",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "Профессор Е.Ю. Брель",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психолого-педагогическое взаимодействия участников образовательного процесса",
+          "type": "lecture",
+          "teacher": "Профессор М.Н. Швецова",
+          "room": "33",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Психолого-педагогическое взаимодействия участников образовательного процесса",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.Н. Шевцова",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "Профессор Е.Ю. Брель",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Поддержка семейного образования и воспитания А.И. Щербина",
+          "type": "lecture",
+          "teacher": null,
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:00",
+          "subject": "Поддержка семейного образования и воспитания А.И. Щербина",
+          "type": "practice",
+          "teacher": null,
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Основы дефектологии (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент К.Б. Вовненко",
+          "room": "31",
+          "subgroup": null,
+          "notes": "До 29.10.2026"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "Профессор Е.Ю. Брель",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Основы дефектологии (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент К.Б. Вовненко",
+          "room": "31",
+          "subgroup": null,
+          "notes": "До 29.10.2026"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "Профессор Е.Ю. Брель",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:00",
+          "subject": "Основы дефектологии (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент К.Б. Вовненко",
+          "room": "31",
+          "subgroup": null,
+          "notes": "До 29.10.2026"
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы психологического консультирования (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент. Т.В. Алексеенко",
+          "room": "45",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы психологического консультирования (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент. Т.В. Алексеенко",
+          "room": "45",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "teacher": "Доцент Л.А. Долинская",
+          "room": null,
+          "subgroup": null,
+          "notes": "До 07.11.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Основы психологического консультирования (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент. Т.В. Алексеенко",
+          "room": "45",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "teacher": "Доцент Л.А. Долинская",
+          "room": "45",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы психологического консультирования (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент. Т.В. Алексеенко",
+          "room": "45",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы психологического консультирования (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент. Т.В. Алексеенко",
+          "room": "45",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Производственная практика, научно-исследовательская работа",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психолого-педагогическое взаимодействия участников образовательного процесса",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.Н. Шевцова",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "Профессор Е.Ю. Брель",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психолого-педагогическое взаимодействия участников образовательного процесса",
+          "type": "lecture",
+          "teacher": "Профессор М.Н. Швецова",
+          "room": "33",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Психолого-педагогическое взаимодействия участников образовательного процесса",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.Н. Шевцова",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "Профессор Е.Ю. Брель",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Поддержка семейного образования и воспитания А.И. Щербина",
+          "type": "lecture",
+          "teacher": null,
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:00",
+          "subject": "Поддержка семейного образования и воспитания А.И. Щербина",
+          "type": "practice",
+          "teacher": null,
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Основы дефектологии (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент К.Б. Вовненко",
+          "room": "31",
+          "subgroup": null,
+          "notes": "До 29.10.2026"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "Профессор Е.Ю. Брель",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Основы дефектологии (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент К.Б. Вовненко",
+          "room": "31",
+          "subgroup": null,
+          "notes": "До 29.10.2026"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "Профессор Е.Ю. Брель",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:00",
+          "subject": "Основы дефектологии (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент К.Б. Вовненко",
+          "room": "31",
+          "subgroup": null,
+          "notes": "До 29.10.2026"
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы психологического консультирования (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент. Т.В. Алексеенко",
+          "room": "45",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы психологического консультирования (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент. Т.В. Алексеенко",
+          "room": "45",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "teacher": "Доцент Л.А. Долинская",
+          "room": null,
+          "subgroup": null,
+          "notes": "До 07.11.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Основы психологического консультирования (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент. Т.В. Алексеенко",
+          "room": "45",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "teacher": "Доцент Л.А. Долинская",
+          "room": "45",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы психологического консультирования (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент. Т.В. Алексеенко",
+          "room": "45",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы психологического консультирования (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент. Т.В. Алексеенко",
+          "room": "45",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

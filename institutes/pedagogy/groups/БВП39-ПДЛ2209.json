@@ -1,0 +1,250 @@
+{
+  "name": "БВП39-ПДЛ2209",
+  "year": null,
+  "form": "correspondence",
+  "degree": "bachelor",
+  "direction": "37.03.01 «Психология",
+  "profile": "Психологическая диагностика и развитие личности",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Личностно-ориентированный подход в семейном консультировании",
+          "type": "lecture",
+          "teacher": "Доцент Е.Ю. Макарова",
+          "room": "47",
+          "subgroup": null,
+          "notes": "До 15.10.2026"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Теория и практика экстренной психологической помощи",
+          "type": "lecture",
+          "teacher": "Доцент О.С. Ефимова",
+          "room": "48",
+          "subgroup": null,
+          "notes": "До 22.10.2026"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Личностно-ориентированный подход в семейном консультировании",
+          "type": "practice",
+          "teacher": "Доцент Е.Ю. Макарова",
+          "room": "47",
+          "subgroup": null,
+          "notes": "До 15.10.2026"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Теория и практика экстренной психологической помощи",
+          "type": "practice",
+          "teacher": "Доцент О.С. Ефимова",
+          "room": "48",
+          "subgroup": null,
+          "notes": "До 22.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:00",
+          "subject": "Личностно-ориентированный подход в семейном консультировании",
+          "type": "practice",
+          "teacher": "Доцент Е.Ю. Макарова",
+          "room": "47",
+          "subgroup": null,
+          "notes": "До 15.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:00",
+          "subject": "Теория и практика экстренной психологической помощи",
+          "type": "practice",
+          "teacher": "Доцент О.В. Ефимова",
+          "room": "48",
+          "subgroup": null,
+          "notes": "До 22.10.2026"
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Экзистенциальный подход в консультировании",
+          "type": "practice",
+          "teacher": "Доцент И.А. Лопатина",
+          "room": "11",
+          "subgroup": null,
+          "notes": "До 17.10.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Экзистенциальный подход в консультировании",
+          "type": "practice",
+          "teacher": "Доцент И.А. Лопатина",
+          "room": "11",
+          "subgroup": null,
+          "notes": "До 17.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Экзистенциальный подход в консультировании",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Лопатина",
+          "room": "11",
+          "subgroup": null,
+          "notes": "До 17.10.2026"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Экзистенциальный подход в консультировании",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Лопатина",
+          "room": "11",
+          "subgroup": null,
+          "notes": "До 17.10.2026"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Личностно-ориентированный подход в семейном консультировании",
+          "type": "lecture",
+          "teacher": "Доцент Е.Ю. Макарова",
+          "room": "47",
+          "subgroup": null,
+          "notes": "До 15.10.2026"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Теория и практика экстренной психологической помощи",
+          "type": "lecture",
+          "teacher": "Доцент О.С. Ефимова",
+          "room": "48",
+          "subgroup": null,
+          "notes": "До 22.10.2026"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Личностно-ориентированный подход в семейном консультировании",
+          "type": "practice",
+          "teacher": "Доцент Е.Ю. Макарова",
+          "room": "47",
+          "subgroup": null,
+          "notes": "До 15.10.2026"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Теория и практика экстренной психологической помощи",
+          "type": "practice",
+          "teacher": "Доцент О.С. Ефимова",
+          "room": "48",
+          "subgroup": null,
+          "notes": "До 22.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:00",
+          "subject": "Личностно-ориентированный подход в семейном консультировании",
+          "type": "practice",
+          "teacher": "Доцент Е.Ю. Макарова",
+          "room": "47",
+          "subgroup": null,
+          "notes": "До 15.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "21:00",
+          "time_end": "22:00",
+          "subject": "Теория и практика экстренной психологической помощи",
+          "type": "practice",
+          "teacher": "Доцент О.В. Ефимова",
+          "room": "48",
+          "subgroup": null,
+          "notes": "До 22.10.2026"
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Экзистенциальный подход в консультировании",
+          "type": "practice",
+          "teacher": "Доцент И.А. Лопатина",
+          "room": "11",
+          "subgroup": null,
+          "notes": "До 17.10.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Экзистенциальный подход в консультировании",
+          "type": "practice",
+          "teacher": "Доцент И.А. Лопатина",
+          "room": "11",
+          "subgroup": null,
+          "notes": "До 17.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Экзистенциальный подход в консультировании",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Лопатина",
+          "room": "11",
+          "subgroup": null,
+          "notes": "До 17.10.2026"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Экзистенциальный подход в консультировании",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Лопатина",
+          "room": "11",
+          "subgroup": null,
+          "notes": "До 17.10.2026"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "name": "ВОП40-ПРС2606",
+  "year": 1,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.02 Психолого-педагогическое образование",
+  "profile": "Практическая психология. Специальная психология",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доцент Т.В. Купраш",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доцент Т.В. Купраш",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Основы общей педагогики",
+          "type": "lecture",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы общей педагогики",
+          "type": "lecture",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "lecture",
+          "teacher": "Профессор М.Н. Швецова",
+          "room": "36",
+          "subgroup": null,
+          "notes": "До 06.10.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "practice",
+          "teacher": "Ст.преподаватель Е.Н Шевцова",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Основы общей педагогики",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.А. Лимберг",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "lecture",
+          "teacher": "Профессор М.Н. Швецова",
+          "room": "36",
+          "subgroup": null,
+          "notes": "До 06.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.Н Шевцова",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Общая психология (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Общая психология (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Учебная практика (научно-исследовательская работа (получение первичных навыков научно-исследовательской работы))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст.преподаватель О.А. Гурова, Ст.перподаватель С.Р. Давлетшн",
+          "room": "ул. Проспект Вернадского д.88, спортзал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "39",
+          "subgroup": null,
+          "notes": "До 05.11.2026"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "39",
+          "subgroup": null,
+          "notes": "До 05.11.2026"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": "33",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "Доцент С.В. Сабурова",
+          "room": "33",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "Доцент С.В. Сабурова",
+          "room": "33",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": "33",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": "33",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "Доцент Н.В. Холмогорова",
+          "room": "304",
+          "subgroup": null,
+          "notes": "До 19.12.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Холмогорова",
+          "room": "304",
+          "subgroup": null,
+          "notes": "До 28.11.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Холмогорова",
+          "room": "304",
+          "subgroup": null,
+          "notes": "До 05.12.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "Доцент Н.В. Холмогорова",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Введение в профессию",
+          "type": "lecture",
+          "teacher": "Доцент Л.А. Долинская",
+          "room": "48",
+          "subgroup": null,
+          "notes": "До 14.11.2026"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Введение в профессию",
+          "type": "practice",
+          "teacher": "Доцент Л.А. Долинская",
+          "room": "48",
+          "subgroup": null,
+          "notes": "До 14.11.2026"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доцент Т.В. Купраш",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доцент Т.В. Купраш",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Основы общей педагогики",
+          "type": "lecture",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы общей педагогики",
+          "type": "lecture",
+          "teacher": "Профессор Е.Н. Федорова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "lecture",
+          "teacher": "Профессор М.Н. Швецова",
+          "room": "36",
+          "subgroup": null,
+          "notes": "До 06.10.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "practice",
+          "teacher": "Ст.преподаватель Е.Н Шевцова",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Основы общей педагогики",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.А. Лимберг",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "lecture",
+          "teacher": "Профессор М.Н. Швецова",
+          "room": "36",
+          "subgroup": null,
+          "notes": "До 06.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Теория и практика исследовательской деятельности",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.Н Шевцова",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Общая психология (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Общая психология (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "25",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Учебная практика (научно-исследовательская работа (получение первичных навыков научно-исследовательской работы))",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст.преподаватель О.А. Гурова, Ст.перподаватель С.Р. Давлетшн",
+          "room": "ул. Проспект Вернадского д.88, спортзал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "39",
+          "subgroup": null,
+          "notes": "До 05.11.2026"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "39",
+          "subgroup": null,
+          "notes": "До 05.11.2026"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": "33",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "Доцент С.В. Сабурова",
+          "room": "33",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "Доцент С.В. Сабурова",
+          "room": "33",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": "33",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": "33",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "Доцент Н.В. Холмогорова",
+          "room": "304",
+          "subgroup": null,
+          "notes": "До 19.12.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Холмогорова",
+          "room": "304",
+          "subgroup": null,
+          "notes": "До 28.11.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Холмогорова",
+          "room": "304",
+          "subgroup": null,
+          "notes": "До 05.12.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "Доцент Н.В. Холмогорова",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Введение в профессию",
+          "type": "lecture",
+          "teacher": "Доцент Л.А. Долинская",
+          "room": "48",
+          "subgroup": null,
+          "notes": "До 14.11.2026"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Введение в профессию",
+          "type": "practice",
+          "teacher": "Доцент Л.А. Долинская",
+          "room": "48",
+          "subgroup": null,
+          "notes": "До 14.11.2026"
+        }
+      ]
+    }
+  }
+}

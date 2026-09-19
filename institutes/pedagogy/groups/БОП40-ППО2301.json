@@ -1,0 +1,476 @@
+{
+  "name": "БОП40-ППО2301",
+  "year": 4,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.02 Психолого-педагогическое образование",
+  "profile": "Психолого-педагогическое сопровождение личности в образовании",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Тукшумская",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Тукшумская",
+          "room": "27",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Профессиональная этика",
+          "type": "practice",
+          "teacher": "Доцент А.В. Тукшумская",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Превентивная психология",
+          "type": "lecture",
+          "teacher": "Доцент А.Н. Мицкевич",
+          "room": "27",
+          "subgroup": null,
+          "notes": "До 27.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Превентивная психология",
+          "type": "lecture",
+          "teacher": "Доцент А.Н. Мицкевич",
+          "room": "27",
+          "subgroup": null,
+          "notes": "До 27.10.2026; /ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Превентивная психология",
+          "type": "practice",
+          "teacher": "Доцент А.Н. Мицкевич",
+          "room": "27",
+          "subgroup": null,
+          "notes": "До 27.10.2026"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Производственная практика (научно-исследовательская работа)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "practice",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "27",
+          "subgroup": null,
+          "notes": "До 28.10.2026"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Поддержка семейного образования и воспитания",
+          "type": "practice",
+          "teacher": "Доцент А.И. Щербина",
+          "room": "27",
+          "subgroup": null,
+          "notes": "До 20.10.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "lecture",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "23",
+          "subgroup": null,
+          "notes": "До 28.10.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Поддержка семейного образования и воспитания",
+          "type": "practice",
+          "teacher": "Доцент А.И. Щербина",
+          "room": "27",
+          "subgroup": null,
+          "notes": "До 20.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "lecture",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "23",
+          "subgroup": null,
+          "notes": "До 28.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "Профессор Е.Ю. Брель",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "practice",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "27",
+          "subgroup": null,
+          "notes": "До 28.10.2026"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социализация детей в инклюзивном образовании",
+          "type": "lecture",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социализация детей в инклюзивном образовании",
+          "type": "lecture",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "27",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социализация детей в инклюзивном образовании",
+          "type": "practice",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Комплексное сопровождения учащихся с особыми образовательными потребностями в условиях общеобразовательной школы",
+          "type": "lecture",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Комплексное сопровождения учащихся с особыми образовательными потребностями в условиях общеобразовательной школы",
+          "type": "lecture",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "27",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Комплексное сопровождения учащихся с особыми образовательными потребностями в условиях общеобразовательной школы",
+          "type": "practice",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Тукшумская",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Тукшумская",
+          "room": "27",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Профессиональная этика",
+          "type": "practice",
+          "teacher": "Доцент А.В. Тукшумская",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Превентивная психология",
+          "type": "lecture",
+          "teacher": "Доцент А.Н. Мицкевич",
+          "room": "27",
+          "subgroup": null,
+          "notes": "До 27.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Превентивная психология",
+          "type": "lecture",
+          "teacher": "Доцент А.Н. Мицкевич",
+          "room": "27",
+          "subgroup": null,
+          "notes": "До 27.10.2026; /ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Превентивная психология",
+          "type": "practice",
+          "teacher": "Доцент А.Н. Мицкевич",
+          "room": "27",
+          "subgroup": null,
+          "notes": "До 27.10.2026"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Производственная практика (научно-исследовательская работа)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "practice",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "27",
+          "subgroup": null,
+          "notes": "До 28.10.2026"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Поддержка семейного образования и воспитания",
+          "type": "practice",
+          "teacher": "Доцент А.И. Щербина",
+          "room": "27",
+          "subgroup": null,
+          "notes": "До 20.10.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "lecture",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "23",
+          "subgroup": null,
+          "notes": "До 28.10.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Поддержка семейного образования и воспитания",
+          "type": "practice",
+          "teacher": "Доцент А.И. Щербина",
+          "room": "27",
+          "subgroup": null,
+          "notes": "До 20.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "lecture",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "23",
+          "subgroup": null,
+          "notes": "До 28.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "Профессор Е.Ю. Брель",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "practice",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "27",
+          "subgroup": null,
+          "notes": "До 28.10.2026"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социализация детей в инклюзивном образовании",
+          "type": "lecture",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социализация детей в инклюзивном образовании",
+          "type": "lecture",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "27",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социализация детей в инклюзивном образовании",
+          "type": "practice",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Комплексное сопровождения учащихся с особыми образовательными потребностями в условиях общеобразовательной школы",
+          "type": "lecture",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Комплексное сопровождения учащихся с особыми образовательными потребностями в условиях общеобразовательной школы",
+          "type": "lecture",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "27",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Комплексное сопровождения учащихся с особыми образовательными потребностями в условиях общеобразовательной школы",
+          "type": "practice",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

@@ -1,0 +1,676 @@
+{
+  "name": "СОП13-ПКП2627",
+  "year": 1,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "37.05.01 Клиническая психология",
+  "profile": "Психодиагностика, консультирование и психокоррекция",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Анатомия и физиология центральной нервной системы",
+          "type": "lecture",
+          "teacher": "Доцент А.Г. Бочкарева",
+          "room": "506",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мелконян",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Анатомия и физиология центральной нервной системы",
+          "type": "lecture",
+          "teacher": "Доцент А.Г. Бочкарева",
+          "room": "506",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мелконян",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Общая психология (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "Доцент С.В. Сабурова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "lecture",
+          "teacher": "Профессор А.Ф. Ануфриев",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Введение в профессию",
+          "type": "lecture",
+          "teacher": "Доцент Е.Б. Пучкова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "Доцент С.В. Сабурова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "lecture",
+          "teacher": "Профессор А.Ф. Ануфриев",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Введение в профессию",
+          "type": "lecture",
+          "teacher": "Доцент Е.Б. Пучкова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Учебная практика (научно-исследовательская работа)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "teacher": "Доцент А.С. Чертков",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Общая психология (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": "43",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": "43",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Введение в профессию",
+          "type": "practice",
+          "teacher": "Ст. преподаватель",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Введение в профессию",
+          "type": "practice",
+          "teacher": "Ст. преподаватель",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "34",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "39",
+          "subgroup": null,
+          "notes": "До 03.12.2026"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст. преподаватель К.А. Леонова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Общий психологический практикум",
+          "type": "practice",
+          "teacher": "Доцент М.В. Ферапонтова",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Общий психологический практикум",
+          "type": "practice",
+          "teacher": "Доцент М.В. Ферапонтова",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент А.С. Чертков",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент А.С. Чертков",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Анатомия и физиология центральной нервной системы",
+          "type": "lecture",
+          "teacher": "Доцент А.Г. Бочкарева",
+          "room": "506",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мелконян",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Анатомия и физиология центральной нервной системы",
+          "type": "lecture",
+          "teacher": "Доцент А.Г. Бочкарева",
+          "room": "506",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Доцент А.А. Мелконян",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Общая психология (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "Доцент С.В. Сабурова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "lecture",
+          "teacher": "Профессор А.Ф. Ануфриев",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Введение в профессию",
+          "type": "lecture",
+          "teacher": "Доцент Е.Б. Пучкова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "Доцент С.В. Сабурова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "lecture",
+          "teacher": "Профессор А.Ф. Ануфриев",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Введение в профессию",
+          "type": "lecture",
+          "teacher": "Доцент Е.Б. Пучкова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Учебная практика (научно-исследовательская работа)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы российской государственности",
+          "type": "lecture",
+          "teacher": "Доцент А.С. Чертков",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Общая психология (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": "43",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": "43",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "История России",
+          "type": "lecture",
+          "teacher": "Доцент Е.Е. Юдин",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Введение в профессию",
+          "type": "practice",
+          "teacher": "Ст. преподаватель",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Введение в профессию",
+          "type": "practice",
+          "teacher": "Ст. преподаватель",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "34",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "39",
+          "subgroup": null,
+          "notes": "До 03.12.2026"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Педагогика",
+          "type": "lecture",
+          "teacher": "Доцент Ю.Е. Тимохина",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст. преподаватель К.А. Леонова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Общий психологический практикум",
+          "type": "practice",
+          "teacher": "Доцент М.В. Ферапонтова",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Общий психологический практикум",
+          "type": "practice",
+          "teacher": "Доцент М.В. Ферапонтова",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент А.С. Чертков",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент А.С. Чертков",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,720 @@
+{
+  "name": "СОП13-ПКП2517",
+  "year": 2,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "37.05.01 Клиническая психология",
+  "profile": "Психодиагностика, консультирование и психокоррекция",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "ул. Проспект Вернадского д.88, спортзал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "43",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Технологии искусственного интеллекта в научном исследовании",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "48",
+          "subgroup": null,
+          "notes": "До 9.11.2026"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.В. Бутовская",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.В. Бутовская",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Ст. преподаватель Е.В. Бутовская",
+          "type": "other",
+          "teacher": "Ст. преподаватель Е.В. Бутовская",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Учебная практика (научно-исследовательская работа)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии оказания первой помощи",
+          "type": "practice",
+          "teacher": "Профессор М.В. Лещенко",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальная психология",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Керимова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Общая психология (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Общая психология (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "43",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии искусственного интеллекта в научном исследовании",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "43",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Технологии оказания первой помощи",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Лещенко",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии оказания первой помощи",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Лещенко",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психологическое сопровождение личности в организации отдыха детей и их оздоровления",
+          "type": "lecture",
+          "teacher": "Доцент С.В. Мелков",
+          "room": "x11.pk.mpgu.su/b/tvd-a5z-jp6",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "lecture",
+          "teacher": "Доцент Е.Б. Пучкова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии искусственного интеллекта в научном исследовании",
+          "type": "lecture",
+          "teacher": "Доцент Е.Б. Пучкова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": "До 22.10.2026"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психологическое сопровождение личности в организации отдыха детей и их оздоровления",
+          "type": "practice",
+          "teacher": "Ст.преподаватель М.Д. Батаева",
+          "room": "47",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология развития и возрастная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель И.А. Журавлева",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "47",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология развития и возрастная психология",
+          "type": "lecture",
+          "teacher": "Профессор Т.Н. Сахарова",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ассистент И.И. Белов",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Общий психологический практикум",
+          "type": "practice",
+          "teacher": "Доцент М.В. Ферапонтова",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ассистент И.И. Белов",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Общий психологический практикум",
+          "type": "practice",
+          "teacher": "Доцент М.В. Ферапонтова",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Общий психологический практикум",
+          "type": "practice",
+          "teacher": "Доцент М.В. Ферапонтова",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "ул. Проспект Вернадского д.88, спортзал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "43",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Технологии искусственного интеллекта в научном исследовании",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "48",
+          "subgroup": null,
+          "notes": "До 9.11.2026"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.В. Бутовская",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Е.В. Бутовская",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "Профессор М.М. Мусарский",
+          "room": "11",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Ст. преподаватель Е.В. Бутовская",
+          "type": "other",
+          "teacher": "Ст. преподаватель Е.В. Бутовская",
+          "room": "37",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Учебная практика (научно-исследовательская работа)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии оказания первой помощи",
+          "type": "practice",
+          "teacher": "Профессор М.В. Лещенко",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальная психология",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Керимова",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Общая психология (с практикумом)",
+          "type": "practice",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Общая психология (с практикумом)",
+          "type": "lecture",
+          "teacher": "Доцент Е.Г. Уманская",
+          "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "43",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии искусственного интеллекта в научном исследовании",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Ларкина",
+          "room": "43",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Технологии оказания первой помощи",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Лещенко",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии оказания первой помощи",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Лещенко",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психологическое сопровождение личности в организации отдыха детей и их оздоровления",
+          "type": "lecture",
+          "teacher": "Доцент С.В. Мелков",
+          "room": "x11.pk.mpgu.su/b/tvd-a5z-jp6",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Качественные и количественные методы психологических исследований",
+          "type": "lecture",
+          "teacher": "Доцент Е.Б. Пучкова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии искусственного интеллекта в научном исследовании",
+          "type": "lecture",
+          "teacher": "Доцент Е.Б. Пучкова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "lecture",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": "До 22.10.2026"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психологическое сопровождение личности в организации отдыха детей и их оздоровления",
+          "type": "practice",
+          "teacher": "Ст.преподаватель М.Д. Батаева",
+          "room": "47",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психология развития и возрастная психология",
+          "type": "practice",
+          "teacher": "Ст. преподаватель И.А. Журавлева",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Безопасность жизнедеятельности",
+          "type": "practice",
+          "teacher": "Профессор М.В. Погодаева",
+          "room": "47",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология развития и возрастная психология",
+          "type": "lecture",
+          "teacher": "Профессор Т.Н. Сахарова",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ассистент И.И. Белов",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Общий психологический практикум",
+          "type": "practice",
+          "teacher": "Доцент М.В. Ферапонтова",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социальная психология",
+          "type": "practice",
+          "teacher": "Ассистент И.И. Белов",
+          "room": "31",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Общий психологический практикум",
+          "type": "practice",
+          "teacher": "Доцент М.В. Ферапонтова",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Общий психологический практикум",
+          "type": "practice",
+          "teacher": "Доцент М.В. Ферапонтова",
+          "room": "48",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

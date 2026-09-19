@@ -144,6 +144,17 @@
       "updated_at": "2026-09-18T09:24:02.524311+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
+    },
+    {
+      "id": "pedagogy",
+      "name": "Институт педагогики и психологии",
+      "short_name": "ИПиП",
+      "campus": "ИПиП",
+      "campus_address": "Малый Сухаревский пер., 6",
+      "groups_count": 30,
+      "updated_at": "2026-09-19T19:32:42.365734+00:00",
+      "status": "ok",
+      "parser_used": "claude"
     }
   ]
 }

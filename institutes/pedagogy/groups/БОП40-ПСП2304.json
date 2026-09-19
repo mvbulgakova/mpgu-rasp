@@ -1,0 +1,542 @@
+{
+  "name": "БОП40-ПСП2304",
+  "year": 4,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.02 Психолого-педагогическое образование",
+  "profile": "Психология и социальная педагогика",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социально-педагогические технологии работы со зрелыми людьми",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социально-педагогические технологии работы со зрелыми людьми",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "Профессор Е.Ю. Брель",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Работа социального педагога с молодежью",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "41",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социально-педагогические технологии работы с пожилыми",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко",
+          "room": "41",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Работа социального педагога с молодежью",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "41",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социально-педагогические технологии работы с пожилыми",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко",
+          "room": "41",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Работа социального педагога с молодежью",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "41",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Работа социального педагога с молодежью",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "41",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Производственная практика (научно-исследовательская работа)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "lecture",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "23",
+          "subgroup": null,
+          "notes": "До 28.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "lecture",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "23",
+          "subgroup": null,
+          "notes": "До 28.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "practice",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "31",
+          "subgroup": null,
+          "notes": "До 18.11.2026"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "practice",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "31",
+          "subgroup": null,
+          "notes": "До 18.11.2026"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Поддержка семейного образования и воспитания",
+          "type": "practice",
+          "teacher": "Доцент А.И. Щербина",
+          "room": "44",
+          "subgroup": null,
+          "notes": "До 21.10.2026"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Поддержка семейного образования и воспитания",
+          "type": "practice",
+          "teacher": "Доцент А.И. Щербина",
+          "room": "444",
+          "subgroup": null,
+          "notes": "До 21.10.2026"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": "44",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Профессиональная этика",
+          "type": "practice",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социально-педагогические технологии работы со зрелыми людьми",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Д.В. Свирин",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социально-педагогические технологии работы со зрелыми людьми",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Д.В. Свирин",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социально-педагогические технологии работы с пожилыми",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Д.В. Свирин",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социально-педагогические технологии работы с пожилыми",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Д.В. Свирин",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социально-педагогические технологии работы со зрелыми людьми",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социально-педагогические технологии работы со зрелыми людьми",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
+          "type": "practice",
+          "teacher": "Профессор Е.Ю. Брель",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Работа социального педагога с молодежью",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "41",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социально-педагогические технологии работы с пожилыми",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко",
+          "room": "41",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Работа социального педагога с молодежью",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "41",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социально-педагогические технологии работы с пожилыми",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Пищелко",
+          "room": "41",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Работа социального педагога с молодежью",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "41",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Работа социального педагога с молодежью",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Зотова",
+          "room": "41",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Производственная практика (научно-исследовательская работа)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "lecture",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "23",
+          "subgroup": null,
+          "notes": "До 28.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "lecture",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "23",
+          "subgroup": null,
+          "notes": "До 28.10.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "practice",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "31",
+          "subgroup": null,
+          "notes": "До 18.11.2026"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психолого-педагогическое сопровождение одаренных детей",
+          "type": "practice",
+          "teacher": "Профессор Л.С. Подымова",
+          "room": "31",
+          "subgroup": null,
+          "notes": "До 18.11.2026"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Поддержка семейного образования и воспитания",
+          "type": "practice",
+          "teacher": "Доцент А.И. Щербина",
+          "room": "44",
+          "subgroup": null,
+          "notes": "До 21.10.2026"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Поддержка семейного образования и воспитания",
+          "type": "practice",
+          "teacher": "Доцент А.И. Щербина",
+          "room": "444",
+          "subgroup": null,
+          "notes": "До 21.10.2026"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Профессиональная этика",
+          "type": "lecture",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": "44",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Профессиональная этика",
+          "type": "practice",
+          "teacher": "Доцент Н.П. Болотова",
+          "room": "44",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социально-педагогические технологии работы со зрелыми людьми",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Д.В. Свирин",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социально-педагогические технологии работы со зрелыми людьми",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Д.В. Свирин",
+          "room": "27",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Социально-педагогические технологии работы с пожилыми",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Д.В. Свирин",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социально-педагогические технологии работы с пожилыми",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Д.В. Свирин",
+          "room": "26",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
