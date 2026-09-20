@@ -1,0 +1,410 @@
+{
+  "name": "ВОР07-ГДЗ2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 ДИЗАЙН",
+  "profile": "Графический дизайн",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "доц. Александр Георгиевич Смирнов",
+          "room": "telemost.360.yandex.ru/j/5975447444",
+          "subgroup": null,
+          "notes": "с 14.09.26"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "доц. Александр Георгиевич Смирнов",
+          "room": "telemost.360.yandex.ru/j/5975447444",
+          "subgroup": null,
+          "notes": "с 14.09.26"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "доц. Александр Георгиевич Смирнов",
+          "room": "telemost.360.yandex.ru/j/5975447444",
+          "subgroup": null,
+          "notes": "с 14.09.26 по 21.12.26"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РЕЧЕВЫЕ ПРАКТИКИ",
+          "type": "practice",
+          "teacher": "доц. Ольга Васильевна Грызина, https:",
+          "room": "teams.microsoft.com/meet/376255991716467?p=YP9sjMHYENgrQIofqN",
+          "subgroup": null,
+          "notes": "с 15.09"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЦИФРОВЫЕ ТЕХНОЛОГИИ В ДИЗАЙНЕ (ПРОПЕДЕВТИКА)",
+          "type": "practice",
+          "teacher": "доц. Илья Юрьевич Демьяненко, https:",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (для иностранных студентов)",
+          "type": "practice",
+          "teacher": "доц. Ольга Сергеевна Борисова",
+          "room": "220",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lecture",
+          "teacher": "доц. Игорь Анатольевич Кузнецов",
+          "room": "221",
+          "subgroup": null,
+          "notes": "с 1.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "доц. Игорь Анатольевич Кузнецов",
+          "room": "221",
+          "subgroup": null,
+          "notes": "с 1.10"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "доц. Наталия Юрьевна Бурнашова, спортивный зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "доц. Александр Георгиевич Смирнов",
+          "room": "telemost.360.yandex.ru/j/5975447444",
+          "subgroup": null,
+          "notes": "с 14.09.26"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "АКАДЕМИЧЕСКАЯ ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Константин Михайлович Зубрилин",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "АКАДЕМИЧЕСКАЯ ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц. Константин Михайлович Зубрилин",
+          "room": "414",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА (творческая)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "РЕЧЕВЫЕ ПРАКТИКИ",
+          "type": "practice",
+          "teacher": "доц. Ольга Васильевна Грызина, https:",
+          "room": "teams.microsoft.com/meet/376255991716467?p=YP9sjMHYENgrQIofqN",
+          "subgroup": null,
+          "notes": "с 22.09"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ШРИФТ",
+          "type": "practice",
+          "teacher": "проф. Галина Михайловна Салтыкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": "с 23.09"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ШРИФТ",
+          "type": "practice",
+          "teacher": "проф. Галина Михайловна Салтыкова",
+          "room": "204",
+          "subgroup": null,
+          "notes": "с 23.09"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЦИФРОВЫЕ ТЕХНОЛОГИИ В ДИЗАЙНЕ (ПРОПЕДЕВТИКА)",
+          "type": "practice",
+          "teacher": "доц. Илья Юрьевич Демьяненко, https:",
+          "room": "x02.pk.mpgu.su/b/cet-jmi-6fh",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (для иностранных студентов)",
+          "type": "practice",
+          "teacher": "доц. Ольга Сергеевна Борисова",
+          "room": "220",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (для иностранных студентов)",
+          "type": "practice",
+          "teacher": "доц. Ольга Сергеевна Борисова",
+          "room": "220",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "доц. Игорь Анатольевич Кузнецов",
+          "room": "221",
+          "subgroup": null,
+          "notes": "с 1.10"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 25.09 по 20.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 25.09 по 20.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 25.09 по 20.11"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "доц. Наталия Юрьевна Бурнашова, спортивный зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

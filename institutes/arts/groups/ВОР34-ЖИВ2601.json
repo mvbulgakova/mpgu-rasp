@@ -1,0 +1,382 @@
+{
+  "name": "ВОР34-ЖИВ2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 Педагогическое образование",
+  "profile": "Живопись",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (РУССКИЙ). ОСНОВЫ РУССКОЙ ЛЕКСИКИ И ГРАММАТИКИ",
+          "type": "practice",
+          "teacher": "доц. Надежда Енчоровна Цха (дист)",
+          "room": "voovmeeting.com/dm/u1Go1ioNHi9s",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (РУССКИЙ). ОСНОВЫ РУССКОЙ ЛЕКСИКИ И ГРАММАТИКИ",
+          "type": "practice",
+          "teacher": "доц. Надежда Енчоровна Цха (дист)",
+          "room": "voovmeeting.com/dm/u1Go1ioNHi9s",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОБУЧЕНИЕ СЛУЖЕНИЕМ",
+          "type": "lecture",
+          "teacher": "доц. Ольга Вениаминовна Мартьянова",
+          "room": "410",
+          "subgroup": null,
+          "notes": "только 23.09, затем ПЗ до 18.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "lecture",
+          "teacher": "ст. преп.. Юлия Алексеевна Николаева",
+          "room": "212",
+          "subgroup": null,
+          "notes": "только 15.09, затем ПЗ 29.09, 13.10, 27.10, 10.11"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "lecture",
+          "teacher": "ст. преп.. Юлия Алексеевна Николаева",
+          "room": "212",
+          "subgroup": null,
+          "notes": "только 15.09, затем ПЗ 29.09, 13.10, 27.10, 10.11"
+        }
+      ],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 25.09 по 20.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 25.09 по 20.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "доц. Наталия Юрьевна Бурнашова, спортивный зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц Макарова Мария Леонидовна",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВВЕДЕНИЕ В ПРОФЕССИЮ Наталья Викторовна Курбатова",
+          "type": "lecture",
+          "teacher": null,
+          "room": "403",
+          "subgroup": null,
+          "notes": "только 26.09, затем ПЗ 10.10, 24.10"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц Макарова Мария Леонидовна",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (РУССКИЙ). ОСНОВЫ РУССКОЙ ЛЕКСИКИ И ГРАММАТИКИ",
+          "type": "practice",
+          "teacher": "доц. Надежда Енчоровна Цха (дист)",
+          "room": "voovmeeting.com/dm/u1Go1ioNHi9s",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК (РУССКИЙ). ОСНОВЫ РУССКОЙ ЛЕКСИКИ И ГРАММАТИКИ",
+          "type": "practice",
+          "teacher": "доц. Надежда Енчоровна Цха (дист)",
+          "room": "voovmeeting.com/dm/u1Go1ioNHi9s",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
+          "type": "practice",
+          "teacher": "доц. Юлия Игоревна Сёмич",
+          "room": "212",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОБУЧЕНИЕ СЛУЖЕНИЕМ",
+          "type": "lecture",
+          "teacher": "доц. Ольга Вениаминовна Мартьянова",
+          "room": "410",
+          "subgroup": null,
+          "notes": "только 23.09, затем ПЗ до 18.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "lecture",
+          "teacher": "ст. преп.. Юлия Алексеевна Николаева",
+          "room": "212",
+          "subgroup": null,
+          "notes": "только 15.09, затем ПЗ 29.09, 13.10, 27.10, 10.11"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОМПОЗИЦИЯ",
+          "type": "lecture",
+          "teacher": "ст. преп.. Юлия Алексеевна Николаева",
+          "room": "212",
+          "subgroup": null,
+          "notes": "только 15.09, затем ПЗ 29.09, 13.10, 27.10, 10.11"
+        }
+      ],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 25.09 по 20.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 18.09 по 13.11"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "проф. Светлана Игоревна Скороходова",
+          "room": "209",
+          "subgroup": null,
+          "notes": "с 25.09 по 20.11"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ФИЗИЧЕСКАЯ КУЛЬТУРА И СПОРТ",
+          "type": "practice",
+          "teacher": "доц. Наталия Юрьевна Бурнашова, спортивный зал",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц Макарова Мария Леонидовна",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ВВЕДЕНИЕ В ПРОФЕССИЮ Наталья Викторовна Курбатова",
+          "type": "lecture",
+          "teacher": null,
+          "room": "403",
+          "subgroup": null,
+          "notes": "только 26.09, затем ПЗ 10.10, 24.10"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "доц Макарова Мария Леонидовна",
+          "room": "412",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}
