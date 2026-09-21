@@ -123,17 +123,6 @@
           "notes": "ПЗ"
         },
         {
-          "slot": 6,
-          "time_start": "17:40",
-          "time_end": "19:10",
-          "subject": "Управление учебно-тренировочным процессом",
-          "type": "lecture",
-          "teacher": "проф. Сафошин А.В",
-          "room": "218",
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
           "slot": 7,
           "time_start": "19:20",
           "time_end": "20:50",
@@ -430,17 +419,6 @@
           "type": "lecture",
           "teacher": "проф. Сафошин А.В",
           "room": "101",
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 6,
-          "time_start": "17:40",
-          "time_end": "19:10",
-          "subject": "Управление учебно-тренировочным процессом",
-          "type": "lecture",
-          "teacher": "проф. Сафошин А.В",
-          "room": "218",
           "subgroup": null,
           "notes": "ПЗ"
         },
