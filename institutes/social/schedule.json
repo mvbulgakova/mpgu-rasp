@@ -3,8 +3,8 @@
   "institute_name": "Институт социально-гуманитарного образования",
   "short_name": "ИСГО",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-21T10:23:34.711266+00:00",
-  "parser_used": "pdfplumber",
+  "updated_at": "2026-09-21T20:47:02.358319+00:00",
+  "parser_used": "gsheets",
   "version": 1,
   "groups": [
     {
@@ -26,62 +26,8 @@
       "profile": null
     },
     {
-      "name": "ВВЭ34-ПИИ2501",
-      "file": "ВВЭ34-ПИИ2501",
-      "year": null,
-      "form": "part_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
       "name": "ВОЭ34-ИВР2501",
       "file": "ВОЭ34-ИВР2501",
-      "year": null,
-      "form": "part_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "БОЭ04-ГМУ2501",
-      "file": "БОЭ04-ГМУ2501",
-      "year": null,
-      "form": "part_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "БОЭ04-ГМУ2502",
-      "file": "БОЭ04-ГМУ2502",
-      "year": null,
-      "form": "part_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "БОЭ63-ЮРД2501",
-      "file": "БОЭ63-ЮРД2501",
-      "year": null,
-      "form": "part_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "БОЭ63-ЮРД2502",
-      "file": "БОЭ63-ЮРД2502",
-      "year": null,
-      "form": "part_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "БОЭ63-ЮРД2503",
-      "file": "БОЭ63-ЮРД2503",
       "year": null,
       "form": "part_time",
       "degree": "bachelor",
@@ -138,60 +84,6 @@
       "file": "БОЭ24-СУФ2505",
       "year": null,
       "form": "part_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "ЗОЭ34-МВО2601",
-      "file": "ЗОЭ34-МВО2601",
-      "year": null,
-      "form": "part_time",
-      "degree": "bachelor",
-      "direction": "44.04.01 Педагогическое образование",
-      "profile": "Менеджмент в образовании"
-    },
-    {
-      "name": "ЗОЭ34-КДС2601",
-      "file": "ЗОЭ34-КДС2601",
-      "year": null,
-      "form": "part_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "ЗОЭ34-ППР2601",
-      "file": "ЗОЭ34-ППР2601",
-      "year": null,
-      "form": "part_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "ЗЗЭ04-УСО2601",
-      "file": "ЗЗЭ04-УСО2601",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "ЗЗЭ34-МЦО2601",
-      "file": "ЗЗЭ34-МЦО2601",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "МЗЭ04-УСО2401",
-      "file": "МЗЭ04-УСО2401",
-      "year": null,
-      "form": "correspondence",
       "degree": "bachelor",
       "direction": null,
       "profile": null
