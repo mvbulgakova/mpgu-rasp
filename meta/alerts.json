@@ -1,0 +1,12 @@
+[
+  {
+    "type": "groups_dropped",
+    "severity": "medium",
+    "institute_id": "preschool",
+    "institute_name": "Факультет дошкольной педагогики и психологии",
+    "message": "Количество групп резко сократилось: 19 → 2 после обновления 1 файл(ов).",
+    "prev_count": 19,
+    "new_count": 2,
+    "changed_files": 1
+  }
+]

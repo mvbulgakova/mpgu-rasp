@@ -163,28 +163,6 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Психология семьи и семейное воспитание",
-          "type": "lecture",
-          "teacher": "Проф. Т.П. Авдулова",
-          "room": "303",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Психология семьи и семейное воспитание",
-          "type": "practice",
-          "teacher": "Проф. Т.П. Авдулова",
-          "room": "303",
-          "subgroup": null,
-          "notes": ""
         }
       ],
       "thursday": [],
@@ -346,28 +324,6 @@
           "type": "other",
           "teacher": null,
           "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Психология семьи и семейное воспитание",
-          "type": "lecture",
-          "teacher": "Проф. Т.П. Авдулова",
-          "room": "303",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Психология семьи и семейное воспитание",
-          "type": "practice",
-          "teacher": "Проф. Т.П. Авдулова",
-          "room": "303",
           "subgroup": null,
           "notes": ""
         }

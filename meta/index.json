@@ -96,8 +96,8 @@
       "short_name": "ФДПиП",
       "campus": "ФДПиП",
       "campus_address": "Госпитальный Вал, 4",
-      "groups_count": 19,
-      "updated_at": "2026-09-19T09:11:32.909223+00:00",
+      "groups_count": 2,
+      "updated_at": "2026-09-21T20:46:49.035084+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
     },
