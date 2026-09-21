@@ -5642,7 +5642,7 @@
       "abbreviated": "Комиссарова Л.Н.",
       "id": 403,
       "_key": "комиссаровалн",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "matveev-aleksandr-vladimirovich",
@@ -5698,7 +5698,7 @@
       "abbreviated": "Поликанова С.А.",
       "id": 407,
       "_key": "поликановаса",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "rachkovskaja-nadezhda-aleksandrovna",
@@ -19288,7 +19288,7 @@
       "_key": "нфгубанова",
       "_unknown": true,
       "id": 1323,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_гежукова",
@@ -19303,7 +19303,7 @@
       "_key": "гежукова",
       "_unknown": true,
       "id": 1324,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_нпмельникова",
@@ -19318,7 +19318,7 @@
       "_key": "нпмельникова",
       "_unknown": true,
       "id": 1325,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_матвеевс",
@@ -19333,7 +19333,7 @@
       "_key": "матвеевс",
       "_unknown": true,
       "id": 1326,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_рвчистяков",
@@ -19363,7 +19363,7 @@
       "_key": "ерфадеева",
       "_unknown": true,
       "id": 1328,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_дсзахаров",
@@ -19378,7 +19378,7 @@
       "_key": "дсзахаров",
       "_unknown": true,
       "id": 1329,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_доцерфадеева",
@@ -19393,7 +19393,7 @@
       "_key": "доцерфадеева",
       "_unknown": true,
       "id": 1330,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_нарачковская",
@@ -19408,7 +19408,7 @@
       "_key": "нарачковская",
       "_unknown": true,
       "id": 1331,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_липавлова",
@@ -19438,7 +19438,7 @@
       "_key": "смирновас",
       "_unknown": true,
       "id": 1333,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_осиненкос",
@@ -19453,7 +19453,7 @@
       "_key": "осиненкос",
       "_unknown": true,
       "id": 1334,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_мвлещенко",
@@ -19468,7 +19468,7 @@
       "_key": "мвлещенко",
       "_unknown": true,
       "id": 1335,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_овникифорова",
@@ -19483,7 +19483,7 @@
       "_key": "овникифорова",
       "_unknown": true,
       "id": 1336,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_тасемёнова",
@@ -19498,7 +19498,7 @@
       "_key": "тасемёнова",
       "_unknown": true,
       "id": 1337,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_оокузнецова",
@@ -19513,7 +19513,7 @@
       "_key": "оокузнецова",
       "_unknown": true,
       "id": 1338,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_мвуткина",
@@ -19543,7 +19543,7 @@
       "_key": "оарындина",
       "_unknown": true,
       "id": 1340,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_евмаякова",
@@ -19558,7 +19558,7 @@
       "_key": "евмаякова",
       "_unknown": true,
       "id": 1341,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_авлияскина",
@@ -19573,7 +19573,7 @@
       "_key": "авлияскина",
       "_unknown": true,
       "id": 1342,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_екбрыкина",
@@ -19588,7 +19588,7 @@
       "_key": "екбрыкина",
       "_unknown": true,
       "id": 1343,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_лнкомиссарова",
@@ -19618,7 +19618,7 @@
       "_key": "авантонова",
       "_unknown": true,
       "id": 1345,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_нюбогатырева",
@@ -19633,7 +19633,7 @@
       "_key": "нюбогатырева",
       "_unknown": true,
       "id": 1346,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_нюсклярова",
@@ -19648,7 +19648,7 @@
       "_key": "нюсклярова",
       "_unknown": true,
       "id": 1347,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_маламудс",
@@ -19663,7 +19663,7 @@
       "_key": "маламудс",
       "_unknown": true,
       "id": 1348,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_юиродин",
@@ -19678,7 +19678,7 @@
       "_key": "юиродин",
       "_unknown": true,
       "id": 1349,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_оакомарова",
@@ -19693,7 +19693,7 @@
       "_key": "оакомарова",
       "_unknown": true,
       "id": 1350,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_мюпарамонова",
@@ -19708,7 +19708,7 @@
       "_key": "мюпарамонова",
       "_unknown": true,
       "id": 1351,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_жвмацкевич",
@@ -19723,7 +19723,7 @@
       "_key": "жвмацкевич",
       "_unknown": true,
       "id": 1352,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_юадмитриев",
@@ -19738,7 +19738,7 @@
       "_key": "юадмитриев",
       "_unknown": true,
       "id": 1353,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_мабахотская",
@@ -19753,7 +19753,7 @@
       "_key": "мабахотская",
       "_unknown": true,
       "id": 1354,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ююберезина",
@@ -19768,7 +19768,7 @@
       "_key": "ююберезина",
       "_unknown": true,
       "id": 1355,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_амчерныш",
@@ -19783,7 +19783,7 @@
       "_key": "амчерныш",
       "_unknown": true,
       "id": 1356,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_еббаранникова",
@@ -19813,7 +19813,7 @@
       "_key": "игнатовас",
       "_unknown": true,
       "id": 1358,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_андросовас",
@@ -19843,7 +19843,7 @@
       "_key": "лвбаева",
       "_unknown": true,
       "id": 1360,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_нвхолмогорова",
@@ -19858,7 +19858,7 @@
       "_key": "нвхолмогорова",
       "_unknown": true,
       "id": 1361,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_гвмолчанова",
@@ -19873,7 +19873,7 @@
       "_key": "гвмолчанова",
       "_unknown": true,
       "id": 1362,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_тпавдулова",
@@ -19888,7 +19888,7 @@
       "_key": "тпавдулова",
       "_unknown": true,
       "id": 1363,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_сергеевас",
@@ -19903,7 +19903,7 @@
       "_key": "сергеевас",
       "_unknown": true,
       "id": 1364,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_еикричевцова",
@@ -19918,7 +19918,7 @@
       "_key": "еикричевцова",
       "_unknown": true,
       "id": 1365,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_доцнагерасименко",
@@ -19933,7 +19933,7 @@
       "_key": "доцнагерасименко",
       "_unknown": true,
       "id": 1366,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_осушакова",
@@ -19948,7 +19948,7 @@
       "_key": "осушакова",
       "_unknown": true,
       "id": 1367,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_захарченкос",
@@ -19963,7 +19963,7 @@
       "_key": "захарченкос",
       "_unknown": true,
       "id": 1368,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_олзверева",
@@ -19978,7 +19978,7 @@
       "_key": "олзверева",
       "_unknown": true,
       "id": 1369,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_твкалинина",
@@ -19993,7 +19993,7 @@
       "_key": "твкалинина",
       "_unknown": true,
       "id": 1370,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_нагерасименко",
@@ -20008,7 +20008,7 @@
       "_key": "нагерасименко",
       "_unknown": true,
       "id": 1371,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_мвосиненко",
@@ -20023,7 +20023,7 @@
       "_key": "мвосиненко",
       "_unknown": true,
       "id": 1372,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_врлисина",
@@ -20038,7 +20038,7 @@
       "_key": "врлисина",
       "_unknown": true,
       "id": 1373,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_авпищелко",
@@ -20143,7 +20143,7 @@
       "_key": "еасурудина",
       "_unknown": true,
       "id": 1380,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_дагусев",
@@ -20158,7 +20158,7 @@
       "_key": "дагусев",
       "_unknown": true,
       "id": 1381,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_доцввбацкалёва",
@@ -20173,7 +20173,7 @@
       "_key": "доцввбацкалёва",
       "_unknown": true,
       "id": 1382,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_доцввбацкалёва",
@@ -20188,7 +20188,7 @@
       "_key": "доцввбацкалёва",
       "_unknown": true,
       "id": 1383,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_мвпогодаева",
@@ -20203,7 +20203,7 @@
       "_key": "мвпогодаева",
       "_unknown": true,
       "id": 1384,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_доцекбрыкина",
@@ -20218,7 +20218,7 @@
       "_key": "доцекбрыкина",
       "_unknown": true,
       "id": 1385,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_валитвиненко",
@@ -20233,7 +20233,7 @@
       "_key": "валитвиненко",
       "_unknown": true,
       "id": 1386,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_доцтасемёнова",
@@ -20248,7 +20248,7 @@
       "_key": "доцтасемёнова",
       "_unknown": true,
       "id": 1387,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_оасорокина",
@@ -20263,7 +20263,7 @@
       "_key": "оасорокина",
       "_unknown": true,
       "id": 1388,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_мюпарамонова",
@@ -20278,7 +20278,7 @@
       "_key": "мюпарамонова",
       "_unknown": true,
       "id": 1389,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_доцмюпарамонова",
@@ -20293,7 +20293,7 @@
       "_key": "доцмюпарамонова",
       "_unknown": true,
       "id": 1390,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_нвсмирнова",
@@ -20308,7 +20308,7 @@
       "_key": "нвсмирнова",
       "_unknown": true,
       "id": 1391,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_вдрешетникова",
@@ -20323,7 +20323,7 @@
       "_key": "вдрешетникова",
       "_unknown": true,
       "id": 1392,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_доцгежукова",
@@ -20338,7 +20338,7 @@
       "_key": "доцгежукова",
       "_unknown": true,
       "id": 1393,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_стпровигнатова",
@@ -20353,7 +20353,7 @@
       "_key": "стпровигнатова",
       "_unknown": true,
       "id": 1394,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_доцжвмацкевич",
@@ -20368,7 +20368,7 @@
       "_key": "доцжвмацкевич",
       "_unknown": true,
       "id": 1395,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_твлаптева",
@@ -20398,7 +20398,7 @@
       "_key": "иабурлакова",
       "_unknown": true,
       "id": 1397,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_аптолкачева",
@@ -20413,7 +20413,7 @@
       "_key": "аптолкачева",
       "_unknown": true,
       "id": 1398,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_англязс",
@@ -20428,7 +20428,7 @@
       "_key": "англязс",
       "_unknown": true,
       "id": 1399,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_мскорнийчук",
@@ -20443,7 +20443,7 @@
       "_key": "мскорнийчук",
       "_unknown": true,
       "id": 1400,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_м",
@@ -20488,7 +20488,7 @@
       "_key": "фвшаройко",
       "_unknown": true,
       "id": 1403,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_сашеркунов",
@@ -20503,7 +20503,7 @@
       "_key": "сашеркунов",
       "_unknown": true,
       "id": 1404,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_исгусейнова",
@@ -20518,7 +20518,7 @@
       "_key": "исгусейнова",
       "_unknown": true,
       "id": 1405,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_наустюжанина",
@@ -20548,7 +20548,7 @@
       "_key": "чери",
       "_unknown": true,
       "id": 1407,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_дистанционном",
@@ -20563,7 +20563,7 @@
       "_key": "дистанционном",
       "_unknown": true,
       "id": 1408,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_дистанционном",
@@ -20578,7 +20578,7 @@
       "_key": "дистанционном",
       "_unknown": true,
       "id": 1409,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_фвшаройко",
@@ -20593,7 +20593,7 @@
       "_key": "ф",
       "_unknown": true,
       "id": 1410,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_випопов",
@@ -20608,7 +20608,7 @@
       "_key": "випопов",
       "_unknown": true,
       "id": 1411,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_м",
@@ -20653,7 +20653,7 @@
       "_key": "дистанционном",
       "_unknown": true,
       "id": 1414,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_и",
@@ -21013,7 +21013,7 @@
       "_key": "аяминин",
       "_unknown": true,
       "id": 1438,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_сл",
@@ -21028,7 +21028,7 @@
       "_key": "сл",
       "_unknown": true,
       "id": 1439,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_лсзаржицкая",
@@ -21043,7 +21043,7 @@
       "_key": "лсзаржицкая",
       "_unknown": true,
       "id": 1440,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_дистанционнон",
@@ -21073,7 +21073,7 @@
       "_key": "нвголовко",
       "_unknown": true,
       "id": 1442,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_са",
@@ -21133,7 +21133,7 @@
       "_key": "вюсоловьёв",
       "_unknown": true,
       "id": 1446,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ескувшинов",
@@ -21148,7 +21148,7 @@
       "_key": "ескувшинов",
       "_unknown": true,
       "id": 1447,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_дистанционноа",
@@ -21208,7 +21208,7 @@
       "_key": "твкупраш",
       "_unknown": true,
       "id": 1451,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_квфилатова",
@@ -21238,7 +21238,7 @@
       "_key": "иякуприянова",
       "_unknown": true,
       "id": 1453,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ааярулов",
@@ -21568,7 +21568,7 @@
       "_key": "httpsм",
       "_unknown": true,
       "id": 1475,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_httpsс",
@@ -21613,7 +21613,7 @@
       "_key": "httpsм",
       "_unknown": true,
       "id": 1478,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_httpsк",
@@ -21628,7 +21628,7 @@
       "_key": "httpsк",
       "_unknown": true,
       "id": 1479,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_httpsм",
@@ -21643,7 +21643,7 @@
       "_key": "httpsм",
       "_unknown": true,
       "id": 1480,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_httpsс",
@@ -21673,7 +21673,7 @@
       "_key": "лнмаксимова",
       "_unknown": true,
       "id": 1482,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ибпржиленская",
@@ -21688,7 +21688,7 @@
       "_key": "ибпржиленская",
       "_unknown": true,
       "id": 1483,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_нбсамойлова",
@@ -21703,7 +21703,7 @@
       "_key": "нбсамойлова",
       "_unknown": true,
       "id": 1484,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ингрифцова",
@@ -21718,7 +21718,7 @@
       "_key": "ингрифцова",
       "_unknown": true,
       "id": 1485,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_жввасильева",
@@ -21733,7 +21733,7 @@
       "_key": "жввасильева",
       "_unknown": true,
       "id": 1486,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_аэадамян",
@@ -21748,7 +21748,7 @@
       "_key": "аэадамян",
       "_unknown": true,
       "id": 1487,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_тдшуверова",
@@ -21763,7 +21763,7 @@
       "_key": "тдшуверова",
       "_unknown": true,
       "id": 1488,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_зачётт",
@@ -21778,7 +21778,7 @@
       "_key": "зачётт",
       "_unknown": true,
       "id": 1489,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_зачётт",
@@ -21793,7 +21793,7 @@
       "_key": "зачётт",
       "_unknown": true,
       "id": 1490,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_дкгазарова",
@@ -21808,7 +21808,7 @@
       "_key": "дкгазарова",
       "_unknown": true,
       "id": 1491,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_оашклярова",
@@ -21823,7 +21823,7 @@
       "_key": "оашклярова",
       "_unknown": true,
       "id": 1492,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_оценкойк",
@@ -21838,7 +21838,7 @@
       "_key": "оценкойк",
       "_unknown": true,
       "id": 1493,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_нлгалеева",
@@ -21853,7 +21853,7 @@
       "_key": "н",
       "_unknown": true,
       "id": 1494,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_санаумченко",
@@ -21868,7 +21868,7 @@
       "_key": "санаумченко",
       "_unknown": true,
       "id": 1495,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ви",
@@ -21883,7 +21883,7 @@
       "_key": "ви",
       "_unknown": true,
       "id": 1496,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_еаомельченко",
@@ -21898,7 +21898,7 @@
       "_key": "еаомельченко",
       "_unknown": true,
       "id": 1497,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_дистанционноа",
@@ -21928,7 +21928,7 @@
       "_key": "авкоролькова",
       "_unknown": true,
       "id": 1499,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_httpsв",
@@ -21943,7 +21943,7 @@
       "_key": "httpsв",
       "_unknown": true,
       "id": 1500,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_httpsт",
@@ -21958,7 +21958,7 @@
       "_key": "httpsт",
       "_unknown": true,
       "id": 1501,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_httpsа",
@@ -22018,7 +22018,7 @@
       "_key": "httpsд",
       "_unknown": true,
       "id": 1505,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_гороховса",
