@@ -66,17 +66,6 @@
           "notes": ""
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Теория менеджмента",
-          "type": "lecture",
-          "teacher": "проф. О.А. Игумнов",
-          "room": "204",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -305,17 +294,6 @@
           "type": "lecture",
           "teacher": "проф. О.А. Игумнов",
           "room": "203",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Теория менеджмента",
-          "type": "lecture",
-          "teacher": "проф. О.А. Игумнов",
-          "room": "204",
           "subgroup": null,
           "notes": ""
         },
