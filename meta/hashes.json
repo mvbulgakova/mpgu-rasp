@@ -3047,10 +3047,16 @@
     "size_bytes": 0,
     "last_changed": "2026-09-22T09:38:53.103015+00:00"
   },
-  "philology:https://mpgu.su/wp-content/uploads/2026/09/4-kurs-2026-2027-osen-ofo-6.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/4-kurs-2026-2027-osen-ofo-6.pdf",
-    "md5": "d85634784e22a1119402bf799436f87f",
+  "journalism:https://mpgu.su/wp-content/uploads/2026/09/1-kurs-audiovizualnye-tehnologii-v-zhurnalistike.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/1-kurs-audiovizualnye-tehnologii-v-zhurnalistike.pdf",
+    "md5": "a3f2977ac01cdbd6cb6ad4d1207ba31f",
     "size_bytes": 0,
-    "last_changed": "2026-09-22T20:01:26.811998+00:00"
+    "last_changed": "2026-09-22T20:02:23.060867+00:00"
+  },
+  "journalism:https://mpgu.su/wp-content/uploads/2026/09/1-kurs-mediaobrazovanie-v-sociokulturnoj-sfere.-ochnaja-forma-obuchenija.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/1-kurs-mediaobrazovanie-v-sociokulturnoj-sfere.-ochnaja-forma-obuchenija.pdf",
+    "md5": "cfc0286ad47f3443e3a46738646bdfb9",
+    "size_bytes": 0,
+    "last_changed": "2026-09-22T20:02:23.060886+00:00"
   }
 }

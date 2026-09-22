@@ -3,31 +3,13 @@
   "institute_name": "Институт журналистики, коммуникаций и медиаобразования",
   "short_name": "ИЖКМ",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-22T09:38:53.109272+00:00",
+  "updated_at": "2026-09-22T20:02:23.062342+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
     {
-      "name": "ВОЖ34-МВР2601",
-      "file": "ВОЖ34-МВР2601",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
-      "profile": "Медиапедагогика и Воспитательная работа"
-    },
-    {
-      "name": "ЗОЖ34-АКП2601",
-      "file": "ЗОЖ34-АКП2601",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "ЗОЖ09-АТЖ2501",
-      "file": "ЗОЖ09-АТЖ2501",
+      "name": "ЗОЖ09-АТЖ2601",
+      "file": "ЗОЖ09-АТЖ2601",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
@@ -35,31 +17,13 @@
       "profile": "Аудиовизуальные технологии в журналистике"
     },
     {
-      "name": "ЗОЖ34-МСС2501",
-      "file": "ЗОЖ34-МСС2501",
+      "name": "ЗОЖ34-МСС2601",
+      "file": "ЗОЖ34-МСС2601",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
       "direction": "44.04.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
       "profile": "Медиаобразование в социокультурной сфере"
-    },
-    {
-      "name": "ЗОЖ34-АКП2501",
-      "file": "ЗОЖ34-АКП2501",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "ЗОЖ34-МВД2501",
-      "file": "ЗОЖ34-МВД2501",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
     }
   ]
 }
