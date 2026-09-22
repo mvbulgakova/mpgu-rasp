@@ -3,270 +3,27 @@
   "institute_name": "Институт детства",
   "short_name": "ИД",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-19T09:10:44.128008+00:00",
+  "updated_at": "2026-09-22T20:01:15.909092+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
     {
-      "name": "ВОН34-НИЯ2601",
-      "file": "ВОН34-НИЯ2601",
-      "year": 1,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Начальное образование и Иностранный язык (английский)"
-    },
-    {
-      "name": "ВОН34-НИЯ2603",
-      "file": "ВОН34-НИЯ2603",
-      "year": 1,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Начальное образование и Иностранный язык (английский)"
-    },
-    {
-      "name": "ВОН34-НОР2604",
-      "file": "ВОН34-НОР2604",
-      "year": 1,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Начальное образование и Русский язык"
-    },
-    {
-      "name": "ВОН34-НИЯ2602",
-      "file": "ВОН34-НИЯ2602",
+      "name": "ВЗН34-НОБ2401",
+      "file": "ВЗН34-НОБ2401",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": null,
-      "profile": null
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Базовое высшее образование «Начальное образование"
     },
     {
-      "name": "ВОН34-НОИ2603",
-      "file": "ВОН34-НОИ2603",
+      "name": "ВЗН34-НОБ2402",
+      "file": "ВЗН34-НОБ2402",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "ВОН34-НИЯ2501",
-      "file": "ВОН34-НИЯ2501",
-      "year": 2,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Начальное образование и Иностранный язык (английский)"
-    },
-    {
-      "name": "ВОН34-НИЯ2502",
-      "file": "ВОН34-НИЯ2502",
-      "year": 2,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Начальное образование и Иностранный язык (английский)"
-    },
-    {
-      "name": "ВОН34-НИЯ2503",
-      "file": "ВОН34-НИЯ2503",
-      "year": 2,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Начальное образование и Иностранный язык (английский)"
-    },
-    {
-      "name": "ВОН34-НОИ2504",
-      "file": "ВОН34-НОИ2504",
-      "year": 2,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Начальное образование и Информатика"
-    },
-    {
-      "name": "ВОН34-НИС2505",
-      "file": "ВОН34-НИС2505",
-      "year": 2,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Начальное образование и История"
-    },
-    {
-      "name": "ВОН34-НИЯ2401",
-      "file": "ВОН34-НИЯ2401",
-      "year": 3,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01. Педагогическое образование",
-      "profile": "Начальное образование и Иностранный язык (английский)"
-    },
-    {
-      "name": "ВОН34-НИЯ2402",
-      "file": "ВОН34-НИЯ2402",
-      "year": 3,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01. Педагогическое образование",
-      "profile": "Начальное образование и Иностранный язык (английский)"
-    },
-    {
-      "name": "ВОН34-НОИ2403",
-      "file": "ВОН34-НОИ2403",
-      "year": 3,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01. Педагогическое образование",
-      "profile": "Начальное образование и Информатика"
-    },
-    {
-      "name": "ВОН34-НИС2404",
-      "file": "ВОН34-НИС2404",
-      "year": 3,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01. Педагогическое образование",
-      "profile": "Начальное образование и История"
-    },
-    {
-      "name": "ВОН34-НИС2405",
-      "file": "ВОН34-НИС2405",
-      "year": 3,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01. Педагогическое образование",
-      "profile": "Начальное образование и История"
-    },
-    {
-      "name": "ВОН34-НОБ2406",
-      "file": "ВОН34-НОБ2406",
-      "year": 3,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01. Педагогическое образование",
-      "profile": "Начальное образование"
-    },
-    {
-      "name": "ВОН34-НОБ2407",
-      "file": "ВОН34-НОБ2407",
-      "year": 3,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01. Педагогическое образование",
-      "profile": "Начальное образование"
-    },
-    {
-      "name": "БОН35-НИЯ2301",
-      "file": "БОН35-НИЯ2301",
-      "year": 4,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.05. Педагогическое образование (с двумя профилями подготовки)",
-      "profile": "Начальное образование и Иностранный язык (английский)"
-    },
-    {
-      "name": "БОН35-НОИ2303",
-      "file": "БОН35-НОИ2303",
-      "year": 4,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.05. Педагогическое образование (с двумя профилями подготовки)",
-      "profile": "Начальное образование и Информатика"
-    },
-    {
-      "name": "БОН34-НИС2304 (соl5)",
-      "file": "БОН34-НИС2304_соl5",
-      "year": 4,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование (базовое высшее образование)",
-      "profile": "Начальное образование и История"
-    },
-    {
-      "name": "БОН34-НОБ2305",
-      "file": "БОН34-НОБ2305",
-      "year": 4,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01. Педагогическое образование",
-      "profile": "Начальное образование"
-    },
-    {
-      "name": "БОН34-НОБ2306",
-      "file": "БОН34-НОБ2306",
-      "year": 4,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01. Педагогическое образование",
-      "profile": "Начальное образование"
-    },
-    {
-      "name": "БОН40-ПНО2307",
-      "file": "БОН40-ПНО2307",
-      "year": 4,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.02. Психолого-педагогическое образование",
-      "profile": "Психология начального общего образования"
-    },
-    {
-      "name": "БОН34-НИС2304 (соl4)",
-      "file": "БОН34-НИС2304_соl4",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "БОН35-НИЯ2201",
-      "file": "БОН35-НИЯ2201",
-      "year": 5,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Начальное образование и Иностранный язык (английский)"
-    },
-    {
-      "name": "БОН35-НИЯ2202",
-      "file": "БОН35-НИЯ2202",
-      "year": 5,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Начальное образование и Иностранный язык (английский)"
-    },
-    {
-      "name": "БОН35-НОИ2203",
-      "file": "БОН35-НОИ2203",
-      "year": 5,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Начальное образование и Информатика"
-    },
-    {
-      "name": "БОН35-НИС2204",
-      "file": "БОН35-НИС2204",
-      "year": 5,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Начальное образование и Социальная педагогика"
-    },
-    {
-      "name": "БОН35-НИС2205",
-      "file": "БОН35-НИС2205",
-      "year": 5,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Начальное образование и Социальная педагогика"
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Базовое высшее образование «Начальное образование"
     }
   ]
 }
