@@ -140,8 +140,8 @@
       "short_name": "ИФил",
       "campus": "ИФил",
       "campus_address": "ул. Малая Пироговская, 1 / пр-т Вернадского, 88",
-      "groups_count": 7,
-      "updated_at": "2026-09-22T09:37:36.561189+00:00",
+      "groups_count": 5,
+      "updated_at": "2026-09-22T20:01:26.814324+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
     },
