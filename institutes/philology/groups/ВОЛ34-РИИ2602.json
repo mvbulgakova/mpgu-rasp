@@ -1492,17 +1492,6 @@
           "slot": null,
           "time_start": "13:30",
           "time_end": "15:00",
-          "subject": "Практикум по орфографии и пунктуации",
-          "type": "practice",
-          "teacher": "Доц. Е.В",
-          "room": "9",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:30",
-          "time_end": "15:00",
           "subject": "Практикум по орфографии и пунктуации(П З)",
           "type": "other",
           "teacher": "Доц. С.С",
@@ -1584,6 +1573,17 @@
           "type": "other",
           "teacher": null,
           "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Практикум по орфографии и пунктуации",
+          "type": "practice",
+          "teacher": "Доц. Е.В",
+          "room": "9",
           "subgroup": null,
           "notes": ""
         }
@@ -3076,17 +3076,6 @@
           "slot": null,
           "time_start": "13:30",
           "time_end": "15:00",
-          "subject": "Практикум по орфографии и пунктуации",
-          "type": "practice",
-          "teacher": "Доц. Е.В",
-          "room": "9",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:30",
-          "time_end": "15:00",
           "subject": "Практикум по орфографии и пунктуации(П З)",
           "type": "other",
           "teacher": "Доц. С.С",
@@ -3168,6 +3157,17 @@
           "type": "other",
           "teacher": null,
           "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Практикум по орфографии и пунктуации",
+          "type": "practice",
+          "teacher": "Доц. Е.В",
+          "room": "9",
           "subgroup": null,
           "notes": ""
         }

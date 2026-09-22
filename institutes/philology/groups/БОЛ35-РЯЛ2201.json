@@ -1,0 +1,138 @@
+{
+  "name": "БОЛ35-РЯЛ2201",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+  "profile": "Русский язык и Литература",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Современный русский язык",
+          "type": "practice",
+          "teacher": "Проф. Г.И. Кустова",
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "История русской литературы XX-XXI веков",
+          "type": "lecture",
+          "teacher": "Проф. Я.В. Солдаткина",
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Современный русский язык",
+          "type": "lecture",
+          "teacher": "Проф. Г.И. Кустова",
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Славянский язык / Герменевтика / Нормы русского литературного языка / Лингвопоэтика",
+          "type": "practice",
+          "teacher": "Проф. Л.Г. Чапаева / Зав. каф. А.В. Григорьев /",
+          "room": "11/308/10/205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "История русской литературы XX-XXI веков",
+          "type": "practice",
+          "teacher": "Проф. Я.В. Солдаткина",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "13:30",
+          "time_end": "15:00",
+          "subject": "Современный русский язык",
+          "type": "practice",
+          "teacher": "Проф. Г.И. Кустова",
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "История русской литературы XX-XXI веков",
+          "type": "lecture",
+          "teacher": "Проф. Я.В. Солдаткина",
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:20",
+          "time_end": "16:50",
+          "subject": "Современный русский язык",
+          "type": "lecture",
+          "teacher": "Проф. Г.И. Кустова",
+          "room": "9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Славянский язык / Герменевтика / Нормы русского литературного языка / Лингвопоэтика",
+          "type": "practice",
+          "teacher": "Проф. Л.Г. Чапаева / Зав. каф. А.В. Григорьев /",
+          "room": "11/308/10/205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:40",
+          "time_end": "20:10",
+          "subject": "История русской литературы XX-XXI веков",
+          "type": "practice",
+          "teacher": "Проф. Я.В. Солдаткина",
+          "room": "306",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}
