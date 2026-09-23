@@ -1,0 +1,498 @@
+{
+  "name": "БОЖ35-МХК2301",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ (С ДВУМЯ ПРОФИЛЯМИ ПОДГОТОВКИ)",
+  "profile": "Мировая художественная культура и Дополнительное образование (журналистика)",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СОЦИОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Профессор М.А. Лимонова",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СОЦИОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Профессор М.А. Лимонова",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИЛОСОФИЯ КУЛЬТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент Ж.В. Васильева",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Попова",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИЛОСОФИЯ КУЛЬТУРЫ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "КУЛЬТУРА ПОВСЕДНЕВНОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "СОЦИОЛОГИЯ",
+          "type": "practice",
+          "teacher": "преподаватель И.В. Алексеенко",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ ОТЕЧЕСТВЕННОЙ ЖУРНАЛИСТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Кодола",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЖУРНАЛИСТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент С.Ю. Ермолаева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Попова",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Попова",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Попова",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИНФОГРАФИКА",
+          "type": "practice",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "СОЦИОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Профессор М.А. Лимонова",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СОЦИОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Профессор М.А. Лимонова",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИЛОСОФИЯ КУЛЬТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент Ж.В. Васильева",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Попова",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИЛОСОФИЯ КУЛЬТУРЫ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "КУЛЬТУРА ПОВСЕДНЕВНОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В. Митницкая",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "СОЦИОЛОГИЯ",
+          "type": "practice",
+          "teacher": "преподаватель И.В. Алексеенко",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ ОТЕЧЕСТВЕННОЙ ЖУРНАЛИСТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Кодола",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЖУРНАЛИСТИКИ",
+          "type": "lecture",
+          "teacher": "Доцент С.Ю. Ермолаева",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент А.В. Попова",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Попова",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Попова",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИНФОГРАФИКА",
+          "type": "practice",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
