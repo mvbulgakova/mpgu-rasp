@@ -1876,7 +1876,7 @@
       "abbreviated": "Васильева Д.А.",
       "id": 134,
       "_key": "васильевада",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "gudilina-svetlana-ivanovna",
@@ -7210,7 +7210,7 @@
       "abbreviated": "Алимов М.М.",
       "id": 515,
       "_key": "алимовмм",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "vladimirova-tatyana-nikolaevna-2",
@@ -14503,7 +14503,7 @@
       "_key": "адельфинскийп",
       "_unknown": true,
       "id": 1004,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_ссволхов",
@@ -14518,7 +14518,7 @@
       "_key": "ссволхов",
       "_unknown": true,
       "id": 1005,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_поповад",
@@ -14593,7 +14593,7 @@
       "_key": "василенкод",
       "_unknown": true,
       "id": 1010,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_кодолад",
@@ -14653,7 +14653,7 @@
       "_key": "щалпегинд",
       "_unknown": true,
       "id": 1014,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_онсмирнов",
@@ -14743,7 +14743,7 @@
       "_key": "зубаркинад",
       "_unknown": true,
       "id": 1020,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_инд",
@@ -14818,7 +14818,7 @@
       "_key": "землянскийд",
       "_unknown": true,
       "id": 1025,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_еюникитина",
@@ -14833,7 +14833,7 @@
       "_key": "еюникитина",
       "_unknown": true,
       "id": 1026,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_захаровавв",
@@ -22663,7 +22663,7 @@
       "_key": "чекалинад",
       "_unknown": true,
       "id": 1548,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_шевцовад",
