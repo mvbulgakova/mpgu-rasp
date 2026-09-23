@@ -1,0 +1,142 @@
+{
+  "name": "БОЖ09-ЖРН2402",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "42.03.02 ЖУРНАЛИСТИКА",
+  "profile": "Журналистика",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЭКОНОМИКА",
+          "type": "practice",
+          "teacher": "Профессор А.О. Адельфинский",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В. Летохо",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Летохо",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Попова",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЭКОНОМИКА",
+          "type": "practice",
+          "teacher": "Профессор А.О. Адельфинский",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "lecture",
+          "teacher": "Доцент Е.В. Летохо",
+          "room": "202",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Летохо",
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Попова",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
