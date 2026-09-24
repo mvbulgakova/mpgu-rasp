@@ -3,10 +3,19 @@
   "institute_name": "Институт журналистики, коммуникаций и медиаобразования",
   "short_name": "ИЖКМ",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-23T19:58:46.603276+00:00",
+  "updated_at": "2026-09-24T09:43:45.860494+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
+    {
+      "name": "БОЖ41-РСО2504",
+      "file": "БОЖ41-РСО2504",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
     {
       "name": "БОЖ09-ЖРН2401",
       "file": "БОЖ09-ЖРН2401",
