@@ -20,34 +20,12 @@
           "notes": ""
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Нормативно-правовые основы профессиональной деятельности",
-          "type": "practice",
-          "teacher": "Ст.преподаватель",
-          "room": "48",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
           "subject": "Технологии игрового взаимодействия",
           "type": "practice",
           "teacher": "Доцент В.А. Заикин",
-          "room": "48",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Нормативно-правовые основы профессиональной деятельности",
-          "type": "practice",
-          "teacher": "Ст.преподаватель",
           "room": "48",
           "subgroup": null,
           "notes": ""
@@ -64,6 +42,17 @@
           "notes": ""
         },
         {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -71,6 +60,17 @@
           "type": "lecture",
           "teacher": "Доцент И.А. Керимова",
           "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "36",
           "subgroup": null,
           "notes": ""
         }
@@ -230,7 +230,7 @@
           "subject": "Безопасность жизнедеятельности",
           "type": "lecture",
           "teacher": "Профессор М.В. Погодаева",
-          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "room": "x11.pk.mpgu.su/b/uv6-sd5-t9m",
           "subgroup": null,
           "notes": "До 22.10.2026"
         }
@@ -364,34 +364,12 @@
           "notes": ""
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Нормативно-правовые основы профессиональной деятельности",
-          "type": "practice",
-          "teacher": "Ст.преподаватель",
-          "room": "48",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
           "subject": "Технологии игрового взаимодействия",
           "type": "practice",
           "teacher": "Доцент В.А. Заикин",
-          "room": "48",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Нормативно-правовые основы профессиональной деятельности",
-          "type": "practice",
-          "teacher": "Ст.преподаватель",
           "room": "48",
           "subgroup": null,
           "notes": ""
@@ -408,6 +386,17 @@
           "notes": ""
         },
         {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "36",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -415,6 +404,17 @@
           "type": "lecture",
           "teacher": "Доцент И.А. Керимова",
           "room": "39",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "type": "practice",
+          "teacher": "Ст.преподаватель",
+          "room": "36",
           "subgroup": null,
           "notes": ""
         }
@@ -574,7 +574,7 @@
           "subject": "Безопасность жизнедеятельности",
           "type": "lecture",
           "teacher": "Профессор М.В. Погодаева",
-          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "room": "x11.pk.mpgu.su/b/uv6-sd5-t9m",
           "subgroup": null,
           "notes": "До 22.10.2026"
         }

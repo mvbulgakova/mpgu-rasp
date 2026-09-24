@@ -17,7 +17,7 @@
           "teacher": "Профессор Е.Н. Федорова",
           "room": "39",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 28.09.2026"
         },
         {
           "slot": 1,
@@ -34,7 +34,7 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "Современные модели общего образования",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "practice",
           "teacher": "Профессор Е.Н. Федорова",
           "room": "25",
@@ -61,7 +61,7 @@
           "teacher": "Профессор Е.Н. Федорова",
           "room": "39",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 28.09.2026"
         },
         {
           "slot": 2,
@@ -78,7 +78,7 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Современные модели общего образования",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "practice",
           "teacher": "Профессор Е.Н. Федорова",
           "room": "25",
@@ -111,7 +111,7 @@
           "slot": null,
           "time_start": "12:30",
           "time_end": "14:00",
-          "subject": "Современные модели общего образования",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "practice",
           "teacher": "Профессор Е.Н. Федорова",
           "room": "25",
@@ -157,7 +157,7 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Физическая культура и спорт",
+          "subject": "Элективные курсы по физической культуре и спорту",
           "type": "practice",
           "teacher": "Ст.преподаватель О.А. Гурова, Ст.перподаватель С.Р. Давлетшн",
           "room": null,
@@ -168,7 +168,7 @@
           "slot": null,
           "time_start": "12:30",
           "time_end": "14:00",
-          "subject": "Физическая культура и спорт",
+          "subject": "Элективные курсы по физической культуре и спорту",
           "type": "practice",
           "teacher": "Ст.преподаватель О.А. Гурова, Ст.перподаватель С.Р. Давлетшн",
           "room": null,
@@ -195,7 +195,7 @@
           "subject": "Психология общения",
           "type": "practice",
           "teacher": "Доцент Н.П. Болотова",
-          "room": "39",
+          "room": "35",
           "subgroup": null,
           "notes": ""
         },
@@ -230,7 +230,7 @@
           "teacher": "Доцент Н.П. Болотова",
           "room": null,
           "subgroup": null,
-          "notes": ""
+          "notes": "До 30.09.2026"
         },
         {
           "slot": 2,
@@ -263,7 +263,7 @@
           "teacher": "Доцент Н.П. Болотова",
           "room": "39",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 30.09.2026"
         },
         {
           "slot": null,
@@ -285,7 +285,7 @@
           "teacher": "Доцент М.С. Сотникова",
           "room": "35",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 04.11.2026"
         },
         {
           "slot": null,
@@ -307,7 +307,7 @@
           "teacher": "Доцент М.С. Сотникова",
           "room": "35",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 29.10.2026"
         },
         {
           "slot": 4,
@@ -329,7 +329,7 @@
           "subject": "Социальная педагогика",
           "type": "lecture",
           "teacher": "Доцент О.Н. Зотова",
-          "room": "x01.pk.mpgu.su/b/fhk-lxf-qyh",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
           "subgroup": null,
           "notes": ""
         },
@@ -353,7 +353,7 @@
           "teacher": "Доцент М.С. Сотникова",
           "room": "36",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 29.10.2026"
         },
         {
           "slot": null,
@@ -386,7 +386,7 @@
           "teacher": "Доцент М.С. Сотникова",
           "room": "36",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 29.10.2026"
         },
         {
           "slot": 4,
@@ -428,9 +428,9 @@
           "subject": "Безопасность жизнедеятельности",
           "type": "lecture",
           "teacher": "Профессор М.В. Погодаева",
-          "room": "x01.pk.mpgu.su/b/fhk-lxf-qyh",
+          "room": "x11.pk.mpgu.su/b/uv6-sd5-t9m",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 22.10.2026"
         }
       ],
       "friday": [
@@ -438,9 +438,9 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "Социальная психология",
+          "subject": "Психология развития и возрастная психология",
           "type": "practice",
-          "teacher": "Ассистент И.С. Новикова",
+          "teacher": "Ст. преподаватель И.А. Журавлева",
           "room": "35",
           "subgroup": null,
           "notes": ""
@@ -482,9 +482,9 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Психология развития и возрастная психология",
+          "subject": "Социальная психология",
           "type": "practice",
-          "teacher": "Ст. преподаватель И.А. Журавлева",
+          "teacher": "Ст. преподаватель И.С. Новикова",
           "room": "35",
           "subgroup": null,
           "notes": ""
@@ -539,7 +539,7 @@
           "time_end": "14:00",
           "subject": "Социальная психология",
           "type": "practice",
-          "teacher": "Ассистент И.С. Новикова",
+          "teacher": "Ст. преподаватель И.С. Новикова",
           "room": "37",
           "subgroup": null,
           "notes": ""
@@ -550,7 +550,7 @@
           "time_end": "15:50",
           "subject": "Социальная психология",
           "type": "practice",
-          "teacher": "Ассистент И.С. Новикова",
+          "teacher": "Ст. преподаватель И.С. Новикова",
           "room": "37",
           "subgroup": null,
           "notes": ""
@@ -562,7 +562,7 @@
           "subject": "Психология развития и возрастная психология",
           "type": "lecture",
           "teacher": "Профессор Т.Н. Сахарова",
-          "room": "x01.pk.mpgu.su/b/fhk-lxf-qyh",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
           "subgroup": null,
           "notes": ""
         }
@@ -603,7 +603,7 @@
           "teacher": "Профессор Е.Н. Федорова",
           "room": "39",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 28.09.2026"
         },
         {
           "slot": 1,
@@ -620,7 +620,7 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "Современные модели общего образования",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "practice",
           "teacher": "Профессор Е.Н. Федорова",
           "room": "25",
@@ -647,7 +647,7 @@
           "teacher": "Профессор Е.Н. Федорова",
           "room": "39",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 28.09.2026"
         },
         {
           "slot": 2,
@@ -664,7 +664,7 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Современные модели общего образования",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "practice",
           "teacher": "Профессор Е.Н. Федорова",
           "room": "25",
@@ -697,7 +697,7 @@
           "slot": null,
           "time_start": "12:30",
           "time_end": "14:00",
-          "subject": "Современные модели общего образования",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "practice",
           "teacher": "Профессор Е.Н. Федорова",
           "room": "25",
@@ -743,7 +743,7 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Физическая культура и спорт",
+          "subject": "Элективные курсы по физической культуре и спорту",
           "type": "practice",
           "teacher": "Ст.преподаватель О.А. Гурова, Ст.перподаватель С.Р. Давлетшн",
           "room": null,
@@ -754,7 +754,7 @@
           "slot": null,
           "time_start": "12:30",
           "time_end": "14:00",
-          "subject": "Физическая культура и спорт",
+          "subject": "Элективные курсы по физической культуре и спорту",
           "type": "practice",
           "teacher": "Ст.преподаватель О.А. Гурова, Ст.перподаватель С.Р. Давлетшн",
           "room": null,
@@ -781,7 +781,7 @@
           "subject": "Психология общения",
           "type": "practice",
           "teacher": "Доцент Н.П. Болотова",
-          "room": "39",
+          "room": "35",
           "subgroup": null,
           "notes": ""
         },
@@ -816,7 +816,7 @@
           "teacher": "Доцент Н.П. Болотова",
           "room": null,
           "subgroup": null,
-          "notes": ""
+          "notes": "До 30.09.2026"
         },
         {
           "slot": 2,
@@ -849,7 +849,7 @@
           "teacher": "Доцент Н.П. Болотова",
           "room": "39",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 30.09.2026"
         },
         {
           "slot": null,
@@ -871,7 +871,7 @@
           "teacher": "Доцент М.С. Сотникова",
           "room": "35",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 04.11.2026"
         },
         {
           "slot": null,
@@ -893,7 +893,7 @@
           "teacher": "Доцент М.С. Сотникова",
           "room": "35",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 29.10.2026"
         },
         {
           "slot": 4,
@@ -915,7 +915,7 @@
           "subject": "Социальная педагогика",
           "type": "lecture",
           "teacher": "Доцент О.Н. Зотова",
-          "room": "x01.pk.mpgu.su/b/fhk-lxf-qyh",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
           "subgroup": null,
           "notes": ""
         },
@@ -939,7 +939,7 @@
           "teacher": "Доцент М.С. Сотникова",
           "room": "36",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 29.10.2026"
         },
         {
           "slot": null,
@@ -972,7 +972,7 @@
           "teacher": "Доцент М.С. Сотникова",
           "room": "36",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 29.10.2026"
         },
         {
           "slot": 4,
@@ -1014,9 +1014,9 @@
           "subject": "Безопасность жизнедеятельности",
           "type": "lecture",
           "teacher": "Профессор М.В. Погодаева",
-          "room": "x01.pk.mpgu.su/b/fhk-lxf-qyh",
+          "room": "x11.pk.mpgu.su/b/uv6-sd5-t9m",
           "subgroup": null,
-          "notes": ""
+          "notes": "До 22.10.2026"
         }
       ],
       "friday": [
@@ -1024,9 +1024,9 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "Социальная психология",
+          "subject": "Психология развития и возрастная психология",
           "type": "practice",
-          "teacher": "Ассистент И.С. Новикова",
+          "teacher": "Ст. преподаватель И.А. Журавлева",
           "room": "35",
           "subgroup": null,
           "notes": ""
@@ -1068,9 +1068,9 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Психология развития и возрастная психология",
+          "subject": "Социальная психология",
           "type": "practice",
-          "teacher": "Ст. преподаватель И.А. Журавлева",
+          "teacher": "Ст. преподаватель И.С. Новикова",
           "room": "35",
           "subgroup": null,
           "notes": ""
@@ -1125,7 +1125,7 @@
           "time_end": "14:00",
           "subject": "Социальная психология",
           "type": "practice",
-          "teacher": "Ассистент И.С. Новикова",
+          "teacher": "Ст. преподаватель И.С. Новикова",
           "room": "37",
           "subgroup": null,
           "notes": ""
@@ -1136,7 +1136,7 @@
           "time_end": "15:50",
           "subject": "Социальная психология",
           "type": "practice",
-          "teacher": "Ассистент И.С. Новикова",
+          "teacher": "Ст. преподаватель И.С. Новикова",
           "room": "37",
           "subgroup": null,
           "notes": ""
@@ -1148,7 +1148,7 @@
           "subject": "Психология развития и возрастная психология",
           "type": "lecture",
           "teacher": "Профессор Т.Н. Сахарова",
-          "room": "x01.pk.mpgu.su/b/fhk-lxf-qyh",
+          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
           "subgroup": null,
           "notes": ""
         }

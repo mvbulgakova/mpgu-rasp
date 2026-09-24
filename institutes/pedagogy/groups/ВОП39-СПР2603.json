@@ -138,7 +138,7 @@
           "subject": "Ассистент Ф.Р. Устюжанин",
           "type": "other",
           "teacher": "Ассистент Ф.Р. Устюжанин",
-          "room": null,
+          "room": "25",
           "subgroup": null,
           "notes": ""
         }
@@ -173,7 +173,7 @@
           "subject": "История России",
           "type": "lecture",
           "teacher": "Доцент Е.Е. Юдин",
-          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "room": "vk.ru/call/join/7dOyxAL9LZ0TbPDw_t2SgMlUjDSZ7-wTOuMeFU1HqAc",
           "subgroup": null,
           "notes": ""
         },
@@ -195,7 +195,7 @@
           "subject": "История России",
           "type": "lecture",
           "teacher": "Доцент Е.Е. Юдин",
-          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "room": "vk.ru/call/join/7dOyxAL9LZ0TbPDw_t2SgMlUjDSZ7-wTOuMeFU1HqAc",
           "subgroup": null,
           "notes": ""
         },
@@ -261,17 +261,6 @@
           "time_start": "12:30",
           "time_end": "14:00",
           "subject": "Основы российской государственности",
-          "type": "practice",
-          "teacher": "Доцент Р.А. Счастливцев",
-          "room": "35",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "12:30",
-          "time_end": "14:00",
-          "subject": "Основы российской государственности",
           "type": "lecture",
           "teacher": "Доцент Р.А. Счастливцев",
           "room": "39",
@@ -303,6 +292,17 @@
           "notes": "До 27.11.2026"
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "35",
+          "subgroup": null,
+          "notes": "До 06.11.2026"
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -312,6 +312,39 @@
           "room": "25",
           "subgroup": null,
           "notes": "До 27.11.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "35",
+          "subgroup": null,
+          "notes": "До 06.11.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
         },
         {
           "slot": 5,
@@ -470,7 +503,7 @@
           "subject": "Ассистент Ф.Р. Устюжанин",
           "type": "other",
           "teacher": "Ассистент Ф.Р. Устюжанин",
-          "room": null,
+          "room": "25",
           "subgroup": null,
           "notes": ""
         }
@@ -505,7 +538,7 @@
           "subject": "История России",
           "type": "lecture",
           "teacher": "Доцент Е.Е. Юдин",
-          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "room": "vk.ru/call/join/7dOyxAL9LZ0TbPDw_t2SgMlUjDSZ7-wTOuMeFU1HqAc",
           "subgroup": null,
           "notes": ""
         },
@@ -527,7 +560,7 @@
           "subject": "История России",
           "type": "lecture",
           "teacher": "Доцент Е.Е. Юдин",
-          "room": "sdo.mpgu.su/guest.php?id=156&k=47961290d980debbae280783bb774f30",
+          "room": "vk.ru/call/join/7dOyxAL9LZ0TbPDw_t2SgMlUjDSZ7-wTOuMeFU1HqAc",
           "subgroup": null,
           "notes": ""
         },
@@ -593,17 +626,6 @@
           "time_start": "12:30",
           "time_end": "14:00",
           "subject": "Основы российской государственности",
-          "type": "practice",
-          "teacher": "Доцент Р.А. Счастливцев",
-          "room": "35",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "12:30",
-          "time_end": "14:00",
-          "subject": "Основы российской государственности",
           "type": "lecture",
           "teacher": "Доцент Р.А. Счастливцев",
           "room": "39",
@@ -635,6 +657,17 @@
           "notes": "До 27.11.2026"
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "35",
+          "subgroup": null,
+          "notes": "До 06.11.2026"
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -644,6 +677,39 @@
           "room": "25",
           "subgroup": null,
           "notes": "До 27.11.2026"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "35",
+          "subgroup": null,
+          "notes": "До 06.11.2026"
+        },
+        {
+          "slot": null,
+          "time_start": "12:30",
+          "time_end": "14:00",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "Доцент Р.А. Счастливцев",
+          "room": "35",
+          "subgroup": null,
+          "notes": ""
         },
         {
           "slot": 5,

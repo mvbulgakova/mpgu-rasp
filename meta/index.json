@@ -151,10 +151,10 @@
       "short_name": "ИПиП",
       "campus": "ИПиП",
       "campus_address": "Малый Сухаревский пер., 6",
-      "groups_count": 30,
-      "updated_at": "2026-09-19T19:32:42.365734+00:00",
+      "groups_count": 17,
+      "updated_at": "2026-09-24T20:17:20.721377+00:00",
       "status": "ok",
-      "parser_used": "claude"
+      "parser_used": "docx"
     }
   ]
 }
