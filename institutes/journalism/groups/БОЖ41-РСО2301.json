@@ -1,0 +1,720 @@
+{
+  "name": "БОЖ41-РСО2301",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+  "profile": "РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОПИРАЙТИНГ",
+          "type": "practice",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПСИХОЛОГИЯ МАССОВЫХ КОММУНИКАЦИЙ",
+          "type": "lecture",
+          "teacher": "Доцент Р.В. Кишиков",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КОПИРАЙТИНГ",
+          "type": "practice",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПСИХОЛОГИЯ МАССОВЫХ КОММУНИКАЦИЙ",
+          "type": "lecture",
+          "teacher": "Доцент Р.В. Кишиков",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "МАРКЕТИНГОВЫЕ ИССЛЕДОВАНИЯ И СИТУАЦИОННЫЙ АНАЛИЗ",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Заякина",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "МАРКЕТИНГОВЫЕ ИССЛЕДОВАНИЯ И СИТУАЦИОННЫЙ АНАЛИЗ",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Заякина",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "МАРКЕТИНГОВЫЕ ИССЛЕДОВАНИЯ И СИТУАЦИОННЫЙ АНАЛИЗ",
+          "type": "practice",
+          "teacher": "Доцент И.А. Заякина",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
+          "type": "lecture",
+          "teacher": "Профессор Д.А. Гусев",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
+          "type": "lecture",
+          "teacher": "Профессор Д.А. Гусев",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
+          "type": "practice",
+          "teacher": "Профессор Д.А. Гусев",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КОПИРАЙТИНГ",
+          "type": "lecture",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КОПИРАЙТИНГ",
+          "type": "practice",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ МЕДИАПЛАНИРОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Младковская",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВЗАИМОДЕЙСТВИЕ С ЛИЦАМИ С ОВЗ И С ИНВАЛИДНОСТЬЮ В СОЦИАЛЬНОЙ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПРОФЕССИОНАЛЬНОЙ СФЕРАХ",
+          "type": "lecture",
+          "teacher": "преподаватель А.А. Осетрова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПРОФЕССИОНАЛЬНОЙ СФЕРАХ",
+          "type": "practice",
+          "teacher": "преподаватель А.А. Осетрова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ВЗАИМОДЕЙСТВИЕ С ЛИЦАМИ С ОВЗ И С ИНВАЛИДНОСТЬЮ В СОЦИАЛЬНОЙ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПРОФЕССИОНАЛЬНОЙ СФЕРАХ",
+          "type": "practice",
+          "teacher": "преподаватель А.А. Осетрова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ВЗАИМОДЕЙСТВИЕ С ЛИЦАМИ С ОВЗ И С ИНВАЛИДНОСТЬЮ В СОЦИАЛЬНОЙ И ПРОФЕССИОНАЛЬНОЙ СФЕРАХ",
+          "type": "lecture",
+          "teacher": "преподаватель А.А. Осетрова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЕСТЕСТВЕННОНАУЧНАЯ КАРТИНА МИРА",
+          "type": "lecture",
+          "teacher": "Профессор Р.А. Петросова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЕСТЕСТВЕННОНАУЧНАЯ КАРТИНА МИРА",
+          "type": "practice",
+          "teacher": "Профессор Р.А. Петросова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЕСТЕСТВЕННОНАУЧНАЯ КАРТИНА МИРА 11.09.09, 25.09, 09.10",
+          "type": "practice",
+          "teacher": "Профессор Р.А. Петросова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЕСТЕСТВЕННОНАУЧНАЯ КАРТИНА МИРА",
+          "type": "lecture",
+          "teacher": "Профессор Р.А. Петросова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЕСТЕСТВЕННОНАУЧНАЯ КАРТИНА МИРА",
+          "type": "practice",
+          "teacher": "Профессор Р.А. Петросова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "– 17:30",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "КОПИРАЙТИНГ",
+          "type": "lecture",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "КОПИРАЙТИНГ",
+          "type": "practice",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "СПИЧРАЙТИНГ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Орлова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "СПИЧРАЙТИНГ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Орлова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "СПИЧРАЙТИНГ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Орлова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "СПИЧРАЙТИНГ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Орлова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КОПИРАЙТИНГ",
+          "type": "practice",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПСИХОЛОГИЯ МАССОВЫХ КОММУНИКАЦИЙ",
+          "type": "lecture",
+          "teacher": "Доцент Р.В. Кишиков",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КОПИРАЙТИНГ",
+          "type": "practice",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПСИХОЛОГИЯ МАССОВЫХ КОММУНИКАЦИЙ",
+          "type": "lecture",
+          "teacher": "Доцент Р.В. Кишиков",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "МАРКЕТИНГОВЫЕ ИССЛЕДОВАНИЯ И СИТУАЦИОННЫЙ АНАЛИЗ",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Заякина",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "МАРКЕТИНГОВЫЕ ИССЛЕДОВАНИЯ И СИТУАЦИОННЫЙ АНАЛИЗ",
+          "type": "lecture",
+          "teacher": "Доцент И.А. Заякина",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "МАРКЕТИНГОВЫЕ ИССЛЕДОВАНИЯ И СИТУАЦИОННЫЙ АНАЛИЗ",
+          "type": "practice",
+          "teacher": "Доцент И.А. Заякина",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
+          "type": "lecture",
+          "teacher": "Профессор Д.А. Гусев",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
+          "type": "lecture",
+          "teacher": "Профессор Д.А. Гусев",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
+          "type": "practice",
+          "teacher": "Профессор Д.А. Гусев",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КОПИРАЙТИНГ",
+          "type": "lecture",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КОПИРАЙТИНГ",
+          "type": "practice",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ МЕДИАПЛАНИРОВАНИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Младковская",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ВЗАИМОДЕЙСТВИЕ С ЛИЦАМИ С ОВЗ И С ИНВАЛИДНОСТЬЮ В СОЦИАЛЬНОЙ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПРОФЕССИОНАЛЬНОЙ СФЕРАХ",
+          "type": "lecture",
+          "teacher": "преподаватель А.А. Осетрова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПРОФЕССИОНАЛЬНОЙ СФЕРАХ",
+          "type": "practice",
+          "teacher": "преподаватель А.А. Осетрова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ВЗАИМОДЕЙСТВИЕ С ЛИЦАМИ С ОВЗ И С ИНВАЛИДНОСТЬЮ В СОЦИАЛЬНОЙ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПРОФЕССИОНАЛЬНОЙ СФЕРАХ",
+          "type": "practice",
+          "teacher": "преподаватель А.А. Осетрова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ВЗАИМОДЕЙСТВИЕ С ЛИЦАМИ С ОВЗ И С ИНВАЛИДНОСТЬЮ В СОЦИАЛЬНОЙ И ПРОФЕССИОНАЛЬНОЙ СФЕРАХ",
+          "type": "lecture",
+          "teacher": "преподаватель А.А. Осетрова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЕСТЕСТВЕННОНАУЧНАЯ КАРТИНА МИРА",
+          "type": "lecture",
+          "teacher": "Профессор Р.А. Петросова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЕСТЕСТВЕННОНАУЧНАЯ КАРТИНА МИРА",
+          "type": "practice",
+          "teacher": "Профессор Р.А. Петросова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЕСТЕСТВЕННОНАУЧНАЯ КАРТИНА МИРА 11.09.09, 25.09, 09.10",
+          "type": "practice",
+          "teacher": "Профессор Р.А. Петросова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЕСТЕСТВЕННОНАУЧНАЯ КАРТИНА МИРА",
+          "type": "lecture",
+          "teacher": "Профессор Р.А. Петросова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЕСТЕСТВЕННОНАУЧНАЯ КАРТИНА МИРА",
+          "type": "practice",
+          "teacher": "Профессор Р.А. Петросова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "– 17:30",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "КОПИРАЙТИНГ",
+          "type": "lecture",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "КОПИРАЙТИНГ",
+          "type": "practice",
+          "teacher": "преподаватель А.И. Мильяненко",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "СПИЧРАЙТИНГ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Орлова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "СПИЧРАЙТИНГ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Орлова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "СПИЧРАЙТИНГ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Орлова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "СПИЧРАЙТИНГ",
+          "type": "practice",
+          "teacher": "Доцент Е.А. Орлова",
+          "room": "113",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

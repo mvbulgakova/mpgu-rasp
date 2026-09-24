@@ -1,0 +1,852 @@
+{
+  "name": "БОЖ41-РСО2401",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+  "profile": "РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРАКТИКУМ В ОБЛАСТИ РЕКЛАМЫ И СВЯЗЕЙ С ОБЩЕСТВЕННОСТЬЮ",
+          "type": "practice",
+          "teacher": "Доцент Орлова Е.А",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПРАКТИКУМ В ОБЛАСТИ РЕКЛАМЫ И СВЯЗЕЙ С ОБЩЕСТВЕННОСТЬЮ",
+          "type": "practice",
+          "teacher": "Ассистент Абрамова В.Д",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИСТОРИЯ СРЕДСТВ МАССОВОЙ ИНФОРМАЦИИ",
+          "type": "lecture",
+          "teacher": "Доцент С.Ю. Ермолаева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "lecture",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "14.20-15.50",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Р.В. Кишиков",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "practice",
+          "teacher": "преподаватель Р.Н. Абрамишвили",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИСТОРИЯ СРЕДСТВ МАССОВОЙ ИНФОРМАЦИИ",
+          "type": "practice",
+          "teacher": "Доцент С.Ю. Ермолаева",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Р.В. Кишиков",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИСТОРИЯ СРЕДСТВ МАССОВОЙ ИНФОРМАЦИИ",
+          "type": "practice",
+          "teacher": "Доцент С.Ю. Ермолаева",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Р.В. Кишиков",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "08:10",
+          "time_end": "22:10",
+          "subject": "ОСНОВЫ МЕНЕДЖМЕНТА",
+          "type": "practice",
+          "teacher": "Профессор О.А. Игумнов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:10",
+          "time_end": "22:10",
+          "subject": "ОСНОВЫ МЕНЕДЖМЕНТА",
+          "type": "lecture",
+          "teacher": "Профессор О.А. Игумнов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:10",
+          "time_end": "22:10",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "– 15:50",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "– 17:30",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ МЕНЕДЖМЕНТА",
+          "type": "lecture",
+          "teacher": "Профессор О.А. Игумнов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КУЛЬТУРОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Ж.В. Васильева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КУЛЬТУРОЛОГИЯ",
+          "type": "practice",
+          "teacher": "Доцент Ж.В. Васильева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "КУЛЬТУРОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Ж.В. Васильева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "КУЛЬТУРОЛОГИЯ",
+          "type": "practice",
+          "teacher": "Доцент Ж.В. Васильева",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Захарова В.В",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Захарова В.В",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИСТОРИЯ СРЕДСТВ МАССОВОЙ ИНФОРМАЦИИ",
+          "type": "lecture",
+          "teacher": "Доцент С.Ю. Ермолаева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Захарова В.В",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Захарова В.В",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "SEO ПРОДВИЖЕНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Орлова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПРАКТИКУМ В ОБЛАСТИ РЕКЛАМЫ И СВЯЗЕЙ С ОБЩЕСТВЕННОСТЬЮ",
+          "type": "practice",
+          "teacher": "Доцент Орлова Е.А",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПРАКТИКУМ В ОБЛАСТИ РЕКЛАМЫ И СВЯЗЕЙ С ОБЩЕСТВЕННОСТЬЮ",
+          "type": "practice",
+          "teacher": "Ассистент Абрамова В.Д",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИСТОРИЯ СРЕДСТВ МАССОВОЙ ИНФОРМАЦИИ",
+          "type": "lecture",
+          "teacher": "Доцент С.Ю. Ермолаева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "lecture",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "14.20-15.50",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Р.В. Кишиков",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "practice",
+          "teacher": "преподаватель Р.Н. Абрамишвили",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ИСТОРИЯ СРЕДСТВ МАССОВОЙ ИНФОРМАЦИИ",
+          "type": "practice",
+          "teacher": "Доцент С.Ю. Ермолаева",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Р.В. Кишиков",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИСТОРИЯ СРЕДСТВ МАССОВОЙ ИНФОРМАЦИИ",
+          "type": "practice",
+          "teacher": "Доцент С.Ю. Ермолаева",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Р.В. Кишиков",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "08:10",
+          "time_end": "22:10",
+          "subject": "ОСНОВЫ МЕНЕДЖМЕНТА",
+          "type": "practice",
+          "teacher": "Профессор О.А. Игумнов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:10",
+          "time_end": "22:10",
+          "subject": "ОСНОВЫ МЕНЕДЖМЕНТА",
+          "type": "lecture",
+          "teacher": "Профессор О.А. Игумнов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "08:10",
+          "time_end": "22:10",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "– 15:50",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "– 17:30",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ МЕНЕДЖМЕНТА",
+          "type": "lecture",
+          "teacher": "Профессор О.А. Игумнов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КУЛЬТУРОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Ж.В. Васильева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "КУЛЬТУРОЛОГИЯ",
+          "type": "practice",
+          "teacher": "Доцент Ж.В. Васильева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "КУЛЬТУРОЛОГИЯ",
+          "type": "lecture",
+          "teacher": "Доцент Ж.В. Васильева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "КУЛЬТУРОЛОГИЯ",
+          "type": "practice",
+          "teacher": "Доцент Ж.В. Васильева",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Захарова В.В",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИНФОГРАФИКА",
+          "type": "lecture",
+          "teacher": "преподаватель Е.Ю. Никитина",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Захарова В.В",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИСТОРИЯ СРЕДСТВ МАССОВОЙ ИНФОРМАЦИИ",
+          "type": "lecture",
+          "teacher": "Доцент С.Ю. Ермолаева",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Захарова В.В",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель Захарова В.В",
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "SEO ПРОДВИЖЕНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Е.А. Орлова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

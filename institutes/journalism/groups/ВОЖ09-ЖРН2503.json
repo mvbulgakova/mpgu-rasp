@@ -1,0 +1,96 @@
+{
+  "name": "ВОЖ09-ЖРН2503",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "42.03.02 ЖУРНАЛИСТИКА",
+  "profile": "Журналистика",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПУБЛИЦИСТИЧЕСКАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "СТИЛИСТИКА И ЛИТЕРАТУРНОЕ РЕДАКТИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Василенко",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ПУБЛИЦИСТИЧЕСКАЯ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "208",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "СТИЛИСТИКА И ЛИТЕРАТУРНОЕ РЕДАКТИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Василенко",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

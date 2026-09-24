@@ -1,0 +1,96 @@
+{
+  "name": "БОЖ41-РСО2402",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+  "profile": "РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "practice",
+          "teacher": "преподаватель Р.Н. Абрамишвили",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "practice",
+          "teacher": "преподаватель Р.Н. Абрамишвили",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ МЕНЕДЖМЕНТА",
+          "type": "practice",
+          "teacher": "Профессор О.А. Игумнов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "practice",
+          "teacher": "преподаватель Р.Н. Абрамишвили",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ПСИХОЛОГИЯ",
+          "type": "practice",
+          "teacher": "преподаватель Р.Н. Абрамишвили",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ МЕНЕДЖМЕНТА",
+          "type": "practice",
+          "teacher": "Профессор О.А. Игумнов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}

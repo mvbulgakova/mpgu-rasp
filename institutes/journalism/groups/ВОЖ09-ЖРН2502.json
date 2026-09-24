@@ -1,0 +1,164 @@
+{
+  "name": "ВОЖ09-ЖРН2502",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "42.03.02 ЖУРНАЛИСТИКА",
+  "profile": "Журналистика",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Спортивный зал",
+          "type": "other",
+          "teacher": null,
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "СТИЛИСТИКА И ЛИТЕРАТУРНОЕ РЕДАКТИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Василенко",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "СТИЛИСТИКА И ЛИТЕРАТУРНОЕ РЕДАКТИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Василенко",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ОСНОВЫ ВИДЕОМОНТАЖА",
+          "type": "practice",
+          "teacher": "преподаватель Р.П. Морозов",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Спортивный зал",
+          "type": "other",
+          "teacher": null,
+          "room": "Спортивный зал",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "КУЛЬТУРЕ И СПОРТУ",
+          "type": "practice",
+          "teacher": "преподаватель С.С. Волхов",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "СТИЛИСТИКА И ЛИТЕРАТУРНОЕ РЕДАКТИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Василенко",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
+          "subject": "СТИЛИСТИКА И ЛИТЕРАТУРНОЕ РЕДАКТИРОВАНИЕ",
+          "type": "lecture",
+          "teacher": "Доцент Т.В. Василенко",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
