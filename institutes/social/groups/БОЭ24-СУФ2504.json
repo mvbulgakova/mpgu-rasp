@@ -104,6 +104,17 @@
       ],
       "friday": [
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Мировая экономика и международные отношения",
+          "type": "practice",
+          "teacher": "проф. М.О. Лихачев",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -225,6 +236,17 @@
         }
       ],
       "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Мировая экономика и международные отношения",
+          "type": "practice",
+          "teacher": "проф. М.О. Лихачев",
+          "room": "804",
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": 2,
           "time_start": "10:40",
