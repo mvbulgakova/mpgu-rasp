@@ -3,8 +3,8 @@
   "institute_name": "Институт физики, технологии и информационных систем",
   "short_name": "ИФТИС",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-13T19:12:19.775387+00:00",
-  "parser_used": "pdfplumber",
+  "updated_at": "2026-09-24T20:17:00.606471+00:00",
+  "parser_used": "camelot",
   "version": 1,
   "groups": [
     {
@@ -13,7 +13,7 @@
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": "44.03.01, БВО",
+      "direction": "44.03.01 Базовое высшее образование",
       "profile": "Физика и информатика"
     },
     {
@@ -22,7 +22,7 @@
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": "44.03.01, БВО",
+      "direction": "44.03.01 Базовое высшее образование",
       "profile": "Информатика и труд (технология)"
     },
     {
@@ -31,7 +31,7 @@
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": "44.03.01, БВО",
+      "direction": "44.03.01 Базовое высшее образование",
       "profile": "Физика и математика"
     },
     {
@@ -41,43 +41,16 @@
       "form": "full_time",
       "degree": "bachelor",
       "direction": "03.03.02, Физика",
-      "profile": "Фундаментальная физик прорывные технологии"
-    },
-    {
-      "name": "ВОФ34-ФиИ2501",
-      "file": "ВОФ34-ФиИ2501",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01, БВО",
-      "profile": "Физика и информатика"
-    },
-    {
-      "name": "ВОФ34-ИИТ2501",
-      "file": "ВОФ34-ИИТ2501",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01, БВО",
-      "profile": "Информатика и труд (технология)"
-    },
-    {
-      "name": "ВОФ34-ФИХ2501",
-      "file": "ВОФ34-ФИХ2501",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01, БВО",
-      "profile": "Физика и химия"
-    },
-    {
-      "name": "БОФ54-ФПТ2501",
-      "file": "БОФ54-ФПТ2501",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "03.03.02, Физика",
       "profile": "Фундаментальная физика и прорывные технологии"
+    },
+    {
+      "name": "ЗОФ34-СТЯ2501",
+      "file": "ЗОФ34-СТЯ2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.04.01, Педагогическое образование",
+      "profile": null
     },
     {
       "name": "БОФ34-ФИИ2401",
@@ -112,7 +85,7 @@
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": "44.03.05, Педагогическое образование",
+      "direction": "44.03.05 Педагогическое образование",
       "profile": "Физика и информатика"
     },
     {
@@ -121,7 +94,7 @@
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": "44.03.05, Педагогическое образование",
+      "direction": "44.03.05 Педагогическое образование",
       "profile": "Технология и информатика"
     },
     {
@@ -150,6 +123,24 @@
       "degree": "bachelor",
       "direction": "44.03.05, Педагогическое образование",
       "profile": "Технология и информатика"
+    },
+    {
+      "name": "ЗОФ34-СКВ2601",
+      "file": "ЗОФ34-СКВ2601",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.04.01, Педагогическое образование",
+      "profile": null
+    },
+    {
+      "name": "ЗОФ34-ФКМ2601",
+      "file": "ЗОФ34-ФКМ2601",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.04.01, Педагогическое образование",
+      "profile": null
     }
   ]
 }

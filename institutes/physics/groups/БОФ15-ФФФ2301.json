@@ -32,14 +32,58 @@
         },
         {
           "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "СТАТИСТИЧЕСКАЯ ФИЗИКА",
+          "type": "lecture",
+          "teacher": "Ст.преп. А.В.Залыгин",
+          "room": "56",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
           "time_start": "11:00",
           "time_end": "12:35",
-          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
-          "type": "practice",
+          "subject": "инвалидностью в социальной и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "профессиональной сферах (ПЗ: 07.09",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "14.09; 21.09)",
+          "type": "other",
           "teacher": "Проф. А.В. Сизова",
           "room": "64",
           "subgroup": null,
-          "notes": ": 07.09 14.09; 21.09"
+          "notes": "С 28.09"
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "СТАТИСТИЧЕСКАЯ ФИЗИКА",
+          "type": "lecture",
+          "teacher": "Ст.преп. А.В.Залыгин",
+          "room": "56",
+          "subgroup": null,
+          "notes": ""
         },
         {
           "slot": null,
@@ -146,6 +190,17 @@
           "slot": null,
           "time_start": "09:15",
           "time_end": "10:50",
+          "subject": "ЭЛЕМЕНТЫ РЕЛЯТИВИСТСКОЙ КВАНТОВОЙ МЕХАНИКИ",
+          "type": "lecture",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
           "subject": "ВВЕДЕНИЕ В КВАНТОВУЮ",
           "type": "other",
           "teacher": null,
@@ -166,6 +221,17 @@
         },
         {
           "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Элементы релятивистской квантовой механики",
+          "type": "practice",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
           "time_start": "13:15",
           "time_end": "14:50",
           "subject": "Производственная практика/Производственная практика (научно-исследовательская работа)",
@@ -174,31 +240,62 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ВВЕДЕНИЕ В СОВРЕМЕННУЮ ФИЗИКУ",
+          "type": "lecture",
+          "teacher": "Проф. Г.Н. Гольцман",
+          "room": "13",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Введение в современную физику",
+          "type": "practice",
+          "teacher": "Проф. Г.Н. Гольцман",
+          "room": "13",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "ЭЛЕМЕНТЫ РЕЛЯТИВИСТСКОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "КВАНТОВОЙ МЕХАНИКИ",
+          "type": "lecture",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "wednesday": [],
       "thursday": [
         {
           "slot": null,
-          "time_start": "15:00",
-          "time_end": "16:35",
-          "subject": "Занятость в лаб. 2 курса",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
-      "friday": [
-        {
-          "slot": null,
           "time_start": "09:15",
           "time_end": "10:50",
-          "subject": "Введение в квантовую теорию поля",
+          "subject": "Астрофизика и космология",
           "type": "practice",
-          "teacher": "Доц. С.А. Рябчун",
-          "room": "7",
+          "teacher": "Проф. М.А, Винник (АКК",
+          "room": "344",
           "subgroup": null,
           "notes": ""
         },
@@ -206,10 +303,10 @@
           "slot": null,
           "time_start": "11:00",
           "time_end": "12:35",
-          "subject": "СУБАТОМНАЯ ФИЗИКА",
-          "type": "lecture",
-          "teacher": null,
-          "room": null,
+          "subject": "Статистическая физика",
+          "type": "practice",
+          "teacher": "Асс. К.Б. Стинская",
+          "room": "54",
           "subgroup": null,
           "notes": ""
         },
@@ -219,8 +316,8 @@
           "time_end": "14:50",
           "subject": "Субатомная физика",
           "type": "practice",
-          "teacher": null,
-          "room": null,
+          "teacher": "Ст. преп. М.С. Хецева",
+          "room": "64",
           "subgroup": null,
           "notes": ""
         },
@@ -228,18 +325,18 @@
           "slot": null,
           "time_start": "15:00",
           "time_end": "16:35",
-          "subject": "Физика современных материалов и наноматериалов",
-          "type": "practice",
-          "teacher": "Доц. И.А. Гайдученко",
-          "room": "64",
+          "subject": "СУБАТОМНАЯ ФИЗИКА",
+          "type": "lecture",
+          "teacher": "Проф. О.В. Бабурова",
+          "room": "56",
           "subgroup": null,
           "notes": ""
         },
         {
           "slot": null,
-          "time_start": "16:45",
-          "time_end": "18:20",
-          "subject": "ЭЛЕМЕНТЫ РЕЛЯТИВИСТСКОЙ КВАНТОВОЙ МЕХАНИКИ",
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Астрофизика и космология",
           "type": "lecture",
           "teacher": null,
           "room": null,
@@ -247,19 +344,8 @@
           "notes": ""
         }
       ],
-      "saturday": [
-        {
-          "slot": null,
-          "time_start": "13:15",
-          "time_end": "14:50",
-          "subject": "АСТРОФИЗИКА И КОСМОЛОГИЯ",
-          "type": "practice",
-          "teacher": "Проф. М.А, Винник (АКК",
-          "room": "344",
-          "subgroup": null,
-          "notes": ""
-        }
-      ]
+      "friday": [],
+      "saturday": []
     },
     "even_week": {
       "monday": [
@@ -287,14 +373,58 @@
         },
         {
           "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "СТАТИСТИЧЕСКАЯ ФИЗИКА",
+          "type": "lecture",
+          "teacher": "Ст.преп. А.В.Залыгин",
+          "room": "56",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
           "time_start": "11:00",
           "time_end": "12:35",
-          "subject": "Взаимодействие с лицами с ОВЗ и с инвалидностью в социальной и профессиональной сферах",
-          "type": "practice",
+          "subject": "инвалидностью в социальной и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "профессиональной сферах (ПЗ: 07.09",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "14.09; 21.09)",
+          "type": "other",
           "teacher": "Проф. А.В. Сизова",
           "room": "64",
           "subgroup": null,
-          "notes": ": 07.09 14.09; 21.09"
+          "notes": "С 28.09"
+        },
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "СТАТИСТИЧЕСКАЯ ФИЗИКА",
+          "type": "lecture",
+          "teacher": "Ст.преп. А.В.Залыгин",
+          "room": "56",
+          "subgroup": null,
+          "notes": ""
         },
         {
           "slot": null,
@@ -401,6 +531,17 @@
           "slot": null,
           "time_start": "09:15",
           "time_end": "10:50",
+          "subject": "ЭЛЕМЕНТЫ РЕЛЯТИВИСТСКОЙ КВАНТОВОЙ МЕХАНИКИ",
+          "type": "lecture",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
           "subject": "ВВЕДЕНИЕ В КВАНТОВУЮ",
           "type": "other",
           "teacher": null,
@@ -421,6 +562,17 @@
         },
         {
           "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Элементы релятивистской квантовой механики",
+          "type": "practice",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
           "time_start": "13:15",
           "time_end": "14:50",
           "subject": "Производственная практика/Производственная практика (научно-исследовательская работа)",
@@ -429,31 +581,62 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "ВВЕДЕНИЕ В СОВРЕМЕННУЮ ФИЗИКУ",
+          "type": "lecture",
+          "teacher": "Проф. Г.Н. Гольцман",
+          "room": "13",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Введение в современную физику",
+          "type": "practice",
+          "teacher": "Проф. Г.Н. Гольцман",
+          "room": "13",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "ЭЛЕМЕНТЫ РЕЛЯТИВИСТСКОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "КВАНТОВОЙ МЕХАНИКИ",
+          "type": "lecture",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "wednesday": [],
       "thursday": [
         {
           "slot": null,
-          "time_start": "15:00",
-          "time_end": "16:35",
-          "subject": "Занятость в лаб. 2 курса",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
-      "friday": [
-        {
-          "slot": null,
           "time_start": "09:15",
           "time_end": "10:50",
-          "subject": "Введение в квантовую теорию поля",
+          "subject": "Астрофизика и космология",
           "type": "practice",
-          "teacher": "Доц. С.А. Рябчун",
-          "room": "7",
+          "teacher": "Проф. М.А, Винник (АКК",
+          "room": "344",
           "subgroup": null,
           "notes": ""
         },
@@ -461,10 +644,10 @@
           "slot": null,
           "time_start": "11:00",
           "time_end": "12:35",
-          "subject": "СУБАТОМНАЯ ФИЗИКА",
-          "type": "lecture",
-          "teacher": null,
-          "room": null,
+          "subject": "Статистическая физика",
+          "type": "practice",
+          "teacher": "Асс. К.Б. Стинская",
+          "room": "54",
           "subgroup": null,
           "notes": ""
         },
@@ -474,8 +657,8 @@
           "time_end": "14:50",
           "subject": "Субатомная физика",
           "type": "practice",
-          "teacher": null,
-          "room": null,
+          "teacher": "Ст. преп. М.С. Хецева",
+          "room": "64",
           "subgroup": null,
           "notes": ""
         },
@@ -483,18 +666,18 @@
           "slot": null,
           "time_start": "15:00",
           "time_end": "16:35",
-          "subject": "Физика современных материалов и наноматериалов",
-          "type": "practice",
-          "teacher": "Доц. И.А. Гайдученко",
-          "room": "64",
+          "subject": "СУБАТОМНАЯ ФИЗИКА",
+          "type": "lecture",
+          "teacher": "Проф. О.В. Бабурова",
+          "room": "56",
           "subgroup": null,
           "notes": ""
         },
         {
           "slot": null,
-          "time_start": "16:45",
-          "time_end": "18:20",
-          "subject": "ЭЛЕМЕНТЫ РЕЛЯТИВИСТСКОЙ КВАНТОВОЙ МЕХАНИКИ",
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Астрофизика и космология",
           "type": "lecture",
           "teacher": null,
           "room": null,
@@ -502,19 +685,8 @@
           "notes": ""
         }
       ],
-      "saturday": [
-        {
-          "slot": null,
-          "time_start": "13:15",
-          "time_end": "14:50",
-          "subject": "АСТРОФИЗИКА И КОСМОЛОГИЯ",
-          "type": "practice",
-          "teacher": "Проф. М.А, Винник (АКК",
-          "room": "344",
-          "subgroup": null,
-          "notes": ""
-        }
-      ]
+      "friday": [],
+      "saturday": []
     }
   }
 }

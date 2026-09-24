@@ -1,0 +1,252 @@
+{
+  "name": "ЗОФ34-ФКМ2601",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.01, Педагогическое образование",
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "other",
+          "teacher": "Проф. Н.С. Пурышева (дист)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "Проф. В.Н. Князев",
+          "room": "13",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "ИННОВАЦИОННЫЕ ПРОЦЕССЫ В ОБРАЗОВАНИИ Е.Г. Светич",
+          "type": "lecture",
+          "teacher": null,
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Педагогика и психология профессионального образования",
+          "type": "practice",
+          "teacher": "Проф. Л.А. Прояненкова (дист/ 203)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Педагогика и психология профессионального образования",
+          "type": "lecture",
+          "teacher": "Проф. Л.А. Прояненкова (дист/ 203)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Организация проектно-исследовательской деятельности школьников",
+          "type": "lecture",
+          "teacher": "Проф. Л.А. Прояненкова (дист/ 203)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Организация проектно-исследовательской деятельности школьников",
+          "type": "practice",
+          "teacher": "Проф. Л.А. Прояненкова (дист/ 203)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "МУЛЬТИМЕДИЙНАЯ ДИДАКТИКА",
+          "type": "practice",
+          "teacher": "Доц. С.В. Лозовенко",
+          "room": "401",
+          "subgroup": null,
+          "notes": "/ ЛК"
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "Инновационные процессы в образовании",
+          "type": "practice",
+          "teacher": "Ст.преп. Е.Г. Светич",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "Мультимедийная дидактика",
+          "type": "practice",
+          "teacher": "Доц. С.В. Лозовенко",
+          "room": "401",
+          "subgroup": null,
+          "notes": "/ ЛК"
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Иностранный язык для специальных целей",
+          "type": "other",
+          "teacher": "Проф. Н.С. Пурышева (дист)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Философия научного познания",
+          "type": "practice",
+          "teacher": "Проф. В.Н. Князев",
+          "room": "13",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "ИННОВАЦИОННЫЕ ПРОЦЕССЫ В ОБРАЗОВАНИИ Е.Г. Светич",
+          "type": "lecture",
+          "teacher": null,
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Педагогика и психология профессионального образования",
+          "type": "practice",
+          "teacher": "Проф. Л.А. Прояненкова (дист/ 203)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Педагогика и психология профессионального образования",
+          "type": "lecture",
+          "teacher": "Проф. Л.А. Прояненкова (дист/ 203)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Организация проектно-исследовательской деятельности школьников",
+          "type": "lecture",
+          "teacher": "Проф. Л.А. Прояненкова (дист/ 203)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Организация проектно-исследовательской деятельности школьников",
+          "type": "practice",
+          "teacher": "Проф. Л.А. Прояненкова (дист/ 203)",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "МУЛЬТИМЕДИЙНАЯ ДИДАКТИКА",
+          "type": "practice",
+          "teacher": "Доц. С.В. Лозовенко",
+          "room": "401",
+          "subgroup": null,
+          "notes": "/ ЛК"
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "Инновационные процессы в образовании",
+          "type": "practice",
+          "teacher": "Ст.преп. Е.Г. Светич",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "Мультимедийная дидактика",
+          "type": "practice",
+          "teacher": "Доц. С.В. Лозовенко",
+          "room": "401",
+          "subgroup": null,
+          "notes": "/ ЛК"
+        }
+      ],
+      "saturday": []
+    }
+  }
+}

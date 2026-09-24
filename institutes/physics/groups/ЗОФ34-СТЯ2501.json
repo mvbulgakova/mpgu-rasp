@@ -1,0 +1,362 @@
+{
+  "name": "ЗОФ34-СТЯ2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.01, Педагогическое образование",
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "Доц. М.В.Горбунова",
+          "room": "12",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Технологии распределенного реестра",
+          "type": "practice",
+          "teacher": "Проф. Д.Л. Харичева",
+          "room": "50",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "ТЕХНОЛОГИИ РАСПРЕДЕЛЕННОГО РЕЕСТРА",
+          "type": "lecture",
+          "teacher": "Проф. Д.Л. Харичева",
+          "room": "50",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "ЛАБОРАТОРНОЕ ОБОРУДОВАНИЕ В ДЕТСКОМ ТЕХНОПАРКЕ",
+          "type": "lecture",
+          "teacher": "Доц. С.В. Лозовенко",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "Лабораторное оборудование в детском технопарке",
+          "type": "practice",
+          "teacher": "Ст.преп. М.М. Саид",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Технологии беспроводной связи",
+          "type": "practice",
+          "teacher": "Доц. В.Г. Леонов",
+          "room": "608",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "ТЕХНОЛОГИИ БЕСПРОВОДНОЙ СВЯЗИ",
+          "type": "lecture",
+          "teacher": "Доц. В.Г. Леонов",
+          "room": "608",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Физические основы цифровой техники и робототехники",
+          "type": "lecture",
+          "teacher": "Доц. С.В. Степанов",
+          "room": "24",
+          "subgroup": null,
+          "notes": "/ ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "Физические основы цифровой техники и робототехники",
+          "type": "lecture",
+          "teacher": "Доц. С.В. Степанов",
+          "room": "24",
+          "subgroup": null,
+          "notes": "/ ПЗ"
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "other",
+          "teacher": "Преп. С.А. Егорова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Компоненты робототехники и сенсорики",
+          "type": "practice",
+          "teacher": "Ст.преп. Е.А.Вагин",
+          "room": "402",
+          "subgroup": null,
+          "notes": "с 01.09 по 17.10"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Компоненты робототехники и сенсорики",
+          "type": "lecture",
+          "teacher": "ст.преп. Е.А.Вагин",
+          "room": "402",
+          "subgroup": null,
+          "notes": "с 12.09 по 03.10"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Технологии виртуальной и дополненной реальностей",
+          "type": "lecture",
+          "teacher": "Ст.преп. О.М. Ольховая",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "18:20",
+          "subject": "Технологии виртуальной и дополненной реальностей",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "с 28.11 по 19.12"
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Технологии виртуальной и дополненной реальностей",
+          "type": "lecture",
+          "teacher": "Ст.преп. О.М. Ольховая",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "Доц. М.В.Горбунова",
+          "room": "12",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Технологии распределенного реестра",
+          "type": "practice",
+          "teacher": "Проф. Д.Л. Харичева",
+          "room": "50",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "ТЕХНОЛОГИИ РАСПРЕДЕЛЕННОГО РЕЕСТРА",
+          "type": "lecture",
+          "teacher": "Проф. Д.Л. Харичева",
+          "room": "50",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "ЛАБОРАТОРНОЕ ОБОРУДОВАНИЕ В ДЕТСКОМ ТЕХНОПАРКЕ",
+          "type": "lecture",
+          "teacher": "Доц. С.В. Лозовенко",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "Лабораторное оборудование в детском технопарке",
+          "type": "practice",
+          "teacher": "Ст.преп. М.М. Саид",
+          "room": "401",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Технологии беспроводной связи",
+          "type": "practice",
+          "teacher": "Доц. В.Г. Леонов",
+          "room": "608",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "ТЕХНОЛОГИИ БЕСПРОВОДНОЙ СВЯЗИ",
+          "type": "lecture",
+          "teacher": "Доц. В.Г. Леонов",
+          "room": "608",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Физические основы цифровой техники и робототехники",
+          "type": "lecture",
+          "teacher": "Доц. С.В. Степанов",
+          "room": "24",
+          "subgroup": null,
+          "notes": "/ ПЗ"
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "Физические основы цифровой техники и робототехники",
+          "type": "lecture",
+          "teacher": "Доц. С.В. Степанов",
+          "room": "24",
+          "subgroup": null,
+          "notes": "/ ПЗ"
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "11:00",
+          "time_end": "12:35",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "other",
+          "teacher": "Преп. С.А. Егорова",
+          "room": "23",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "Компоненты робототехники и сенсорики",
+          "type": "practice",
+          "teacher": "Ст.преп. Е.А.Вагин",
+          "room": "402",
+          "subgroup": null,
+          "notes": "с 01.09 по 17.10"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Компоненты робототехники и сенсорики",
+          "type": "lecture",
+          "teacher": "ст.преп. Е.А.Вагин",
+          "room": "402",
+          "subgroup": null,
+          "notes": "с 12.09 по 03.10"
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:35",
+          "subject": "Технологии виртуальной и дополненной реальностей",
+          "type": "lecture",
+          "teacher": "Ст.преп. О.М. Ольховая",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "18:20",
+          "subject": "Технологии виртуальной и дополненной реальностей",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "с 28.11 по 19.12"
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Технологии виртуальной и дополненной реальностей",
+          "type": "lecture",
+          "teacher": "Ст.преп. О.М. Ольховая",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
