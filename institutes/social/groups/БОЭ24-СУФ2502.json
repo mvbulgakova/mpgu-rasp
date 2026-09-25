@@ -62,6 +62,28 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория менеджмента",
+          "type": "practice",
+          "teacher": "доц.И.А. Заякина (дистанционно",
+          "room": "sbb.mpgu.su/b/q43-hmj-ky9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория менеджмента доц.И.А. Заякина (дистанционно) https://sbb.mpgu.su/b/q43-hmj-ky9",
+          "type": "practice",
+          "teacher": "Теория менеджмента  доц.И.А. Заякина  (дистанционно) https:",
+          "room": "sbb.mpgu.su/b/q43-hmj-ky9",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "tuesday": [
@@ -120,17 +142,6 @@
           "type": "practice",
           "teacher": "проф. М.О. Лихачев",
           "room": "805",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Теория менеджмента",
-          "type": "practice",
-          "teacher": "доц.И.А. Заякина",
-          "room": "802",
           "subgroup": null,
           "notes": ""
         },
@@ -227,6 +238,28 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория менеджмента",
+          "type": "practice",
+          "teacher": "доц.И.А. Заякина (дистанционно",
+          "room": "sbb.mpgu.su/b/q43-hmj-ky9",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория менеджмента доц.И.А. Заякина (дистанционно) https://sbb.mpgu.su/b/q43-hmj-ky9",
+          "type": "practice",
+          "teacher": "Теория менеджмента  доц.И.А. Заякина  (дистанционно) https:",
+          "room": "sbb.mpgu.su/b/q43-hmj-ky9",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "tuesday": [
@@ -285,17 +318,6 @@
           "type": "practice",
           "teacher": "проф. М.О. Лихачев",
           "room": "805",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Теория менеджмента",
-          "type": "practice",
-          "teacher": "доц.И.А. Заякина",
-          "room": "802",
           "subgroup": null,
           "notes": ""
         },
