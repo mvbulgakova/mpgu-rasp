@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T09:59:26.220440+00:00",
+  "generated_at": "2026-09-25T10:00:32.681777+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -52,10 +52,10 @@
       "short_name": "ИИИ",
       "campus": "ИИИ",
       "campus_address": "Рязанский пр-т, 9",
-      "groups_count": 1,
-      "updated_at": "2026-09-23T09:44:51.200901+00:00",
+      "groups_count": 10,
+      "updated_at": "2026-09-25T10:00:32.666671+00:00",
       "status": "ok",
-      "parser_used": "claude"
+      "parser_used": "pdfplumber"
     },
     {
       "id": "physics",
