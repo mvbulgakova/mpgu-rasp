@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-09-21T08:20:28.628609+00:00",
-  "count": 1594,
+  "count": 1604,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -1344,7 +1344,7 @@
       "abbreviated": "Танделов Б.Д.",
       "id": 96,
       "_key": "танделовбд",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "filimonov-aleksandr-ivanovich",
@@ -1540,7 +1540,7 @@
       "abbreviated": "Ломов С.П.",
       "id": 110,
       "_key": "ломовсп",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "makarova-mariya-leonidovna",
@@ -1568,7 +1568,7 @@
       "abbreviated": "Медведев Л.Г.",
       "id": 112,
       "_key": "медведевлг",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "naumova-julija-valerevna",
@@ -1624,7 +1624,7 @@
       "abbreviated": "Подисов Ю.В.",
       "id": 116,
       "_key": "подисовюв",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "podisova-olga-ivanovna",
@@ -1778,7 +1778,7 @@
       "abbreviated": "Мартьянова О.В.",
       "id": 127,
       "_key": "мартьяноваов",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "tkalich-svetlana-konstantinovna",
@@ -1834,7 +1834,7 @@
       "abbreviated": "Северова Т.С.",
       "id": 131,
       "_key": "североватс",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "bludnov-grigorij-pavlovich",
@@ -1848,7 +1848,7 @@
       "abbreviated": "Блуднов Г.П.",
       "id": 132,
       "_key": "блудновгп",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "byidanova-anastasiya-yurevna",
@@ -1890,7 +1890,7 @@
       "abbreviated": "Гудилина С.И.",
       "id": 135,
       "_key": "гудилинаси",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "demyanenko-ilya-yurevich",
@@ -1904,7 +1904,7 @@
       "abbreviated": "Демьяненко И.Ю.",
       "id": 136,
       "_key": "демьяненкоию",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "zotova-kseniya-vladimirovna",
@@ -1918,7 +1918,7 @@
       "abbreviated": "Зотова К.В.",
       "id": 137,
       "_key": "зотовакв",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "kathanova-yuliya-fedorovna",
@@ -1960,7 +1960,7 @@
       "abbreviated": "Паршина К.В.",
       "id": 140,
       "_key": "паршинакв",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "romanova-lyudmila-nikolaevna",
@@ -1988,7 +1988,7 @@
       "abbreviated": "Рузаев А.В.",
       "id": 142,
       "_key": "рузаевав",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "salahova-ilgina-rashidovna",
@@ -2016,7 +2016,7 @@
       "abbreviated": "Салтыкова Г.М.",
       "id": 144,
       "_key": "салтыковагм",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "hvorostov-dmitriy-anatolevich",
@@ -2128,7 +2128,7 @@
       "abbreviated": "Карев Б.А.",
       "id": 152,
       "_key": "каревба",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "karmazina-marina-valerevna",
@@ -7828,7 +7828,7 @@
       "_key": "щегловаив",
       "_unknown": true,
       "id": 559,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_кузьминалм",
@@ -23353,6 +23353,156 @@
       "_key": "сзс",
       "_unknown": true,
       "id": 1594,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_борисоваос",
+      "full_name": "доц. Ольга Сергеевна Борисова",
+      "abbreviated": "доц. О.С.",
+      "last": "доц.",
+      "first": "Ольга",
+      "patronymic": "Сергеевна",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "борисоваос",
+      "_unknown": true,
+      "id": 1595,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_гусевдв",
+      "full_name": "проф. Дмитрий Владимирович Гусев",
+      "abbreviated": "проф. Д.В.",
+      "last": "проф.",
+      "first": "Дмитрий",
+      "patronymic": "Владимирович",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "гусевдв",
+      "_unknown": true,
+      "id": 1596,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_чертковас",
+      "full_name": "доц. Алексей Сергеевич Чертков (дист)",
+      "abbreviated": "доц. А.С.",
+      "last": "доц.",
+      "first": "Алексей",
+      "patronymic": "Сергеевич",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "чертковас",
+      "_unknown": true,
+      "id": 1597,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_грызинаов",
+      "full_name": "доц. Ольга Васильевна Грызина, https:",
+      "abbreviated": "доц. О.В.",
+      "last": "доц.",
+      "first": "Ольга",
+      "patronymic": "Васильевна",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "грызинаов",
+      "_unknown": true,
+      "id": 1598,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_цхане",
+      "full_name": "доц. Надежда Енчоровна Цха",
+      "abbreviated": "доц. Н.Е.",
+      "last": "доц.",
+      "first": "Надежда",
+      "patronymic": "Енчоровна",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "цхане",
+      "_unknown": true,
+      "id": 1599,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_доцт",
+      "full_name": "ТЕХНОЛОГИИ В ДИЗАЙНЕ МУЛЬТИМЕДИА (ЛК только 23.09, затем ПЗ), доц",
+      "abbreviated": "доц Т.",
+      "last": "доц",
+      "first": "ТЕХНОЛОГИИ",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "доца",
+      "_unknown": true,
+      "id": 1600,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_профж",
+      "full_name": "ЖИВОПИСИ (ЛК только 15.09, затем ПЗ) проф",
+      "abbreviated": "проф Ж.",
+      "last": "проф",
+      "first": "ЖИВОПИСИ",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "профж",
+      "_unknown": true,
+      "id": 1601,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_профж",
+      "full_name": "ЖИВОПИСИ (ЛК только 17.09, затем ПЗ) проф",
+      "abbreviated": "проф Ж.",
+      "last": "проф",
+      "first": "ЖИВОПИСИ",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "профж",
+      "_unknown": true,
+      "id": 1602,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_шиловвв",
+      "full_name": "проф. Виктор Викторович Шилов",
+      "abbreviated": "проф. В.В.",
+      "last": "проф.",
+      "first": "Виктор",
+      "patronymic": "Викторович",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "шиловвв",
+      "_unknown": true,
+      "id": 1603,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_грызинаов",
+      "full_name": "доц. Ольга Васильевна Грызина",
+      "abbreviated": "доц. О.В.",
+      "last": "доц.",
+      "first": "Ольга",
+      "patronymic": "Васильевна",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "грызинаов",
+      "_unknown": true,
+      "id": 1604,
       "has_schedule": true
     }
   ]
