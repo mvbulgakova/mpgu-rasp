@@ -293,12 +293,12 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "ЦВЕТОВЕДЕНИЕ И КОЛОРИСТИКА",
-          "type": "lecture",
-          "teacher": "доц. Михаил Людвикович Кагане",
-          "room": "220",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "асс. Анастасия Сергеевна Деменева",
+          "room": "419",
           "subgroup": null,
-          "notes": "только 24.09"
+          "notes": ""
         },
         {
           "slot": 2,
@@ -791,12 +791,12 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "ЦВЕТОВЕДЕНИЕ И КОЛОРИСТИКА",
-          "type": "lecture",
-          "teacher": "доц. Михаил Людвикович Кагане",
-          "room": "220",
+          "subject": "ЖИВОПИСЬ",
+          "type": "practice",
+          "teacher": "асс. Анастасия Сергеевна Деменева",
+          "room": "419",
           "subgroup": null,
-          "notes": "только 24.09"
+          "notes": ""
         },
         {
           "slot": 2,
