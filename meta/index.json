@@ -19,8 +19,8 @@
       "short_name": "ГФ",
       "campus": "ГФ",
       "campus_address": "ул. Кибальчича, 16",
-      "groups_count": 21,
-      "updated_at": "2026-09-10T09:22:36.259357+00:00",
+      "groups_count": 3,
+      "updated_at": "2026-09-27T19:58:07.521904+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
     },

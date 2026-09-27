@@ -1,0 +1,12 @@
+[
+  {
+    "type": "groups_dropped",
+    "severity": "medium",
+    "institute_id": "geography",
+    "institute_name": "Географический факультет",
+    "message": "Количество групп резко сократилось: 21 → 3 после обновления 1 файл(ов).",
+    "prev_count": 21,
+    "new_count": 3,
+    "changed_files": 1
+  }
+]
