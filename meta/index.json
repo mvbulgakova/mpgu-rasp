@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:25:18.037786+00:00",
+  "generated_at": "2026-09-28T11:25:30.951253+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -20,7 +20,7 @@
       "campus": "ГФ",
       "campus_address": "ул. Кибальчича, 16",
       "groups_count": 3,
-      "updated_at": "2026-09-27T19:58:07.521904+00:00",
+      "updated_at": "2026-09-28T11:25:30.941940+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
     },
