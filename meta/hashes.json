@@ -1873,9 +1873,9 @@
   },
   "social:https://docs.google.com/spreadsheets/d/1V_Ig6cmbE59_OQ29EFrZmRSp3vBolLFeMxguCmy4O3A/edit?gid=823486807#gid=823486807": {
     "url": "https://docs.google.com/spreadsheets/d/1V_Ig6cmbE59_OQ29EFrZmRSp3vBolLFeMxguCmy4O3A/edit?gid=823486807#gid=823486807",
-    "md5": "f6065bd3207d275602cc492e30c2fbde",
+    "md5": "ae03753e54eafa12fb88cd7fc42c2cde",
     "size_bytes": 0,
-    "last_changed": "2026-09-28T11:25:50.329541+00:00"
+    "last_changed": "2026-09-25T20:13:55.184821+00:00"
   },
   "social:https://docs.google.com/spreadsheets/d/1jWPtstKErMfSxPrusC2XHMc8SpAL0LP-49poMhuYrQ4/edit?gid=50369416#gid=50369416": {
     "url": "https://docs.google.com/spreadsheets/d/1jWPtstKErMfSxPrusC2XHMc8SpAL0LP-49poMhuYrQ4/edit?gid=50369416#gid=50369416",
@@ -3245,22 +3245,10 @@
     "size_bytes": 0,
     "last_changed": "2026-09-27T20:02:33.698437+00:00"
   },
-  "geography:https://mpgu.su/wp-content/uploads/2026/09/1_kurs_2.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/1_kurs_2.pdf",
-    "md5": "2877c9b296a1fcf2dfad9fe0590ca029",
+  "journalism:https://mpgu.su/wp-content/uploads/2026/09/2-kurs-kommunikativnye-strategii-v-obrazovanii.-ochno-zaochnaja-forma-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/2-kurs-kommunikativnye-strategii-v-obrazovanii.-ochno-zaochnaja-forma-1.pdf",
+    "md5": "cab46f124e1d36f10a6624cf30c81ea7",
     "size_bytes": 0,
-    "last_changed": "2026-09-28T11:25:30.940738+00:00"
-  },
-  "philology:https://mpgu.su/wp-content/uploads/2026/09/4-kurs-2026-2027-osen-ofo-7.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/4-kurs-2026-2027-osen-ofo-7.pdf",
-    "md5": "ca67ff7150123418f190f16293c0994a",
-    "size_bytes": 0,
-    "last_changed": "2026-09-28T11:25:53.010793+00:00"
-  },
-  "philology:https://mpgu.su/wp-content/uploads/2026/09/5-kurs-2026-2027-osen-ofo-6.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/5-kurs-2026-2027-osen-ofo-6.pdf",
-    "md5": "01aa4d4c033d3d3b25d1f6cd3177d9d5",
-    "size_bytes": 0,
-    "last_changed": "2026-09-28T11:25:53.010809+00:00"
+    "last_changed": "2026-09-28T11:26:07.725338+00:00"
   }
 }
