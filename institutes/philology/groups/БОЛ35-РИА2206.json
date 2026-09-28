@@ -1,0 +1,50 @@
+{
+  "name": "БОЛ35-РИА2206",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 Педагогическое образование (с двумя профилями подготовки)",
+  "profile": "Русский язык и Иностранный язык (английский)",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Славянский язык / Герменевтика / Нормы русского литературного языка / Лингвопоэтика",
+          "type": "practice",
+          "teacher": "Проф. Л.Г. Чапаева / Зав. каф. А.В. Григорьев",
+          "room": "11/308/10/205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "17:00",
+          "time_end": "18:30",
+          "subject": "Славянский язык / Герменевтика / Нормы русского литературного языка / Лингвопоэтика",
+          "type": "practice",
+          "teacher": "Проф. Л.Г. Чапаева / Зав. каф. А.В. Григорьев",
+          "room": "11/308/10/205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}
