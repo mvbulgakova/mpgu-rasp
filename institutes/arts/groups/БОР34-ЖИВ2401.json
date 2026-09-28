@@ -7,7 +7,63 @@
   "profile": "Живопись",
   "schedule": {
     "odd_week": {
-      "monday": [],
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЧЕРНО-БЕЛАЯ ГРАВЮРА НА ДЕРЕВЕ",
+          "type": "lecture",
+          "teacher": "асс. Дарья Сергеевна Миронайте",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЧЕРНО-БЕЛАЯ ГРАВЮРА НА ДЕРЕВЕ",
+          "type": "practice",
+          "teacher": "асс. Дарья Сергеевна Миронайте",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЧЕРНО-БЕЛАЯ ГРАВЮРА НА ДЕРЕВЕ",
+          "type": "practice",
+          "teacher": "асс. Дарья Сергеевна Миронайте",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИГУРА ЧЕЛОВЕКА В ТЕХНИКЕ МАСЛЯНОЙ ЖИВОПИСИ",
+          "type": "practice",
+          "teacher": "доц. Юрий Владимирович Подисов",
+          "room": "408",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИГУРА ЧЕЛОВЕКА В ТЕХНИКЕ МАСЛЯНОЙ ЖИВОПИСИ",
+          "type": "practice",
+          "teacher": "доц. Юрий Владимирович Подисов",
+          "room": "408",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
       "tuesday": [
         {
           "slot": 2,
@@ -78,37 +134,26 @@
       ],
       "wednesday": [
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
-          "type": "practice",
-          "teacher": "ст.преп. Антон Юрьевич Бурнашов спортивный зал",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "ИСТОРИЯ ВИЗУАЛЬНО-ПРОСТРАНСТВЕННЫХ ИСКУССТВ",
           "type": "lecture",
           "teacher": "доц. Елена Александровна Андреева",
-          "room": "221",
+          "room": "teams.live.com/meet/9396528990686?p=eceXW3OdWhwuWnBDT4",
           "subgroup": null,
-          "notes": "с 23.09"
+          "notes": "с 14.10"
         },
         {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "ИСТОРИЯ ВИЗУАЛЬНО-ПРОСТРАНСТВЕННЫХ ИСКУССТВ",
           "type": "practice",
           "teacher": "доц. Елена Александровна Андреева",
-          "room": "221",
+          "room": "teams.live.com/meet/9396528990686?p=eceXW3OdWhwuWnBDT4",
           "subgroup": null,
-          "notes": "с 23.09"
+          "notes": "с 14.10"
         }
       ],
       "thursday": [
@@ -150,7 +195,63 @@
       "saturday": []
     },
     "even_week": {
-      "monday": [],
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЧЕРНО-БЕЛАЯ ГРАВЮРА НА ДЕРЕВЕ",
+          "type": "lecture",
+          "teacher": "асс. Дарья Сергеевна Миронайте",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЧЕРНО-БЕЛАЯ ГРАВЮРА НА ДЕРЕВЕ",
+          "type": "practice",
+          "teacher": "асс. Дарья Сергеевна Миронайте",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЧЕРНО-БЕЛАЯ ГРАВЮРА НА ДЕРЕВЕ",
+          "type": "practice",
+          "teacher": "асс. Дарья Сергеевна Миронайте",
+          "room": "303",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФИГУРА ЧЕЛОВЕКА В ТЕХНИКЕ МАСЛЯНОЙ ЖИВОПИСИ",
+          "type": "practice",
+          "teacher": "доц. Юрий Владимирович Подисов",
+          "room": "408",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ФИГУРА ЧЕЛОВЕКА В ТЕХНИКЕ МАСЛЯНОЙ ЖИВОПИСИ",
+          "type": "practice",
+          "teacher": "доц. Юрий Владимирович Подисов",
+          "room": "408",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
       "tuesday": [
         {
           "slot": 2,
@@ -221,37 +322,26 @@
       ],
       "wednesday": [
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
-          "type": "practice",
-          "teacher": "ст.преп. Антон Юрьевич Бурнашов спортивный зал",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "ИСТОРИЯ ВИЗУАЛЬНО-ПРОСТРАНСТВЕННЫХ ИСКУССТВ",
           "type": "lecture",
           "teacher": "доц. Елена Александровна Андреева",
-          "room": "221",
+          "room": "teams.live.com/meet/9396528990686?p=eceXW3OdWhwuWnBDT4",
           "subgroup": null,
-          "notes": "с 23.09"
+          "notes": "с 14.10"
         },
         {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "ИСТОРИЯ ВИЗУАЛЬНО-ПРОСТРАНСТВЕННЫХ ИСКУССТВ",
           "type": "practice",
           "teacher": "доц. Елена Александровна Андреева",
-          "room": "221",
+          "room": "teams.live.com/meet/9396528990686?p=eceXW3OdWhwuWnBDT4",
           "subgroup": null,
-          "notes": "с 23.09"
+          "notes": "с 14.10"
         }
       ],
       "thursday": [

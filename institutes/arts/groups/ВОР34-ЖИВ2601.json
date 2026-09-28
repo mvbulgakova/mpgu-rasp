@@ -158,6 +158,52 @@
       ],
       "thursday": [
         {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lecture",
+          "teacher": "доц. Игорь Анатольевич Кузнецов",
+          "room": "221",
+          "subgroup": null,
+          "notes": "с 1.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "доц. Игорь Анатольевич Кузнецов",
+          "room": "221",
+          "subgroup": null,
+          "notes": "с 1.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "АНАЛИЗ И ИНТЕРПРЕТАЦИЯ ПРОИЗВЕДЕНИЙ ИСКУССТВА",
+          "type": "lecture",
+          "teacher": "проф. Наталья Ивановна Дружкова",
+          "room": "220",
+          "subgroup": null,
+          "notes": "с 1.10 по 27.11"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "АНАЛИЗ И ИНТЕРПРЕТАЦИЯ ПРОИЗВЕДЕНИЙ ИСКУССТВА",
+          "type": "lecture",
+          "teacher": "проф. Наталья Ивановна Дружкова",
+          "room": "220",
+          "subgroup": null,
+          "notes": "с 1.10 по 27.11"
+        }
+      ],
+      "friday": [
+        {
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
@@ -172,34 +218,12 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
-          "type": "lecture",
-          "teacher": "доц. Игорь Анатольевич Кузнецов",
-          "room": "221",
-          "subgroup": null,
-          "notes": "с 1.10"
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
           "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
           "type": "practice",
           "teacher": "проф. Светлана Игоревна Скороходова",
           "room": "403",
           "subgroup": null,
           "notes": "с 18.09 по 13.11"
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
-          "type": "practice",
-          "teacher": "доц. Игорь Анатольевич Кузнецов",
-          "room": "221",
-          "subgroup": null,
-          "notes": "с 1.10"
         },
         {
           "slot": 3,
@@ -216,34 +240,12 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "АНАЛИЗ И ИНТЕРПРЕТАЦИЯ ПРОИЗВЕДЕНИЙ ИСКУССТВА",
-          "type": "lecture",
-          "teacher": "проф. Наталья Ивановна Дружкова",
-          "room": "220",
-          "subgroup": null,
-          "notes": "с 1.10 по 27.11"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
           "subject": "ЖИВОПИСЬ",
           "type": "practice",
           "teacher": "доц Макарова Мария Леонидовна",
           "room": "412",
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "АНАЛИЗ И ИНТЕРПРЕТАЦИЯ ПРОИЗВЕДЕНИЙ ИСКУССТВА",
-          "type": "lecture",
-          "teacher": "проф. Наталья Ивановна Дружкова",
-          "room": "220",
-          "subgroup": null,
-          "notes": "с 1.10 по 27.11"
         },
         {
           "slot": 5,
@@ -257,7 +259,6 @@
           "notes": ""
         }
       ],
-      "friday": [],
       "saturday": [
         {
           "slot": 4,
@@ -311,12 +312,12 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "ИСТОРИЯ РОССИИ",
-          "type": "practice",
-          "teacher": "доц. Александр",
-          "room": "telemost.360.yandex.ru/j/5975447444",
+          "subject": "САМОСТОЯТЕЛЬНАЯ РАБОТА",
+          "type": "other",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
-          "notes": "с 14.09.26 по 21.12.26"
+          "notes": ""
         },
         {
           "slot": 4,
@@ -435,6 +436,52 @@
       ],
       "thursday": [
         {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "lecture",
+          "teacher": "доц. Игорь Анатольевич Кузнецов",
+          "room": "221",
+          "subgroup": null,
+          "notes": "с 1.10"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "доц. Игорь Анатольевич Кузнецов",
+          "room": "221",
+          "subgroup": null,
+          "notes": "с 1.10"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "АНАЛИЗ И ИНТЕРПРЕТАЦИЯ ПРОИЗВЕДЕНИЙ ИСКУССТВА",
+          "type": "lecture",
+          "teacher": "проф. Наталья Ивановна Дружкова",
+          "room": "220",
+          "subgroup": null,
+          "notes": "с 1.10 по 27.11"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "АНАЛИЗ И ИНТЕРПРЕТАЦИЯ ПРОИЗВЕДЕНИЙ ИСКУССТВА",
+          "type": "lecture",
+          "teacher": "проф. Наталья Ивановна Дружкова",
+          "room": "220",
+          "subgroup": null,
+          "notes": "с 1.10 по 27.11"
+        }
+      ],
+      "friday": [
+        {
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
@@ -449,34 +496,12 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
-          "type": "lecture",
-          "teacher": "доц. Игорь Анатольевич Кузнецов",
-          "room": "221",
-          "subgroup": null,
-          "notes": "с 1.10"
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
           "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
           "type": "practice",
           "teacher": "проф. Светлана Игоревна Скороходова",
           "room": "403",
           "subgroup": null,
           "notes": "с 25.09 по 20.11"
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
-          "type": "practice",
-          "teacher": "доц. Игорь Анатольевич Кузнецов",
-          "room": "221",
-          "subgroup": null,
-          "notes": "с 1.10"
         },
         {
           "slot": 3,
@@ -493,34 +518,12 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "АНАЛИЗ И ИНТЕРПРЕТАЦИЯ ПРОИЗВЕДЕНИЙ ИСКУССТВА",
-          "type": "lecture",
-          "teacher": "проф. Наталья Ивановна Дружкова",
-          "room": "220",
-          "subgroup": null,
-          "notes": "с 1.10 по 27.11"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
           "subject": "ЖИВОПИСЬ",
           "type": "practice",
           "teacher": "доц Макарова Мария Леонидовна",
           "room": "412",
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "АНАЛИЗ И ИНТЕРПРЕТАЦИЯ ПРОИЗВЕДЕНИЙ ИСКУССТВА",
-          "type": "lecture",
-          "teacher": "проф. Наталья Ивановна Дружкова",
-          "room": "220",
-          "subgroup": null,
-          "notes": "с 1.10 по 27.11"
         },
         {
           "slot": 5,
@@ -534,7 +537,6 @@
           "notes": ""
         }
       ],
-      "friday": [],
       "saturday": [
         {
           "slot": 4,

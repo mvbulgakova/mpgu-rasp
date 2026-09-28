@@ -2,11 +2,11 @@
   {
     "type": "groups_dropped",
     "severity": "medium",
-    "institute_id": "social",
-    "institute_name": "Институт социально-гуманитарного образования",
-    "message": "Количество групп резко сократилось: 15 → 5 после обновления 1 файл(ов).",
-    "prev_count": 15,
+    "institute_id": "arts",
+    "institute_name": "Институт изящных искусств",
+    "message": "Количество групп резко сократилось: 30 → 5 после обновления 4 файл(ов).",
+    "prev_count": 30,
     "new_count": 5,
-    "changed_files": 1
+    "changed_files": 4
   }
 ]
