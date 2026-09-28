@@ -3251,16 +3251,10 @@
     "size_bytes": 0,
     "last_changed": "2026-09-28T11:26:07.725338+00:00"
   },
-  "philology:https://mpgu.su/wp-content/uploads/2026/09/4-kurs-2026-2027-osen-ofo-7.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/4-kurs-2026-2027-osen-ofo-7.pdf",
-    "md5": "ca67ff7150123418f190f16293c0994a",
+  "geography:https://mpgu.su/wp-content/uploads/2026/09/1_kurs_2.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/1_kurs_2.pdf",
+    "md5": "2877c9b296a1fcf2dfad9fe0590ca029",
     "size_bytes": 0,
-    "last_changed": "2026-09-28T22:23:56.930746+00:00"
-  },
-  "philology:https://mpgu.su/wp-content/uploads/2026/09/5-kurs-2026-2027-osen-ofo-6.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/5-kurs-2026-2027-osen-ofo-6.pdf",
-    "md5": "01aa4d4c033d3d3b25d1f6cd3177d9d5",
-    "size_bytes": 0,
-    "last_changed": "2026-09-28T22:23:56.930763+00:00"
+    "last_changed": "2026-09-28T22:23:56.848539+00:00"
   }
 }
