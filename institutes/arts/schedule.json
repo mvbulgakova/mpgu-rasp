@@ -3,54 +3,18 @@
   "institute_name": "Институт изящных искусств",
   "short_name": "ИИИ",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-28T11:26:14.154059+00:00",
+  "updated_at": "2026-09-28T22:24:41.450236+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
     {
-      "name": "ВОР34-ИДО2601",
-      "file": "ВОР34-ИДО2601",
+      "name": "группа",
+      "file": "группа",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование (БВО)",
-      "profile": "Изобразительное искусство и дополнительное образование"
-    },
-    {
-      "name": "ВОР34-ИДО2602",
-      "file": "ВОР34-ИДО2602",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование (БВО)",
-      "profile": "Изобразительное искусство и дополнительное образование"
-    },
-    {
-      "name": "ВОР34-ЖИВ2601",
-      "file": "ВОР34-ЖИВ2601",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "Живопись"
-    },
-    {
-      "name": "БОР34-ЖИВ2401",
-      "file": "БОР34-ЖИВ2401",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "Живопись"
-    },
-    {
-      "name": "ЗВР07-ДИМ2601",
-      "file": "ЗВР07-ДИМ2601",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "54.04.01 Дизайн",
-      "profile": "Дизайн мультимедиа"
+      "direction": "54.03.01 Дизайн",
+      "profile": "Дизайн"
     }
   ]
 }
