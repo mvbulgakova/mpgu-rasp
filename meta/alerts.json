@@ -1,0 +1,12 @@
+[
+  {
+    "type": "groups_dropped",
+    "severity": "medium",
+    "institute_id": "childhood",
+    "institute_name": "Институт детства",
+    "message": "Количество групп резко сократилось: 30 → 11 после обновления 9 файл(ов).",
+    "prev_count": 30,
+    "new_count": 11,
+    "changed_files": 9
+  }
+]
