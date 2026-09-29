@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-09-28T09:05:57.261996+00:00",
-  "count": 1362,
+  "count": 1365,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -1008,7 +1008,7 @@
       "abbreviated": "Кравченко А.В.",
       "id": 72,
       "_key": "кравченкоав",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "gazizulin-talgat-galimovich",
@@ -1092,7 +1092,7 @@
       "abbreviated": "Мошкин В.Н.",
       "id": 78,
       "_key": "мошкинвн",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "petrov-sergey-viktorovich",
@@ -1162,7 +1162,7 @@
       "abbreviated": "Старцев А.М.",
       "id": 83,
       "_key": "старцевам",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "suvorov-vjacheslav-vladimirovich",
@@ -18898,7 +18898,7 @@
       "_key": "гроссил",
       "_unknown": true,
       "id": 1297,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_кабановаеа",
@@ -18928,7 +18928,7 @@
       "_key": "савинмэ",
       "_unknown": true,
       "id": 1299,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_преподавателя",
@@ -19183,7 +19183,7 @@
       "_key": "хлызоваив",
       "_unknown": true,
       "id": 1316,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_кузьменкога",
@@ -19228,7 +19228,7 @@
       "_key": "разумовасю",
       "_unknown": true,
       "id": 1319,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_ба",
@@ -19243,7 +19243,7 @@
       "_key": "ба",
       "_unknown": true,
       "id": 1320,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_алиевнб",
@@ -19258,7 +19258,7 @@
       "_key": "алиевнб",
       "_unknown": true,
       "id": 1321,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_савинмэ",
@@ -19273,7 +19273,7 @@
       "_key": "савинмэ",
       "_unknown": true,
       "id": 1322,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_залд",
@@ -19873,6 +19873,51 @@
       "_key": "овчинниковва",
       "_unknown": true,
       "id": 1362,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_овполикашина",
+      "full_name": "доц. О.В. Поликашина",
+      "abbreviated": "Поликашина д.",
+      "last": "Поликашина",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "овполикашина",
+      "_unknown": true,
+      "id": 1363,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_сл",
+      "full_name": "ст.преп. Л.С. Булатова с",
+      "abbreviated": "с с.",
+      "last": "с",
+      "first": "ст.преп.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "сл",
+      "_unknown": true,
+      "id": 1364,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_httpsв",
+      "full_name": "Возрастная психология и основы педагогики  проф. Е.В. Савенкова          -дистанционно https:",
+      "abbreviated": "https: В.",
+      "last": "https:",
+      "first": "Возрастная",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "httpsв",
+      "_unknown": true,
+      "id": 1365,
       "has_schedule": true
     }
   ]
