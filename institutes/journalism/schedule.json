@@ -3,13 +3,40 @@
   "institute_name": "Институт журналистики, коммуникаций и медиаобразования",
   "short_name": "ИЖКМ",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-28T22:24:55.680229+00:00",
+  "updated_at": "2026-09-29T11:03:48.483842+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
     {
+      "name": "ЗОЖ34-МСС2601",
+      "file": "ЗОЖ34-МСС2601",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.04.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+      "profile": "Медиаобразование в социокультурной сфере"
+    },
+    {
+      "name": "ЗОЖ34-МСС2501",
+      "file": "ЗОЖ34-МСС2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.04.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+      "profile": "Медиаобразование в социокультурной сфере"
+    },
+    {
       "name": "ЗОЖ34-АКП2501",
       "file": "ЗОЖ34-АКП2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "ЗОЖ34-МВД2501",
+      "file": "ЗОЖ34-МВД2501",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
