@@ -3305,10 +3305,28 @@
     "size_bytes": 0,
     "last_changed": "2026-09-28T22:31:42.108534+00:00"
   },
-  "geography:https://mpgu.su/wp-content/uploads/2026/09/1_kurs_2.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/09/1_kurs_2.pdf",
-    "md5": "2877c9b296a1fcf2dfad9fe0590ca029",
+  "philology:https://mpgu.su/wp-content/uploads/2026/09/4-kurs-2026-2027-osen-ofo-7.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/4-kurs-2026-2027-osen-ofo-7.pdf",
+    "md5": "ca67ff7150123418f190f16293c0994a",
     "size_bytes": 0,
-    "last_changed": "2026-09-29T11:03:01.538327+00:00"
+    "last_changed": "2026-09-29T11:03:06.034479+00:00"
+  },
+  "philology:https://mpgu.su/wp-content/uploads/2026/09/5-kurs-2026-2027-osen-ofo-7.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/5-kurs-2026-2027-osen-ofo-7.pdf",
+    "md5": "6a24a5845adafd04f18cd8eeaa9da4b6",
+    "size_bytes": 0,
+    "last_changed": "2026-09-29T11:03:06.034493+00:00"
+  },
+  "philology:https://mpgu.su/wp-content/uploads/2026/09/1-kurs-inostrancy-26-god.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/1-kurs-inostrancy-26-god.pdf",
+    "md5": "158646c20738b6db8547fe38a2a018cc",
+    "size_bytes": 0,
+    "last_changed": "2026-09-29T11:03:06.034499+00:00"
+  },
+  "philology:https://mpgu.su/wp-content/uploads/2026/09/magistratura-rjak-1-kurs.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/09/magistratura-rjak-1-kurs.pdf",
+    "md5": "c3c50bb9ca3af8baf0204058a71c5d72",
+    "size_bytes": 0,
+    "last_changed": "2026-09-29T11:03:06.034503+00:00"
   }
 }
