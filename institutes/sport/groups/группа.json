@@ -2681,6 +2681,17 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Горбунова М.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -2712,6 +2723,50 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Горбунова М.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Современные методики реабилитации",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методы и методология исследовательской деятельности в сфере реабилитации",
+          "type": "lecture",
+          "teacher": "доц. Куксова М.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. Мицкевич А.Н., ДИСТАНТ",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 3,
@@ -2758,6 +2813,61 @@
           "notes": ""
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Горбунова М.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Лечебная физическая культура",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методы и методология исследовательской деятельности в сфере реабилитации",
+          "type": "lecture",
+          "teacher": "доц. Куксова М.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Современные методики реабилитации",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. Мицкевич А.Н., ДИСТАНТ",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -2811,6 +2921,61 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Горбунова М.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Спортивная медицина",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Современные методики реабилитации",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Лечебная физическая культура",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. Мицкевич А.Н., ДИСТАНТ",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 5,
@@ -2833,6 +2998,83 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЗZЗ40-АФК2501",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Спортивная медицина",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "наименование дисциплины (форма проведения занятия) должность и ФИО",
+          "type": "other",
+          "teacher": "преподавателя",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "заместитель директора по учебной работе: Шонус Д.Х",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "44.04.02 ПСИХОЛОГО-ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "«Адаптивная физическая культура и современные методики реабилитации»",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "21.09-17.01",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "с 01.09 по 17.01"
         }
       ]
     },
@@ -5511,6 +5753,17 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Горбунова М.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -5542,6 +5795,50 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Горбунова М.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Современные методики реабилитации",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методы и методология исследовательской деятельности в сфере реабилитации",
+          "type": "lecture",
+          "teacher": "доц. Куксова М.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. Мицкевич А.Н., ДИСТАНТ",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 3,
@@ -5588,6 +5885,61 @@
           "notes": ""
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Горбунова М.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Лечебная физическая культура",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методы и методология исследовательской деятельности в сфере реабилитации",
+          "type": "lecture",
+          "teacher": "доц. Куксова М.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Современные методики реабилитации",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. Мицкевич А.Н., ДИСТАНТ",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -5641,6 +5993,61 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доц. Горбунова М.В",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Спортивная медицина",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Современные методики реабилитации",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Лечебная физическая культура",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социальное взаимодействие в поликультурном обществе",
+          "type": "lecture",
+          "teacher": "доц. Мицкевич А.Н., ДИСТАНТ",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 5,
@@ -5663,6 +6070,83 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЗZЗ40-АФК2501",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Спортивная медицина",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "наименование дисциплины (форма проведения занятия) должность и ФИО",
+          "type": "other",
+          "teacher": "преподавателя",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "заместитель директора по учебной работе: Шонус Д.Х",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "44.04.02 ПСИХОЛОГО-ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "«Адаптивная физическая культура и современные методики реабилитации»",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "21.09-17.01",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": "с 01.09 по 17.01"
         }
       ]
     }
