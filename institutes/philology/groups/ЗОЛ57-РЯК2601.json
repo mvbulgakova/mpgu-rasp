@@ -24,12 +24,12 @@
           "slot": null,
           "time_start": "15:20",
           "time_end": "16:50",
-          "subject": "Философия научного познания",
-          "type": "lecture",
-          "teacher": "Доц. Е.В. Фидченко",
+          "subject": "Парадигмы русской культуры",
+          "type": "other",
+          "teacher": "Доц. Т.С. Коломейцева",
           "room": "9",
           "subgroup": null,
-          "notes": "/ПЗ"
+          "notes": ""
         },
         {
           "slot": null,
@@ -49,12 +49,12 @@
           "slot": null,
           "time_start": "11:50",
           "time_end": "13:20",
-          "subject": "Практикум профессиональной коммуникации",
-          "type": "practice",
-          "teacher": "Проф. А.Д. Кулик",
-          "room": "205",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "Доц. Е.В. Фидченко",
+          "room": "9",
           "subgroup": null,
-          "notes": ""
+          "notes": "/ПЗ"
         }
       ],
       "friday": [],
@@ -78,12 +78,12 @@
           "slot": null,
           "time_start": "15:20",
           "time_end": "16:50",
-          "subject": "Философия научного познания",
-          "type": "lecture",
-          "teacher": "Доц. Е.В. Фидченко",
+          "subject": "Парадигмы русской культуры",
+          "type": "other",
+          "teacher": "Доц. Т.С. Коломейцева",
           "room": "9",
           "subgroup": null,
-          "notes": "/ПЗ"
+          "notes": ""
         },
         {
           "slot": null,
@@ -103,12 +103,12 @@
           "slot": null,
           "time_start": "11:50",
           "time_end": "13:20",
-          "subject": "Практикум профессиональной коммуникации",
-          "type": "practice",
-          "teacher": "Проф. А.Д. Кулик",
-          "room": "205",
+          "subject": "Философия научного познания",
+          "type": "lecture",
+          "teacher": "Доц. Е.В. Фидченко",
+          "room": "9",
           "subgroup": null,
-          "notes": ""
+          "notes": "/ПЗ"
         }
       ],
       "friday": [],
