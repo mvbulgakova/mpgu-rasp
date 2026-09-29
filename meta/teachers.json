@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-09-28T09:05:57.261996+00:00",
-  "count": 1348,
+  "count": 1362,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -12223,7 +12223,7 @@
       "_key": "и",
       "_unknown": true,
       "id": 852,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_лхзарипова",
@@ -12238,7 +12238,7 @@
       "_key": "лхзарипова",
       "_unknown": true,
       "id": 853,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_жапершина",
@@ -14323,7 +14323,7 @@
       "_key": "василенкод",
       "_unknown": true,
       "id": 992,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_козловп",
@@ -14338,7 +14338,7 @@
       "_key": "козловп",
       "_unknown": true,
       "id": 993,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_евмайорова",
@@ -18853,7 +18853,7 @@
       "_key": "петрованг",
       "_unknown": true,
       "id": 1294,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_еринаои",
@@ -18943,7 +18943,7 @@
       "_key": "преподавателя",
       "_unknown": true,
       "id": 1300,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_ястребоваеа",
@@ -19333,7 +19333,7 @@
       "_key": "горбуновамв",
       "_unknown": true,
       "id": 1326,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_еринаюи",
@@ -19663,6 +19663,216 @@
       "_key": "загородниковааю",
       "_unknown": true,
       "id": 1348,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_гончаровп",
+      "full_name": "Профессор М.А. Гончаров",
+      "abbreviated": "Гончаров П.",
+      "last": "Гончаров",
+      "first": "Профессор",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "гончаровп",
+      "_unknown": true,
+      "id": 1349,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_юиплыгун",
+      "full_name": "преподаватель Ю.И. Плыгун",
+      "abbreviated": "Плыгун п.",
+      "last": "Плыгун",
+      "first": "преподаватель",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "юиплыгун",
+      "_unknown": true,
+      "id": 1350,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_жавартазарова",
+      "full_name": "Ст. преп. Ж.А.Вартазарова",
+      "abbreviated": "Ж.А.Вартазарова С.",
+      "last": "Ж.А.Вартазарова",
+      "first": "Ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "жавартазарова",
+      "_unknown": true,
+      "id": 1351,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_овфидченко",
+      "full_name": "Доц. О.В.Фидченко",
+      "abbreviated": "О.В.Фидченко Д.",
+      "last": "О.В.Фидченко",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "овфидченко",
+      "_unknown": true,
+      "id": 1352,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_овбаранова",
+      "full_name": "Доц. О.В. Баранова",
+      "abbreviated": "Баранова Д.",
+      "last": "Баранова",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "овбаранова",
+      "_unknown": true,
+      "id": 1353,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_оиавдеева",
+      "full_name": "Доц. О.И.Авдеева",
+      "abbreviated": "О.И.Авдеева Д.",
+      "last": "О.И.Авдеева",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "оиавдеева",
+      "_unknown": true,
+      "id": 1354,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_фвшаройко",
+      "full_name": "доц. Ф.В. Шаройко",
+      "abbreviated": "Шаройко д.",
+      "last": "Шаройко",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "фвшаройко",
+      "_unknown": true,
+      "id": 1355,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_чери",
+      "full_name": "асс. И Сун Чер",
+      "abbreviated": "Чер а.",
+      "last": "Чер",
+      "first": "асс.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "чери",
+      "_unknown": true,
+      "id": 1356,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_фвшаройко",
+      "full_name": "доц. Ф.В. Шаройко",
+      "abbreviated": "Шаройко д.",
+      "last": "Шаройко",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ф",
+      "_unknown": true,
+      "id": 1357,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_зачети",
+      "full_name": "ст.преп. И.В. Алексеенко        .  -зачет",
+      "abbreviated": "-зачет с.",
+      "last": "-зачет",
+      "first": "ст.преп.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "зачети",
+      "_unknown": true,
+      "id": 1358,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_хзксенофонтова",
+      "full_name": "доц. Х.З. Ксенофонтова",
+      "abbreviated": "Ксенофонтова д.",
+      "last": "Ксенофонтова",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "хзксенофонтова",
+      "_unknown": true,
+      "id": 1359,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_се",
+      "full_name": "ст.преп. Е.В. Володько с",
+      "abbreviated": "с с.",
+      "last": "с",
+      "first": "ст.преп.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "се",
+      "_unknown": true,
+      "id": 1360,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_гап",
+      "full_name": "проф, Гилев Г.А",
+      "abbreviated": "Г.А п.",
+      "last": "Г.А",
+      "first": "проф,",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "гап",
+      "_unknown": true,
+      "id": 1361,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_овчинниковва",
+      "full_name": "проф. Овчинников В.А",
+      "abbreviated": "В.А п.",
+      "last": "В.А",
+      "first": "проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "овчинниковва",
+      "_unknown": true,
+      "id": 1362,
       "has_schedule": true
     }
   ]
