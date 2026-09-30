@@ -1303,6 +1303,17 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "lecture",
+          "teacher": "проф. Шарай Н.А",
+          "room": "726",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
           "subject": "Нормативно-правовое обеспечение дополнительного образования",
           "type": "lecture",
           "teacher": "доц. Петрова Н.Г",
@@ -2166,7 +2177,7 @@
           "subject": "Иностранный язык",
           "type": "practice",
           "teacher": "доц. Кандаурова Л.О",
-          "room": "216",
+          "room": "218",
           "subgroup": null,
           "notes": ""
         },
@@ -2189,6 +2200,17 @@
           "type": "practice",
           "teacher": "доц. Чистова А.В",
           "room": "218",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Кандаурова Л.О",
+          "room": "216",
           "subgroup": null,
           "notes": ""
         },
@@ -2221,7 +2243,7 @@
           "subject": "Методика преподавания предмета «Физическая культура»",
           "type": "practice",
           "teacher": "ст. преп. Ястребова Е.А",
-          "room": "218",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -2290,6 +2312,17 @@
           "room": "с/з №1",
           "subgroup": null,
           "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Кандаурова Л.О",
+          "room": "218",
+          "subgroup": null,
+          "notes": ""
         },
         {
           "slot": 2,
@@ -2537,6 +2570,17 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Кандаурова Л.О",
+          "room": "218",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
@@ -2562,7 +2606,7 @@
           "subject": "Методика преподавания предмета «Физическая культура»",
           "type": "practice",
           "teacher": "ст. преп. Ястребова Е.А",
-          "room": "218",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -2705,6 +2749,17 @@
           "subject": "Иностранный язык",
           "type": "practice",
           "teacher": "доц. Кандаурова Л.О",
+          "room": "218",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Кандаурова Л.О",
           "room": "216",
           "subgroup": null,
           "notes": ""
@@ -2727,7 +2782,7 @@
           "subject": "Методика преподавания предмета «Физическая культура»",
           "type": "lecture",
           "teacher": "ст. преп. Ястребова Е.А",
-          "room": "213",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -5299,6 +5354,17 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "lecture",
+          "teacher": "проф. Шарай Н.А",
+          "room": "726",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
           "subject": "Нормативно-правовое обеспечение дополнительного образования",
           "type": "lecture",
           "teacher": "доц. Петрова Н.Г",
@@ -6162,7 +6228,7 @@
           "subject": "Иностранный язык",
           "type": "practice",
           "teacher": "доц. Кандаурова Л.О",
-          "room": "216",
+          "room": "218",
           "subgroup": null,
           "notes": ""
         },
@@ -6185,6 +6251,17 @@
           "type": "practice",
           "teacher": "доц. Чистова А.В",
           "room": "218",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Кандаурова Л.О",
+          "room": "216",
           "subgroup": null,
           "notes": ""
         },
@@ -6217,7 +6294,7 @@
           "subject": "Методика преподавания предмета «Физическая культура»",
           "type": "practice",
           "teacher": "ст. преп. Ястребова Е.А",
-          "room": "218",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -6286,6 +6363,17 @@
           "room": "с/з №1",
           "subgroup": null,
           "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Кандаурова Л.О",
+          "room": "218",
+          "subgroup": null,
+          "notes": ""
         },
         {
           "slot": 2,
@@ -6533,6 +6621,17 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Кандаурова Л.О",
+          "room": "218",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
@@ -6558,7 +6657,7 @@
           "subject": "Методика преподавания предмета «Физическая культура»",
           "type": "practice",
           "teacher": "ст. преп. Ястребова Е.А",
-          "room": "218",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -6701,6 +6800,17 @@
           "subject": "Иностранный язык",
           "type": "practice",
           "teacher": "доц. Кандаурова Л.О",
+          "room": "218",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. Кандаурова Л.О",
           "room": "216",
           "subgroup": null,
           "notes": ""
@@ -6723,7 +6833,7 @@
           "subject": "Методика преподавания предмета «Физическая культура»",
           "type": "lecture",
           "teacher": "ст. преп. Ястребова Е.А",
-          "room": "213",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
