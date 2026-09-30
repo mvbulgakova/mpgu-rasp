@@ -10,6 +10,17 @@
       "monday": [],
       "tuesday": [
         {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
+          "type": "lecture",
+          "teacher": "Доцент А.А. Шевцова",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 6,
           "time_start": "17:40",
           "time_end": "19:10",
@@ -25,7 +36,7 @@
           "time_start": "17:40",
           "time_end": "19:10",
           "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
-          "type": "practice",
+          "type": "lecture",
           "teacher": "Доцент А.А. Шевцова",
           "room": "106",
           "subgroup": null,
@@ -36,9 +47,9 @@
           "time_start": "17:40",
           "time_end": "19:10",
           "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
-          "type": "lecture",
+          "type": "practice",
           "teacher": "Доцент А.А. Шевцова",
-          "room": "106",
+          "room": "105",
           "subgroup": null,
           "notes": ""
         },
@@ -69,9 +80,9 @@
           "time_start": "19:20",
           "time_end": "20:50",
           "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
-          "type": "lecture",
+          "type": "practice",
           "teacher": "Доцент А.А. Шевцова",
-          "room": "106",
+          "room": "105",
           "subgroup": null,
           "notes": ""
         }
@@ -100,30 +111,6 @@
           "notes": ""
         },
         {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
-          "type": "lecture",
-          "teacher": "Доцент Р.И. Зианшина",
-          "room": "105",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
-          "type": "practice",
-          "teacher": "Доцент Р.И. Зианшина",
-          "room": "105",
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
-      "thursday": [
-        {
           "slot": 6,
           "time_start": "17:40",
           "time_end": "19:10",
@@ -142,6 +129,17 @@
           "type": "practice",
           "teacher": "Доцент Т.А. Чекалина",
           "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
+          "type": "lecture",
+          "teacher": "Доцент А.А. Шевцова",
+          "room": "106",
           "subgroup": null,
           "notes": ""
         },
@@ -171,6 +169,28 @@
           "slot": 7,
           "time_start": "19:20",
           "time_end": "20:50",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "lecture",
+          "teacher": "Доцент Р.И. Зианшина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "practice",
+          "teacher": "Доцент Р.И. Зианшина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
           "subject": "ИННОВАЦИОННЫЕ ЦИФРОВЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
           "type": "lecture",
           "teacher": "Доцент Т.А. Чекалина",
@@ -186,6 +206,17 @@
           "type": "practice",
           "teacher": "Доцент Т.А. Чекалина",
           "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Шевцова",
+          "room": "106",
           "subgroup": null,
           "notes": ""
         },
@@ -223,6 +254,7 @@
           "notes": ""
         }
       ],
+      "thursday": [],
       "friday": [
         {
           "slot": 5,
@@ -320,17 +352,6 @@
           "time_end": "14:50",
           "subject": "КИНОФЕСТИВАЛЬНОЕ ДВИЖЕНИЕ",
           "type": "practice",
-          "teacher": "Доцент Е.А. Бучкина",
-          "room": "105",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:20",
-          "time_end": "14:50",
-          "subject": "КИНОФЕСТИВАЛЬНОЕ ДВИЖЕНИЕ",
-          "type": "lecture",
           "teacher": "Доцент Е.А. Бучкина",
           "room": "105",
           "subgroup": null,
@@ -353,6 +374,17 @@
       "monday": [],
       "tuesday": [
         {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
+          "type": "lecture",
+          "teacher": "Доцент А.А. Шевцова",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 6,
           "time_start": "17:40",
           "time_end": "19:10",
@@ -368,7 +400,7 @@
           "time_start": "17:40",
           "time_end": "19:10",
           "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
-          "type": "practice",
+          "type": "lecture",
           "teacher": "Доцент А.А. Шевцова",
           "room": "106",
           "subgroup": null,
@@ -379,9 +411,9 @@
           "time_start": "17:40",
           "time_end": "19:10",
           "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
-          "type": "lecture",
+          "type": "practice",
           "teacher": "Доцент А.А. Шевцова",
-          "room": "106",
+          "room": "105",
           "subgroup": null,
           "notes": ""
         },
@@ -412,9 +444,9 @@
           "time_start": "19:20",
           "time_end": "20:50",
           "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
-          "type": "lecture",
+          "type": "practice",
           "teacher": "Доцент А.А. Шевцова",
-          "room": "106",
+          "room": "105",
           "subgroup": null,
           "notes": ""
         }
@@ -443,30 +475,6 @@
           "notes": ""
         },
         {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
-          "type": "lecture",
-          "teacher": "Доцент Р.И. Зианшина",
-          "room": "105",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
-          "type": "practice",
-          "teacher": "Доцент Р.И. Зианшина",
-          "room": "105",
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
-      "thursday": [
-        {
           "slot": 6,
           "time_start": "17:40",
           "time_end": "19:10",
@@ -485,6 +493,17 @@
           "type": "practice",
           "teacher": "Доцент Т.А. Чекалина",
           "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
+          "type": "lecture",
+          "teacher": "Доцент А.А. Шевцова",
+          "room": "106",
           "subgroup": null,
           "notes": ""
         },
@@ -514,6 +533,28 @@
           "slot": 7,
           "time_start": "19:20",
           "time_end": "20:50",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "lecture",
+          "teacher": "Доцент Р.И. Зианшина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ",
+          "type": "practice",
+          "teacher": "Доцент Р.И. Зианшина",
+          "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
           "subject": "ИННОВАЦИОННЫЕ ЦИФРОВЫЕ ТЕХНОЛОГИИ В ОБРАЗОВАНИИ",
           "type": "lecture",
           "teacher": "Доцент Т.А. Чекалина",
@@ -529,6 +570,17 @@
           "type": "practice",
           "teacher": "Доцент Т.А. Чекалина",
           "room": "105",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "МЕТОДИКА И ТЕХНОЛОГИИ КИНОПЕДАГОГИКИ",
+          "type": "practice",
+          "teacher": "Доцент А.А. Шевцова",
+          "room": "106",
           "subgroup": null,
           "notes": ""
         },
@@ -566,6 +618,7 @@
           "notes": ""
         }
       ],
+      "thursday": [],
       "friday": [
         {
           "slot": 5,
@@ -663,17 +716,6 @@
           "time_end": "14:50",
           "subject": "КИНОФЕСТИВАЛЬНОЕ ДВИЖЕНИЕ",
           "type": "practice",
-          "teacher": "Доцент Е.А. Бучкина",
-          "room": "105",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:20",
-          "time_end": "14:50",
-          "subject": "КИНОФЕСТИВАЛЬНОЕ ДВИЖЕНИЕ",
-          "type": "lecture",
           "teacher": "Доцент Е.А. Бучкина",
           "room": "105",
           "subgroup": null,
