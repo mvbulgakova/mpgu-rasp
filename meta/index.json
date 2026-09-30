@@ -53,9 +53,9 @@
       "campus": "ИИИ",
       "campus_address": "Рязанский пр-т, 9",
       "groups_count": 1,
-      "updated_at": "2026-09-29T21:16:26.008237+00:00",
+      "updated_at": "2026-09-30T10:55:04.290029+00:00",
       "status": "ok",
-      "parser_used": "pdfplumber"
+      "parser_used": "claude"
     },
     {
       "id": "physics",

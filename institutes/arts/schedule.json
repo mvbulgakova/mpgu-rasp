@@ -3,18 +3,18 @@
   "institute_name": "Институт изящных искусств",
   "short_name": "ИИИ",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-29T21:16:26.008237+00:00",
-  "parser_used": "pdfplumber",
+  "updated_at": "2026-09-30T10:55:04.290029+00:00",
+  "parser_used": "claude",
   "version": 1,
   "groups": [
     {
-      "name": "группа",
-      "file": "группа",
+      "name": "ВВР35-ИИД2601",
+      "file": "ВВР35-ИИД2601",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": "54.03.01 Дизайн",
-      "profile": "Дизайн"
+      "direction": "44.03.05 Педагогическое образование (БВО с двумя профилями подготовки)",
+      "profile": "Изобразительное искусство и дизайн"
     }
   ]
 }
