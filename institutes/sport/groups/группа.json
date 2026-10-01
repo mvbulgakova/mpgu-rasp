@@ -2254,7 +2254,7 @@
           "subject": "Социология физической культуры и спорта",
           "type": "lecture",
           "teacher": "ст. преп. Кабанова Е.А",
-          "room": null,
+          "room": "214",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -2331,7 +2331,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
-          "room": "218",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -2353,7 +2353,7 @@
           "subject": "ЭК по ФКиС: Шахматы",
           "type": "other",
           "teacher": "ст. преп. Ястребова Е.А",
-          "room": "218",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -2551,7 +2551,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
-          "room": "218",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -2628,7 +2628,7 @@
           "subject": "Теория и методика детско-юношеского спорта и спортивной тренировки",
           "type": "lecture",
           "teacher": "ст. преп. Ерина О.И",
-          "room": "КГФ",
+          "room": "216",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -2639,7 +2639,7 @@
           "subject": "Основы психологической безопасности",
           "type": "lecture",
           "teacher": "проф. Погодаева М.В",
-          "room": "КГФ",
+          "room": "442",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -2870,7 +2870,7 @@
           "subject": "Психологическая безопасность",
           "type": "lecture",
           "teacher": "проф. Погодаева М.В",
-          "room": "218",
+          "room": "216",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -2881,7 +2881,7 @@
           "subject": "Физиология человека и культура здоровья",
           "type": "practice",
           "teacher": "доц. Шонус Д.Х",
-          "room": "214",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -3024,7 +3024,7 @@
           "subject": "Спортивная медицина",
           "type": "practice",
           "teacher": "доц. Шонус Д.Х",
-          "room": null,
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -3068,7 +3068,7 @@
           "subject": "Психологическая безопасность",
           "type": "lecture",
           "teacher": "проф. Погодаева М.В",
-          "room": "218",
+          "room": "216",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -6305,7 +6305,7 @@
           "subject": "Социология физической культуры и спорта",
           "type": "lecture",
           "teacher": "ст. преп. Кабанова Е.А",
-          "room": null,
+          "room": "214",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -6382,7 +6382,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
-          "room": "218",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -6404,7 +6404,7 @@
           "subject": "ЭК по ФКиС: Шахматы",
           "type": "other",
           "teacher": "ст. преп. Ястребова Е.А",
-          "room": "218",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -6602,7 +6602,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
-          "room": "218",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -6679,7 +6679,7 @@
           "subject": "Теория и методика детско-юношеского спорта и спортивной тренировки",
           "type": "lecture",
           "teacher": "ст. преп. Ерина О.И",
-          "room": "КГФ",
+          "room": "216",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -6690,7 +6690,7 @@
           "subject": "Основы психологической безопасности",
           "type": "lecture",
           "teacher": "проф. Погодаева М.В",
-          "room": "КГФ",
+          "room": "442",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -6921,7 +6921,7 @@
           "subject": "Психологическая безопасность",
           "type": "lecture",
           "teacher": "проф. Погодаева М.В",
-          "room": "218",
+          "room": "216",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -6932,7 +6932,7 @@
           "subject": "Физиология человека и культура здоровья",
           "type": "practice",
           "teacher": "доц. Шонус Д.Х",
-          "room": "214",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -7075,7 +7075,7 @@
           "subject": "Спортивная медицина",
           "type": "practice",
           "teacher": "доц. Шонус Д.Х",
-          "room": null,
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -7119,7 +7119,7 @@
           "subject": "Психологическая безопасность",
           "type": "lecture",
           "teacher": "проф. Погодаева М.В",
-          "room": "218",
+          "room": "216",
           "subgroup": null,
           "notes": "ПЗ"
         },
