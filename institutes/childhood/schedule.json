@@ -3,28 +3,10 @@
   "institute_name": "Институт детства",
   "short_name": "ИД",
   "academic_year": "2026-2027",
-  "updated_at": "2026-09-28T22:31:42.112334+00:00",
-  "parser_used": "claude",
+  "updated_at": "2026-10-01T21:33:47.129217+00:00",
+  "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
-    {
-      "name": "ВВН34-НОД2601",
-      "file": "ВВН34-НОД2601",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "Начальное образование и Дополнительное образование"
-    },
-    {
-      "name": "ВВН34-НОД2602",
-      "file": "ВВН34-НОД2602",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "Начальное образование и Дополнительное образование"
-    },
     {
       "name": "ВВН34-НОБ2501",
       "file": "ВВН34-НОБ2501",
@@ -51,60 +33,6 @@
       "degree": "bachelor",
       "direction": "44.03.01 Педагогическое образование",
       "profile": null
-    },
-    {
-      "name": "БВН34-НОБ2401",
-      "file": "БВН34-НОБ2401",
-      "year": 3,
-      "form": "correspondence",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": null
-    },
-    {
-      "name": "БВН34-НОБ2402",
-      "file": "БВН34-НОБ2402",
-      "year": 3,
-      "form": "correspondence",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": null
-    },
-    {
-      "name": "БВН34-НОБ2301",
-      "file": "БВН34-НОБ2301",
-      "year": 4,
-      "form": "correspondence",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "Начальное образование"
-    },
-    {
-      "name": "БВН34-НОБ2302",
-      "file": "БВН34-НОБ2302",
-      "year": 4,
-      "form": "correspondence",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "Начальное образование"
-    },
-    {
-      "name": "БВН34-НОБ2201",
-      "file": "БВН34-НОБ2201",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "Начальное образование"
-    },
-    {
-      "name": "БВН34-НОБ2202",
-      "file": "БВН34-НОБ2202",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "Начальное образование"
     }
   ]
 }

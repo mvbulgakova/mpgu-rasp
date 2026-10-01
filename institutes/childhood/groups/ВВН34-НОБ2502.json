@@ -45,17 +45,6 @@
       "tuesday": [],
       "wednesday": [
         {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Математика и информатика старш",
-          "type": "practice",
-          "teacher": "преп. Т.А. Немкина",
-          "room": "426",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": null,
           "time_start": "17:35",
           "time_end": "19:05",
@@ -154,17 +143,6 @@
       ],
       "tuesday": [],
       "wednesday": [
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Математика и информатика старш",
-          "type": "practice",
-          "teacher": "преп. Т.А. Немкина",
-          "room": "426",
-          "subgroup": null,
-          "notes": ""
-        },
         {
           "slot": null,
           "time_start": "17:35",

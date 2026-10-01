@@ -45,28 +45,6 @@
       "tuesday": [],
       "wednesday": [
         {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Психология воспитательных практик",
-          "type": "practice",
-          "teacher": "доцент Л.А. Никитина",
-          "room": "427",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное поведение",
-          "type": "practice",
-          "teacher": "доцент А.В. Орлова",
-          "room": "427",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": null,
           "time_start": "17:35",
           "time_end": "19:05",
@@ -154,28 +132,6 @@
       ],
       "tuesday": [],
       "wednesday": [
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Психология воспитательных практик",
-          "type": "practice",
-          "teacher": "доцент Л.А. Никитина",
-          "room": "427",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное поведение",
-          "type": "practice",
-          "teacher": "доцент А.В. Орлова",
-          "room": "427",
-          "subgroup": null,
-          "notes": ""
-        },
         {
           "slot": null,
           "time_start": "17:35",

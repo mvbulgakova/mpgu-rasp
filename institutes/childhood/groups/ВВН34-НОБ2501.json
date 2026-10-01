@@ -56,28 +56,6 @@
       "tuesday": [],
       "wednesday": [
         {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Методика обучения изобразительному искусству и труду (технологии) в начальной школе с практикумом",
-          "type": "practice",
-          "teacher": "доцент В.Ю. Борисов",
-          "room": "424",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Психология старш",
-          "type": "practice",
-          "teacher": "преп. М.Г. Абрамова",
-          "room": "423",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": null,
           "time_start": "17:35",
           "time_end": "19:05",
@@ -125,23 +103,23 @@
       "thursday": [],
       "friday": [
         {
-          "slot": null,
-          "time_start": "17:35",
-          "time_end": "19:05",
-          "subject": "Русский язык с практикумом по правописанию",
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы естествознания и обществознания",
           "type": "lecture",
-          "teacher": "доцент А.Ю. Никитченкова",
+          "teacher": "доцент В.А. Самкова",
           "room": "415",
           "subgroup": null,
           "notes": ""
         },
         {
           "slot": null,
-          "time_start": "19:10",
-          "time_end": "20:40",
-          "subject": "Основы естествознания и обществознания",
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "Русский язык с практикумом по правописанию",
           "type": "lecture",
-          "teacher": "доцент В.А. Самкова",
+          "teacher": "доцент А.Ю. Никитченкова",
           "room": "415",
           "subgroup": null,
           "notes": ""
@@ -210,28 +188,6 @@
       "tuesday": [],
       "wednesday": [
         {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Методика обучения изобразительному искусству и труду (технологии) в начальной школе с практикумом",
-          "type": "practice",
-          "teacher": "доцент В.Ю. Борисов",
-          "room": "424",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Психология старш",
-          "type": "practice",
-          "teacher": "преп. М.Г. Абрамова",
-          "room": "423",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": null,
           "time_start": "17:35",
           "time_end": "19:05",
@@ -279,23 +235,23 @@
       "thursday": [],
       "friday": [
         {
-          "slot": null,
-          "time_start": "17:35",
-          "time_end": "19:05",
-          "subject": "Русский язык с практикумом по правописанию",
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы естествознания и обществознания",
           "type": "lecture",
-          "teacher": "доцент А.Ю. Никитченкова",
+          "teacher": "доцент В.А. Самкова",
           "room": "415",
           "subgroup": null,
           "notes": ""
         },
         {
           "slot": null,
-          "time_start": "19:10",
-          "time_end": "20:40",
-          "subject": "Основы естествознания и обществознания",
+          "time_start": "17:35",
+          "time_end": "19:05",
+          "subject": "Русский язык с практикумом по правописанию",
           "type": "lecture",
-          "teacher": "доцент В.А. Самкова",
+          "teacher": "доцент А.Ю. Никитченкова",
           "room": "415",
           "subgroup": null,
           "notes": ""
