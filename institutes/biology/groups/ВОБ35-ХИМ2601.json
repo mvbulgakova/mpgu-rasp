@@ -89,17 +89,6 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
-          "type": "practice",
-          "teacher": "Доцент Е.Б. Борунова (501",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
           "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
           "type": "practice",
           "teacher": null,
@@ -343,17 +332,6 @@
           "subject": "ОБЩАЯ И НЕОРГАНИЧЕСКАЯ ХИМИЯ",
           "type": "lecture",
           "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "ИНОСТРАННЫЙ ЯЗЫК",
-          "type": "practice",
-          "teacher": "Доцент Е.Б. Борунова (501",
           "room": null,
           "subgroup": null,
           "notes": ""
