@@ -187,7 +187,7 @@
           "subject": "Теория менеджмента",
           "type": "practice",
           "teacher": "доц.И.А. Заякина 9.10",
-          "room": null,
+          "room": "805",
           "subgroup": null,
           "notes": ""
         },
@@ -198,7 +198,7 @@
           "subject": "Теория менеджмента",
           "type": "practice",
           "teacher": "доц.И.А. Заякина 2.10",
-          "room": null,
+          "room": "805",
           "subgroup": null,
           "notes": ""
         },
@@ -209,7 +209,7 @@
           "subject": "Теория менеджмента",
           "type": "practice",
           "teacher": "доц.И.А. Заякина 9.10",
-          "room": null,
+          "room": "805",
           "subgroup": null,
           "notes": ""
         },
@@ -220,7 +220,7 @@
           "subject": "Теория менеджмента",
           "type": "practice",
           "teacher": "доц.И.А. Заякина   2.10",
-          "room": null,
+          "room": "805",
           "subgroup": null,
           "notes": ""
         }
@@ -408,7 +408,7 @@
           "subject": "Теория менеджмента",
           "type": "practice",
           "teacher": "доц.И.А. Заякина 9.10",
-          "room": null,
+          "room": "805",
           "subgroup": null,
           "notes": ""
         },
@@ -419,7 +419,7 @@
           "subject": "Теория менеджмента",
           "type": "practice",
           "teacher": "доц.И.А. Заякина 2.10",
-          "room": null,
+          "room": "805",
           "subgroup": null,
           "notes": ""
         },
@@ -430,7 +430,7 @@
           "subject": "Теория менеджмента",
           "type": "practice",
           "teacher": "доц.И.А. Заякина 9.10",
-          "room": null,
+          "room": "805",
           "subgroup": null,
           "notes": ""
         },
@@ -441,7 +441,7 @@
           "subject": "Теория менеджмента",
           "type": "practice",
           "teacher": "доц.И.А. Заякина   2.10",
-          "room": null,
+          "room": "805",
           "subgroup": null,
           "notes": ""
         }
