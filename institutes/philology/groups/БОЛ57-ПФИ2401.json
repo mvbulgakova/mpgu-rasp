@@ -1,0 +1,50 @@
+{
+  "name": "БОЛ57-ПФИ2401",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "45.03.01 Филология",
+  "profile": "Прикладная филология",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "История зарубежной литературы",
+          "type": "lecture",
+          "teacher": "Проф. Н.И. Соколова",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "10:10",
+          "time_end": "11:40",
+          "subject": "История зарубежной литературы",
+          "type": "lecture",
+          "teacher": "Проф. Н.И. Соколова",
+          "room": "319",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [],
+      "wednesday": [],
+      "thursday": [],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}
