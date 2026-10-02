@@ -1,0 +1,386 @@
+{
+  "name": "ВОЖ34-ЖИЛ2602",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+  "profile": "Журналистика и Литература",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент П.В. Макарова",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "– 12:10",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "– 14:10",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФОЛЬКЛОР",
+          "type": "lecture",
+          "teacher": "Профессор Т.Н. Владимирова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТЕОРИЯ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Алимов М.М",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент М.А. Майстат",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "Старший",
+          "type": "other",
+          "teacher": "преподаватель А.С. Чернавский",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "преподаватель А.С. Чернавский",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "115",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "преподаватель А.С. Чернавский",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [],
+      "wednesday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ ТЕОРИИ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент П.В. Макарова",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ВОЗРАСТНАЯ АНАТОМИЯ, ФИЗИОЛОГИЯ И КУЛЬТУРА ЗДОРОВЬЯ",
+          "type": "practice",
+          "teacher": "Доцент В.А. Меркурьев",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "– 12:10",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "– 14:10",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "lecture",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ФОЛЬКЛОР",
+          "type": "lecture",
+          "teacher": "Профессор Т.Н. Владимирова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТЕОРИЯ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент О.Н. Щалпегин",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ПРАКТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "преподаватель Алимов М.М",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "lecture",
+          "teacher": "Доцент М.А. Майстат",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "10:00",
+          "time_end": "11:30",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "Старший",
+          "type": "other",
+          "teacher": "преподаватель А.С. Чернавский",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "преподаватель А.С. Чернавский",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ИСТОРИЯ РОССИИ",
+          "type": "practice",
+          "teacher": "Доцент А.М. Черныш",
+          "room": "115",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:20",
+          "time_end": "14:50",
+          "subject": "ОСНОВЫ РОССИЙСКОЙ ГОСУДАРСТВЕННОСТИ",
+          "type": "practice",
+          "teacher": "преподаватель А.С. Чернавский",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
