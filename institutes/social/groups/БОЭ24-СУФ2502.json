@@ -181,17 +181,6 @@
       ],
       "friday": [
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Теория менеджмента",
-          "type": "practice",
-          "teacher": "доц.И.А. Заякина 9.10",
-          "room": "805",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -220,6 +209,17 @@
           "subject": "Теория менеджмента",
           "type": "practice",
           "teacher": "доц.И.А. Заякина   2.10",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория менеджмента",
+          "type": "practice",
+          "teacher": "доц.И.А. Заякина 9.10",
           "room": "805",
           "subgroup": null,
           "notes": ""
@@ -402,17 +402,6 @@
       ],
       "friday": [
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Теория менеджмента",
-          "type": "practice",
-          "teacher": "доц.И.А. Заякина 9.10",
-          "room": "805",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -441,6 +430,17 @@
           "subject": "Теория менеджмента",
           "type": "practice",
           "teacher": "доц.И.А. Заякина   2.10",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Теория менеджмента",
+          "type": "practice",
+          "teacher": "доц.И.А. Заякина 9.10",
           "room": "805",
           "subgroup": null,
           "notes": ""
