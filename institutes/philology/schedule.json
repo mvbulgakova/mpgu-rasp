@@ -3,81 +3,108 @@
   "institute_name": "Институт филологии",
   "short_name": "ИФил",
   "academic_year": "2026-2027",
-  "updated_at": "2026-10-01T21:35:36.856156+00:00",
-  "parser_used": "claude",
+  "updated_at": "2026-10-02T10:54:07.534318+00:00",
+  "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
     {
-      "name": "ВОЛ34-РИИ2602",
-      "file": "ВОЛ34-РИИ2602",
+      "name": "ВОЛ34-РЯЛ2501",
+      "file": "ВОЛ34-РЯЛ2501",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": null,
-      "profile": null
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Русский язык и Литература"
     },
     {
-      "name": "ВОЛ34-БРЛ2302",
-      "file": "ВОЛ34-БРЛ2302",
+      "name": "ВОЛ34-РЯЛ2502",
+      "file": "ВОЛ34-РЯЛ2502",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": null,
-      "profile": null
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Русский язык и Литература"
     },
     {
-      "name": "ВОЛ57-РФИ2601",
-      "file": "ВОЛ57-РФИ2601",
+      "name": "ВОЛ34-РЯЛ2503",
+      "file": "ВОЛ34-РЯЛ2503",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Русский язык и Литература"
+    },
+    {
+      "name": "ВОЛ34-РЯЛ2504",
+      "file": "ВОЛ34-РЯЛ2504",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Русский язык и Литература"
+    },
+    {
+      "name": "ВОЛ34-БРЛ2501",
+      "file": "ВОЛ34-БРЛ2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Русский язык, Литература и История"
+    },
+    {
+      "name": "ВОЛ34-БРЛ2502",
+      "file": "ВОЛ34-БРЛ2502",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Русский язык, Литература и История"
+    },
+    {
+      "name": "ВОЛ34-РИИ2501",
+      "file": "ВОЛ34-РИИ2501",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Русский язык как иностранный и Иностранный язык (английский)"
+    },
+    {
+      "name": "ВОЛ34-РИИ2502",
+      "file": "ВОЛ34-РИИ2502",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "44.03.01 Педагогическое образование",
+      "profile": "Русский язык как иностранный и Иностранный язык (английский)"
+    },
+    {
+      "name": "БОЛ57-ПФИ2501",
+      "file": "БОЛ57-ПФИ2501",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
       "direction": "45.03.01 Филология",
-      "profile": "Русская филология"
+      "profile": "Прикладная филология"
     },
     {
-      "name": "ВОЛ34-РУС2601",
-      "file": "ВОЛ34-РУС2601",
+      "name": "БОЛ57-ПФИ2502",
+      "file": "БОЛ57-ПФИ2502",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": "44.03.01. Педагогическое образование",
-      "profile": "Русский язык и русская культура"
+      "direction": "45.03.01 Филология",
+      "profile": "Прикладная филология"
     },
     {
-      "name": "ЗОЛ57-РЯК2601",
-      "file": "ЗОЛ57-РЯК2601",
+      "name": "БОЛ57-ПФИ2503",
+      "file": "БОЛ57-ПФИ2503",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": "45.04.01. - Филология",
-      "profile": "Русский язык в контексте русской культуры"
-    },
-    {
-      "name": "ЗОЛ57-РЯК2602",
-      "file": "ЗОЛ57-РЯК2602",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "45.04.01. - Филология",
-      "profile": "Русский язык в контексте русской культуры"
-    },
-    {
-      "name": "ЗОЛ34-СОВ2501",
-      "file": "ЗОЛ34-СОВ2501",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Современные технологии преподавания русского языка как иностранного"
-    },
-    {
-      "name": "ЗОЛ34-РУС2501",
-      "file": "ЗОЛ34-РУС2501",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": "Русский язык и литература в цифровой образовательной среде"
+      "direction": "45.03.01 Филология",
+      "profile": "Прикладная филология"
     }
   ]
 }
