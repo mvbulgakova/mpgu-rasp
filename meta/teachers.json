@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-09-28T09:05:57.261996+00:00",
-  "count": 1429,
+  "count": 1431,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -7210,7 +7210,7 @@
       "abbreviated": "Алимов М.М.",
       "id": 515,
       "_key": "алимовмм",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "vladimirova-tatyana-nikolaevna-2",
@@ -7616,7 +7616,7 @@
       "abbreviated": "Абрамова В.Д.",
       "id": 544,
       "_key": "абрамовавд",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "bakanova-anastasija-andreevna",
@@ -14233,7 +14233,7 @@
       "_key": "ермолаевад",
       "_unknown": true,
       "id": 986,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_чекалинад",
@@ -14248,7 +14248,7 @@
       "_key": "чекалинад",
       "_unknown": true,
       "id": 987,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_тукшумскаяд",
@@ -14278,7 +14278,7 @@
       "_key": "щалпегинд",
       "_unknown": true,
       "id": 989,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_позертд",
@@ -19558,7 +19558,7 @@
       "_key": "шевцовад",
       "_unknown": true,
       "id": 1341,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_зианшинад",
@@ -19573,7 +19573,7 @@
       "_key": "зианшинад",
       "_unknown": true,
       "id": 1342,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_бучкинад",
@@ -19588,7 +19588,7 @@
       "_key": "бучкинад",
       "_unknown": true,
       "id": 1343,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_кимтк",
@@ -19693,7 +19693,7 @@
       "_key": "юиплыгун",
       "_unknown": true,
       "id": 1350,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_жавартазарова",
@@ -19948,7 +19948,7 @@
       "_key": "чернышд",
       "_unknown": true,
       "id": 1367,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_еад",
@@ -20338,7 +20338,7 @@
       "_key": "ю",
       "_unknown": true,
       "id": 1393,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ав",
@@ -20488,7 +20488,7 @@
       "_key": "захаровавв",
       "_unknown": true,
       "id": 1403,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ее",
@@ -20878,6 +20878,36 @@
       "_key": "эа",
       "_unknown": true,
       "id": 1429,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_заякинад",
+      "full_name": "Доцент И.А. Заякина",
+      "abbreviated": "Заякина Д.",
+      "last": "Заякина",
+      "first": "Доцент",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "заякинад",
+      "_unknown": true,
+      "id": 1430,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_гусевп",
+      "full_name": "Профессор Д.А. Гусев",
+      "abbreviated": "Гусев П.",
+      "last": "Гусев",
+      "first": "Профессор",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "гусевп",
+      "_unknown": true,
+      "id": 1431,
       "has_schedule": true
     }
   ]
