@@ -3,18 +3,27 @@
   "institute_name": "Институт журналистики, коммуникаций и медиаобразования",
   "short_name": "ИЖКМ",
   "academic_year": "2026-2027",
-  "updated_at": "2026-10-03T10:13:18.190063+00:00",
+  "updated_at": "2026-10-05T12:02:20.860693+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
     {
-      "name": "БОЖ41-РСО2301",
-      "file": "БОЖ41-РСО2301",
+      "name": "БОЖ09-ЖРН2301",
+      "file": "БОЖ09-ЖРН2301",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": "42.03.01 РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ",
-      "profile": "РЕКЛАМА И СВЯЗИ С ОБЩЕСТВЕННОСТЬЮ"
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "ЖУРНАЛИСТИКА"
+    },
+    {
+      "name": "БОЖ09-ЖРН2302",
+      "file": "БОЖ09-ЖРН2302",
+      "year": null,
+      "form": "full_time",
+      "degree": "bachelor",
+      "direction": "42.03.02 ЖУРНАЛИСТИКА",
+      "profile": "ЖУРНАЛИСТИКА"
     }
   ]
 }
