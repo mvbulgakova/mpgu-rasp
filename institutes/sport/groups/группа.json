@@ -1306,7 +1306,7 @@
           "subject": "История физической культуры",
           "type": "practice",
           "teacher": "ст. преп. Кабанова Е.А",
-          "room": "КГФ",
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -1701,17 +1701,6 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "История России",
-          "type": "practice",
-          "teacher": "доц. Чистова А.В",
-          "room": "218",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
           "subject": "Иностранный язык",
           "type": "practice",
           "teacher": "доц. Кандаурова Л.О",
@@ -1814,7 +1803,7 @@
           "subject": "Теоретические основы безопасности жизнедеятельности",
           "type": "lecture",
           "teacher": "проф. Газизулин Т.Г",
-          "room": "214",
+          "room": "218",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -1837,17 +1826,6 @@
           "type": "practice",
           "teacher": "доц. Чистова А.В",
           "room": "334",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "История России",
-          "type": "practice",
-          "teacher": "доц. Чистова А.В",
-          "room": "726",
           "subgroup": null,
           "notes": ""
         },
@@ -1913,7 +1891,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "ст. преп. Маниева С.А",
-          "room": "208",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -1958,17 +1936,6 @@
           "type": "practice",
           "teacher": "доц. Чистова А.В",
           "room": "КГФ",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "История России",
-          "type": "practice",
-          "teacher": "доц. Чистова А.В",
-          "room": "726",
           "subgroup": null,
           "notes": ""
         },
@@ -4213,7 +4180,7 @@
           "subject": "История физической культуры",
           "type": "practice",
           "teacher": "ст. преп. Кабанова Е.А",
-          "room": "КГФ",
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -4608,17 +4575,6 @@
           "slot": 1,
           "time_start": "09:00",
           "time_end": "10:30",
-          "subject": "История России",
-          "type": "practice",
-          "teacher": "доц. Чистова А.В",
-          "room": "218",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
           "subject": "Иностранный язык",
           "type": "practice",
           "teacher": "доц. Кандаурова Л.О",
@@ -4721,7 +4677,7 @@
           "subject": "Теоретические основы безопасности жизнедеятельности",
           "type": "lecture",
           "teacher": "проф. Газизулин Т.Г",
-          "room": "214",
+          "room": "218",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -4744,17 +4700,6 @@
           "type": "practice",
           "teacher": "доц. Чистова А.В",
           "room": "334",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "История России",
-          "type": "practice",
-          "teacher": "доц. Чистова А.В",
-          "room": "726",
           "subgroup": null,
           "notes": ""
         },
@@ -4820,7 +4765,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "ст. преп. Маниева С.А",
-          "room": "208",
+          "room": "КГФ",
           "subgroup": null,
           "notes": ""
         },
@@ -4865,17 +4810,6 @@
           "type": "practice",
           "teacher": "доц. Чистова А.В",
           "room": "КГФ",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "История России",
-          "type": "practice",
-          "teacher": "доц. Чистова А.В",
-          "room": "726",
           "subgroup": null,
           "notes": ""
         },
