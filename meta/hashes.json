@@ -1843,9 +1843,9 @@
   },
   "social:https://docs.google.com/spreadsheets/d/1KcjpPiqP2t2vje-JPjJSH3TPqXrLg3W3D3S1_ZtriGY/edit?gid=1809964676#gid=1809964676": {
     "url": "https://docs.google.com/spreadsheets/d/1KcjpPiqP2t2vje-JPjJSH3TPqXrLg3W3D3S1_ZtriGY/edit?gid=1809964676#gid=1809964676",
-    "md5": "f94e0d802e7ec2a7d22eec2f06178ec8",
+    "md5": "e859ab467e0f1d557fcb8c8bb69a832f",
     "size_bytes": 0,
-    "last_changed": "2026-10-06T11:45:27.888491+00:00"
+    "last_changed": "2026-10-03T10:13:20.170141+00:00"
   },
   "social:https://docs.google.com/spreadsheets/d/1Iat7ULiCfgXroosWChMn9922JwCkmcfgQGKVSg9pO2o/edit?gid=1115181248#gid=1115181248": {
     "url": "https://docs.google.com/spreadsheets/d/1Iat7ULiCfgXroosWChMn9922JwCkmcfgQGKVSg9pO2o/edit?gid=1115181248#gid=1115181248",
@@ -1873,9 +1873,9 @@
   },
   "social:https://docs.google.com/spreadsheets/d/1V_Ig6cmbE59_OQ29EFrZmRSp3vBolLFeMxguCmy4O3A/edit?gid=823486807#gid=823486807": {
     "url": "https://docs.google.com/spreadsheets/d/1V_Ig6cmbE59_OQ29EFrZmRSp3vBolLFeMxguCmy4O3A/edit?gid=823486807#gid=823486807",
-    "md5": "84e0e6732b3a8a1dcb758e59b6e31f2b",
+    "md5": "5652d736ea03e35f30ac998734a7e0ce",
     "size_bytes": 0,
-    "last_changed": "2026-10-06T11:45:27.888512+00:00"
+    "last_changed": "2026-10-03T10:13:20.170159+00:00"
   },
   "social:https://docs.google.com/spreadsheets/d/1jWPtstKErMfSxPrusC2XHMc8SpAL0LP-49poMhuYrQ4/edit?gid=50369416#gid=50369416": {
     "url": "https://docs.google.com/spreadsheets/d/1jWPtstKErMfSxPrusC2XHMc8SpAL0LP-49poMhuYrQ4/edit?gid=50369416#gid=50369416",
@@ -3187,9 +3187,9 @@
   },
   "social:https://docs.google.com/spreadsheets/d/1fj2dSOZNFjPOCsaU4b26x_iajbaeVX5q_mbTLt0nsg4/edit?gid=244224001#gid=244224001": {
     "url": "https://docs.google.com/spreadsheets/d/1fj2dSOZNFjPOCsaU4b26x_iajbaeVX5q_mbTLt0nsg4/edit?gid=244224001#gid=244224001",
-    "md5": "0f79e721b53444c8761fd9347a20800c",
+    "md5": "7423adc17edc7a1a4f58b28e0380dcc1",
     "size_bytes": 0,
-    "last_changed": "2026-10-06T11:45:27.888518+00:00"
+    "last_changed": "2026-09-25T20:13:55.184841+00:00"
   },
   "childhood:https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-1-semestra-1-kursa-bvo-ofo-na-2026-2027-4.pdf": {
     "url": "https://mpgu.su/wp-content/uploads/2026/09/raspisanie-uchebnyh-zanjatij-1-semestra-1-kursa-bvo-ofo-na-2026-2027-4.pdf",
@@ -3569,58 +3569,10 @@
     "size_bytes": 0,
     "last_changed": "2026-10-05T23:04:42.481226+00:00"
   },
-  "childhood:https://mpgu.su/wp-content/uploads/2026/10/edo.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/10/edo.pdf",
-    "md5": "0e7c19b35019694d471d4edf96853a2e",
+  "journalism:https://mpgu.su/wp-content/uploads/2026/10/3-kurs-zhurnalistika.-ochnaja-forma-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/10/3-kurs-zhurnalistika.-ochnaja-forma-1.pdf",
+    "md5": "f24083d6b133d56a390b9dc4941be870",
     "size_bytes": 0,
-    "last_changed": "2026-10-06T11:45:19.467922+00:00"
-  },
-  "childhood:https://mpgu.su/wp-content/uploads/2026/10/39ddb781e819071bad1a2d42ebdb9ed5.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/10/39ddb781e819071bad1a2d42ebdb9ed5.pdf",
-    "md5": "373d04574202e4fe10d74c1ec0607ce1",
-    "size_bytes": 0,
-    "last_changed": "2026-10-06T11:45:19.467939+00:00"
-  },
-  "childhood:https://mpgu.su/wp-content/uploads/2026/10/d6d64d3f596da15412a949841514e562.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/10/d6d64d3f596da15412a949841514e562.pdf",
-    "md5": "7bab95e6a4ce5ace67a68c4ecccf3853",
-    "size_bytes": 0,
-    "last_changed": "2026-10-06T11:45:19.467943+00:00"
-  },
-  "childhood:https://mpgu.su/wp-content/uploads/2026/10/pmo_1_kurs.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/10/pmo_1_kurs.pdf",
-    "md5": "df35e75bf702bf8c1542557fcaf16015",
-    "size_bytes": 0,
-    "last_changed": "2026-10-06T11:45:19.467946+00:00"
-  },
-  "childhood:https://mpgu.su/wp-content/uploads/2026/10/upr_1_kurs.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/10/upr_1_kurs.pdf",
-    "md5": "35ceec793d0848963b59b76b6e6aa7bc",
-    "size_bytes": 0,
-    "last_changed": "2026-10-06T11:45:19.467948+00:00"
-  },
-  "childhood:https://mpgu.su/wp-content/uploads/2026/10/b40b642a01196839c1845a64afacaf09.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/10/b40b642a01196839c1845a64afacaf09.pdf",
-    "md5": "4f1c1a52ab963b75093e092ef61f448a",
-    "size_bytes": 0,
-    "last_changed": "2026-10-06T11:45:19.467950+00:00"
-  },
-  "childhood:https://mpgu.su/wp-content/uploads/2026/10/68cbeb5e7bcaae4ba9c7c509ce04a218.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/10/68cbeb5e7bcaae4ba9c7c509ce04a218.pdf",
-    "md5": "a804b7735cfdcf43915c79cd5daac236",
-    "size_bytes": 0,
-    "last_changed": "2026-10-06T11:45:19.467952+00:00"
-  },
-  "childhood:https://mpgu.su/wp-content/uploads/2026/10/1_kurs_muzykalnoe_iskusstvo_i_obrazovanie.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/10/1_kurs_muzykalnoe_iskusstvo_i_obrazovanie.pdf",
-    "md5": "d2c28cb67a40ed3771e125e8c2739c21",
-    "size_bytes": 0,
-    "last_changed": "2026-10-06T11:45:19.467955+00:00"
-  },
-  "childhood:https://mpgu.su/wp-content/uploads/2026/10/2_kurs_muzykalnoe_iskusstvo_i_obrazovanie.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/10/2_kurs_muzykalnoe_iskusstvo_i_obrazovanie.pdf",
-    "md5": "ed24f3c4f9dce03002a883f0bede711d",
-    "size_bytes": 0,
-    "last_changed": "2026-10-06T11:45:19.467958+00:00"
+    "last_changed": "2026-10-06T11:45:45.135545+00:00"
   }
 }
