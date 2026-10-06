@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-05T09:46:56.790719+00:00",
-  "count": 1247,
+  "count": 1252,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -5936,7 +5936,7 @@
       "abbreviated": "Калита М.Е.",
       "id": 424,
       "_key": "калитаме",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "polyakova-lidiya-olegovna",
@@ -17577,7 +17577,7 @@
       "_key": "дистанционноа",
       "_unknown": true,
       "id": 1209,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_авкоролькова",
@@ -18147,6 +18147,81 @@
       "_key": "ауде",
       "_unknown": true,
       "id": 1247,
+      "has_schedule": false
+    },
+    {
+      "staff_slug": "_unknown_овполикашина",
+      "full_name": "доц. О.В. Поликашина",
+      "abbreviated": "Поликашина д.",
+      "last": "Поликашина",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "овполикашина",
+      "_unknown": true,
+      "id": 1248,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_сл",
+      "full_name": "ст.преп. Л.С. Булатова с",
+      "abbreviated": "с с.",
+      "last": "с",
+      "first": "ст.преп.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "сл",
+      "_unknown": true,
+      "id": 1249,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_се",
+      "full_name": "ст.преп. Е.В. Володько с",
+      "abbreviated": "с с.",
+      "last": "с",
+      "first": "ст.преп.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "се",
+      "_unknown": true,
+      "id": 1250,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_гороховса",
+      "full_name": "доц. Горохов С.А",
+      "abbreviated": "С.А д.",
+      "last": "С.А",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "гороховса",
+      "_unknown": true,
+      "id": 1251,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_овчинниковва",
+      "full_name": "проф. Овчинников В.А",
+      "abbreviated": "В.А п.",
+      "last": "В.А",
+      "first": "проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "овчинниковва",
+      "_unknown": true,
+      "id": 1252,
       "has_schedule": true
     }
   ]
