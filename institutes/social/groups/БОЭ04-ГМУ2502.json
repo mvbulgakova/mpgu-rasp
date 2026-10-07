@@ -42,6 +42,17 @@
           "notes": ""
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы делового общения",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -88,17 +99,6 @@
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Механизмы разрешения конфликтов в системе государственного и муниципального управления",
-          "type": "practice",
-          "teacher": "доц. С.А. Шеркунов       -338",
-          "room": "826",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -106,17 +106,6 @@
           "type": "practice",
           "teacher": "доц. М.С. Корнийчук    -",
           "room": "846",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Основы управленческой деятельности",
-          "type": "practice",
-          "teacher": "доц. С.А. Шеркунов",
-          "room": "826",
           "subgroup": null,
           "notes": ""
         },
@@ -139,7 +128,7 @@
           "time_end": "12:10",
           "subject": "Основы управленческой деятельности",
           "type": "practice",
-          "teacher": "доц. С.А. Шеркунов          :",
+          "teacher": "доц. С.А. Шеркунов",
           "room": "510",
           "subgroup": null,
           "notes": ""
@@ -150,7 +139,7 @@
           "time_end": "14:10",
           "subject": "История государственного управления",
           "type": "practice",
-          "teacher": "доц. И.С. Гусейнова",
+          "teacher": "асс. И Сун Чер",
           "room": null,
           "subgroup": null,
           "notes": ""
@@ -161,7 +150,7 @@
           "time_end": "14:10",
           "subject": "Основы управленческой деятельности",
           "type": "practice",
-          "teacher": "доц. С.А. Шеркунов          :",
+          "teacher": "доц. С.А. Шеркунов",
           "room": "510",
           "subgroup": null,
           "notes": ""
@@ -172,7 +161,7 @@
           "time_end": "15:50",
           "subject": "Управление персоналом",
           "type": "practice",
-          "teacher": "доц. М.С. Корнийчук     - дистанционно, -",
+          "teacher": "доц. М.С. Корнийчук     - дистанционно",
           "room": "203",
           "subgroup": null,
           "notes": ""
@@ -258,7 +247,30 @@
         }
       ],
       "friday": [],
-      "saturday": []
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Механизмы разрешения конфликтов в системе государственного и муниципального управления",
+          "type": "practice",
+          "teacher": "доц. С.А. Шеркунов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Механизмы разрешения конфликтов в системе государственного и муниципального управления",
+          "type": "practice",
+          "teacher": "доц. С.А. Шеркунов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
     },
     "even_week": {
       "monday": [
@@ -296,6 +308,17 @@
           "notes": ""
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы делового общения",
+          "type": "practice",
+          "teacher": "доц. М.С. Корнийчук",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -342,17 +365,6 @@
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Механизмы разрешения конфликтов в системе государственного и муниципального управления",
-          "type": "practice",
-          "teacher": "доц. С.А. Шеркунов       -338",
-          "room": "826",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -360,17 +372,6 @@
           "type": "practice",
           "teacher": "доц. М.С. Корнийчук    -",
           "room": "846",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Основы управленческой деятельности",
-          "type": "practice",
-          "teacher": "доц. С.А. Шеркунов",
-          "room": "826",
           "subgroup": null,
           "notes": ""
         },
@@ -393,7 +394,7 @@
           "time_end": "12:10",
           "subject": "Основы управленческой деятельности",
           "type": "practice",
-          "teacher": "доц. С.А. Шеркунов          :",
+          "teacher": "доц. С.А. Шеркунов",
           "room": "510",
           "subgroup": null,
           "notes": ""
@@ -404,7 +405,7 @@
           "time_end": "14:10",
           "subject": "История государственного управления",
           "type": "practice",
-          "teacher": "доц. И.С. Гусейнова",
+          "teacher": "асс. И Сун Чер",
           "room": null,
           "subgroup": null,
           "notes": ""
@@ -415,7 +416,7 @@
           "time_end": "14:10",
           "subject": "Основы управленческой деятельности",
           "type": "practice",
-          "teacher": "доц. С.А. Шеркунов          :",
+          "teacher": "доц. С.А. Шеркунов",
           "room": "510",
           "subgroup": null,
           "notes": ""
@@ -426,7 +427,7 @@
           "time_end": "15:50",
           "subject": "Управление персоналом",
           "type": "practice",
-          "teacher": "доц. М.С. Корнийчук     - дистанционно, -",
+          "teacher": "доц. М.С. Корнийчук     - дистанционно",
           "room": "203",
           "subgroup": null,
           "notes": ""
@@ -512,7 +513,30 @@
         }
       ],
       "friday": [],
-      "saturday": []
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Механизмы разрешения конфликтов в системе государственного и муниципального управления",
+          "type": "practice",
+          "teacher": "доц. С.А. Шеркунов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Механизмы разрешения конфликтов в системе государственного и муниципального управления",
+          "type": "practice",
+          "teacher": "доц. С.А. Шеркунов",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
     }
   }
 }
