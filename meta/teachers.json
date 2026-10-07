@@ -14742,7 +14742,7 @@
       "_key": "наниколина",
       "_unknown": true,
       "id": 1020,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_иа",
@@ -14952,7 +14952,7 @@
       "_key": "аюустинов",
       "_unknown": true,
       "id": 1034,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ее",
@@ -17547,7 +17547,7 @@
       "_key": "аашевцова",
       "_unknown": true,
       "id": 1207,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_ингрифцова",
