@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-05T09:46:56.790719+00:00",
-  "count": 1252,
+  "count": 1254,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -17022,7 +17022,7 @@
       "_key": "исгусейнова",
       "_unknown": true,
       "id": 1172,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_наустюжанина",
@@ -17547,7 +17547,7 @@
       "_key": "аашевцова",
       "_unknown": true,
       "id": 1207,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ингрифцова",
@@ -17577,7 +17577,7 @@
       "_key": "дистанционноа",
       "_unknown": true,
       "id": 1209,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_авкоролькова",
@@ -18162,7 +18162,7 @@
       "_key": "овполикашина",
       "_unknown": true,
       "id": 1248,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_сл",
@@ -18177,7 +18177,7 @@
       "_key": "сл",
       "_unknown": true,
       "id": 1249,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_се",
@@ -18192,7 +18192,7 @@
       "_key": "се",
       "_unknown": true,
       "id": 1250,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_гороховса",
@@ -18222,6 +18222,36 @@
       "_key": "овчинниковва",
       "_unknown": true,
       "id": 1252,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_гилевга",
+      "full_name": "проф. Гилев Г.А",
+      "abbreviated": "Г.А п.",
+      "last": "Г.А",
+      "first": "проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "гилевга",
+      "_unknown": true,
+      "id": 1253,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_ау",
+      "full_name": "доц. Усачев Н А",
+      "abbreviated": "А д.",
+      "last": "А",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ау",
+      "_unknown": true,
+      "id": 1254,
       "has_schedule": true
     }
   ]
