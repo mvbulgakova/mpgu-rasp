@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-05T09:46:56.790719+00:00",
-  "count": 1257,
+  "count": 1259,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -1022,7 +1022,7 @@
       "abbreviated": "Кравченко А.В.",
       "id": 73,
       "_key": "кравченкоав",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "gazizulin-talgat-galimovich",
@@ -1106,7 +1106,7 @@
       "abbreviated": "Мошкин В.Н.",
       "id": 79,
       "_key": "мошкинвн",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "petrov-sergey-viktorovich",
@@ -1134,7 +1134,7 @@
       "abbreviated": "Погодаева М.В.",
       "id": 81,
       "_key": "погодаевамв",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "sidorkin-vladimir-aleksandrovich",
@@ -1176,7 +1176,7 @@
       "abbreviated": "Старцев А.М.",
       "id": 84,
       "_key": "старцевам",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "suvorov-vjacheslav-vladimirovich",
@@ -17757,7 +17757,7 @@
       "_key": "еринаюи",
       "_unknown": true,
       "id": 1221,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_кабановаеа",
@@ -17832,7 +17832,7 @@
       "_key": "тарасоваюа",
       "_unknown": true,
       "id": 1226,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_усачевна",
@@ -17877,7 +17877,7 @@
       "_key": "кузьменкога",
       "_unknown": true,
       "id": 1229,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_шарайна",
@@ -17892,7 +17892,7 @@
       "_key": "шарайна",
       "_unknown": true,
       "id": 1230,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_большаковаав",
@@ -17937,7 +17937,7 @@
       "_key": "ананьинмс",
       "_unknown": true,
       "id": 1233,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_загородниковааю",
@@ -17982,7 +17982,7 @@
       "_key": "лукиноваав",
       "_unknown": true,
       "id": 1236,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_п",
@@ -18192,7 +18192,7 @@
       "_key": "се",
       "_unknown": true,
       "id": 1250,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_гороховса",
@@ -18237,7 +18237,7 @@
       "_key": "гилевга",
       "_unknown": true,
       "id": 1253,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ау",
@@ -18252,7 +18252,7 @@
       "_key": "ау",
       "_unknown": true,
       "id": 1254,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_гроссил",
@@ -18267,7 +18267,7 @@
       "_key": "гроссил",
       "_unknown": true,
       "id": 1255,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_хлызоваив",
@@ -18282,7 +18282,7 @@
       "_key": "хлызоваив",
       "_unknown": true,
       "id": 1256,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ба",
@@ -18297,6 +18297,36 @@
       "_key": "ба",
       "_unknown": true,
       "id": 1257,
+      "has_schedule": false
+    },
+    {
+      "staff_slug": "_unknown_зачети",
+      "full_name": "ст.преп. И.В. Алексеенко        .  -зачет",
+      "abbreviated": "-зачет с.",
+      "last": "-зачет",
+      "first": "ст.преп.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "зачети",
+      "_unknown": true,
+      "id": 1258,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_хзксенофонтова",
+      "full_name": "доц. Х.З. Ксенофонтова",
+      "abbreviated": "Ксенофонтова д.",
+      "last": "Ксенофонтова",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "хзксенофонтова",
+      "_unknown": true,
+      "id": 1259,
       "has_schedule": true
     }
   ]
