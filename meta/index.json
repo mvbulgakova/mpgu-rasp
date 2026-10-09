@@ -74,8 +74,8 @@
       "short_name": "ИСГО",
       "campus": "КГФ",
       "campus_address": "пр-т Вернадского, 88",
-      "groups_count": 6,
-      "updated_at": "2026-10-09T11:39:13.535775+00:00",
+      "groups_count": 9,
+      "updated_at": "2026-10-09T21:28:21.082896+00:00",
       "status": "ok",
       "parser_used": "gsheets"
     },
