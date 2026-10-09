@@ -21,61 +21,6 @@
           "notes": ""
         },
         {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ЭКОНОМИКА",
-          "type": "practice",
-          "teacher": "Профессор А.О. Адельфинский",
-          "room": "117",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ЖУРНАЛИСТИКИ",
-          "type": "practice",
-          "teacher": "Доцент С.Ю. Ермолаева",
-          "room": "113",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "КУЛЬТУРОЛОГИЯ",
-          "type": "practice",
-          "teacher": "Профессор И.А. Купцова",
-          "room": "110",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ЭКОНОМИКА",
-          "type": "practice",
-          "teacher": "Профессор А.О. Адельфинский",
-          "room": "205",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 7,
           "time_start": "19:20",
           "time_end": "20:50",
@@ -144,81 +89,13 @@
       ],
       "wednesday": [
         {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
-          "type": "practice",
-          "teacher": "Доцент Е.В. Летохо",
-          "room": "107",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "КУЛЬТУРОЛОГИЯ",
-          "type": "practice",
-          "teacher": "Профессор И.А. Купцова",
-          "room": "113",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "ЛИТЕРАТУРЫ",
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
           "type": "practice",
           "teacher": "Доцент А.В. Попова",
           "room": "202",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "ЖУРНАЛИСТИКИ",
-          "type": "practice",
-          "teacher": "Доцент С.Ю. Ермолаева",
-          "room": "205",
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
-      "thursday": [
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
-          "type": "practice",
-          "teacher": "преподаватель С.С. Волхов",
-          "room": "Спортивный зал",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "ПОЛИТОЛОГИЯ",
-          "type": "practice",
-          "teacher": "Профессор Б.Ф. Славин",
-          "room": "110",
           "subgroup": null,
           "notes": ""
         },
@@ -228,8 +105,8 @@
           "time_end": "15:50",
           "subject": "АНАЛИТИЧЕСКАЯ ЖУРНАЛИСТИКА",
           "type": "practice",
-          "teacher": "Доцент П.В. Макарова",
-          "room": "202",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -237,7 +114,18 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Летохо",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПОЛИТОЛОГИЯ",
           "type": "practice",
           "teacher": null,
           "room": null,
@@ -248,10 +136,10 @@
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
-          "subject": "Старший",
-          "type": "other",
-          "teacher": "преподаватель С.С. Волхов",
-          "room": "Спортивный зал",
+          "subject": "АНАЛИТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Доцент П.В. Макарова",
+          "room": "107",
           "subgroup": null,
           "notes": ""
         },
@@ -259,15 +147,71 @@
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
-          "subject": "КУЛЬТУРОЛОГИЯ",
+          "subject": "ПОЛИТОЛОГИЯ",
           "type": "practice",
-          "teacher": "Профессор И.А. Купцова",
+          "teacher": "Профессор Б.Ф. Славин",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Летохо",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Летохо",
           "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ ОТЕЧЕСТВЕННОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент И.Б. Игнатова",
+          "room": "113",
           "subgroup": null,
           "notes": ""
         }
       ],
+      "thursday": [],
       "friday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Летохо",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": 6,
           "time_start": "17:40",
@@ -286,7 +230,40 @@
           "subject": "ЖУРНАЛИСТИКИ",
           "type": "practice",
           "teacher": "Доцент С.Ю. Ермолаева",
-          "room": null,
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Летохо",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент С.Ю. Ермолаева",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент С.Ю. Ермолаева",
+          "room": "Белый",
           "subgroup": null,
           "notes": ""
         },
@@ -311,9 +288,31 @@
           "room": "117",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Летохо",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "saturday": [
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Попова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": null,
           "time_start": "13:20",
@@ -329,6 +328,17 @@
           "slot": null,
           "time_start": "13:20",
           "time_end": "14:50",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Попова",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
           "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
           "type": "practice",
           "teacher": "Доцент А.В. Попова",
@@ -353,61 +363,6 @@
           "notes": ""
         },
         {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ЭКОНОМИКА",
-          "type": "practice",
-          "teacher": "Профессор А.О. Адельфинский",
-          "room": "117",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ЖУРНАЛИСТИКИ",
-          "type": "practice",
-          "teacher": "Доцент С.Ю. Ермолаева",
-          "room": "113",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "КУЛЬТУРОЛОГИЯ",
-          "type": "practice",
-          "teacher": "Профессор И.А. Купцова",
-          "room": "110",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ЭКОНОМИКА",
-          "type": "practice",
-          "teacher": "Профессор А.О. Адельфинский",
-          "room": "205",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
           "slot": 7,
           "time_start": "19:20",
           "time_end": "20:50",
@@ -476,81 +431,13 @@
       ],
       "wednesday": [
         {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
-          "type": "practice",
-          "teacher": "Доцент Е.В. Летохо",
-          "room": "107",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "КУЛЬТУРОЛОГИЯ",
-          "type": "practice",
-          "teacher": "Профессор И.А. Купцова",
-          "room": "113",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "ЛИТЕРАТУРЫ",
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
           "type": "practice",
           "teacher": "Доцент А.В. Попова",
           "room": "202",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 7,
-          "time_start": "19:20",
-          "time_end": "20:50",
-          "subject": "ЖУРНАЛИСТИКИ",
-          "type": "practice",
-          "teacher": "Доцент С.Ю. Ермолаева",
-          "room": "205",
-          "subgroup": null,
-          "notes": ""
-        }
-      ],
-      "thursday": [
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "ЭЛЕКТИВНЫЕ КУРСЫ ПО ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
-          "type": "practice",
-          "teacher": "преподаватель С.С. Волхов",
-          "room": "Спортивный зал",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "ПОЛИТОЛОГИЯ",
-          "type": "practice",
-          "teacher": "Профессор Б.Ф. Славин",
-          "room": "110",
           "subgroup": null,
           "notes": ""
         },
@@ -560,8 +447,8 @@
           "time_end": "15:50",
           "subject": "АНАЛИТИЧЕСКАЯ ЖУРНАЛИСТИКА",
           "type": "practice",
-          "teacher": "Доцент П.В. Макарова",
-          "room": "202",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -569,7 +456,18 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "ФИЗИЧЕСКОЙ КУЛЬТУРЕ И СПОРТУ",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Летохо",
+          "room": "116",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ПОЛИТОЛОГИЯ",
           "type": "practice",
           "teacher": null,
           "room": null,
@@ -580,10 +478,10 @@
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
-          "subject": "Старший",
-          "type": "other",
-          "teacher": "преподаватель С.С. Волхов",
-          "room": "Спортивный зал",
+          "subject": "АНАЛИТИЧЕСКАЯ ЖУРНАЛИСТИКА",
+          "type": "practice",
+          "teacher": "Доцент П.В. Макарова",
+          "room": "107",
           "subgroup": null,
           "notes": ""
         },
@@ -591,15 +489,71 @@
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
-          "subject": "КУЛЬТУРОЛОГИЯ",
+          "subject": "ПОЛИТОЛОГИЯ",
           "type": "practice",
-          "teacher": "Профессор И.А. Купцова",
+          "teacher": "Профессор Б.Ф. Славин",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Летохо",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Летохо",
           "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ ОТЕЧЕСТВЕННОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент И.Б. Игнатова",
+          "room": "113",
           "subgroup": null,
           "notes": ""
         }
       ],
+      "thursday": [],
       "friday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Летохо",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": 6,
           "time_start": "17:40",
@@ -618,7 +572,40 @@
           "subject": "ЖУРНАЛИСТИКИ",
           "type": "practice",
           "teacher": "Доцент С.Ю. Ермолаева",
-          "room": null,
+          "room": "117",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Летохо",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент С.Ю. Ермолаева",
+          "room": "111",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЖУРНАЛИСТИКИ",
+          "type": "practice",
+          "teacher": "Доцент С.Ю. Ермолаева",
+          "room": "Белый",
           "subgroup": null,
           "notes": ""
         },
@@ -643,9 +630,31 @@
           "room": "117",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ИСТОРИЯ РУССКОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент Е.В. Летохо",
+          "room": "114",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "saturday": [
+        {
+          "slot": null,
+          "time_start": "11:40",
+          "time_end": "13:10",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Попова",
+          "room": "204",
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": null,
           "time_start": "13:20",
@@ -661,6 +670,17 @@
           "slot": null,
           "time_start": "13:20",
           "time_end": "14:50",
+          "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
+          "type": "practice",
+          "teacher": "Доцент А.В. Попова",
+          "room": "110",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "15:00",
+          "time_end": "16:30",
           "subject": "ИСТОРИЯ ЗАРУБЕЖНОЙ ЛИТЕРАТУРЫ",
           "type": "practice",
           "teacher": "Доцент А.В. Попова",
