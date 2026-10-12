@@ -365,19 +365,8 @@
           "time_end": "10:30",
           "subject": "Иностранный язык для специальных целей",
           "type": "practice",
-          "teacher": "доц. Бессмертная Ж.Д",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "ДИСТАНТ",
-          "type": "other",
-          "teacher": null,
-          "room": null,
+          "teacher": "доц. Смирнова Н.В",
+          "room": "us05web.zoom.us/j/5292113996?pwd=czBteVlCUWM3bmt4WVB…",
           "subgroup": null,
           "notes": ""
         },
@@ -387,19 +376,8 @@
           "time_end": "12:10",
           "subject": "Иностранный язык для специальных целей",
           "type": "practice",
-          "teacher": "доц. Бессмертная Ж.Д",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "ДИСТАНТ",
-          "type": "other",
-          "teacher": null,
-          "room": null,
+          "teacher": "доц. Смирнова Н.В",
+          "room": "us05web.zoom.us/j/5292113996?pwd=czBteVlCUWM3bmt4WVB…",
           "subgroup": null,
           "notes": ""
         }
@@ -764,19 +742,8 @@
           "time_end": "10:30",
           "subject": "Иностранный язык для специальных целей",
           "type": "practice",
-          "teacher": "доц. Бессмертная Ж.Д",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "ДИСТАНТ",
-          "type": "other",
-          "teacher": null,
-          "room": null,
+          "teacher": "доц. Смирнова Н.В",
+          "room": "us05web.zoom.us/j/5292113996?pwd=czBteVlCUWM3bmt4WVB…",
           "subgroup": null,
           "notes": ""
         },
@@ -786,19 +753,8 @@
           "time_end": "12:10",
           "subject": "Иностранный язык для специальных целей",
           "type": "practice",
-          "teacher": "доц. Бессмертная Ж.Д",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "ДИСТАНТ",
-          "type": "other",
-          "teacher": null,
-          "room": null,
+          "teacher": "доц. Смирнова Н.В",
+          "room": "us05web.zoom.us/j/5292113996?pwd=czBteVlCUWM3bmt4WVB…",
           "subgroup": null,
           "notes": ""
         }

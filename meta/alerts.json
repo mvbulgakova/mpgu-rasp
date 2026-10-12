@@ -1,0 +1,12 @@
+[
+  {
+    "type": "groups_dropped",
+    "severity": "medium",
+    "institute_id": "sport",
+    "institute_name": "Институт физической культуры, спорта и здоровья",
+    "message": "Количество групп резко сократилось: 10 → 2 после обновления 1 файл(ов).",
+    "prev_count": 10,
+    "new_count": 2,
+    "changed_files": 1
+  }
+]
