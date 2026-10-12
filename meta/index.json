@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T23:27:44.049706+00:00",
+  "generated_at": "2026-10-12T23:29:20.113706+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -86,7 +86,7 @@
       "campus": "ИБХ",
       "campus_address": "ул. Кибальчича, 6",
       "groups_count": 30,
-      "updated_at": "2026-10-12T12:44:18.239081+00:00",
+      "updated_at": "2026-10-12T23:29:20.081117+00:00",
       "status": "ok",
       "parser_used": "nextcloud"
     },
