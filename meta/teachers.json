@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-12T09:58:50.917047+00:00",
-  "count": 1282,
+  "count": 1286,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -17847,7 +17847,7 @@
       "_key": "асчертков",
       "_unknown": true,
       "id": 1227,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_малимонова",
@@ -17862,7 +17862,7 @@
       "_key": "малимонова",
       "_unknown": true,
       "id": 1228,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ивалексеенко",
@@ -17877,7 +17877,7 @@
       "_key": "ивалексеенко",
       "_unknown": true,
       "id": 1229,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_зачети",
@@ -17892,7 +17892,7 @@
       "_key": "зачети",
       "_unknown": true,
       "id": 1230,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_хзксенофонтова",
@@ -17907,7 +17907,7 @@
       "_key": "хзксенофонтова",
       "_unknown": true,
       "id": 1231,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_двиванова",
@@ -17922,7 +17922,7 @@
       "_key": "двиванова",
       "_unknown": true,
       "id": 1232,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ввлиньков",
@@ -17937,7 +17937,7 @@
       "_key": "ввлиньков",
       "_unknown": true,
       "id": 1233,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_пврябов",
@@ -17952,7 +17952,7 @@
       "_key": "пврябов",
       "_unknown": true,
       "id": 1234,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_петрованг",
@@ -18657,7 +18657,7 @@
       "_key": "овполикашина",
       "_unknown": true,
       "id": 1281,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_сл",
@@ -18672,6 +18672,66 @@
       "_key": "сл",
       "_unknown": true,
       "id": 1282,
+      "has_schedule": false
+    },
+    {
+      "staff_slug": "_unknown_оаигумнов",
+      "full_name": "проф. О.А. Игумнов",
+      "abbreviated": "Игумнов п.",
+      "last": "Игумнов",
+      "first": "проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "оаигумнов",
+      "_unknown": true,
+      "id": 1283,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_оамакаренко",
+      "full_name": "доц. О.А. Макаренко",
+      "abbreviated": "Макаренко д.",
+      "last": "Макаренко",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "оамакаренко",
+      "_unknown": true,
+      "id": 1284,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_httpsт",
+      "full_name": "Теория менеджмента  доц.И.А. Заякина  (дистанционно) https:",
+      "abbreviated": "https: Т.",
+      "last": "https:",
+      "first": "Теория",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "httpsт",
+      "_unknown": true,
+      "id": 1285,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_се",
+      "full_name": "ст.преп. Е.В. Володько с",
+      "abbreviated": "с с.",
+      "last": "с",
+      "first": "ст.преп.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "се",
+      "_unknown": true,
+      "id": 1286,
       "has_schedule": true
     }
   ]
