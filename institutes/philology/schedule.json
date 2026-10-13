@@ -3,27 +3,18 @@
   "institute_name": "Институт филологии",
   "short_name": "ИФил",
   "academic_year": "2026-2027",
-  "updated_at": "2026-10-07T21:46:13.738333+00:00",
+  "updated_at": "2026-10-13T21:50:14.074142+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
     {
-      "name": "БОЛ57-ПФИ2401",
-      "file": "БОЛ57-ПФИ2401",
+      "name": "ЗОЛ34-ЛИН2601",
+      "file": "ЗОЛ34-ЛИН2601",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": "45.03.01 Филология",
-      "profile": "Прикладная филология"
-    },
-    {
-      "name": "БОЛ48-УВД2401",
-      "file": "БОЛ48-УВД2401",
-      "year": null,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "48.03.01 Теология",
-      "profile": "Педагогическая и просветительская деятельность"
+      "direction": "44.04.01 Педагогическое образование",
+      "profile": "Лингводидактика РКИ и нейропедагогика"
     }
   ]
 }
