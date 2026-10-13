@@ -123,6 +123,17 @@
       ],
       "wednesday": [
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История государственного управления",
+          "type": "lecture",
+          "teacher": "асс. И Сун Чер",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -388,6 +399,17 @@
         }
       ],
       "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История государственного управления",
+          "type": "lecture",
+          "teacher": "асс. И Сун Чер",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": 2,
           "time_start": "10:40",
