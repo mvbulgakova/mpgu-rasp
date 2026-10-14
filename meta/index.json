@@ -129,8 +129,8 @@
       "short_name": "ИЖКМ",
       "campus": "ИЖКМ",
       "campus_address": "Верхняя Радищевская, 16-18",
-      "groups_count": 3,
-      "updated_at": "2026-10-09T11:40:09.562112+00:00",
+      "groups_count": 1,
+      "updated_at": "2026-10-14T09:55:32.479410+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
     },
