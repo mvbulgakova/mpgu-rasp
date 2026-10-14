@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-12T09:58:50.917047+00:00",
-  "count": 1295,
+  "count": 1296,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -1134,7 +1134,7 @@
       "abbreviated": "Погодаева М.В.",
       "id": 81,
       "_key": "погодаевамв",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "sidorkin-vladimir-aleksandrovich",
@@ -15357,7 +15357,7 @@
       "_key": "лг",
       "_unknown": true,
       "id": 1061,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_на",
@@ -17577,7 +17577,7 @@
       "_key": "лхзарипова",
       "_unknown": true,
       "id": 1209,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_мскорнийчук",
@@ -17802,7 +17802,7 @@
       "_key": "и",
       "_unknown": true,
       "id": 1224,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_и",
@@ -17817,7 +17817,7 @@
       "_key": "и",
       "_unknown": true,
       "id": 1225,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_м",
@@ -18192,7 +18192,7 @@
       "_key": "усачевна",
       "_unknown": true,
       "id": 1250,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_тарасоваюа",
@@ -18207,7 +18207,7 @@
       "_key": "тарасоваюа",
       "_unknown": true,
       "id": 1251,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_еринаюи",
@@ -18222,7 +18222,7 @@
       "_key": "еринаюи",
       "_unknown": true,
       "id": 1252,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_машковкю",
@@ -18282,7 +18282,7 @@
       "_key": "ау",
       "_unknown": true,
       "id": 1256,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_столярлм",
@@ -18327,7 +18327,7 @@
       "_key": "лукиноваав",
       "_unknown": true,
       "id": 1259,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_ау",
@@ -18342,7 +18342,7 @@
       "_key": "у",
       "_unknown": true,
       "id": 1260,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_гороховса",
@@ -18507,7 +18507,7 @@
       "_key": "у",
       "_unknown": true,
       "id": 1271,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_кузьменкога",
@@ -18522,7 +18522,7 @@
       "_key": "кузьменкога",
       "_unknown": true,
       "id": 1272,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_шарайна",
@@ -18537,7 +18537,7 @@
       "_key": "шарайна",
       "_unknown": true,
       "id": 1273,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_большаковаав",
@@ -18582,7 +18582,7 @@
       "_key": "ананьинмс",
       "_unknown": true,
       "id": 1276,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_загородниковааю",
@@ -18657,7 +18657,7 @@
       "_key": "овполикашина",
       "_unknown": true,
       "id": 1281,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_сл",
@@ -18672,7 +18672,7 @@
       "_key": "сл",
       "_unknown": true,
       "id": 1282,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_оаигумнов",
@@ -18732,7 +18732,7 @@
       "_key": "се",
       "_unknown": true,
       "id": 1286,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_осборисова",
@@ -18867,6 +18867,21 @@
       "_key": "аудн",
       "_unknown": true,
       "id": 1295,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_жввасильева",
+      "full_name": "доц. Ж.В. Васильева",
+      "abbreviated": "Васильева д.",
+      "last": "Васильева",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "жввасильева",
+      "_unknown": true,
+      "id": 1296,
       "has_schedule": true
     }
   ]
