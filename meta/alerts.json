@@ -1,0 +1,12 @@
+[
+  {
+    "type": "groups_dropped",
+    "severity": "medium",
+    "institute_id": "arts",
+    "institute_name": "Институт изящных искусств",
+    "message": "Количество групп резко сократилось: 31 → 3 после обновления 3 файл(ов).",
+    "prev_count": 31,
+    "new_count": 3,
+    "changed_files": 3
+  }
+]
