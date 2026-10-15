@@ -42,6 +42,28 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ДЕНЬ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ПРАКТИЧЕСКОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -148,6 +170,72 @@
           "type": "practice",
           "teacher": "ст. преп. Чернышева О.В",
           "room": "с/з №3",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПОДГОТОВКИ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "БOЗ34-ФЗК2301 (22)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "БOЗ34-ФЗК2302 (21)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "БOЗ35-КДО2301 (25)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "БOЗ35-КДО2302 (26)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "БOЗ35-ФБЖ2301 (33)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -550,6 +638,17 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Технологии работы в инклюзивном образовательном пространстве",
+          "type": "lecture",
+          "teacher": "проф. Хлызова И.В",
+          "room": "216",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -603,6 +702,17 @@
           "room": "213",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии работы в инклюзивном образовательном пространстве",
+          "type": "lecture",
+          "teacher": "проф. Хлызова И.В",
+          "room": "216",
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 3,
@@ -680,6 +790,28 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания предмета «Физическая культура»",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "216",
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 4,
@@ -779,6 +911,39 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы научно-методической деятельности в физической культуре и спорте",
+          "type": "lecture",
+          "teacher": "проф. Кузьменко Г.А",
+          "room": "213",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания предмета «Физическая культура»",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "216",
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 5,
@@ -886,6 +1051,83 @@
           "subject": "Методика преподавания предмета «Физическая культура»",
           "type": "lecture",
           "teacher": "ст. преп. Ястребова Е.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы научно-методической деятельности в физической культуре и спорте",
+          "type": "lecture",
+          "teacher": "проф. Кузьменко Г.А",
+          "room": "213",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-КДО2301 (25)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-ФБЖ2301 (33)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ34-ФЗК2301 (22)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ34-ФЗК2302 (21)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-КДО2302 (26)",
+          "type": "other",
+          "teacher": null,
           "room": null,
           "subgroup": null,
           "notes": ""
@@ -1069,6 +1311,17 @@
           "notes": "ПЗ"
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовое обеспечение дополнительного образования",
+          "type": "lecture",
+          "teacher": "доц. Петрова Н.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -1188,6 +1441,39 @@
           "room": "213",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Организационно-правовые основы физкультурно-спортивной деятельности",
+          "type": "lecture",
+          "teacher": "доц. Петрова Н.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 3,
@@ -1355,6 +1641,50 @@
           "notes": "ПЗ"
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы научно-методической деятельности в физической культуре и спорте",
+          "type": "lecture",
+          "teacher": "проф. Кузьменко Г.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Маркетинг и маркетинговые исследования в сфере физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "доц. Усачев Н.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -1472,6 +1802,61 @@
           "type": "lecture",
           "teacher": "проф. Шарай Н.А",
           "room": "КГФ",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы научно-методической деятельности в физической культуре и спорте",
+          "type": "lecture",
+          "teacher": "проф. Кузьменко Г.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Организация внеурочной деятельности учителя основ безопасности жизнедеятельности",
+          "type": "lecture",
+          "teacher": "доц. Кравченко А.В",
+          "room": "218",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -1672,6 +2057,116 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Спортивная медицина",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Организация внеурочной деятельности учителя основ безопасности жизнедеятельности",
+          "type": "lecture",
+          "teacher": "доц. Кравченко А.В",
+          "room": "218",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ34-ФЗК2302 (21)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ34-ФЗК2301 (22)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-КДО2301 (25)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-КДО2302 (26)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-ФБЖ2301 (33)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "thursday": [
@@ -1753,6 +2248,39 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социология физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "ст. преп. Кабанова Е.А",
+          "room": "214",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ЭК по ФКиС: Аэробика",
+          "type": "other",
+          "teacher": "ст. преп. Разумова С.Ю",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "221",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -1825,7 +2353,7 @@
           "subject": "ЭК по ФКиС: Шахматы",
           "type": "other",
           "teacher": "ст. преп. Ястребова Е.А",
-          "room": "КГФ",
+          "room": "537",
           "subgroup": null,
           "notes": ""
         },
@@ -1883,6 +2411,72 @@
           "room": "207",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "213",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социология физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "ст. преп. Кабанова Е.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЭК по ФКиС: Атлетическая гимнастика",
+          "type": "other",
+          "teacher": "доц. Алиев Н. Б",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Спортивная медицина",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "221",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЭК по ФКиС: Аэробика",
+          "type": "other",
+          "teacher": "ст. преп. Разумова С.Ю",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Интерактивные средства дистанционного взаимодействия с обучающимися",
+          "type": "lecture",
+          "teacher": "ст. преп. Савин М.Э",
+          "room": "215",
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 3,
@@ -2012,7 +2606,7 @@
           "subject": "Основы психологической безопасности",
           "type": "lecture",
           "teacher": "проф. Погодаева М.В",
-          "room": "КГФ",
+          "room": "537",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -2037,6 +2631,72 @@
           "room": "101",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЭК по ФКиС: Аэробика",
+          "type": "other",
+          "teacher": "ст. преп. Разумова С.Ю",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социология физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "ст. преп. Кабанова Е.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЭК по ФКиС: Атлетическая гимнастика",
+          "type": "other",
+          "teacher": "доц. Алиев Н.Б",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЭК по ФКиС: Современные фитнес-технологии",
+          "type": "other",
+          "teacher": "доц. Усачев Н.А",
+          "room": "с/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии оказания первой помощи",
+          "type": "lecture",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": "221",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Интерактивные средства дистанционного взаимодействия с обучающимися",
+          "type": "lecture",
+          "teacher": "Ст. преп. Савин М.Э",
+          "room": "КГФ",
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 4,
@@ -2125,6 +2785,83 @@
           "room": "202",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЭК по ФКиС: Атлетическая гимнастика",
+          "type": "other",
+          "teacher": "доц. Алиев Н.Б",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЭК по ФКиС: Аэробика",
+          "type": "other",
+          "teacher": "ст. преп. Разумова С.Ю",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социология физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "ст. преп. Кабанова Е.А",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЭК по ФКиС: Современные фитнес-технологии",
+          "type": "other",
+          "teacher": "доц. Усачев Н.А",
+          "room": "с/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии оказания первой помощи",
+          "type": "lecture",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": "221",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психологическая безопасность",
+          "type": "lecture",
+          "teacher": "проф. Погодаева М.В",
+          "room": "216",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания предмета «Физическая культура»",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 5,
@@ -2268,6 +3005,138 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Спортивная медицина",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "221",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Технологии оказания первой помощи",
+          "type": "lecture",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": "221",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика преподавания предмета «Физическая культура»",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЭК по ФКиС: Атлетическая гимнастика",
+          "type": "other",
+          "teacher": "доц. Алиев Н. Б",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психологическая безопасность",
+          "type": "lecture",
+          "teacher": "проф. Погодаева М.В",
+          "room": "216",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЭК по ФКиС: Современные фитнес-технологии",
+          "type": "other",
+          "teacher": "доц. Усачев Н.А",
+          "room": "с/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Методика преподавания предмета «Физическая культура»",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-КДО2302 (26)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ34-ФЗК2301 (22)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ34-ФЗК2302 (21)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-КДО2301 (25)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-ФБЖ2301 (33)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "friday": [
@@ -2314,6 +3183,17 @@
           "room": "гимнастический зал",
           "subgroup": null,
           "notes": "ПЗ"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "221",
+          "subgroup": null,
+          "notes": ""
         },
         {
           "slot": 2,
@@ -2400,6 +3280,39 @@
           "type": "lecture",
           "teacher": "доц. Куксова М.А",
           "room": "218",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Организационно-правовые основы физкультурно-спортивной деятельности",
+          "type": "practice",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "215",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Спортивная медицина",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "221",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и методика обучения безопасности жизнедеятельности",
+          "type": "lecture",
+          "teacher": "проф. Мошкин В.Н",
+          "room": "101",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -2481,6 +3394,61 @@
           "notes": "ПЗ"
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Организационно-правовые основы физкультурно-спортивной деятельности",
+          "type": "practice",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "213",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Нормативно-правовое обеспечение дополнительного образования",
+          "type": "practice",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "215",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Спецкурс по КР (методика обучения и воспитания безопасности жизнедеятельности)",
+          "type": "other",
+          "teacher": "проф. Мошкин В.Н",
+          "room": "214",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория и методика обучения безопасности жизнедеятельности",
+          "type": "lecture",
+          "teacher": "проф. Мошкин В.Н",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -2523,6 +3491,61 @@
           "room": "214",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социология физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "ст. преп. Кабанова Е.А",
+          "room": "213",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовое обеспечение дополнительного образования",
+          "type": "practice",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "213",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Спецкурс по КР (методика обучения и воспитания безопасности жизнедеятельности)",
+          "type": "other",
+          "teacher": "проф. Мошкин В.Н",
+          "room": "214",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория и методика обучения безопасности жизнедеятельности",
+          "type": "lecture",
+          "teacher": "проф. Мошкин В.Н",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 5,
@@ -2721,6 +3744,83 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "218",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Спортивная медицина",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-КДО2301 (25)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ34-ФЗК2301 (22)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ34-ФЗК2302 (21)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-КДО2302 (26)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-ФБЖ2301 (33)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "saturday": [
@@ -2835,6 +3935,17 @@
           "notes": ""
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы национальной безопасности Российской Федерации",
+          "type": "lecture",
+          "teacher": "доц. Старцев А.М",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -2890,6 +4001,17 @@
           "notes": ""
         },
         {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту: Основы оборонно-спортивной подготовки",
+          "type": "practice",
+          "teacher": "доц. Старцев А.М",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
@@ -2905,6 +4027,105 @@
           "time_start": "16:00",
           "time_end": "17:30",
           "subject": "2 неделя (НЕЧЕТНАЯ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Элективные курсы по физической культуре и спорту: Основы самообороны",
+          "type": "practice",
+          "teacher": "доц. Старцев А.М",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Техногенные опасности и защита от них",
+          "type": "lecture",
+          "teacher": "доц. Старцев А.М",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-ФБЖ2301 (33)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ34-ФЗК2302 (21)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "1 неделя (ЧЕТНАЯ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "2 неделя (НЕЧЕТНАЯ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-КДО2301 (25)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ34-ФЗК2301 (22)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-КДО2302 (26)",
           "type": "other",
           "teacher": null,
           "room": null,
@@ -2949,6 +4170,28 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ДЕНЬ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ПРАКТИЧЕСКОЙ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -3055,6 +4298,72 @@
           "type": "practice",
           "teacher": "ст. преп. Чернышева О.В",
           "room": "с/з №3",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ПОДГОТОВКИ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "БOЗ34-ФЗК2301 (22)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "БOЗ34-ФЗК2302 (21)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "БOЗ35-КДО2301 (25)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "БOЗ35-КДО2302 (26)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "БOЗ35-ФБЖ2301 (33)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -3457,6 +4766,17 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Технологии работы в инклюзивном образовательном пространстве",
+          "type": "lecture",
+          "teacher": "проф. Хлызова И.В",
+          "room": "216",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -3510,6 +4830,17 @@
           "room": "213",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Технологии работы в инклюзивном образовательном пространстве",
+          "type": "lecture",
+          "teacher": "проф. Хлызова И.В",
+          "room": "216",
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 3,
@@ -3587,6 +4918,28 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Методика преподавания предмета «Физическая культура»",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "216",
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 4,
@@ -3686,6 +5039,39 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы научно-методической деятельности в физической культуре и спорте",
+          "type": "lecture",
+          "teacher": "проф. Кузьменко Г.А",
+          "room": "213",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания предмета «Физическая культура»",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "216",
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 5,
@@ -3793,6 +5179,83 @@
           "subject": "Методика преподавания предмета «Физическая культура»",
           "type": "lecture",
           "teacher": "ст. преп. Ястребова Е.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Основы научно-методической деятельности в физической культуре и спорте",
+          "type": "lecture",
+          "teacher": "проф. Кузьменко Г.А",
+          "room": "213",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-КДО2301 (25)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-ФБЖ2301 (33)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ34-ФЗК2301 (22)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ34-ФЗК2302 (21)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-КДО2302 (26)",
+          "type": "other",
+          "teacher": null,
           "room": null,
           "subgroup": null,
           "notes": ""
@@ -3976,6 +5439,17 @@
           "notes": "ПЗ"
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Нормативно-правовое обеспечение дополнительного образования",
+          "type": "lecture",
+          "teacher": "доц. Петрова Н.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -4095,6 +5569,39 @@
           "room": "213",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Организационно-правовые основы физкультурно-спортивной деятельности",
+          "type": "lecture",
+          "teacher": "доц. Петрова Н.Г",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 3,
@@ -4262,6 +5769,50 @@
           "notes": "ПЗ"
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы научно-методической деятельности в физической культуре и спорте",
+          "type": "lecture",
+          "teacher": "проф. Кузьменко Г.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Маркетинг и маркетинговые исследования в сфере физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "доц. Усачев Н.А",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -4379,6 +5930,61 @@
           "type": "lecture",
           "teacher": "проф. Шарай Н.А",
           "room": "КГФ",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы научно-методической деятельности в физической культуре и спорте",
+          "type": "lecture",
+          "teacher": "проф. Кузьменко Г.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Организация внеурочной деятельности учителя основ безопасности жизнедеятельности",
+          "type": "lecture",
+          "teacher": "доц. Кравченко А.В",
+          "room": "218",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -4579,6 +6185,116 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Спортивная медицина",
+          "type": "lecture",
+          "teacher": "доц. Шонус Д.Х",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Организация внеурочной деятельности учителя основ безопасности жизнедеятельности",
+          "type": "lecture",
+          "teacher": "доц. Кравченко А.В",
+          "room": "218",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ДИСТАНТ",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ34-ФЗК2302 (21)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ34-ФЗК2301 (22)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-КДО2301 (25)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-КДО2302 (26)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-ФБЖ2301 (33)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "thursday": [
@@ -4660,6 +6376,39 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Социология физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "ст. преп. Кабанова Е.А",
+          "room": "214",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "ЭК по ФКиС: Аэробика",
+          "type": "other",
+          "teacher": "ст. преп. Разумова С.Ю",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "221",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -4732,7 +6481,7 @@
           "subject": "ЭК по ФКиС: Шахматы",
           "type": "other",
           "teacher": "ст. преп. Ястребова Е.А",
-          "room": "КГФ",
+          "room": "537",
           "subgroup": null,
           "notes": ""
         },
@@ -4790,6 +6539,72 @@
           "room": "207",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "213",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Социология физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "ст. преп. Кабанова Е.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЭК по ФКиС: Атлетическая гимнастика",
+          "type": "other",
+          "teacher": "доц. Алиев Н. Б",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Спортивная медицина",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "221",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "ЭК по ФКиС: Аэробика",
+          "type": "other",
+          "teacher": "ст. преп. Разумова С.Ю",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Интерактивные средства дистанционного взаимодействия с обучающимися",
+          "type": "lecture",
+          "teacher": "ст. преп. Савин М.Э",
+          "room": "215",
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 3,
@@ -4919,7 +6734,7 @@
           "subject": "Основы психологической безопасности",
           "type": "lecture",
           "teacher": "проф. Погодаева М.В",
-          "room": "КГФ",
+          "room": "537",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -4944,6 +6759,72 @@
           "room": "101",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЭК по ФКиС: Аэробика",
+          "type": "other",
+          "teacher": "ст. преп. Разумова С.Ю",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социология физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "ст. преп. Кабанова Е.А",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЭК по ФКиС: Атлетическая гимнастика",
+          "type": "other",
+          "teacher": "доц. Алиев Н.Б",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЭК по ФКиС: Современные фитнес-технологии",
+          "type": "other",
+          "teacher": "доц. Усачев Н.А",
+          "room": "с/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Технологии оказания первой помощи",
+          "type": "lecture",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": "221",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Интерактивные средства дистанционного взаимодействия с обучающимися",
+          "type": "lecture",
+          "teacher": "Ст. преп. Савин М.Э",
+          "room": "КГФ",
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 4,
@@ -5032,6 +6913,83 @@
           "room": "202",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЭК по ФКиС: Атлетическая гимнастика",
+          "type": "other",
+          "teacher": "доц. Алиев Н.Б",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЭК по ФКиС: Аэробика",
+          "type": "other",
+          "teacher": "ст. преп. Разумова С.Ю",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социология физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "ст. преп. Кабанова Е.А",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ЭК по ФКиС: Современные фитнес-технологии",
+          "type": "other",
+          "teacher": "доц. Усачев Н.А",
+          "room": "с/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Технологии оказания первой помощи",
+          "type": "lecture",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": "221",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психологическая безопасность",
+          "type": "lecture",
+          "teacher": "проф. Погодаева М.В",
+          "room": "216",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Методика преподавания предмета «Физическая культура»",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 5,
@@ -5175,6 +7133,138 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Спортивная медицина",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "221",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Технологии оказания первой помощи",
+          "type": "lecture",
+          "teacher": "ст. преп. Глазкова А.С",
+          "room": "221",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Методика преподавания предмета «Физическая культура»",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЭК по ФКиС: Атлетическая гимнастика",
+          "type": "other",
+          "teacher": "доц. Алиев Н. Б",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психологическая безопасность",
+          "type": "lecture",
+          "teacher": "проф. Погодаева М.В",
+          "room": "216",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЭК по ФКиС: Современные фитнес-технологии",
+          "type": "other",
+          "teacher": "доц. Усачев Н.А",
+          "room": "с/з",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Методика преподавания предмета «Физическая культура»",
+          "type": "lecture",
+          "teacher": "ст. преп. Ястребова Е.А",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-КДО2302 (26)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ34-ФЗК2301 (22)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ34-ФЗК2302 (21)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-КДО2301 (25)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-ФБЖ2301 (33)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "friday": [
@@ -5221,6 +7311,17 @@
           "room": "гимнастический зал",
           "subgroup": null,
           "notes": "ПЗ"
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "221",
+          "subgroup": null,
+          "notes": ""
         },
         {
           "slot": 2,
@@ -5307,6 +7408,39 @@
           "type": "lecture",
           "teacher": "доц. Куксова М.А",
           "room": "218",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Организационно-правовые основы физкультурно-спортивной деятельности",
+          "type": "practice",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "215",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Спортивная медицина",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "221",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и методика обучения безопасности жизнедеятельности",
+          "type": "lecture",
+          "teacher": "проф. Мошкин В.Н",
+          "room": "101",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -5388,6 +7522,61 @@
           "notes": "ПЗ"
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Организационно-правовые основы физкультурно-спортивной деятельности",
+          "type": "practice",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "213",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Нормативно-правовое обеспечение дополнительного образования",
+          "type": "practice",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "215",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Спецкурс по КР (методика обучения и воспитания безопасности жизнедеятельности)",
+          "type": "other",
+          "teacher": "проф. Мошкин В.Н",
+          "room": "214",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория и методика обучения безопасности жизнедеятельности",
+          "type": "lecture",
+          "teacher": "проф. Мошкин В.Н",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -5430,6 +7619,61 @@
           "room": "214",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социология физической культуры и спорта",
+          "type": "lecture",
+          "teacher": "ст. преп. Кабанова Е.А",
+          "room": "213",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология физического воспитания и спорта",
+          "type": "lecture",
+          "teacher": "проф. Гросс И.Л",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Нормативно-правовое обеспечение дополнительного образования",
+          "type": "practice",
+          "teacher": "доц. Петрова Н.Г",
+          "room": "213",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Спецкурс по КР (методика обучения и воспитания безопасности жизнедеятельности)",
+          "type": "other",
+          "teacher": "проф. Мошкин В.Н",
+          "room": "214",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория и методика обучения безопасности жизнедеятельности",
+          "type": "lecture",
+          "teacher": "проф. Мошкин В.Н",
+          "room": "101",
+          "subgroup": null,
+          "notes": "ПЗ"
         },
         {
           "slot": 5,
@@ -5628,6 +7872,83 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Лечебная физическая культура и массаж",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "218",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Спортивная медицина",
+          "type": "practice",
+          "teacher": "доц. Шонус Д.Х",
+          "room": "211",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-КДО2301 (25)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ34-ФЗК2301 (22)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ34-ФЗК2302 (21)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-КДО2302 (26)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "БOЗ35-ФБЖ2301 (33)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "saturday": [
@@ -5742,6 +8063,17 @@
           "notes": ""
         },
         {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы национальной безопасности Российской Федерации",
+          "type": "lecture",
+          "teacher": "доц. Старцев А.М",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
@@ -5797,6 +8129,17 @@
           "notes": ""
         },
         {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и спорту: Основы оборонно-спортивной подготовки",
+          "type": "practice",
+          "teacher": "доц. Старцев А.М",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
@@ -5812,6 +8155,105 @@
           "time_start": "16:00",
           "time_end": "17:30",
           "subject": "2 неделя (НЕЧЕТНАЯ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Элективные курсы по физической культуре и спорту: Основы самообороны",
+          "type": "practice",
+          "teacher": "доц. Старцев А.М",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "Техногенные опасности и защита от них",
+          "type": "lecture",
+          "teacher": "доц. Старцев А.М",
+          "room": null,
+          "subgroup": null,
+          "notes": "ПЗ"
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-ФБЖ2301 (33)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ34-ФЗК2302 (21)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "1 неделя (ЧЕТНАЯ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "2 неделя (НЕЧЕТНАЯ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-КДО2301 (25)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ34-ФЗК2301 (22)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "БOЗ35-КДО2302 (26)",
           "type": "other",
           "teacher": null,
           "room": null,
