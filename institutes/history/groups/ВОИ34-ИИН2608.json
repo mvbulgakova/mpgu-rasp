@@ -5,7 +5,30 @@
   "degree": "bachelor",
   "schedule": {
     "odd_week": {
-      "monday": [],
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
       "tuesday": [
         {
           "slot": 1,
@@ -48,7 +71,7 @@
           "time_end": "12:10",
           "subject": "Иностранный язык",
           "type": "practice",
-          "teacher": "доц. Бессмертная Ж. Д",
+          "teacher": "доц. Кандаурова Л.О",
           "room": "335",
           "subgroup": null,
           "notes": ""
@@ -249,7 +272,30 @@
       ]
     },
     "even_week": {
-      "monday": [],
+      "monday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
       "tuesday": [
         {
           "slot": 1,
@@ -292,7 +338,7 @@
           "time_end": "12:10",
           "subject": "Иностранный язык",
           "type": "practice",
-          "teacher": "доц. Бессмертная Ж. Д",
+          "teacher": "доц. Кандаурова Л.О",
           "room": "335",
           "subgroup": null,
           "notes": ""

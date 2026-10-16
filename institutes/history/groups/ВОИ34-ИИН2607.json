@@ -27,6 +27,17 @@
           "room": "302",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "ст. пр. Наволочная Ю.В",
+          "room": "340",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "tuesday": [
@@ -72,7 +83,7 @@
           "subject": "Иностранный язык",
           "type": "practice",
           "teacher": "доц. Кандаурова Л. О",
-          "room": "332",
+          "room": "335",
           "subgroup": null,
           "notes": ""
         },
@@ -250,6 +261,17 @@
           "room": "302",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "ст. пр. Наволочная Ю.В",
+          "room": "340",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "tuesday": [
@@ -295,7 +317,7 @@
           "subject": "Иностранный язык",
           "type": "practice",
           "teacher": "доц. Кандаурова Л. О",
-          "room": "332",
+          "room": "335",
           "subgroup": null,
           "notes": ""
         },
