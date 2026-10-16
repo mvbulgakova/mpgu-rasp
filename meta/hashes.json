@@ -3719,16 +3719,22 @@
     "size_bytes": 0,
     "last_changed": "2026-10-15T20:11:46.409639+00:00"
   },
-  "journalism:https://mpgu.su/wp-content/uploads/2026/10/4-kurs-mirovaja-hudozhestvennaja-kultura-i-dopolnitelnoe-obrazovanie-zhurnalistika.-ochnaja-forma-1.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/10/4-kurs-mirovaja-hudozhestvennaja-kultura-i-dopolnitelnoe-obrazovanie-zhurnalistika.-ochnaja-forma-1.pdf",
-    "md5": "f280aea8a3f12588ddcf9edf6717c9d3",
+  "preschool:https://mpgu.su/wp-content/uploads/2026/10/raspisanie-1-kurs-ofo-spvo.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/10/raspisanie-1-kurs-ofo-spvo.pdf",
+    "md5": "e0d679d3189bb62a9cc20f8f9e0e201c",
     "size_bytes": 0,
-    "last_changed": "2026-10-16T09:29:28.934350+00:00"
+    "last_changed": "2026-10-16T09:29:40.039521+00:00"
   },
-  "journalism:https://mpgu.su/wp-content/uploads/2026/10/4-kurs-mirovaja-hudozhestvennaja-kultura-i-dopolnitelnoe-obrazovanie-zhurnalistika.-ochnaja-forma-2.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/10/4-kurs-mirovaja-hudozhestvennaja-kultura-i-dopolnitelnoe-obrazovanie-zhurnalistika.-ochnaja-forma-2.pdf",
-    "md5": "9adc9b8964fa0e14d7d8bf462a961a1b",
+  "preschool:https://mpgu.su/wp-content/uploads/2026/10/raspisanie-2-kurs-ofo-spvo.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/10/raspisanie-2-kurs-ofo-spvo.pdf",
+    "md5": "5e2ef0c0adc7f8421016a2985d9cc983",
     "size_bytes": 0,
-    "last_changed": "2026-10-16T09:29:28.934364+00:00"
+    "last_changed": "2026-10-16T09:29:40.039547+00:00"
+  },
+  "preschool:https://mpgu.su/wp-content/uploads/2026/10/raspisanie-oad-jakutija-2.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/10/raspisanie-oad-jakutija-2.pdf",
+    "md5": "6f98e5356518436f2eb3eed7649b51de",
+    "size_bytes": 0,
+    "last_changed": "2026-10-16T09:29:40.039554+00:00"
   }
 }

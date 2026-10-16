@@ -96,10 +96,10 @@
       "short_name": "ФДПиП",
       "campus": "ФДПиП",
       "campus_address": "Госпитальный Вал, 4",
-      "groups_count": 2,
-      "updated_at": "2026-09-23T19:57:45.773567+00:00",
+      "groups_count": 8,
+      "updated_at": "2026-10-16T09:29:40.043338+00:00",
       "status": "ok",
-      "parser_used": "pdfplumber"
+      "parser_used": "claude"
     },
     {
       "id": "childhood",

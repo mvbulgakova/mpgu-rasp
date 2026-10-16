@@ -1,0 +1,382 @@
+{
+  "name": "ЗОС40-ОАД2501",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.02 \"Психолого-педагогическое образование",
+  "profile": "программа СпВО \"Организация и администрирование в дошкольном образовании",
+  "schedule": {
+    "odd_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "С о ц и а л ь н о е в з а и м о д е й с т в и е в п о л и к у л ь т у р н о м о б щ е с т в е ( Л К )",
+          "type": "lecture",
+          "teacher": "профессор, А.В. Пищелко",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Д В И н н о в а ц и о н н Вы .е ц аи ф р о в ы е (т е х н о л о г и и ( П З )",
+          "type": "practice",
+          "teacher": "доцент,Т.Клинина",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "О р г а н и з а ц и я п с и х о л о г и ч е с к о й с л у ж б ы в о аб р ,а з ао ув да .т 1е л 7ь )н о й о р г анизации",
+          "type": "practice",
+          "teacher": "доцент,М.А.Бахотскя(0",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д В И н н о в а ц и о н н Вы е ц и ф р о в ы ,е т е х н о л о г и и ( П З )",
+          "type": "practice",
+          "teacher": "доцент,Т..Калинина",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "О р г а н и з а ц и я п с и х о л о г и ч е с к о й с л у ж б ы в образовательной организации",
+          "type": "practice",
+          "teacher": "доцент, М.А. Бахотская",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психолого-педагогическое сопровождение воспитания нравственности и патриотизма в детском возрасте",
+          "type": "lecture",
+          "teacher": "профессор, Т.П.Авдулова",
+          "room": "205",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "С о ц и а л ь н о е в з а и м о д е й с т в и е в п о л и к у л ь т у р н о м о б щ е с т в е ( П З )",
+          "type": "practice",
+          "teacher": "профессор, А.В. Пищелко",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психологическое обеспечение м е н е д ж м е н т а и а д министрирования",
+          "type": "practice",
+          "teacher": "профессор, Т.П.Авдулова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "А к а д е м и ч е с к а я р и т о р и к а",
+          "type": "practice",
+          "teacher": "доцент, Е.Б. Баранникова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доцент, Е.Б. Баранникова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "О р г а н и з а ц и я п с и х о л о г и ч е с к о й с л у ж б ы в о б р а з о вательной организации",
+          "type": "lecture",
+          "teacher": "доцент,М.А.Бахотская",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психолого-педагогическое сопровождение воспитания нравственности и патриотизма в детском возрасте",
+          "type": "practice",
+          "teacher": "профессор, Т.П.Авдулова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психологическое обеспечение м е н е д ж м е н т а и а д м и н и с т р и р о в а н и я ( Л К / П З )",
+          "type": "other",
+          "teacher": "профессор,Т.П.Авдулова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д В М е т о д э д пь ю т е й н м ре н т а в д о ш к оо л аь ,н о м о б р а з )о в а н и и ( Л К / П З ) р о ф е с с о , Е . И . И з о т в (",
+          "type": "other",
+          "teacher": null,
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психолого-педагогическое сопровождение воспитания н р а в с т в е н н о с т и и п а т р и о т и з м а в д е т с к о м возрасте",
+          "type": "practice",
+          "teacher": "профессор, Т.П.Авдулова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д В М е т о д э д ь ю т е й н м е н т а в д о ш к о л ь н о м о б р а з о в а н и и ( П З )",
+          "type": "practice",
+          "teacher": "профессор, Е.И. Изотова",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "С о ц и а л ь н о е в з а и м о д е й с т в и е в п о л и к у л ь т у р н о м о б щ е с т в е ( Л К )",
+          "type": "lecture",
+          "teacher": "профессор, А.В. Пищелко",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Д В И н н о в а ц и о н н Вы .е ц аи ф р о в ы е (т е х н о л о г и и ( П З )",
+          "type": "practice",
+          "teacher": "доцент,Т.Клинина",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "О р г а н и з а ц и я п с и х о л о г и ч е с к о й с л у ж б ы в о аб р ,а з ао ув да .т 1е л 7ь )н о й о р г анизации",
+          "type": "practice",
+          "teacher": "доцент,М.А.Бахотскя(0",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д В И н н о в а ц и о н н Вы е ц и ф р о в ы ,е т е х н о л о г и и ( П З )",
+          "type": "practice",
+          "teacher": "доцент,Т..Калинина",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "О р г а н и з а ц и я п с и х о л о г и ч е с к о й с л у ж б ы в образовательной организации",
+          "type": "practice",
+          "teacher": "доцент, М.А. Бахотская",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психолого-педагогическое сопровождение воспитания нравственности и патриотизма в детском возрасте",
+          "type": "lecture",
+          "teacher": "профессор, Т.П.Авдулова",
+          "room": "205",
+          "subgroup": null,
+          "notes": "/ПЗ"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "С о ц и а л ь н о е в з а и м о д е й с т в и е в п о л и к у л ь т у р н о м о б щ е с т в е ( П З )",
+          "type": "practice",
+          "teacher": "профессор, А.В. Пищелко",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психологическое обеспечение м е н е д ж м е н т а и а д министрирования",
+          "type": "practice",
+          "teacher": "профессор, Т.П.Авдулова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "А к а д е м и ч е с к а я р и т о р и к а",
+          "type": "practice",
+          "teacher": "доцент, Е.Б. Баранникова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Академическая риторика",
+          "type": "practice",
+          "teacher": "доцент, Е.Б. Баранникова",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "О р г а н и з а ц и я п с и х о л о г и ч е с к о й с л у ж б ы в о б р а з о вательной организации",
+          "type": "lecture",
+          "teacher": "доцент,М.А.Бахотская",
+          "room": "107",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психолого-педагогическое сопровождение воспитания нравственности и патриотизма в детском возрасте",
+          "type": "practice",
+          "teacher": "профессор, Т.П.Авдулова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Психологическое обеспечение м е н е д ж м е н т а и а д м и н и с т р и р о в а н и я ( Л К / П З )",
+          "type": "other",
+          "teacher": "профессор,Т.П.Авдулова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Д В М е т о д э д пь ю т е й н м ре н т а в д о ш к оо л аь ,н о м о б р а з )о в а н и и ( Л К / П З ) р о ф е с с о , Е . И . И з о т в (",
+          "type": "other",
+          "teacher": null,
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психолого-педагогическое сопровождение воспитания н р а в с т в е н н о с т и и п а т р и о т и з м а в д е т с к о м возрасте",
+          "type": "practice",
+          "teacher": "профессор, Т.П.Авдулова",
+          "room": "205",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Д В М е т о д э д ь ю т е й н м е н т а в д о ш к о л ь н о м о б р а з о в а н и и ( П З )",
+          "type": "practice",
+          "teacher": "профессор, Е.И. Изотова",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": []
+    }
+  }
+}
