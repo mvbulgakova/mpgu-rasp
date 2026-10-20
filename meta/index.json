@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T09:48:16.970521+00:00",
+  "generated_at": "2026-10-20T09:48:57.613922+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -71,10 +71,13 @@
     {
       "id": "social",
       "name": "Институт социально-гуманитарного образования",
-      "groups_count": 0,
-      "updated_at": "2026-10-19T21:22:24.896450+00:00",
-      "status": "error",
-      "error": "RetryError[<Future at 0x7fa599a3b5c0 state=finished raised TimeoutError>]"
+      "short_name": "ИСГО",
+      "campus": "КГФ",
+      "campus_address": "пр-т Вернадского, 88",
+      "groups_count": 11,
+      "updated_at": "2026-10-20T09:48:57.599144+00:00",
+      "status": "ok",
+      "parser_used": "gsheets"
     },
     {
       "id": "biology",

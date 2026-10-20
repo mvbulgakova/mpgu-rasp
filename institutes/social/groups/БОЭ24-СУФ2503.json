@@ -13,9 +13,9 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Безопасность жизнедеятельности",
+          "subject": "Внешнеэкономическая деятельность",
           "type": "practice",
-          "teacher": "доц. О.А. Макаренко",
+          "teacher": "доц. Е.Г. Кузнецова",
           "room": "510",
           "subgroup": null,
           "notes": ""
@@ -39,17 +39,6 @@
           "type": "practice",
           "teacher": "доц. Е.А. Цветкова",
           "room": "805",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Внешнеэкономическая деятельность",
-          "type": "practice",
-          "teacher": "доц. Е.Г. Кузнецова",
-          "room": "829",
           "subgroup": null,
           "notes": ""
         }
@@ -119,7 +108,7 @@
           "subject": "Безопасность жизнедеятельности",
           "type": "practice",
           "teacher": "доц. О.А. Макаренко",
-          "room": null,
+          "room": "203",
           "subgroup": null,
           "notes": ""
         },
@@ -201,9 +190,9 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Безопасность жизнедеятельности",
+          "subject": "Внешнеэкономическая деятельность",
           "type": "practice",
-          "teacher": "доц. О.А. Макаренко",
+          "teacher": "доц. Е.Г. Кузнецова",
           "room": "510",
           "subgroup": null,
           "notes": ""
@@ -227,17 +216,6 @@
           "type": "practice",
           "teacher": "доц. Е.А. Цветкова",
           "room": "805",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Внешнеэкономическая деятельность",
-          "type": "practice",
-          "teacher": "доц. Е.Г. Кузнецова",
-          "room": "829",
           "subgroup": null,
           "notes": ""
         }
@@ -307,7 +285,7 @@
           "subject": "Безопасность жизнедеятельности",
           "type": "practice",
           "teacher": "доц. О.А. Макаренко",
-          "room": null,
+          "room": "203",
           "subgroup": null,
           "notes": ""
         },
