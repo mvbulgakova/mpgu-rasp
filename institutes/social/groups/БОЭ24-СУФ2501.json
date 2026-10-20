@@ -20,6 +20,17 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Институциональная экономика",
+          "type": "practice",
+          "teacher": "доц. М.В. Николаев    -",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -175,7 +186,7 @@
           "subject": "Безопасность жизнедеятельности",
           "type": "practice",
           "teacher": "доц. О.А. Макаренко",
-          "room": null,
+          "room": "817",
           "subgroup": null,
           "notes": ""
         },
@@ -252,6 +263,17 @@
           "notes": ""
         },
         {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Институциональная экономика",
+          "type": "practice",
+          "teacher": "доц. М.В. Николаев    -",
+          "room": "817",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -407,7 +429,7 @@
           "subject": "Безопасность жизнедеятельности",
           "type": "practice",
           "teacher": "доц. О.А. Макаренко",
-          "room": null,
+          "room": "817",
           "subgroup": null,
           "notes": ""
         },
