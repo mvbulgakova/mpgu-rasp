@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-19T08:15:20.503308+00:00",
-  "count": 1240,
+  "count": 1244,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -18042,6 +18042,66 @@
       "_key": "и",
       "_unknown": true,
       "id": 1240,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_чери",
+      "full_name": "асс. И Сун Чер",
+      "abbreviated": "Чер а.",
+      "last": "Чер",
+      "first": "асс.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "чери",
+      "_unknown": true,
+      "id": 1241,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_фвшаройко",
+      "full_name": "доц. Ф.В. Шаройко",
+      "abbreviated": "Шаройко д.",
+      "last": "Шаройко",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "фвшаройко",
+      "_unknown": true,
+      "id": 1242,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_httpsи",
+      "full_name": "История государственного управления  асс. И Сун Чер     - дистанционно https:",
+      "abbreviated": "https: И.",
+      "last": "https:",
+      "first": "История",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "httpsи",
+      "_unknown": true,
+      "id": 1243,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_фвшаройко",
+      "full_name": "доц. Ф.В. Шаройко",
+      "abbreviated": "Шаройко д.",
+      "last": "Шаройко",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ф",
+      "_unknown": true,
+      "id": 1244,
       "has_schedule": true
     }
   ]
