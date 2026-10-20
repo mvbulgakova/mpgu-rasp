@@ -3,7 +3,7 @@
   "year": null,
   "form": "full_time",
   "degree": "bachelor",
-  "direction": "44.03.01 Базовое высшее образование",
+  "direction": "44.03.01, Базовое высшее образование",
   "profile": "Информатика и труд (технология)",
   "schedule": {
     "odd_week": {
@@ -23,7 +23,18 @@
           "slot": null,
           "time_start": "09:15",
           "time_end": "10:50",
-          "subject": "Основы российской государственности",
+          "subject": "Основы российской",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "государственности",
           "type": "practice",
           "teacher": "Доц. Е.Г. Виноградова",
           "room": "58",
@@ -113,6 +124,28 @@
           "slot": null,
           "time_start": "09:15",
           "time_end": "10:50",
+          "subject": "Архитектура",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "компьютера",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
           "subject": "Физическая культура и спорт",
           "type": "practice",
           "teacher": "Ст. преп. М.С",
@@ -150,7 +183,7 @@
           "type": "lab",
           "teacher": "Доц. В.Г. Леонов",
           "room": "608",
-          "subgroup": 2,
+          "subgroup": 1,
           "notes": ""
         },
         {
@@ -171,7 +204,7 @@
           "subject": "информатики",
           "type": "practice",
           "teacher": "Доц. В.В. Шапкина",
-          "room": "201",
+          "room": "203",
           "subgroup": null,
           "notes": ""
         },
@@ -185,21 +218,21 @@
           "room": "58",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "9:00-10:30",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "wednesday": [],
       "thursday": [
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "Архитектура компьютера",
-          "type": "practice",
-          "teacher": "Доц. В.Г. Леонов",
-          "room": "608",
-          "subgroup": 1,
-          "notes": ""
-        },
         {
           "slot": null,
           "time_start": "09:15",
@@ -215,22 +248,22 @@
           "slot": null,
           "time_start": "09:15",
           "time_end": "10:50",
-          "subject": "Учебная практика/Учебная практика (технологическая (проектно-технологическая) практика)",
-          "type": "other",
-          "teacher": "Асс. Е.Л. Котова",
-          "room": "23",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "11:00",
-          "time_end": "12:35",
           "subject": "Архитектура компьютера",
           "type": "lab",
           "teacher": "Доц. В.Г. Леонов",
           "room": "608",
-          "subgroup": 1,
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "Асс. К.Б. Стинская",
+          "room": "56",
+          "subgroup": null,
           "notes": ""
         },
         {
@@ -239,8 +272,8 @@
           "time_end": "12:35",
           "subject": "Иностранный язык",
           "type": "practice",
-          "teacher": "Ст.преп. Н.В",
-          "room": "8",
+          "teacher": "Ст.преп. Е.Б",
+          "room": "12",
           "subgroup": null,
           "notes": ""
         },
@@ -251,23 +284,23 @@
           "subject": "Архитектура компьютера",
           "type": "lab",
           "teacher": "Доц. В.Г. Леонов",
-          "room": null,
-          "subgroup": 2,
+          "room": "608",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Высшая математика",
+          "type": "practice",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
           "notes": ""
         }
       ],
       "friday": [
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "teacher": "Ст. преп. М.С. Хецева (пр-т",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
         {
           "slot": null,
           "time_start": "13:15",
@@ -321,7 +354,18 @@
           "slot": null,
           "time_start": "09:15",
           "time_end": "10:50",
-          "subject": "Основы российской государственности",
+          "subject": "Основы российской",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "государственности",
           "type": "practice",
           "teacher": "Доц. Е.Г. Виноградова",
           "room": "58",
@@ -411,6 +455,28 @@
           "slot": null,
           "time_start": "09:15",
           "time_end": "10:50",
+          "subject": "Архитектура",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "компьютера",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
           "subject": "Физическая культура и спорт",
           "type": "practice",
           "teacher": "Ст. преп. М.С",
@@ -448,7 +514,7 @@
           "type": "lab",
           "teacher": "Доц. В.Г. Леонов",
           "room": "608",
-          "subgroup": 2,
+          "subgroup": 1,
           "notes": ""
         },
         {
@@ -469,7 +535,7 @@
           "subject": "информатики",
           "type": "practice",
           "teacher": "Доц. В.В. Шапкина",
-          "room": "201",
+          "room": "203",
           "subgroup": null,
           "notes": ""
         },
@@ -483,21 +549,21 @@
           "room": "58",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "9:00-10:30",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "wednesday": [],
       "thursday": [
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "Архитектура компьютера",
-          "type": "practice",
-          "teacher": "Доц. В.Г. Леонов",
-          "room": "608",
-          "subgroup": 1,
-          "notes": ""
-        },
         {
           "slot": null,
           "time_start": "09:15",
@@ -513,22 +579,22 @@
           "slot": null,
           "time_start": "09:15",
           "time_end": "10:50",
-          "subject": "Учебная практика/Учебная практика (технологическая (проектно-технологическая) практика)",
-          "type": "other",
-          "teacher": "Асс. Е.Л. Котова",
-          "room": "23",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "11:00",
-          "time_end": "12:35",
           "subject": "Архитектура компьютера",
           "type": "lab",
           "teacher": "Доц. В.Г. Леонов",
           "room": "608",
-          "subgroup": 1,
+          "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Алгебра",
+          "type": "practice",
+          "teacher": "Асс. К.Б. Стинская",
+          "room": "56",
+          "subgroup": null,
           "notes": ""
         },
         {
@@ -537,8 +603,8 @@
           "time_end": "12:35",
           "subject": "Иностранный язык",
           "type": "practice",
-          "teacher": "Ст.преп. Н.В",
-          "room": "8",
+          "teacher": "Ст.преп. Е.Б",
+          "room": "12",
           "subgroup": null,
           "notes": ""
         },
@@ -549,23 +615,23 @@
           "subject": "Архитектура компьютера",
           "type": "lab",
           "teacher": "Доц. В.Г. Леонов",
-          "room": null,
-          "subgroup": 2,
+          "room": "608",
+          "subgroup": 1,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Высшая математика",
+          "type": "practice",
+          "teacher": "Доц. В.В. Федянин",
+          "room": "62",
+          "subgroup": null,
           "notes": ""
         }
       ],
       "friday": [
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "Физическая культура и спорт",
-          "type": "practice",
-          "teacher": "Ст. преп. М.С. Хецева (пр-т",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
         {
           "slot": null,
           "time_start": "13:15",

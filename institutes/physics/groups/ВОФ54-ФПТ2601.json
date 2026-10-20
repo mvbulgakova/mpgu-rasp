@@ -32,72 +32,6 @@
         },
         {
           "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "9:00-10:30",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "Физическая культура и",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "спорт",
-          "type": "practice",
-          "teacher": "Ст. преп. М.С. Хецева (пр-т",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "11:00",
-          "time_end": "12:35",
-          "subject": "Возрастная анатомия",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "11:00",
-          "time_end": "12:35",
-          "subject": "физиология и культура",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "11:00",
-          "time_end": "12:35",
-          "subject": "здоровья",
-          "type": "practice",
-          "teacher": "Ст.преп. О.М. Мишланова",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
           "time_start": "13:15",
           "time_end": "14:50",
           "subject": "Основы российской",
@@ -115,6 +49,28 @@
           "type": "practice",
           "teacher": "Доц. Е.Г. Виноградова",
           "room": "58",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "12:40-14:10",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "физической культуре (ПЗ",
+          "type": "other",
+          "teacher": "Ст. преп. М.С. Хецева (пр-т",
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -177,11 +133,22 @@
           "slot": null,
           "time_start": "16:45",
           "time_end": "18:20",
-          "subject": "Общая физика. Механика Венедиктов",
+          "subject": "Общая физика. Механика",
           "type": "practice",
-          "teacher": null,
+          "teacher": "асс И.А",
           "room": "56",
           "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Ст.преп. М.Г",
+          "room": "12",
+          "subgroup": null,
           "notes": ""
         }
       ],
@@ -201,65 +168,10 @@
           "slot": null,
           "time_start": "09:15",
           "time_end": "10:50",
-          "subject": "ОБЩАЯ ФИЗИКА",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "МЕХАНИКА",
-          "type": "lecture",
-          "teacher": "Доц. С.А. Рябчун",
-          "room": "7",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
           "subject": "ОБЩАЯ ФИЗИКА. МЕХАНИКА",
           "type": "lecture",
           "teacher": "Доц. С.А. Рябчун",
           "room": "7",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "9:00-10:30",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "Физическая культура и",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "спорт",
-          "type": "practice",
-          "teacher": "Ст. преп. М.С. Хецева (пр-т",
-          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -284,62 +196,29 @@
           "room": "58",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "ОБЩАЯ ФИЗИКА. МЕХАНИКА",
+          "type": "lecture",
+          "teacher": "Доц. С.А. Рябчун",
+          "room": "7",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "wednesday": [],
       "thursday": [
         {
           "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "Иностранн",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "ый язык",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "Глазунова",
-          "type": "other",
-          "teacher": null,
-          "room": "12",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:15",
-          "time_end": "14:50",
-          "subject": "Математич еский анализ",
-          "type": "practice",
-          "teacher": "ст. преп",
-          "room": "55",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:15",
-          "time_end": "14:50",
+          "time_start": "11:00",
+          "time_end": "12:35",
           "subject": "Математич еский анализ",
           "type": "practice",
           "teacher": "Ст.преп. Е.А",
-          "room": "51",
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -347,158 +226,27 @@
           "slot": null,
           "time_start": "13:15",
           "time_end": "14:50",
-          "subject": "Алгебра",
+          "subject": "Математич еский анализ Тарасевич",
           "type": "practice",
-          "teacher": "Ст.преп. Е.А",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:15",
-          "time_end": "14:50",
-          "subject": "Информат",
-          "type": "other",
           "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:15",
-          "time_end": "14:50",
-          "subject": "ика:",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:15",
-          "time_end": "14:50",
-          "subject": "Программи",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:15",
-          "time_end": "14:50",
-          "subject": "рование",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "15:00",
-          "time_end": "16:35",
-          "subject": "Алгебра",
-          "type": "practice",
-          "teacher": "Асс. К.Б",
           "room": "54",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "15:00",
-          "time_end": "16:35",
-          "subject": "Матвеев",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "15:00",
-          "time_end": "16:35",
-          "subject": "Математич еский анализ",
-          "type": "practice",
-          "teacher": "Ст.преп. Ю.А",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "15:00",
-          "time_end": "16:35",
-          "subject": "Математич еский анализ",
-          "type": "practice",
-          "teacher": "Ст.преп. Е.А",
-          "room": "51",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "16:45",
-          "time_end": "18:20",
-          "subject": "Иностранн ый язык",
-          "type": "practice",
-          "teacher": "Ст.преп. Н.В",
-          "room": "8",
-          "subgroup": 1,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "16:45",
-          "time_end": "18:20",
-          "subject": "Математич",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "16:45",
-          "time_end": "18:20",
-          "subject": "еский",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "16:45",
-          "time_end": "18:20",
-          "subject": "анализ",
-          "type": "practice",
-          "teacher": "Ст.преп. Е.А",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "16:45",
-          "time_end": "18:20",
-          "subject": "Тарасевич",
-          "type": "other",
-          "teacher": null,
-          "room": "51",
           "subgroup": null,
           "notes": ""
         }
       ],
-      "friday": [],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Линейная алгебра",
+          "type": "practice",
+          "teacher": "(ПЗ) Проф",
+          "room": "64",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
       "saturday": []
     },
     "even_week": {
@@ -527,72 +275,6 @@
         },
         {
           "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "9:00-10:30",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "Физическая культура и",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "спорт",
-          "type": "practice",
-          "teacher": "Ст. преп. М.С. Хецева (пр-т",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "11:00",
-          "time_end": "12:35",
-          "subject": "Возрастная анатомия",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "11:00",
-          "time_end": "12:35",
-          "subject": "физиология и культура",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "11:00",
-          "time_end": "12:35",
-          "subject": "здоровья",
-          "type": "practice",
-          "teacher": "Ст.преп. О.М. Мишланова",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
           "time_start": "13:15",
           "time_end": "14:50",
           "subject": "Основы российской",
@@ -610,6 +292,28 @@
           "type": "practice",
           "teacher": "Доц. Е.Г. Виноградова",
           "room": "58",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "12:40-14:10",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "13:15",
+          "time_end": "14:50",
+          "subject": "физической культуре (ПЗ",
+          "type": "other",
+          "teacher": "Ст. преп. М.С. Хецева (пр-т",
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -672,11 +376,22 @@
           "slot": null,
           "time_start": "16:45",
           "time_end": "18:20",
-          "subject": "Общая физика. Механика Венедиктов",
+          "subject": "Общая физика. Механика",
           "type": "practice",
-          "teacher": null,
+          "teacher": "асс И.А",
           "room": "56",
           "subgroup": 2,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "16:45",
+          "time_end": "18:20",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "Ст.преп. М.Г",
+          "room": "12",
+          "subgroup": null,
           "notes": ""
         }
       ],
@@ -696,65 +411,10 @@
           "slot": null,
           "time_start": "09:15",
           "time_end": "10:50",
-          "subject": "ОБЩАЯ ФИЗИКА",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "МЕХАНИКА",
-          "type": "lecture",
-          "teacher": "Доц. С.А. Рябчун",
-          "room": "7",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
           "subject": "ОБЩАЯ ФИЗИКА. МЕХАНИКА",
           "type": "lecture",
           "teacher": "Доц. С.А. Рябчун",
           "room": "7",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "9:00-10:30",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "Физическая культура и",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "спорт",
-          "type": "practice",
-          "teacher": "Ст. преп. М.С. Хецева (пр-т",
-          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -779,62 +439,29 @@
           "room": "58",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:30",
+          "time_end": "20:05",
+          "subject": "ОБЩАЯ ФИЗИКА. МЕХАНИКА",
+          "type": "lecture",
+          "teacher": "Доц. С.А. Рябчун",
+          "room": "7",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "wednesday": [],
       "thursday": [
         {
           "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "Иностранн",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "ый язык",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "09:15",
-          "time_end": "10:50",
-          "subject": "Глазунова",
-          "type": "other",
-          "teacher": null,
-          "room": "12",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:15",
-          "time_end": "14:50",
-          "subject": "Математич еский анализ",
-          "type": "practice",
-          "teacher": "ст. преп",
-          "room": "55",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:15",
-          "time_end": "14:50",
+          "time_start": "11:00",
+          "time_end": "12:35",
           "subject": "Математич еский анализ",
           "type": "practice",
           "teacher": "Ст.преп. Е.А",
-          "room": "51",
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -842,158 +469,27 @@
           "slot": null,
           "time_start": "13:15",
           "time_end": "14:50",
-          "subject": "Алгебра",
+          "subject": "Математич еский анализ Тарасевич",
           "type": "practice",
-          "teacher": "Ст.преп. Е.А",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:15",
-          "time_end": "14:50",
-          "subject": "Информат",
-          "type": "other",
           "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:15",
-          "time_end": "14:50",
-          "subject": "ика:",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:15",
-          "time_end": "14:50",
-          "subject": "Программи",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "13:15",
-          "time_end": "14:50",
-          "subject": "рование",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "15:00",
-          "time_end": "16:35",
-          "subject": "Алгебра",
-          "type": "practice",
-          "teacher": "Асс. К.Б",
           "room": "54",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "15:00",
-          "time_end": "16:35",
-          "subject": "Матвеев",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "15:00",
-          "time_end": "16:35",
-          "subject": "Математич еский анализ",
-          "type": "practice",
-          "teacher": "Ст.преп. Ю.А",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "15:00",
-          "time_end": "16:35",
-          "subject": "Математич еский анализ",
-          "type": "practice",
-          "teacher": "Ст.преп. Е.А",
-          "room": "51",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "16:45",
-          "time_end": "18:20",
-          "subject": "Иностранн ый язык",
-          "type": "practice",
-          "teacher": "Ст.преп. Н.В",
-          "room": "8",
-          "subgroup": 1,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "16:45",
-          "time_end": "18:20",
-          "subject": "Математич",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "16:45",
-          "time_end": "18:20",
-          "subject": "еский",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "16:45",
-          "time_end": "18:20",
-          "subject": "анализ",
-          "type": "practice",
-          "teacher": "Ст.преп. Е.А",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "16:45",
-          "time_end": "18:20",
-          "subject": "Тарасевич",
-          "type": "other",
-          "teacher": null,
-          "room": "51",
           "subgroup": null,
           "notes": ""
         }
       ],
-      "friday": [],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "09:15",
+          "time_end": "10:50",
+          "subject": "Линейная алгебра",
+          "type": "practice",
+          "teacher": "(ПЗ) Проф",
+          "room": "64",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
       "saturday": []
     }
   }

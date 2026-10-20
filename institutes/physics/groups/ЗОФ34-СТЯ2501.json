@@ -69,28 +69,6 @@
       "thursday": [
         {
           "slot": null,
-          "time_start": "15:00",
-          "time_end": "16:35",
-          "subject": "Технологии беспроводной связи",
-          "type": "practice",
-          "teacher": "Доц. В.Г. Леонов",
-          "room": "608",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "16:45",
-          "time_end": "18:20",
-          "subject": "ТЕХНОЛОГИИ БЕСПРОВОДНОЙ СВЯЗИ",
-          "type": "lecture",
-          "teacher": "Доц. В.Г. Леонов",
-          "room": "608",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
           "time_start": "16:45",
           "time_end": "18:20",
           "subject": "Физические основы цифровой техники и робототехники",
@@ -104,12 +82,12 @@
           "slot": null,
           "time_start": "18:30",
           "time_end": "20:05",
-          "subject": "Физические основы цифровой техники и робототехники",
+          "subject": "Технологии беспроводной связи",
           "type": "lecture",
-          "teacher": "Доц. С.В. Степанов",
-          "room": "24",
+          "teacher": "Доц. В.Г. Леонов",
+          "room": "608",
           "subgroup": null,
-          "notes": "/ ПЗ"
+          "notes": "/ПЗ"
         }
       ],
       "friday": [],
@@ -245,28 +223,6 @@
       "thursday": [
         {
           "slot": null,
-          "time_start": "15:00",
-          "time_end": "16:35",
-          "subject": "Технологии беспроводной связи",
-          "type": "practice",
-          "teacher": "Доц. В.Г. Леонов",
-          "room": "608",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
-          "time_start": "16:45",
-          "time_end": "18:20",
-          "subject": "ТЕХНОЛОГИИ БЕСПРОВОДНОЙ СВЯЗИ",
-          "type": "lecture",
-          "teacher": "Доц. В.Г. Леонов",
-          "room": "608",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": null,
           "time_start": "16:45",
           "time_end": "18:20",
           "subject": "Физические основы цифровой техники и робототехники",
@@ -280,12 +236,12 @@
           "slot": null,
           "time_start": "18:30",
           "time_end": "20:05",
-          "subject": "Физические основы цифровой техники и робототехники",
+          "subject": "Технологии беспроводной связи",
           "type": "lecture",
-          "teacher": "Доц. С.В. Степанов",
-          "room": "24",
+          "teacher": "Доц. В.Г. Леонов",
+          "room": "608",
           "subgroup": null,
-          "notes": "/ ПЗ"
+          "notes": "/ПЗ"
         }
       ],
       "friday": [],
