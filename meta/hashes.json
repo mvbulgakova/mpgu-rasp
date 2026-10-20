@@ -1825,9 +1825,9 @@
   },
   "social:https://docs.google.com/spreadsheets/d/1yfJoASOshO7pR3lTlCALThs3P0hyQqJqvGTqguc-R0k/edit?gid=608945108#gid=608945108": {
     "url": "https://docs.google.com/spreadsheets/d/1yfJoASOshO7pR3lTlCALThs3P0hyQqJqvGTqguc-R0k/edit?gid=608945108#gid=608945108",
-    "md5": "e4ecd7eb1a48bec45cf8d1b53d906da6",
+    "md5": "f70c2d13420848f36fdf0488ae1ad567",
     "size_bytes": 0,
-    "last_changed": "2026-10-20T09:48:57.594446+00:00"
+    "last_changed": "2026-10-15T20:11:40.453192+00:00"
   },
   "social:https://docs.google.com/spreadsheets/d/1z7YeKGH41kwu-Iu9ZCJetl9ZSJqH5jJGRoE9cccmhjQ/edit?gid=961738369#gid=961738369": {
     "url": "https://docs.google.com/spreadsheets/d/1z7YeKGH41kwu-Iu9ZCJetl9ZSJqH5jJGRoE9cccmhjQ/edit?gid=961738369#gid=961738369",
@@ -1849,9 +1849,9 @@
   },
   "social:https://docs.google.com/spreadsheets/d/1Iat7ULiCfgXroosWChMn9922JwCkmcfgQGKVSg9pO2o/edit?gid=1115181248#gid=1115181248": {
     "url": "https://docs.google.com/spreadsheets/d/1Iat7ULiCfgXroosWChMn9922JwCkmcfgQGKVSg9pO2o/edit?gid=1115181248#gid=1115181248",
-    "md5": "6a6b92e547347320953bd2f1493f0a86",
+    "md5": "2dbe0b76398fa056157dfd57661f06b3",
     "size_bytes": 0,
-    "last_changed": "2026-10-20T09:48:57.594467+00:00"
+    "last_changed": "2026-10-15T20:11:40.453212+00:00"
   },
   "social:https://docs.google.com/spreadsheets/d/1NI2d5wrel20kcmm_PMW25A2eAcBXsKkD-BQ7gGqplnM/edit?gid=1288622512#gid=1288622512": {
     "url": "https://docs.google.com/spreadsheets/d/1NI2d5wrel20kcmm_PMW25A2eAcBXsKkD-BQ7gGqplnM/edit?gid=1288622512#gid=1288622512",
@@ -1861,9 +1861,9 @@
   },
   "social:https://docs.google.com/spreadsheets/d/1QgHfSZ_slEe9uVn7ErgVTBH8yVaHmvlBAv3A9gqaGD0/edit?gid=1617656374#gid=1617656374": {
     "url": "https://docs.google.com/spreadsheets/d/1QgHfSZ_slEe9uVn7ErgVTBH8yVaHmvlBAv3A9gqaGD0/edit?gid=1617656374#gid=1617656374",
-    "md5": "942a2f407cc203dc97e96f0326b98f7f",
+    "md5": "5e8a8690f5a970551eeb0230e4818ec2",
     "size_bytes": 0,
-    "last_changed": "2026-10-20T09:48:57.594472+00:00"
+    "last_changed": "2026-10-12T23:28:04.411946+00:00"
   },
   "social:https://docs.google.com/spreadsheets/d/1-NPh6b0cXf17IzjmMHvUelDxuRKtQxBahnap7K-VUmc/edit?gid=1975669997#gid=1975669997": {
     "url": "https://docs.google.com/spreadsheets/d/1-NPh6b0cXf17IzjmMHvUelDxuRKtQxBahnap7K-VUmc/edit?gid=1975669997#gid=1975669997",
@@ -1873,9 +1873,9 @@
   },
   "social:https://docs.google.com/spreadsheets/d/1V_Ig6cmbE59_OQ29EFrZmRSp3vBolLFeMxguCmy4O3A/edit?gid=823486807#gid=823486807": {
     "url": "https://docs.google.com/spreadsheets/d/1V_Ig6cmbE59_OQ29EFrZmRSp3vBolLFeMxguCmy4O3A/edit?gid=823486807#gid=823486807",
-    "md5": "6f5c5e86399621fa855ef8994be7a8de",
+    "md5": "ca6a1075aaa7e351227c0b7961aaf4c1",
     "size_bytes": 0,
-    "last_changed": "2026-10-20T09:48:57.594476+00:00"
+    "last_changed": "2026-10-17T09:00:28.257634+00:00"
   },
   "social:https://docs.google.com/spreadsheets/d/1jWPtstKErMfSxPrusC2XHMc8SpAL0LP-49poMhuYrQ4/edit?gid=50369416#gid=50369416": {
     "url": "https://docs.google.com/spreadsheets/d/1jWPtstKErMfSxPrusC2XHMc8SpAL0LP-49poMhuYrQ4/edit?gid=50369416#gid=50369416",
@@ -3767,16 +3767,10 @@
     "size_bytes": 0,
     "last_changed": "2026-10-19T10:30:26.268174+00:00"
   },
-  "physics:https://mpgu.su/wp-content/uploads/2026/10/raspisanie_1_kurs_52-1.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/10/raspisanie_1_kurs_52-1.pdf",
-    "md5": "1ed47cb6bcf316e3e6609502d9118901",
+  "journalism:https://mpgu.su/wp-content/uploads/2026/10/5-kurs-zhurnalistika.-zaochnaja-forma.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/10/5-kurs-zhurnalistika.-zaochnaja-forma.pdf",
+    "md5": "a89122938147138a0f8aa96a48b78f85",
     "size_bytes": 0,
-    "last_changed": "2026-10-20T09:48:13.947721+00:00"
-  },
-  "physics:https://mpgu.su/wp-content/uploads/2026/10/raspisanie_magistratura_2k-2_4-2.pdf": {
-    "url": "https://mpgu.su/wp-content/uploads/2026/10/raspisanie_magistratura_2k-2_4-2.pdf",
-    "md5": "32793d44e7179edf1c2b8184973c9638",
-    "size_bytes": 0,
-    "last_changed": "2026-10-20T09:48:13.947742+00:00"
+    "last_changed": "2026-10-20T09:49:06.460055+00:00"
   }
 }
