@@ -1,0 +1,300 @@
+{
+  "name": "ЗОБ34-СБХ2501",
+  "year": 2,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.04.01 Педагогическое образование",
+  "profile": "Современные технологии биологического и химического образования",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКАЯ РИТОРИКА – 6 недель",
+          "type": "practice",
+          "teacher": "Доцент Е.Б. Баранникова (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "АКАДЕМИЧЕСКАЯ РИТОРИКА – 6 недель",
+          "type": "practice",
+          "teacher": "Доцент Е.Б. Баранникова (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЭКОЛОГИЧЕСКОЕ ОБРАЗОВАНИЕ В ШКОЛЕ – 1 неделя",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЭКОЛОГИЧЕСКОЕ ОБРАЗОВАНИЕ В ШКОЛЕ – 5 недель; – 2 недели",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЭКОЛОГИЧЕСКОЕ ОБРАЗОВАНИЕ В ШКОЛЕ – 7 недель",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "АКТУАЛЬНЫЕ ПРОБЛЕМЫ БИОЛОГИИ",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Холмогорова (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКТУАЛЬНЫЕ ПРОБЛЕМЫ БИОЛОГИИ – 2 недели; – 16 недель",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Холмогорова (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "АКТУАЛЬНЫЕ ПРОБЛЕМЫ БИОЛОГИИ",
+          "type": "practice",
+          "teacher": "Доцент Н.В. Холмогорова (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ ПРОФОРИЕНТАЦИОННОЙ ДЕЯТЕЛЬНОСТИ В ПРОФИЛЬНЫХ КЛАССАХ – 5 недель; – 7 недель",
+          "type": "lecture",
+          "teacher": "Профессор Т.А. Боровских (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ ПРОФОРИЕНТАЦИОННОЙ ДЕЯТЕЛЬНОСТИ В ПРОФИЛЬНЫХ КЛАССАХ – 11 недель",
+          "type": "practice",
+          "teacher": "Профессор Т.А. Боровских (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ – 10.10, 24.10, 07.11; – 05.12, 19.12 Вакансия (304",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ – 10.10, 24.10; – 07.11, 05.12 Вакансия (304",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКАДЕМИЧЕСКАЯ РИТОРИКА – 6 недель",
+          "type": "practice",
+          "teacher": "Доцент Е.Б. Баранникова (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "АКАДЕМИЧЕСКАЯ РИТОРИКА – 6 недель",
+          "type": "practice",
+          "teacher": "Доцент Е.Б. Баранникова (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ЭКОЛОГИЧЕСКОЕ ОБРАЗОВАНИЕ В ШКОЛЕ – 1 неделя",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (301",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ЭКОЛОГИЧЕСКОЕ ОБРАЗОВАНИЕ В ШКОЛЕ – 5 недель; – 2 недели",
+          "type": "lecture",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ЭКОЛОГИЧЕСКОЕ ОБРАЗОВАНИЕ В ШКОЛЕ – 7 недель",
+          "type": "practice",
+          "teacher": "Профессор А.В. Теремов (208",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "АКТУАЛЬНЫЕ ПРОБЛЕМЫ БИОЛОГИИ",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Холмогорова (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "АКТУАЛЬНЫЕ ПРОБЛЕМЫ БИОЛОГИИ – 2 недели; – 16 недель",
+          "type": "lecture",
+          "teacher": "Доцент Н.В. Холмогорова (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "АКТУАЛЬНЫЕ ПРОБЛЕМЫ БИОЛОГИИ",
+          "type": "practice",
+          "teacher": "Доцент Н.В. Холмогорова (306",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 6,
+          "time_start": "17:40",
+          "time_end": "19:10",
+          "subject": "ОСНОВЫ ПРОФОРИЕНТАЦИОННОЙ ДЕЯТЕЛЬНОСТИ В ПРОФИЛЬНЫХ КЛАССАХ – 5 недель; – 7 недель",
+          "type": "lecture",
+          "teacher": "Профессор Т.А. Боровских (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "ОСНОВЫ ПРОФОРИЕНТАЦИОННОЙ ДЕЯТЕЛЬНОСТИ В ПРОФИЛЬНЫХ КЛАССАХ – 11 недель",
+          "type": "practice",
+          "teacher": "Профессор Т.А. Боровских (509",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ – 10.10, 24.10, 07.11; – 05.12, 19.12 Вакансия (304",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "СОЦИАЛЬНОЕ ВЗАИМОДЕЙСТВИЕ В ПОЛИКУЛЬТУРНОМ ОБЩЕСТВЕ – 10.10, 24.10; – 07.11, 05.12 Вакансия (304",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
