@@ -261,7 +261,7 @@
           "subject": "Управление персоналом",
           "type": "practice",
           "teacher": "доц. М.С. Корнийчук",
-          "room": "203",
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -780,7 +780,7 @@
           "subject": "Управление персоналом",
           "type": "practice",
           "teacher": "доц. М.С. Корнийчук",
-          "room": "203",
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
