@@ -16797,7 +16797,7 @@
       "_key": "л",
       "_unknown": true,
       "id": 1157,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_егсветич",
@@ -18057,7 +18057,7 @@
       "_key": "чери",
       "_unknown": true,
       "id": 1241,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_фвшаройко",
@@ -18072,7 +18072,7 @@
       "_key": "фвшаройко",
       "_unknown": true,
       "id": 1242,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_httpsи",
@@ -18087,7 +18087,7 @@
       "_key": "httpsи",
       "_unknown": true,
       "id": 1243,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_фвшаройко",
@@ -18102,7 +18102,7 @@
       "_key": "ф",
       "_unknown": true,
       "id": 1244,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_сзч",
