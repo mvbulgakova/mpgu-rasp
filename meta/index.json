@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T09:49:31.756346+00:00",
+  "generated_at": "2026-10-22T09:50:11.778641+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -74,8 +74,8 @@
       "short_name": "ИСГО",
       "campus": "КГФ",
       "campus_address": "пр-т Вернадского, 88",
-      "groups_count": 7,
-      "updated_at": "2026-10-21T20:27:13.318002+00:00",
+      "groups_count": 5,
+      "updated_at": "2026-10-22T09:50:11.765404+00:00",
       "status": "ok",
       "parser_used": "gsheets"
     },
