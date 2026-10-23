@@ -8,8 +8,8 @@
       "short_name": "ИФКСиЗ",
       "campus": "КГФ",
       "campus_address": "пр-т Вернадского, 88",
-      "groups_count": 7,
-      "updated_at": "2026-10-21T20:27:03.135556+00:00",
+      "groups_count": 4,
+      "updated_at": "2026-10-23T20:17:21.894386+00:00",
       "status": "ok",
       "parser_used": "gsheets"
     },

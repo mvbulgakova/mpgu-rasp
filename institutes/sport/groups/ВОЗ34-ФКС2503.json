@@ -378,11 +378,101 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         },
         {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "спорту: Зимние виды спорта",
+          "type": "practice",
+          "teacher": "ст.преп. Загородникова А.Ю",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "28.12., 12.12., 26.12., Лыжная база",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "05.12., 19.12., лыжная база",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "спорту: Зимние виды спорта",
+          "type": "practice",
+          "teacher": "ст.преп. Загородникова А.Ю",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "28.12., 12.12., лыжная база",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "05.12., 19.12., лыжная база",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "1 неделя (ЧЕТНАЯ)",
           "type": "other",
           "teacher": null,
@@ -391,9 +481,9 @@
           "notes": ""
         },
         {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "2 неделя (НЕЧЕТНАЯ)",
           "type": "other",
           "teacher": null,
@@ -401,8 +491,7 @@
           "subgroup": null,
           "notes": ""
         }
-      ],
-      "saturday": []
+      ]
     },
     "even_week": {
       "monday": [
@@ -776,11 +865,101 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         },
         {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "спорту: Зимние виды спорта",
+          "type": "practice",
+          "teacher": "ст.преп. Загородникова А.Ю",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "28.12., 12.12., 26.12., Лыжная база",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "05.12., 19.12., лыжная база",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Элективные курсы по физической культуре и",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "спорту: Зимние виды спорта",
+          "type": "practice",
+          "teacher": "ст.преп. Загородникова А.Ю",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "28.12., 12.12., лыжная база",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "05.12., 19.12., лыжная база",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "1 неделя (ЧЕТНАЯ)",
           "type": "other",
           "teacher": null,
@@ -789,9 +968,9 @@
           "notes": ""
         },
         {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "2 неделя (НЕЧЕТНАЯ)",
           "type": "other",
           "teacher": null,
@@ -799,8 +978,7 @@
           "subgroup": null,
           "notes": ""
         }
-      ],
-      "saturday": []
+      ]
     }
   }
 }
