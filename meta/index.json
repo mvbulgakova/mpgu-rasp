@@ -52,10 +52,10 @@
       "short_name": "ИИИ",
       "campus": "ИИИ",
       "campus_address": "Рязанский пр-т, 9",
-      "groups_count": 28,
-      "updated_at": "2026-10-16T19:54:26.313952+00:00",
+      "groups_count": 1,
+      "updated_at": "2026-10-23T09:44:48.144790+00:00",
       "status": "ok",
-      "parser_used": "claude"
+      "parser_used": "pdfplumber"
     },
     {
       "id": "physics",
