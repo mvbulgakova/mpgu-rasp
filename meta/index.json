@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T09:33:59.772455+00:00",
+  "generated_at": "2026-10-25T09:34:29.062011+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -32,13 +32,10 @@
     {
       "id": "history",
       "name": "Институт истории и политики",
-      "short_name": "ИИиП",
-      "campus": "КГФ",
-      "campus_address": "пр-т Вернадского, 88",
-      "groups_count": 44,
-      "updated_at": "2026-10-17T09:00:09.023610+00:00",
-      "status": "ok",
-      "parser_used": "excel"
+      "groups_count": 0,
+      "updated_at": "2026-10-25T09:34:28.883845+00:00",
+      "status": "error",
+      "error": "RetryError[<Future at 0x7f51bc48e240 state=finished raised ClientConnectorCertificateError>]"
     },
     {
       "id": "arts",
