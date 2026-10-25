@@ -79,13 +79,10 @@
     {
       "id": "biology",
       "name": "Институт биологии и химии",
-      "short_name": "ИБиХ",
-      "campus": "ИБХ",
-      "campus_address": "ул. Кибальчича, 6",
-      "groups_count": 30,
-      "updated_at": "2026-10-24T19:15:28.199680+00:00",
-      "status": "ok",
-      "parser_used": "nextcloud"
+      "groups_count": 0,
+      "updated_at": "2026-10-25T09:33:50.325154+00:00",
+      "status": "error",
+      "error": "RetryError[<Future at 0x7f87517d01a0 state=finished raised ClientConnectorCertificateError>]"
     },
     {
       "id": "preschool",
