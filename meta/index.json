@@ -89,13 +89,10 @@
     {
       "id": "childhood",
       "name": "Институт детства",
-      "short_name": "ИД",
-      "campus": "КГФ",
-      "campus_address": "пр-т Вернадского, 88",
-      "groups_count": 13,
-      "updated_at": "2026-10-07T11:30:49.756342+00:00",
-      "status": "ok",
-      "parser_used": "pdfplumber"
+      "groups_count": 0,
+      "updated_at": "2026-10-25T19:26:49.265636+00:00",
+      "status": "error",
+      "error": "RetryError[<Future at 0x7fafc6525f10 state=finished raised ClientConnectorCertificateError>]"
     },
     {
       "id": "digital",
