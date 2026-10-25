@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T19:26:38.083779+00:00",
+  "generated_at": "2026-10-25T19:26:50.960190+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -128,9 +128,9 @@
       "id": "pedagogy",
       "name": "Институт педагогики и психологии",
       "groups_count": 0,
-      "updated_at": "2026-10-25T09:33:39.815588+00:00",
+      "updated_at": "2026-10-25T19:26:50.951228+00:00",
       "status": "error",
-      "error": "RetryError[<Future at 0x7fed53f53ec0 state=finished raised ClientConnectorCertificateError>]"
+      "error": "RetryError[<Future at 0x7fdceb7ba960 state=finished raised ClientConnectorCertificateError>]"
     }
   ]
 }
