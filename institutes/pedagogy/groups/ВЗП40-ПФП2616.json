@@ -1,0 +1,234 @@
+{
+  "name": "ВЗП40-ПФП2616",
+  "year": 1,
+  "form": "correspondence",
+  "degree": "bachelor",
+  "direction": "44.03.02 Психолого-педагогическое образование",
+  "profile": "Практическая психология. Профессиональное консультирование",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "18:00",
+          "time_end": "19:10",
+          "subject": "Адаптационный семинар-тренинг Тема практического занятия: «Внутригрупповая работа»",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Сечко",
+          "room": "vk.ru/call/join/eOQchTtbPTj7LZcjVqDumsLmBJxuAvUtZV8k5auzLY8",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:30",
+          "subject": "Адаптационный семинар-тренинг Тема практического занятия: «Внутригрупповая работа»",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Сечко",
+          "room": "vk.ru/call/join/eOQchTtbPTj7LZcjVqDumsLmBJxuAvUtZV8k5auzLY8",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "18:00",
+          "time_end": "19:30",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Р.В. Куква",
+          "room": "vk.ru/call/join/t6C5XBxY_AWm_H5TTnLIWSjcRNqUAY1uHIcoYEUGlc0",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "18:00",
+          "time_end": "19:10",
+          "subject": "Адаптационный семинар-тренинг Тема практического занятия: «Внутригрупповая работа»",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Сечко",
+          "room": "vk.ru/call/join/1px-orAW_SQqD1z8iTnW5Nsh9N8-1v-I-MwxHLRP_Jo",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:30",
+          "subject": "Адаптационный семинар-тренинг Тема практического занятия: «Внутригрупповая работа»",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Сечко",
+          "room": "vk.ru/call/join/1px-orAW_SQqD1z8iTnW5Nsh9N8-1v-I-MwxHLRP_Jo",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "18:00",
+          "time_end": "19:30",
+          "subject": "Библиотечно-библиографическое занятие Зав.библ. С.В. Надеждина",
+          "type": "lecture",
+          "teacher": null,
+          "room": "vk.ru/call/join/OXOPXj_xoJ7ZgxYWUoHC-BqlMy7yaI1hiEzypkc36SI",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "18:00",
+          "time_end": "19:30",
+          "subject": "Введение в профессию Тема лекционного занятия: «Погружение и знакомство c системой ИнфоДа Moodle»",
+          "type": "practice",
+          "teacher": "Ст. преподаватель О. А. Мухлынина",
+          "room": "vk.ru/call/join/ReL7QO8Fbxq6Mfvw25jvsMFym7Y1-jppEag2flzmA7Q",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:00",
+          "time_end": "19:10",
+          "subject": "Адаптационный семинар-тренинг Тема практического занятия: «Внутригрупповая работа»",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Сечко",
+          "room": "vk.ru/call/join/VilpMWJX3gRrFKjH5zunGfb7fxapCLuG9DAPq--4hWY",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:30",
+          "subject": "Адаптационный семинар-тренинг Тема практического занятия: «Внутригрупповая работа»",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Сечко",
+          "room": "vk.ru/call/join/VilpMWJX3gRrFKjH5zunGfb7fxapCLuG9DAPq--4hWY",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": null,
+          "time_start": "18:00",
+          "time_end": "19:10",
+          "subject": "Адаптационный семинар-тренинг Тема практического занятия: «Внутригрупповая работа»",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Сечко",
+          "room": "vk.ru/call/join/eOQchTtbPTj7LZcjVqDumsLmBJxuAvUtZV8k5auzLY8",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:30",
+          "subject": "Адаптационный семинар-тренинг Тема практического занятия: «Внутригрупповая работа»",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Сечко",
+          "room": "vk.ru/call/join/eOQchTtbPTj7LZcjVqDumsLmBJxuAvUtZV8k5auzLY8",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": null,
+          "time_start": "18:00",
+          "time_end": "19:30",
+          "subject": "Физическая культура и спорт",
+          "type": "practice",
+          "teacher": "Ст. преподаватель Р.В. Куква",
+          "room": "vk.ru/call/join/t6C5XBxY_AWm_H5TTnLIWSjcRNqUAY1uHIcoYEUGlc0",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": null,
+          "time_start": "18:00",
+          "time_end": "19:10",
+          "subject": "Адаптационный семинар-тренинг Тема практического занятия: «Внутригрупповая работа»",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Сечко",
+          "room": "vk.ru/call/join/1px-orAW_SQqD1z8iTnW5Nsh9N8-1v-I-MwxHLRP_Jo",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:30",
+          "subject": "Адаптационный семинар-тренинг Тема практического занятия: «Внутригрупповая работа»",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Сечко",
+          "room": "vk.ru/call/join/1px-orAW_SQqD1z8iTnW5Nsh9N8-1v-I-MwxHLRP_Jo",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": null,
+          "time_start": "18:00",
+          "time_end": "19:30",
+          "subject": "Библиотечно-библиографическое занятие Зав.библ. С.В. Надеждина",
+          "type": "lecture",
+          "teacher": null,
+          "room": "vk.ru/call/join/OXOPXj_xoJ7ZgxYWUoHC-BqlMy7yaI1hiEzypkc36SI",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": null,
+          "time_start": "18:00",
+          "time_end": "19:30",
+          "subject": "Введение в профессию Тема лекционного занятия: «Погружение и знакомство c системой ИнфоДа Moodle»",
+          "type": "practice",
+          "teacher": "Ст. преподаватель О. А. Мухлынина",
+          "room": "vk.ru/call/join/ReL7QO8Fbxq6Mfvw25jvsMFym7Y1-jppEag2flzmA7Q",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": null,
+          "time_start": "18:00",
+          "time_end": "19:10",
+          "subject": "Адаптационный семинар-тренинг Тема практического занятия: «Внутригрупповая работа»",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Сечко",
+          "room": "vk.ru/call/join/VilpMWJX3gRrFKjH5zunGfb7fxapCLuG9DAPq--4hWY",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:30",
+          "subject": "Адаптационный семинар-тренинг Тема практического занятия: «Внутригрупповая работа»",
+          "type": "practice",
+          "teacher": "Ассистент А.А. Сечко",
+          "room": "vk.ru/call/join/VilpMWJX3gRrFKjH5zunGfb7fxapCLuG9DAPq--4hWY",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": []
+    }
+  }
+}
