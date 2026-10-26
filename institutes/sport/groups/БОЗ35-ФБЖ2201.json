@@ -265,7 +265,7 @@
           "subject": "Проектирование просветительских программ по физической культуре",
           "type": "lecture",
           "teacher": "проф. Гросс И.Л",
-          "room": null,
+          "room": "101",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -298,7 +298,7 @@
           "subject": "Лечебная физическая культура и массаж",
           "type": "practice",
           "teacher": "ст. преп. Глазкова А.С",
-          "room": null,
+          "room": "216",
           "subgroup": null,
           "notes": ""
         },
@@ -331,7 +331,7 @@
           "subject": "Спортивная медицина",
           "type": "practice",
           "teacher": "доц. Шонус Д.Х",
-          "room": null,
+          "room": "216",
           "subgroup": null,
           "notes": ""
         },
@@ -641,7 +641,7 @@
           "subject": "Проектирование просветительских программ по физической культуре",
           "type": "lecture",
           "teacher": "проф. Гросс И.Л",
-          "room": null,
+          "room": "101",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -674,7 +674,7 @@
           "subject": "Лечебная физическая культура и массаж",
           "type": "practice",
           "teacher": "ст. преп. Глазкова А.С",
-          "room": null,
+          "room": "216",
           "subgroup": null,
           "notes": ""
         },
@@ -707,7 +707,7 @@
           "subject": "Спортивная медицина",
           "type": "practice",
           "teacher": "доц. Шонус Д.Х",
-          "room": null,
+          "room": "216",
           "subgroup": null,
           "notes": ""
         },
