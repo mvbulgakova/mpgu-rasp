@@ -27,10 +27,13 @@
     {
       "id": "math",
       "name": "Институт математики и информатики",
-      "groups_count": 0,
-      "updated_at": "2026-10-25T19:27:33.861236+00:00",
-      "status": "error",
-      "error": "RetryError[<Future at 0x7f5b961826c0 state=finished raised ClientConnectorCertificateError>]"
+      "short_name": "ИМиИ",
+      "campus": "ИМиИ",
+      "campus_address": "ул. Краснопрудная, 14",
+      "groups_count": 33,
+      "updated_at": "2026-09-21T10:24:40.199349+00:00",
+      "status": "ok",
+      "parser_used": "pdfplumber"
     },
     {
       "id": "history",
