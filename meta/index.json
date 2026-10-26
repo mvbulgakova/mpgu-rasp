@@ -57,10 +57,13 @@
     {
       "id": "physics",
       "name": "Институт физики, технологии и информационных систем",
-      "groups_count": 0,
-      "updated_at": "2026-10-25T19:26:42.684383+00:00",
-      "status": "error",
-      "error": "RetryError[<Future at 0x7fb76da37f20 state=finished raised ClientConnectorCertificateError>]"
+      "short_name": "ИФТИС",
+      "campus": "ИФТИС",
+      "campus_address": "ул. Малая Пироговская, 29",
+      "groups_count": 5,
+      "updated_at": "2026-10-20T20:17:15.306318+00:00",
+      "status": "ok",
+      "parser_used": "camelot"
     },
     {
       "id": "social",
