@@ -65,10 +65,13 @@
     {
       "id": "social",
       "name": "Институт социально-гуманитарного образования",
-      "groups_count": 0,
-      "updated_at": "2026-10-25T19:26:59.845971+00:00",
-      "status": "error",
-      "error": "RetryError[<Future at 0x7f0257a05310 state=finished raised ClientConnectorCertificateError>]"
+      "short_name": "ИСГО",
+      "campus": "КГФ",
+      "campus_address": "пр-т Вернадского, 88",
+      "groups_count": 5,
+      "updated_at": "2026-10-26T10:44:59.658290+00:00",
+      "status": "ok",
+      "parser_used": "gsheets"
     },
     {
       "id": "biology",
