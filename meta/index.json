@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T10:46:07.582051+00:00",
+  "generated_at": "2026-10-26T10:59:44.042546+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -79,10 +79,13 @@
     {
       "id": "biology",
       "name": "Институт биологии и химии",
-      "groups_count": 0,
-      "updated_at": "2026-10-25T09:33:50.325154+00:00",
-      "status": "error",
-      "error": "RetryError[<Future at 0x7f87517d01a0 state=finished raised ClientConnectorCertificateError>]"
+      "short_name": "ИБиХ",
+      "campus": "ИБХ",
+      "campus_address": "ул. Кибальчича, 6",
+      "groups_count": 30,
+      "updated_at": "2026-10-26T10:59:44.016821+00:00",
+      "status": "ok",
+      "parser_used": "nextcloud"
     },
     {
       "id": "preschool",
