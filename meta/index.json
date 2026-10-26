@@ -38,10 +38,13 @@
     {
       "id": "history",
       "name": "Институт истории и политики",
-      "groups_count": 0,
-      "updated_at": "2026-10-25T09:34:28.883845+00:00",
-      "status": "error",
-      "error": "RetryError[<Future at 0x7f51bc48e240 state=finished raised ClientConnectorCertificateError>]"
+      "short_name": "ИИиП",
+      "campus": "КГФ",
+      "campus_address": "пр-т Вернадского, 88",
+      "groups_count": 44,
+      "updated_at": "2026-10-17T09:00:09.023610+00:00",
+      "status": "ok",
+      "parser_used": "excel"
     },
     {
       "id": "arts",
