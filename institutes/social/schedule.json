@@ -3,10 +3,19 @@
   "institute_name": "Институт социально-гуманитарного образования",
   "short_name": "ИСГО",
   "academic_year": "2026-2027",
-  "updated_at": "2026-10-27T10:12:46.636958+00:00",
+  "updated_at": "2026-10-27T21:07:44.123148+00:00",
   "parser_used": "gsheets",
   "version": 1,
   "groups": [
+    {
+      "name": "ВОЭ34-ИВР2501",
+      "file": "ВОЭ34-ИВР2501",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
     {
       "name": "БОЭ04-ГМУ2501",
       "file": "БОЭ04-ГМУ2501",
@@ -19,6 +28,78 @@
     {
       "name": "БОЭ04-ГМУ2502",
       "file": "БОЭ04-ГМУ2502",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЭ63-ЮРД2501",
+      "file": "БОЭ63-ЮРД2501",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЭ63-ЮРД2502",
+      "file": "БОЭ63-ЮРД2502",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЭ63-ЮРД2503",
+      "file": "БОЭ63-ЮРД2503",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЭ24-СУФ2501",
+      "file": "БОЭ24-СУФ2501",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЭ24-СУФ2502",
+      "file": "БОЭ24-СУФ2502",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЭ24-СУФ2503",
+      "file": "БОЭ24-СУФ2503",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЭ24-СУФ2504",
+      "file": "БОЭ24-СУФ2504",
+      "year": null,
+      "form": "part_time",
+      "degree": "bachelor",
+      "direction": null,
+      "profile": null
+    },
+    {
+      "name": "БОЭ24-СУФ2505",
+      "file": "БОЭ24-СУФ2505",
       "year": null,
       "form": "part_time",
       "degree": "bachelor",
