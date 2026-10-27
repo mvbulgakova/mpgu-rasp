@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-26T08:16:29.420248+00:00",
-  "count": 1057,
+  "count": 1062,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -14411,7 +14411,7 @@
       "_key": "мвниколаев",
       "_unknown": true,
       "id": 998,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_м",
@@ -14441,7 +14441,7 @@
       "_key": "ввдёмина",
       "_unknown": true,
       "id": 1000,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_св",
@@ -14456,7 +14456,7 @@
       "_key": "св",
       "_unknown": true,
       "id": 1001,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_оаигумнов",
@@ -14471,7 +14471,7 @@
       "_key": "оаигумнов",
       "_unknown": true,
       "id": 1002,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_оамакаренко",
@@ -14486,7 +14486,7 @@
       "_key": "оамакаренко",
       "_unknown": true,
       "id": 1003,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_еацветкова",
@@ -14501,7 +14501,7 @@
       "_key": "еацветкова",
       "_unknown": true,
       "id": 1004,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_егкузнецова",
@@ -14516,7 +14516,7 @@
       "_key": "егкузнецова",
       "_unknown": true,
       "id": 1005,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_м",
@@ -14561,7 +14561,7 @@
       "_key": "молихачев",
       "_unknown": true,
       "id": 1008,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_е",
@@ -14591,7 +14591,7 @@
       "_key": "курсав",
       "_unknown": true,
       "id": 1010,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_дистанционнод",
@@ -14606,7 +14606,7 @@
       "_key": "дистанционнод",
       "_unknown": true,
       "id": 1011,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_httpsт",
@@ -14621,7 +14621,7 @@
       "_key": "httpsт",
       "_unknown": true,
       "id": 1012,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_са",
@@ -14651,7 +14651,7 @@
       "_key": "аудн",
       "_unknown": true,
       "id": 1014,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_доциазаякина",
@@ -14726,7 +14726,7 @@
       "_key": "иазаякина",
       "_unknown": true,
       "id": 1019,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ауде",
@@ -14741,7 +14741,7 @@
       "_key": "ауде",
       "_unknown": true,
       "id": 1020,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_петрованг",
@@ -15297,6 +15297,81 @@
       "_unknown": true,
       "id": 1057,
       "has_schedule": false
+    },
+    {
+      "staff_slug": "_unknown_чери",
+      "full_name": "асс. И Сун Чер",
+      "abbreviated": "Чер а.",
+      "last": "Чер",
+      "first": "асс.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "чери",
+      "_unknown": true,
+      "id": 1058,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_лхзарипова",
+      "full_name": "доц. Л.Х. Зарипова",
+      "abbreviated": "Зарипова д.",
+      "last": "Зарипова",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "лхзарипова",
+      "_unknown": true,
+      "id": 1059,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_фвшаройко",
+      "full_name": "доц. Ф.В. Шаройко",
+      "abbreviated": "Шаройко д.",
+      "last": "Шаройко",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "фвшаройко",
+      "_unknown": true,
+      "id": 1060,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_httpsи",
+      "full_name": "История государственного управления  асс. И Сун Чер     - дистанционно https:",
+      "abbreviated": "https: И.",
+      "last": "https:",
+      "first": "История",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "httpsи",
+      "_unknown": true,
+      "id": 1061,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_фвшаройко",
+      "full_name": "доц. Ф.В. Шаройко",
+      "abbreviated": "Шаройко д.",
+      "last": "Шаройко",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ф",
+      "_unknown": true,
+      "id": 1062,
+      "has_schedule": true
     }
   ]
 }
