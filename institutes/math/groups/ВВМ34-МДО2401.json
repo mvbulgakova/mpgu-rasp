@@ -127,48 +127,37 @@
       ],
       "saturday": [
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "21 1",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное поведение",
           "type": "lecture",
           "teacher": "ст. пр. Харламов П.В",
-          "room": "207",
+          "room": "305",
           "subgroup": null,
-          "notes": "/ПЗ с 31.10"
+          "notes": "26.12"
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "Теория чисел",
-          "type": "lecture",
+          "type": "practice",
           "teacher": "доц. Иконникова Т.К",
           "room": "207",
           "subgroup": null,
           "notes": ""
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное 0 1 поведение",
-          "type": "lecture",
-          "teacher": null,
-          "room": null,
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное поведение",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "305",
           "subgroup": null,
-          "notes": "/ПЗ с 31.10"
+          "notes": "26.12"
         },
         {
           "slot": 3,
@@ -185,12 +174,34 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
+          "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное поведение",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "26.12"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
           "type": "lecture",
           "teacher": "ст. пр. Шевченко Т.С",
           "room": "305",
           "subgroup": null,
           "notes": "/ПЗ 12.09, 26.09, 07.11"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Теория чисел",
+          "type": "lecture",
+          "teacher": "доц. Иконникова Т.К",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
         }
       ]
     },
@@ -315,48 +326,37 @@
       ],
       "saturday": [
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "21 1",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное поведение",
           "type": "lecture",
           "teacher": "ст. пр. Харламов П.В",
-          "room": "207",
+          "room": "305",
           "subgroup": null,
-          "notes": "/ПЗ с 31.10"
+          "notes": "26.12"
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
           "subject": "Теория чисел",
-          "type": "lecture",
+          "type": "practice",
           "teacher": "доц. Иконникова Т.К",
           "room": "207",
           "subgroup": null,
           "notes": ""
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное 0 1 поведение",
-          "type": "lecture",
-          "teacher": null,
-          "room": null,
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное поведение",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "305",
           "subgroup": null,
-          "notes": "/ПЗ с 31.10"
+          "notes": "26.12"
         },
         {
           "slot": 3,
@@ -373,12 +373,34 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
+          "subject": "Нормативно-правовые основы профессиональной деятельности и антикоррупционное поведение",
+          "type": "practice",
+          "teacher": "ст. пр. Харламов П.В",
+          "room": "305",
+          "subgroup": null,
+          "notes": "26.12"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
           "type": "lecture",
           "teacher": "ст. пр. Шевченко Т.С",
           "room": "305",
           "subgroup": null,
           "notes": "/ПЗ 12.09, 26.09, 07.11"
+        },
+        {
+          "slot": 7,
+          "time_start": "19:20",
+          "time_end": "20:50",
+          "subject": "Теория чисел",
+          "type": "lecture",
+          "teacher": "доц. Иконникова Т.К",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
         }
       ]
     }
