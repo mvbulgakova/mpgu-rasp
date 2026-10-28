@@ -68,6 +68,17 @@
       ],
       "wednesday": [
         {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Прокурорский надзор",
+          "type": "practice",
+          "teacher": "доц. Н.В. Головко",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
@@ -312,6 +323,17 @@
         }
       ],
       "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Прокурорский надзор",
+          "type": "practice",
+          "teacher": "доц. Н.В. Головко",
+          "room": "826",
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": 3,
           "time_start": "12:40",
