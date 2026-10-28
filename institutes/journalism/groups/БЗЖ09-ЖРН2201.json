@@ -31,6 +31,28 @@
           "room": "202",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ (ДИФ.ЗАЧЕТ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "wednesday": [
@@ -79,13 +101,24 @@
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "СОЦИОКУЛЬТУРНЫЙ АНАЛИЗ ТЕКСТА (ЗАЧЕТ)",
-          "type": "other",
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "СОЦИОКУЛЬТУРНЫЙ АНАЛИЗ ТЕКСТА",
+          "type": "practice",
           "teacher": "Доцент С.Ф. Меркушов",
-          "room": "117",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "АВТОРСКИЙ ПРОЕКТ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -129,16 +162,16 @@
           "time_start": "14:20",
           "time_end": "15:50",
           "subject": "СОВРЕМЕННЫЕ КУЛЬТУРНЫЕ ПРАКТИКИ",
-          "type": "lecture",
+          "type": "practice",
           "teacher": "Доцент Е.В. Митницкая",
           "room": "202",
           "subgroup": null,
           "notes": ""
         },
         {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
           "subject": "СОВРЕМЕННЫЕ КУЛЬТУРНЫЕ ПРАКТИКИ",
           "type": "practice",
           "teacher": "Доцент Е.В. Митницкая",
@@ -149,9 +182,9 @@
       ],
       "friday": [
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
           "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
           "type": "lecture",
           "teacher": "Профессор Д.А. Гусев",
@@ -160,20 +193,9 @@
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
-          "type": "practice",
-          "teacher": "Профессор Д.А. Гусев",
-          "room": "202",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
           "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
           "type": "practice",
           "teacher": "Профессор Д.А. Гусев",
@@ -182,19 +204,7 @@
           "notes": ""
         }
       ],
-      "saturday": [
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
-          "type": "practice",
-          "teacher": "Профессор Д.А. Гусев",
-          "room": "202",
-          "subgroup": null,
-          "notes": ""
-        }
-      ]
+      "saturday": []
     },
     "even_week": {
       "monday": [
@@ -221,6 +231,28 @@
           "room": "202",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ (ДИФ.ЗАЧЕТ)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "wednesday": [
@@ -269,13 +301,24 @@
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "СОЦИОКУЛЬТУРНЫЙ АНАЛИЗ ТЕКСТА (ЗАЧЕТ)",
-          "type": "other",
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "СОЦИОКУЛЬТУРНЫЙ АНАЛИЗ ТЕКСТА",
+          "type": "practice",
           "teacher": "Доцент С.Ф. Меркушов",
-          "room": "117",
+          "room": "Белый",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "АВТОРСКИЙ ПРОЕКТ",
+          "type": "practice",
+          "teacher": null,
+          "room": null,
           "subgroup": null,
           "notes": ""
         },
@@ -319,16 +362,16 @@
           "time_start": "14:20",
           "time_end": "15:50",
           "subject": "СОВРЕМЕННЫЕ КУЛЬТУРНЫЕ ПРАКТИКИ",
-          "type": "lecture",
+          "type": "practice",
           "teacher": "Доцент Е.В. Митницкая",
           "room": "202",
           "subgroup": null,
           "notes": ""
         },
         {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
           "subject": "СОВРЕМЕННЫЕ КУЛЬТУРНЫЕ ПРАКТИКИ",
           "type": "practice",
           "teacher": "Доцент Е.В. Митницкая",
@@ -339,9 +382,9 @@
       ],
       "friday": [
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
           "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
           "type": "lecture",
           "teacher": "Профессор Д.А. Гусев",
@@ -350,20 +393,9 @@
           "notes": ""
         },
         {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
-          "type": "practice",
-          "teacher": "Профессор Д.А. Гусев",
-          "room": "202",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
           "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
           "type": "practice",
           "teacher": "Профессор Д.А. Гусев",
@@ -372,19 +404,7 @@
           "notes": ""
         }
       ],
-      "saturday": [
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ТЕОРИЯ АРГУМЕНТАЦИИ",
-          "type": "practice",
-          "teacher": "Профессор Д.А. Гусев",
-          "room": "202",
-          "subgroup": null,
-          "notes": ""
-        }
-      ]
+      "saturday": []
     }
   }
 }
