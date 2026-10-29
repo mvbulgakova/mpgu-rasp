@@ -3814,5 +3814,41 @@
     "md5": "19d7d5e6bc045de2469e42d7ef486f0c",
     "size_bytes": 0,
     "last_changed": "2026-10-28T21:30:14.506018+00:00"
+  },
+  "philology:https://mpgu.su/wp-content/uploads/2026/10/2k_raspisanie.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/10/2k_raspisanie.pdf",
+    "md5": "d5ebaedc15da349962b4e52de12002e2",
+    "size_bytes": 0,
+    "last_changed": "2026-10-29T11:25:00.144388+00:00"
+  },
+  "philology:https://mpgu.su/wp-content/uploads/2026/10/5kraspisanie.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/10/5kraspisanie.pdf",
+    "md5": "6504fb81eafb5c950f0a934c692b2965",
+    "size_bytes": 0,
+    "last_changed": "2026-10-29T11:25:00.144403+00:00"
+  },
+  "philology:https://mpgu.su/wp-content/uploads/2026/10/4kraspisanie.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/10/4kraspisanie.pdf",
+    "md5": "13b9dc6838be2ffc652b242bd6fbf3ba",
+    "size_bytes": 0,
+    "last_changed": "2026-10-29T11:25:00.144408+00:00"
+  },
+  "philology:https://mpgu.su/wp-content/uploads/2026/10/3kraspisanie.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/10/3kraspisanie.pdf",
+    "md5": "6e0c5879e3b144b41a774de8fc55f4c8",
+    "size_bytes": 0,
+    "last_changed": "2026-10-29T11:25:00.144412+00:00"
+  },
+  "philology:https://mpgu.su/wp-content/uploads/2026/10/3-kurs-3.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/10/3-kurs-3.pdf",
+    "md5": "4730f5cbc2fe4246ae523ff1c97b0679",
+    "size_bytes": 0,
+    "last_changed": "2026-10-29T11:25:00.144415+00:00"
+  },
+  "philology:https://mpgu.su/wp-content/uploads/2026/10/2-kurs-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/10/2-kurs-1.pdf",
+    "md5": "89f3dc718b64163489d43872b6a10eed",
+    "size_bytes": 0,
+    "last_changed": "2026-10-29T11:25:00.144419+00:00"
   }
 }
