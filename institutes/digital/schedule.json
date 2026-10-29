@@ -3,7 +3,7 @@
   "institute_name": "Институт развития цифрового образования",
   "short_name": "ИРЦО",
   "academic_year": "2026-2027",
-  "updated_at": "2026-10-28T21:41:07.549132+00:00",
+  "updated_at": "2026-10-29T11:27:21.155187+00:00",
   "parser_used": "nextcloud",
   "version": 1,
   "groups": [
@@ -13,7 +13,7 @@
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": null,
+      "direction": "44.03.05 Педагогическое образование",
       "profile": null
     }
   ]
