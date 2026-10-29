@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-10-26T08:16:29.420248+00:00",
-  "count": 1080,
+  "count": 1131,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -1064,7 +1064,7 @@
       "abbreviated": "Куксова М.А.",
       "id": 76,
       "_key": "куксовама",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "majorova-elizaveta-vladimirovna",
@@ -1134,7 +1134,7 @@
       "abbreviated": "Погодаева М.В.",
       "id": 81,
       "_key": "погодаевамв",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "sidorkin-vladimir-aleksandrovich",
@@ -10856,7 +10856,7 @@
       "_key": "ив",
       "_unknown": true,
       "id": 761,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ассистент",
@@ -11096,7 +11096,7 @@
       "_key": "httpsе",
       "_unknown": true,
       "id": 777,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_httesе",
@@ -11111,7 +11111,7 @@
       "_key": "httesе",
       "_unknown": true,
       "id": 778,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_sо",
@@ -13511,7 +13511,7 @@
       "_key": "вдшарликова",
       "_unknown": true,
       "id": 938,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_вдшарликова",
@@ -13526,7 +13526,7 @@
       "_key": "вдшарликова",
       "_unknown": true,
       "id": 939,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_осборисова",
@@ -13541,7 +13541,7 @@
       "_key": "осборисова",
       "_unknown": true,
       "id": 940,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_лвковтун",
@@ -13556,7 +13556,7 @@
       "_key": "лвковтун",
       "_unknown": true,
       "id": 941,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_шорината",
@@ -13571,7 +13571,7 @@
       "_key": "шорината",
       "_unknown": true,
       "id": 942,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_грифцоваин",
@@ -13586,7 +13586,7 @@
       "_key": "грифцоваин",
       "_unknown": true,
       "id": 943,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ввфедянин",
@@ -14411,7 +14411,7 @@
       "_key": "мвниколаев",
       "_unknown": true,
       "id": 998,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_м",
@@ -14441,7 +14441,7 @@
       "_key": "ввдёмина",
       "_unknown": true,
       "id": 1000,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_св",
@@ -14471,7 +14471,7 @@
       "_key": "оаигумнов",
       "_unknown": true,
       "id": 1002,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_оамакаренко",
@@ -14486,7 +14486,7 @@
       "_key": "оамакаренко",
       "_unknown": true,
       "id": 1003,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_еацветкова",
@@ -14501,7 +14501,7 @@
       "_key": "еацветкова",
       "_unknown": true,
       "id": 1004,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_егкузнецова",
@@ -14516,7 +14516,7 @@
       "_key": "егкузнецова",
       "_unknown": true,
       "id": 1005,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_м",
@@ -14561,7 +14561,7 @@
       "_key": "молихачев",
       "_unknown": true,
       "id": 1008,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_е",
@@ -14606,7 +14606,7 @@
       "_key": "дистанционнод",
       "_unknown": true,
       "id": 1011,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_httpsт",
@@ -14621,7 +14621,7 @@
       "_key": "httpsт",
       "_unknown": true,
       "id": 1012,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_са",
@@ -14651,7 +14651,7 @@
       "_key": "аудн",
       "_unknown": true,
       "id": 1014,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_доциазаякина",
@@ -14726,7 +14726,7 @@
       "_key": "иазаякина",
       "_unknown": true,
       "id": 1019,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ауде",
@@ -14756,7 +14756,7 @@
       "_key": "петрованг",
       "_unknown": true,
       "id": 1021,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_еринаои",
@@ -14786,7 +14786,7 @@
       "_key": "паршиковат",
       "_unknown": true,
       "id": 1023,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_гроссил",
@@ -14801,7 +14801,7 @@
       "_key": "гроссил",
       "_unknown": true,
       "id": 1024,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_кабановаеа",
@@ -14831,7 +14831,7 @@
       "_key": "савинмэ",
       "_unknown": true,
       "id": 1026,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_преподавателя",
@@ -14846,7 +14846,7 @@
       "_key": "преподавателя",
       "_unknown": true,
       "id": 1027,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ястребоваеа",
@@ -14906,7 +14906,7 @@
       "_key": "столярлм",
       "_unknown": true,
       "id": 1031,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_стельмахег",
@@ -14981,7 +14981,7 @@
       "_key": "усачевна",
       "_unknown": true,
       "id": 1036,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_тарасоваюа",
@@ -14996,7 +14996,7 @@
       "_key": "тарасоваюа",
       "_unknown": true,
       "id": 1037,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_еринаюи",
@@ -15011,7 +15011,7 @@
       "_key": "еринаюи",
       "_unknown": true,
       "id": 1038,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_машковкю",
@@ -15041,7 +15041,7 @@
       "_key": "дворяноваса",
       "_unknown": true,
       "id": 1040,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_гилевга",
@@ -15071,7 +15071,7 @@
       "_key": "ау",
       "_unknown": true,
       "id": 1042,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_столярлм",
@@ -15086,7 +15086,7 @@
       "_key": "с",
       "_unknown": true,
       "id": 1043,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_кимтк",
@@ -15101,7 +15101,7 @@
       "_key": "кимтк",
       "_unknown": true,
       "id": 1044,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_лукиноваав",
@@ -15116,7 +15116,7 @@
       "_key": "лукиноваав",
       "_unknown": true,
       "id": 1045,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_загородниковааю",
@@ -15131,7 +15131,7 @@
       "_key": "загородниковааю",
       "_unknown": true,
       "id": 1046,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_ау",
@@ -15146,7 +15146,7 @@
       "_key": "у",
       "_unknown": true,
       "id": 1047,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_чернышеваов",
@@ -15161,7 +15161,7 @@
       "_key": "чернышеваов",
       "_unknown": true,
       "id": 1048,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_терентьеваев",
@@ -15176,7 +15176,7 @@
       "_key": "терентьеваев",
       "_unknown": true,
       "id": 1049,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_кешишеваг",
@@ -15191,7 +15191,7 @@
       "_key": "кешишеваг",
       "_unknown": true,
       "id": 1050,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_чистоваав",
@@ -15206,7 +15206,7 @@
       "_key": "чистоваав",
       "_unknown": true,
       "id": 1051,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_уськовкв",
@@ -15221,7 +15221,7 @@
       "_key": "уськовкв",
       "_unknown": true,
       "id": 1052,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_тепловаеф",
@@ -15236,7 +15236,7 @@
       "_key": "тепловаеф",
       "_unknown": true,
       "id": 1053,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_большаковаав",
@@ -15251,7 +15251,7 @@
       "_key": "большаковаав",
       "_unknown": true,
       "id": 1054,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_загородниковааю",
@@ -15266,7 +15266,7 @@
       "_key": "загородниковааю",
       "_unknown": true,
       "id": 1055,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_маниеваса",
@@ -15281,7 +15281,7 @@
       "_key": "маниеваса",
       "_unknown": true,
       "id": 1056,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_миняжевтр",
@@ -15296,7 +15296,7 @@
       "_key": "миняжевтр",
       "_unknown": true,
       "id": 1057,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_чери",
@@ -15311,7 +15311,7 @@
       "_key": "чери",
       "_unknown": true,
       "id": 1058,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_лхзарипова",
@@ -15341,7 +15341,7 @@
       "_key": "фвшаройко",
       "_unknown": true,
       "id": 1060,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_httpsи",
@@ -15356,7 +15356,7 @@
       "_key": "httpsи",
       "_unknown": true,
       "id": 1061,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_фвшаройко",
@@ -15371,7 +15371,7 @@
       "_key": "ф",
       "_unknown": true,
       "id": 1062,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_овполикашина",
@@ -15431,7 +15431,7 @@
       "_key": "се",
       "_unknown": true,
       "id": 1066,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_лвкозилова",
@@ -15446,7 +15446,7 @@
       "_key": "лвкозилова",
       "_unknown": true,
       "id": 1067,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_иякуприянова",
@@ -15491,7 +15491,7 @@
       "_key": "лгроман",
       "_unknown": true,
       "id": 1070,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_овмихалькова",
@@ -15551,7 +15551,7 @@
       "_key": "нал",
       "_unknown": true,
       "id": 1074,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_нал",
@@ -15566,7 +15566,7 @@
       "_key": "нал",
       "_unknown": true,
       "id": 1075,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_зачётт",
@@ -15581,7 +15581,7 @@
       "_key": "зачётт",
       "_unknown": true,
       "id": 1076,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_зачётт",
@@ -15596,7 +15596,7 @@
       "_key": "зачётт",
       "_unknown": true,
       "id": 1077,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_оашклярова",
@@ -15611,7 +15611,7 @@
       "_key": "оашклярова",
       "_unknown": true,
       "id": 1078,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_оценкойк",
@@ -15626,7 +15626,7 @@
       "_key": "оценкойк",
       "_unknown": true,
       "id": 1079,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ви",
@@ -15641,6 +15641,771 @@
       "_key": "ви",
       "_unknown": true,
       "id": 1080,
+      "has_schedule": false
+    },
+    {
+      "staff_slug": "_unknown_pkempousuroomsizjxzeopogbwioinг",
+      "full_name": "асс. Горячева, завкаф. Ю:С. Браун, 201 | _ ББ 12 pkempou.su/rooms/izj-xze-opo-gbw/ioin",
+      "abbreviated": "pkempou.su/rooms/izj-xze-opo-gbw/ioin а.",
+      "last": "pkempou.su/rooms/izj-xze-opo-gbw/ioin",
+      "first": "асс.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "pkempousuroomsizjxzeopogbwioinг",
+      "_unknown": true,
+      "id": 1081,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_hitosм",
+      "full_name": "проф. М ШЕ Мирзоев, 235 hitos:",
+      "abbreviated": "hitos: п.",
+      "last": "hitos:",
+      "first": "проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "hitosм",
+      "_unknown": true,
+      "id": 1082,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_hitneг",
+      "full_name": "асс. Горячева, 201 о hitne:",
+      "abbreviated": "hitne: а.",
+      "last": "hitne:",
+      "first": "асс.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "hitneг",
+      "_unknown": true,
+      "id": 1083,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_httpsм",
+      "full_name": "проф. М.Ш. Мирзоев; 235 — https7",
+      "abbreviated": "https7 п.",
+      "last": "https7",
+      "first": "проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "httpsм",
+      "_unknown": true,
+      "id": 1084,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_htpstм",
+      "full_name": "проф. МЛИ. Мирзоев, 235 | | Htpst",
+      "abbreviated": "Htpst п.",
+      "last": "Htpst",
+      "first": "проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "htpstм",
+      "_unknown": true,
+      "id": 1085,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_hitosс",
+      "full_name": "доц. С.Е. Грачев, 201 | hitos:",
+      "abbreviated": "hitos: д.",
+      "last": "hitos:",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "hitosс",
+      "_unknown": true,
+      "id": 1086,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_httpsiи",
+      "full_name": "Иностранный язык (113) доц..А.В. Григорян, 201 httpsi",
+      "abbreviated": "httpsi И.",
+      "last": "httpsi",
+      "first": "Иностранный",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "httpsiи",
+      "_unknown": true,
+      "id": 1087,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_hitos",
+      "full_name": "_ “Marematwueckue основы информатики (ПЗ)  — _ проф: МШ.Мирзоев, 235 | hitos:",
+      "abbreviated": "hitos: _.",
+      "last": "hitos:",
+      "first": "_",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "hitos",
+      "_unknown": true,
+      "id": 1088,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_pkmpeonsulroomsyudfsbxzrjoinе",
+      "full_name": "проф. Е.В. Макеева, (ayo.449) https el 2.pkmpeon.sulrooms/yu7-29d-fsb-xzr/join'",
+      "abbreviated": "2.pkmpeon.sulrooms/yu7-29d-fsb-xzr/join' п.",
+      "last": "2.pkmpeon.sulrooms/yu7-29d-fsb-xzr/join'",
+      "first": "проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "pkmpeonsulroomsyudfsbxzrjoinе",
+      "_unknown": true,
+      "id": 1089,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_оокозарезова",
+      "full_name": "Доц. О.О. Козарезова",
+      "abbreviated": "Козарезова Д.",
+      "last": "Козарезова",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "оокозарезова",
+      "_unknown": true,
+      "id": 1090,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_ев",
+      "full_name": "Проф. Е.В",
+      "abbreviated": "Е.В П.",
+      "last": "Е.В",
+      "first": "Проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ев",
+      "_unknown": true,
+      "id": 1091,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_ен",
+      "full_name": "Асс. Е.Н",
+      "abbreviated": "Е.Н А.",
+      "last": "Е.Н",
+      "first": "Асс.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ен",
+      "_unknown": true,
+      "id": 1092,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_мд",
+      "full_name": "Ст. преп. М.Д",
+      "abbreviated": "М.Д С.",
+      "last": "М.Д",
+      "first": "Ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "мд",
+      "_unknown": true,
+      "id": 1093,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_лгчапаева",
+      "full_name": "Проф. Л.Г. Чапаева",
+      "abbreviated": "Чапаева П.",
+      "last": "Чапаева",
+      "first": "Проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "лгчапаева",
+      "_unknown": true,
+      "id": 1094,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_овфидченко",
+      "full_name": "Доц. О.В. Фидченко",
+      "abbreviated": "Фидченко Д.",
+      "last": "Фидченко",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "овфидченко",
+      "_unknown": true,
+      "id": 1095,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_лг",
+      "full_name": "Проф. Л.Г",
+      "abbreviated": "Л.Г П.",
+      "last": "Л.Г",
+      "first": "Проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "лг",
+      "_unknown": true,
+      "id": 1096,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_тг",
+      "full_name": "Доц. Т. Г",
+      "abbreviated": "Г Д.",
+      "last": "Г",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "тг",
+      "_unknown": true,
+      "id": 1097,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_тв",
+      "full_name": "Доц. Т.В",
+      "abbreviated": "Т.В Д.",
+      "last": "Т.В",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "тв",
+      "_unknown": true,
+      "id": 1098,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_мв",
+      "full_name": "Доц. М.В",
+      "abbreviated": "М.В Д.",
+      "last": "М.В",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "мв",
+      "_unknown": true,
+      "id": 1099,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_нг",
+      "full_name": "Доц. Н.Г",
+      "abbreviated": "Н.Г Д.",
+      "last": "Н.Г",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "нг",
+      "_unknown": true,
+      "id": 1100,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_аас",
+      "full_name": "Ст. пр.. . А.А",
+      "abbreviated": "А.А С.",
+      "last": "А.А",
+      "first": "Ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "аас",
+      "_unknown": true,
+      "id": 1101,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_юо",
+      "full_name": "Доц. Ю.О",
+      "abbreviated": "Ю.О Д.",
+      "last": "Ю.О",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "юо",
+      "_unknown": true,
+      "id": 1102,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_вю",
+      "full_name": "Доц. В.Ю",
+      "abbreviated": "В.Ю Д.",
+      "last": "В.Ю",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "вю",
+      "_unknown": true,
+      "id": 1103,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_аю",
+      "full_name": "Проф. А.Ю",
+      "abbreviated": "А.Ю П.",
+      "last": "А.Ю",
+      "first": "Проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "аю",
+      "_unknown": true,
+      "id": 1104,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_ни",
+      "full_name": "Проф. Н.И",
+      "abbreviated": "Н.И П.",
+      "last": "Н.И",
+      "first": "Проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ни",
+      "_unknown": true,
+      "id": 1105,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_ее",
+      "full_name": "Ст. преп. Е. Е",
+      "abbreviated": "Е С.",
+      "last": "Е",
+      "first": "Ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ее",
+      "_unknown": true,
+      "id": 1106,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_ав",
+      "full_name": "Проф. А.В",
+      "abbreviated": "А.В П.",
+      "last": "А.В",
+      "first": "Проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ав",
+      "_unknown": true,
+      "id": 1107,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_он",
+      "full_name": "Доц. О.Н",
+      "abbreviated": "О.Н Д.",
+      "last": "О.Н",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "он",
+      "_unknown": true,
+      "id": 1108,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_эакрылова",
+      "full_name": "Ст. преп. Э.А. Крылова",
+      "abbreviated": "Крылова С.",
+      "last": "Крылова",
+      "first": "Ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "эакрылова",
+      "_unknown": true,
+      "id": 1109,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_онсмыслова",
+      "full_name": "Доц. О.Н. Смыслова",
+      "abbreviated": "Смыслова Д.",
+      "last": "Смыслова",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "онсмыслова",
+      "_unknown": true,
+      "id": 1110,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_эа",
+      "full_name": "Ст. преп. Э.А",
+      "abbreviated": "Э.А С.",
+      "last": "Э.А",
+      "first": "Ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "эа",
+      "_unknown": true,
+      "id": 1111,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_ди",
+      "full_name": "Асс. Д.И",
+      "abbreviated": "Д.И А.",
+      "last": "Д.И",
+      "first": "Асс.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ди",
+      "_unknown": true,
+      "id": 1112,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_аас",
+      "full_name": "Ст. пр.. А.А",
+      "abbreviated": "А.А С.",
+      "last": "А.А",
+      "first": "Ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "аас",
+      "_unknown": true,
+      "id": 1113,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_юм",
+      "full_name": "Проф. Ю.М",
+      "abbreviated": "Ю.М П.",
+      "last": "Ю.М",
+      "first": "Проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "юм",
+      "_unknown": true,
+      "id": 1114,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_да",
+      "full_name": "Проф. Д.А",
+      "abbreviated": "Д.А П.",
+      "last": "Д.А",
+      "first": "Проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "да",
+      "_unknown": true,
+      "id": 1115,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_юс",
+      "full_name": "Доц. Ю.С",
+      "abbreviated": "Ю.С Д.",
+      "last": "Ю.С",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "юс",
+      "_unknown": true,
+      "id": 1116,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_ююс",
+      "full_name": "Ст. пр.. . Ю.Ю",
+      "abbreviated": "Ю.Ю С.",
+      "last": "Ю.Ю",
+      "first": "Ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ююс",
+      "_unknown": true,
+      "id": 1117,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_жас",
+      "full_name": "Ст. пр.. . Ж.А",
+      "abbreviated": "Ж.А С.",
+      "last": "Ж.А",
+      "first": "Ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "жас",
+      "_unknown": true,
+      "id": 1118,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_рз",
+      "full_name": "Ст. преп. Р.З",
+      "abbreviated": "Р.З С.",
+      "last": "Р.З",
+      "first": "Ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "рз",
+      "_unknown": true,
+      "id": 1119,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_аас",
+      "full_name": "Ст. пр... А.А",
+      "abbreviated": "А.А С.",
+      "last": "А.А",
+      "first": "Ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "аас",
+      "_unknown": true,
+      "id": 1120,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_ою",
+      "full_name": "Доц. О.Ю",
+      "abbreviated": "О.Ю Д.",
+      "last": "О.Ю",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ою",
+      "_unknown": true,
+      "id": 1121,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_ев",
+      "full_name": "Доц. Е.В",
+      "abbreviated": "Е.В Д.",
+      "last": "Е.В",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ев",
+      "_unknown": true,
+      "id": 1122,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_еи",
+      "full_name": "Доц. Е.И",
+      "abbreviated": "Е.И Д.",
+      "last": "Е.И",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "еи",
+      "_unknown": true,
+      "id": 1123,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_зи",
+      "full_name": "Проф. З.И",
+      "abbreviated": "З.И П.",
+      "last": "З.И",
+      "first": "Проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "зи",
+      "_unknown": true,
+      "id": 1124,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_жас",
+      "full_name": "Ст. пр.. Ж.А",
+      "abbreviated": "Ж.А С.",
+      "last": "Ж.А",
+      "first": "Ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "жас",
+      "_unknown": true,
+      "id": 1125,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_аи",
+      "full_name": "Доц. А.И",
+      "abbreviated": "А.И Д.",
+      "last": "А.И",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "аи",
+      "_unknown": true,
+      "id": 1126,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_юмгришаева",
+      "full_name": "Проф. Ю.М. Гришаева",
+      "abbreviated": "Гришаева П.",
+      "last": "Гришаева",
+      "first": "Проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "юмгришаева",
+      "_unknown": true,
+      "id": 1127,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_он",
+      "full_name": "Проф. О.Н",
+      "abbreviated": "О.Н П.",
+      "last": "О.Н",
+      "first": "Проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "он",
+      "_unknown": true,
+      "id": 1128,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_ав",
+      "full_name": "Доц. А.В",
+      "abbreviated": "А.В Д.",
+      "last": "А.В",
+      "first": "Доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ав",
+      "_unknown": true,
+      "id": 1129,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_ое",
+      "full_name": "Проф. О.Е",
+      "abbreviated": "О.Е П.",
+      "last": "О.Е",
+      "first": "Проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ое",
+      "_unknown": true,
+      "id": 1130,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_шарайна",
+      "full_name": "проф. Шарай Н.А",
+      "abbreviated": "Н.А п.",
+      "last": "Н.А",
+      "first": "проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "шарайна",
+      "_unknown": true,
+      "id": 1131,
       "has_schedule": true
     }
   ]
