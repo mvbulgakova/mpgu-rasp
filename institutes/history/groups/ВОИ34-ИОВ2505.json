@@ -27,6 +27,28 @@
           "room": "209",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "проф. Ерохина О. В",
+          "room": "325",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "проф. Ерохина О. В",
+          "room": "325",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "tuesday": [
@@ -336,6 +358,28 @@
           "type": "lecture",
           "teacher": "проф. Хитров Д. А",
           "room": "209",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "проф. Ерохина О. В",
+          "room": "325",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России (XVIII - начало XX веков)",
+          "type": "practice",
+          "teacher": "проф. Ерохина О. В",
+          "room": "325",
           "subgroup": null,
           "notes": ""
         }
