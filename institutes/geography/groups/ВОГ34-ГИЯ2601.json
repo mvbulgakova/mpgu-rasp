@@ -16,6 +16,17 @@
           "subject": "Картография с основами топографии",
           "type": "practice",
           "teacher": "доц О.В. Ковалева",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "доц. А.Н. Гречнева",
           "room": "301",
           "subgroup": null,
           "notes": ""
@@ -27,18 +38,7 @@
           "subject": "Практическая фонетика",
           "type": "practice",
           "teacher": "доц. А.В. Чибисова",
-          "room": "203",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Геология",
-          "type": "practice",
-          "teacher": "асс. И.А. Курдюков",
-          "room": "308",
+          "room": "206",
           "subgroup": null,
           "notes": ""
         },
@@ -49,7 +49,7 @@
           "subject": "Картография с основами топографии",
           "type": "practice",
           "teacher": "доц О.В. Ковалева",
-          "room": "301",
+          "room": "307",
           "subgroup": null,
           "notes": ""
         },
@@ -60,7 +60,7 @@
           "subject": "Практическая фонетика",
           "type": "practice",
           "teacher": "доц. А.В. Чибисова",
-          "room": "203",
+          "room": "206",
           "subgroup": null,
           "notes": ""
         }
@@ -83,6 +83,28 @@
           "time_end": "12:10",
           "subject": "Общее землеведение",
           "type": "practice",
+          "teacher": "доц. И.Ф. Асауляк",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Геология",
+          "type": "practice",
+          "teacher": "асс",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Общее землеведение",
+          "type": "practice",
           "teacher": null,
           "room": null,
           "subgroup": null,
@@ -90,6 +112,118 @@
         }
       ],
       "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Практическая фонетика",
+          "type": "practice",
+          "teacher": "доц. Ю.А. Галкина",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Практическая фонетика",
+          "type": "practice",
+          "teacher": "доц. А.А. Агеева",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геология",
+          "type": "practice",
+          "teacher": "асс. И.А. Курдюков",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Геология",
+          "type": "practice",
+          "teacher": "доц. А.Ю. Ежов",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. А.А. Агеева",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Картография с основами топографии",
+          "type": "practice",
+          "teacher": "доц О.В. Ковалева",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Практическая фонетика",
+          "type": "practice",
+          "teacher": "доц. Ю.С. Кузин",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практическая фонетика",
+          "type": "practice",
+          "teacher": "доц. Ю.С. Кузин",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Картография с основами топографии",
+          "type": "practice",
+          "teacher": "доц О.В. Ковалева",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "доц. М.К. Чиняков",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": 5,
           "time_start": "16:00",
@@ -146,7 +280,6 @@
           "notes": ""
         }
       ],
-      "friday": [],
       "saturday": []
     },
     "even_week": {
@@ -159,6 +292,17 @@
           "subject": "Картография с основами топографии",
           "type": "practice",
           "teacher": "доц О.В. Ковалева",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Возрастная анатомия, физиология и культура здоровья",
+          "type": "practice",
+          "teacher": "доц. А.Н. Гречнева",
           "room": "301",
           "subgroup": null,
           "notes": ""
@@ -170,18 +314,7 @@
           "subject": "Практическая фонетика",
           "type": "practice",
           "teacher": "доц. А.В. Чибисова",
-          "room": "203",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Геология",
-          "type": "practice",
-          "teacher": "асс. И.А. Курдюков",
-          "room": "308",
+          "room": "206",
           "subgroup": null,
           "notes": ""
         },
@@ -192,7 +325,7 @@
           "subject": "Картография с основами топографии",
           "type": "practice",
           "teacher": "доц О.В. Ковалева",
-          "room": "301",
+          "room": "307",
           "subgroup": null,
           "notes": ""
         },
@@ -203,7 +336,7 @@
           "subject": "Практическая фонетика",
           "type": "practice",
           "teacher": "доц. А.В. Чибисова",
-          "room": "203",
+          "room": "206",
           "subgroup": null,
           "notes": ""
         }
@@ -226,6 +359,28 @@
           "time_end": "12:10",
           "subject": "Общее землеведение",
           "type": "practice",
+          "teacher": "доц. И.Ф. Асауляк",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Геология",
+          "type": "practice",
+          "teacher": "асс",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Общее землеведение",
+          "type": "practice",
           "teacher": null,
           "room": null,
           "subgroup": null,
@@ -233,6 +388,118 @@
         }
       ],
       "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Практическая фонетика",
+          "type": "practice",
+          "teacher": "доц. Ю.А. Галкина",
+          "room": "203",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Практическая фонетика",
+          "type": "practice",
+          "teacher": "доц. А.А. Агеева",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Геология",
+          "type": "practice",
+          "teacher": "асс. И.А. Курдюков",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Геология",
+          "type": "practice",
+          "teacher": "доц. А.Ю. Ежов",
+          "room": "308",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "доц. А.А. Агеева",
+          "room": "206",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Картография с основами топографии",
+          "type": "practice",
+          "teacher": "доц О.В. Ковалева",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Практическая фонетика",
+          "type": "practice",
+          "teacher": "доц. Ю.С. Кузин",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Практическая фонетика",
+          "type": "practice",
+          "teacher": "доц. Ю.С. Кузин",
+          "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Картография с основами топографии",
+          "type": "practice",
+          "teacher": "доц О.В. Ковалева",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "доц. М.К. Чиняков",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        },
         {
           "slot": 5,
           "time_start": "16:00",
@@ -289,7 +556,6 @@
           "notes": ""
         }
       ],
-      "friday": [],
       "saturday": []
     }
   }

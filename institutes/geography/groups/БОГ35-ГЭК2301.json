@@ -1,0 +1,542 @@
+{
+  "name": "БОГ35-ГЭК2301",
+  "year": 4,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.05 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ(с двумя профилями подготовки)",
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория и методика обучения географии",
+          "type": "practice",
+          "teacher": "проф. Е.А. Таможняя",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория и методика обучения географии",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальная экология и экология",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "человека",
+          "type": "lecture",
+          "teacher": "доц. Ю.И. Ермакова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "(дистант)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "практикум",
+          "type": "practice",
+          "teacher": "доц. В.В. Гамага",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учение о биосфере",
+          "type": "lecture",
+          "teacher": "доц. Н.В. Каргаполов",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Экологический",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "практикум",
+          "type": "practice",
+          "teacher": "доц. В.В. Гамага",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Учение о биосфере",
+          "type": "practice",
+          "teacher": "доц. Н.В. Каргаполов",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Экологический",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "практикум",
+          "type": "practice",
+          "teacher": "доц. В.В. Гамага",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учение о биосфере",
+          "type": "practice",
+          "teacher": "доц. Н.В. Каргаполов",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "(технологическая практика по психолого-педагогическому",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "сопровождению обучающихся с ОВЗ)",
+          "type": "other",
+          "teacher": "доц. К.Б. Вовненко",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Экологический практикум",
+          "type": "practice",
+          "teacher": "доц. В.В. Гамага",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Производственная практика/Производственная практика (педагогическая практика в средней школе)",
+          "type": "other",
+          "teacher": "проф. Е.А. Таможняя",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Экологический практикум",
+          "type": "practice",
+          "teacher": "доц. В.В. Гамага",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Экономическая и социальная география России",
+          "type": "lecture",
+          "teacher": "доц. Н.Н. Роготень",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Экономическая и социальная география России",
+          "type": "lecture",
+          "teacher": "доц. Н.Н. Роготень",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "1 неделя",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "2 неделя",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория и методика обучения географии",
+          "type": "practice",
+          "teacher": "проф. Е.А. Таможняя",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Теория и методика обучения географии",
+          "type": "lecture",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социальная экология и экология",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "человека",
+          "type": "lecture",
+          "teacher": "доц. Ю.И. Ермакова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "(дистант)",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "практикум",
+          "type": "practice",
+          "teacher": "доц. В.В. Гамага",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учение о биосфере",
+          "type": "lecture",
+          "teacher": "доц. Н.В. Каргаполов",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Экологический",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "практикум",
+          "type": "practice",
+          "teacher": "доц. В.В. Гамага",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Учение о биосфере",
+          "type": "practice",
+          "teacher": "доц. Н.В. Каргаполов",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Экологический",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "практикум",
+          "type": "practice",
+          "teacher": "доц. В.В. Гамага",
+          "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Учение о биосфере",
+          "type": "practice",
+          "teacher": "доц. Н.В. Каргаполов",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Учебная практика",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "(технологическая практика по психолого-педагогическому",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "сопровождению обучающихся с ОВЗ)",
+          "type": "other",
+          "teacher": "доц. К.Б. Вовненко",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Экологический практикум",
+          "type": "practice",
+          "teacher": "доц. В.В. Гамага",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Производственная практика/Производственная практика (педагогическая практика в средней школе)",
+          "type": "other",
+          "teacher": "проф. Е.А. Таможняя",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Экологический практикум",
+          "type": "practice",
+          "teacher": "доц. В.В. Гамага",
+          "room": "403",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Экономическая и социальная география России",
+          "type": "lecture",
+          "teacher": "доц. Н.Н. Роготень",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Экономическая и социальная география России",
+          "type": "lecture",
+          "teacher": "доц. Н.Н. Роготень",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "1 неделя",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "2 неделя",
+          "type": "other",
+          "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

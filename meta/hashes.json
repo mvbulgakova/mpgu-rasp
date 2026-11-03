@@ -3862,5 +3862,35 @@
     "md5": "5a65aca65e4ca3514d52d2013e219a6a",
     "size_bytes": 0,
     "last_changed": "2026-11-03T22:12:10.996135+00:00"
+  },
+  "geography:https://mpgu.su/wp-content/uploads/2026/11/1-kurs-2-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/11/1-kurs-2-1.pdf",
+    "md5": "8f35878793032ddf3ba05dd26326b750",
+    "size_bytes": 0,
+    "last_changed": "2026-11-03T22:13:04.547652+00:00"
+  },
+  "geography:https://mpgu.su/wp-content/uploads/2026/11/2-kurs-1.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/11/2-kurs-1.pdf",
+    "md5": "a9d2439815fecf139c2c80f85af4465a",
+    "size_bytes": 0,
+    "last_changed": "2026-11-03T22:13:04.547667+00:00"
+  },
+  "geography:https://mpgu.su/wp-content/uploads/2026/11/3-kurs.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/11/3-kurs.pdf",
+    "md5": "ba519af0b2ba72263bad19dbee861a18",
+    "size_bytes": 0,
+    "last_changed": "2026-11-03T22:13:04.547672+00:00"
+  },
+  "geography:https://mpgu.su/wp-content/uploads/2026/11/4-kurs.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/11/4-kurs.pdf",
+    "md5": "359933ea4d66caf8699518208dbccecb",
+    "size_bytes": 0,
+    "last_changed": "2026-11-03T22:13:04.547676+00:00"
+  },
+  "geography:https://mpgu.su/wp-content/uploads/2026/11/5-kurs.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/11/5-kurs.pdf",
+    "md5": "95454992db1805aff10fc3335843c38e",
+    "size_bytes": 0,
+    "last_changed": "2026-11-03T22:13:04.547680+00:00"
   }
 }

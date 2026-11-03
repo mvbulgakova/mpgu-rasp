@@ -1,0 +1,408 @@
+{
+  "name": "ВОГ34-ГГФ2401",
+  "year": 3,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
+  "profile": "География",
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Физическая география материков и океанов",
+          "type": "practice",
+          "teacher": "доц. Д.Ю. Дутова",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Физическая география России",
+          "type": "lecture",
+          "teacher": "доц. В.А. Кошевой",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История русской философии",
+          "type": "lecture",
+          "teacher": "доц. И.В. Погодин",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и методика обучения географи",
+          "type": "lecture",
+          "teacher": "доц. Н.Н. Солодухина",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и методика обучения географи",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Солодухина",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Баркова",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История русской философии",
+          "type": "practice",
+          "teacher": "доц. И.В. Погодин",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Физическая география материков и океанов",
+          "type": "lecture",
+          "teacher": "доц. Т.Л. Смоктунович",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология воспитательных практик",
+          "type": "lecture",
+          "teacher": "доц. А.Н. Мицкевич",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. Г.Н. Макушина",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Физическая география России",
+          "type": "practice",
+          "teacher": "ст.преп. Е.В. Болдырева",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Общая экономическая и социальная география",
+          "type": "practice",
+          "teacher": "доц С.Г. Толкунова",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология одаренности",
+          "type": "lecture",
+          "teacher": "доц. С.В. Мурафа",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология одаренности",
+          "type": "practice",
+          "teacher": "доц. С.В. Мурафа",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "доц. А.Н. Мицкевич",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "lecture",
+          "teacher": "доц. С.А. Егорова",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "practice",
+          "teacher": "доц. М.А. Корецкая",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Физическая география материков и океанов",
+          "type": "practice",
+          "teacher": "доц. Д.Ю. Дутова",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Физическая география России",
+          "type": "lecture",
+          "teacher": "доц. В.А. Кошевой",
+          "room": "304",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История русской философии",
+          "type": "lecture",
+          "teacher": "доц. И.В. Погодин",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и методика обучения географи",
+          "type": "lecture",
+          "teacher": "доц. Н.Н. Солодухина",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория и методика обучения географи",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Солодухина",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Педагогика",
+          "type": "practice",
+          "teacher": "доц. Н.Н. Баркова",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "История русской философии",
+          "type": "practice",
+          "teacher": "доц. И.В. Погодин",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Физическая география материков и океанов",
+          "type": "lecture",
+          "teacher": "доц. Т.Л. Смоктунович",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Психология воспитательных практик",
+          "type": "lecture",
+          "teacher": "доц. А.Н. Мицкевич",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Элективные курсы по физической культуре и спорту",
+          "type": "practice",
+          "teacher": "доц. Г.Н. Макушина",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Физическая география России",
+          "type": "practice",
+          "teacher": "ст.преп. Е.В. Болдырева",
+          "room": "305",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Общая экономическая и социальная география",
+          "type": "practice",
+          "teacher": "доц С.Г. Толкунова",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология одаренности",
+          "type": "lecture",
+          "teacher": "доц. С.В. Мурафа",
+          "room": "402",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Психология одаренности",
+          "type": "practice",
+          "teacher": "доц. С.В. Мурафа",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Психология воспитательных практик",
+          "type": "practice",
+          "teacher": "доц. А.Н. Мицкевич",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [],
+      "friday": [],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "lecture",
+          "teacher": "доц. С.А. Егорова",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
+          "type": "practice",
+          "teacher": "доц. М.А. Корецкая",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}

@@ -27,7 +27,7 @@
           "subject": "Возрастная анатомия, физиология и культура здоровья",
           "type": "practice",
           "teacher": "доц. А.Н. Гречнева",
-          "room": "404",
+          "room": "305",
           "subgroup": null,
           "notes": ""
         },
@@ -56,9 +56,9 @@
       ],
       "wednesday": [
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "Общее землеведение",
           "type": "lecture",
           "teacher": "проф. А.В. Чернов",
@@ -67,9 +67,9 @@
           "notes": ""
         },
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "Общее землеведение",
           "type": "practice",
           "teacher": null,
@@ -90,6 +90,30 @@
         }
       ],
       "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Картография с основами топографии",
+          "type": "practice",
+          "teacher": "доц О.В. Ковалева",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Биология",
+          "type": "lecture",
+          "teacher": "доц. Г.Г. Конева",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
         {
           "slot": 2,
           "time_start": "10:40",
@@ -116,6 +140,17 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
+          "subject": "Биология",
+          "type": "practice",
+          "teacher": "доц. Г.Г. Конева",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. М.К. Чиняков",
@@ -127,18 +162,7 @@
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
-          "subject": "101-01",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "101-02",
+          "subject": "101-01 101-02",
           "type": "other",
           "teacher": null,
           "room": null,
@@ -146,7 +170,6 @@
           "notes": ""
         }
       ],
-      "friday": [],
       "saturday": [
         {
           "slot": 2,
@@ -193,7 +216,7 @@
           "subject": "Возрастная анатомия, физиология и культура здоровья",
           "type": "practice",
           "teacher": "доц. А.Н. Гречнева",
-          "room": "404",
+          "room": "305",
           "subgroup": null,
           "notes": ""
         },
@@ -222,9 +245,9 @@
       ],
       "wednesday": [
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "Общее землеведение",
           "type": "lecture",
           "teacher": "проф. А.В. Чернов",
@@ -233,9 +256,9 @@
           "notes": ""
         },
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "Общее землеведение",
           "type": "practice",
           "teacher": null,
@@ -256,6 +279,30 @@
         }
       ],
       "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Картография с основами топографии",
+          "type": "practice",
+          "teacher": "доц О.В. Ковалева",
+          "room": "307",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Биология",
+          "type": "lecture",
+          "teacher": "доц. Г.Г. Конева",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
         {
           "slot": 2,
           "time_start": "10:40",
@@ -282,6 +329,17 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
+          "subject": "Биология",
+          "type": "practice",
+          "teacher": "доц. Г.Г. Конева",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. М.К. Чиняков",
@@ -293,18 +351,7 @@
           "slot": 5,
           "time_start": "16:00",
           "time_end": "17:30",
-          "subject": "101-01",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "101-02",
+          "subject": "101-01 101-02",
           "type": "other",
           "teacher": null,
           "room": null,
@@ -312,7 +359,6 @@
           "notes": ""
         }
       ],
-      "friday": [],
       "saturday": [
         {
           "slot": 2,
