@@ -30,8 +30,8 @@
       "short_name": "ИМиИ",
       "campus": "ИМиИ",
       "campus_address": "ул. Краснопрудная, 14",
-      "groups_count": 1,
-      "updated_at": "2026-10-28T21:29:51.979260+00:00",
+      "groups_count": 5,
+      "updated_at": "2026-11-03T22:12:10.998499+00:00",
       "status": "ok",
       "parser_used": "pdfplumber"
     },
