@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-11-02T10:15:55.694032+00:00",
-  "count": 1065,
+  "count": 1069,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -15386,7 +15386,7 @@
       "_key": "ивалексеенко",
       "_unknown": true,
       "id": 1063,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_зачети",
@@ -15401,7 +15401,7 @@
       "_key": "зачети",
       "_unknown": true,
       "id": 1064,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_хзксенофонтова",
@@ -15416,6 +15416,66 @@
       "_key": "хзксенофонтова",
       "_unknown": true,
       "id": 1065,
+      "has_schedule": false
+    },
+    {
+      "staff_slug": "_unknown_оаигумнов",
+      "full_name": "проф. О.А. Игумнов",
+      "abbreviated": "Игумнов п.",
+      "last": "Игумнов",
+      "first": "проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "оаигумнов",
+      "_unknown": true,
+      "id": 1066,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_оамакаренко",
+      "full_name": "доц. О.А. Макаренко",
+      "abbreviated": "Макаренко д.",
+      "last": "Макаренко",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "оамакаренко",
+      "_unknown": true,
+      "id": 1067,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_httpsт",
+      "full_name": "Теория менеджмента  доц.И.А. Заякина  (дистанционно) https:",
+      "abbreviated": "https: Т.",
+      "last": "https:",
+      "first": "Теория",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "httpsт",
+      "_unknown": true,
+      "id": 1068,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_аудн",
+      "full_name": "доц. Н.А. Устюжанина     . АУД.(846",
+      "abbreviated": "АУД.(846 д.",
+      "last": "АУД.(846",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "аудн",
+      "_unknown": true,
+      "id": 1069,
       "has_schedule": true
     }
   ]
