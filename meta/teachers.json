@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-11-02T10:15:55.694032+00:00",
-  "count": 1062,
+  "count": 1065,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -15371,6 +15371,51 @@
       "_key": "миняжевтр",
       "_unknown": true,
       "id": 1062,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_ивалексеенко",
+      "full_name": "ст.преп. И.В. Алексеенко",
+      "abbreviated": "Алексеенко с.",
+      "last": "Алексеенко",
+      "first": "ст.преп.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ивалексеенко",
+      "_unknown": true,
+      "id": 1063,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_зачети",
+      "full_name": "ст.преп. И.В. Алексеенко        .  -зачет",
+      "abbreviated": "-зачет с.",
+      "last": "-зачет",
+      "first": "ст.преп.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "зачети",
+      "_unknown": true,
+      "id": 1064,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_хзксенофонтова",
+      "full_name": "доц. Х.З. Ксенофонтова",
+      "abbreviated": "Ксенофонтова д.",
+      "last": "Ксенофонтова",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "хзксенофонтова",
+      "_unknown": true,
+      "id": 1065,
       "has_schedule": true
     }
   ]
