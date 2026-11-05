@@ -3,18 +3,18 @@
   "institute_name": "Институт изящных искусств",
   "short_name": "ИИИ",
   "academic_year": "2026-2027",
-  "updated_at": "2026-11-02T13:04:59.046825+00:00",
+  "updated_at": "2026-11-05T12:56:21.881478+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
     {
-      "name": "БЗР34-ИЗО2202",
-      "file": "БЗР34-ИЗО2202",
-      "year": 5,
-      "form": "correspondence",
+      "name": "ЗОР34-ИХО2502",
+      "file": "ЗОР34-ИХО2502",
+      "year": null,
+      "form": "full_time",
       "degree": "bachelor",
-      "direction": "44.03.01 Педагогическое образование",
-      "profile": "Изобразительное искусство"
+      "direction": null,
+      "profile": null
     }
   ]
 }
