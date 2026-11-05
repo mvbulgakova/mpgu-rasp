@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-11-02T10:15:55.694032+00:00",
-  "count": 1085,
+  "count": 1087,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -1246,7 +1246,7 @@
       "abbreviated": "Барциц Р.Ч.",
       "id": 89,
       "_key": "барцицрч",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "vanyaev-vladimir-aleksandrovich",
@@ -1260,7 +1260,7 @@
       "abbreviated": "Ваняев В.А.",
       "id": 90,
       "_key": "ваняевва",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "volkov-dmitriy-vladimirovich",
@@ -1302,7 +1302,7 @@
       "abbreviated": "Жуков Д.А.",
       "id": 93,
       "_key": "жуковда",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "karetnikova-anna-pavlovna",
@@ -1358,7 +1358,7 @@
       "abbreviated": "Танделов Б.Д.",
       "id": 97,
       "_key": "танделовбд",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "filimonov-aleksandr-ivanovich",
@@ -1540,7 +1540,7 @@
       "abbreviated": "Ломов С.П.",
       "id": 110,
       "_key": "ломовсп",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "makarova-mariya-leonidovna",
@@ -1568,7 +1568,7 @@
       "abbreviated": "Медведев Л.Г.",
       "id": 112,
       "_key": "медведевлг",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "naumova-julija-valerevna",
@@ -1610,7 +1610,7 @@
       "abbreviated": "Павловская Е.Ю.",
       "id": 115,
       "_key": "павловскаяею",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "podisov-jurij-vladimirovich",
@@ -1624,7 +1624,7 @@
       "abbreviated": "Подисов Ю.В.",
       "id": 116,
       "_key": "подисовюв",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "podisova-olga-ivanovna",
@@ -1638,7 +1638,7 @@
       "abbreviated": "Подисова О.И.",
       "id": 117,
       "_key": "подисоваои",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "rudnev-ivan-yurevich",
@@ -1708,7 +1708,7 @@
       "abbreviated": "Ворохоб А.А.",
       "id": 122,
       "_key": "ворохобаа",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "grigorash-a-v",
@@ -2142,7 +2142,7 @@
       "abbreviated": "Карев Б.А.",
       "id": 153,
       "_key": "каревба",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "karmazina-marina-valerevna",
@@ -7841,7 +7841,7 @@
       "_key": "дубровинвм",
       "_unknown": true,
       "id": 560,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_д",
@@ -15716,6 +15716,36 @@
       "_key": "соа",
       "_unknown": true,
       "id": 1085,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_грызинаов",
+      "full_name": "доц. Ольга Васильевна Грызина, https:",
+      "abbreviated": "доц. О.В.",
+      "last": "доц.",
+      "first": "Ольга",
+      "patronymic": "Васильевна",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "грызинаов",
+      "_unknown": true,
+      "id": 1086,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_увароввд",
+      "full_name": "проф. Виктор Дмитриевич Уваров https:",
+      "abbreviated": "проф. В.Д.",
+      "last": "проф.",
+      "first": "Виктор",
+      "patronymic": "Дмитриевич",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "увароввд",
+      "_unknown": true,
+      "id": 1087,
       "has_schedule": true
     }
   ]
