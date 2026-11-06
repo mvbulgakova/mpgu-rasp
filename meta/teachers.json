@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-11-02T10:15:55.694032+00:00",
-  "count": 1087,
+  "count": 1096,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -1036,7 +1036,7 @@
       "abbreviated": "Газизулин Т.Г.",
       "id": 74,
       "_key": "газизулинтг",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "zaripova-lilija-hanifovna",
@@ -1064,7 +1064,7 @@
       "abbreviated": "Куксова М.А.",
       "id": 76,
       "_key": "куксовама",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "majorova-elizaveta-vladimirovna",
@@ -1246,7 +1246,7 @@
       "abbreviated": "Барциц Р.Ч.",
       "id": 89,
       "_key": "барцицрч",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "vanyaev-vladimir-aleksandrovich",
@@ -1260,7 +1260,7 @@
       "abbreviated": "Ваняев В.А.",
       "id": 90,
       "_key": "ваняевва",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "volkov-dmitriy-vladimirovich",
@@ -1288,7 +1288,7 @@
       "abbreviated": "Волкова Т.В.",
       "id": 92,
       "_key": "волковатв",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "zhukov-denis-aleksandrovich",
@@ -1302,7 +1302,7 @@
       "abbreviated": "Жуков Д.А.",
       "id": 93,
       "_key": "жуковда",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "karetnikova-anna-pavlovna",
@@ -1330,7 +1330,7 @@
       "abbreviated": "Макарова К.В.",
       "id": 95,
       "_key": "макаровакв",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "mironajte-darja-sergeevna",
@@ -1540,7 +1540,7 @@
       "abbreviated": "Ломов С.П.",
       "id": 110,
       "_key": "ломовсп",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "makarova-mariya-leonidovna",
@@ -1638,7 +1638,7 @@
       "abbreviated": "Подисова О.И.",
       "id": 117,
       "_key": "подисоваои",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "rudnev-ivan-yurevich",
@@ -1708,7 +1708,7 @@
       "abbreviated": "Ворохоб А.А.",
       "id": 122,
       "_key": "ворохобаа",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "grigorash-a-v",
@@ -2128,7 +2128,7 @@
       "abbreviated": "Игнатьев С.Е.",
       "id": 152,
       "_key": "игнатьевсе",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "karev-boris-anatolevich",
@@ -2142,7 +2142,7 @@
       "abbreviated": "Карев Б.А.",
       "id": 153,
       "_key": "каревба",
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "karmazina-marina-valerevna",
@@ -2268,7 +2268,7 @@
       "abbreviated": "Хлебников А.С.",
       "id": 162,
       "_key": "хлебниковас",
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "igumnov-oleg-aleksandrovich",
@@ -7841,7 +7841,7 @@
       "_key": "дубровинвм",
       "_unknown": true,
       "id": 560,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_д",
@@ -15131,7 +15131,7 @@
       "_key": "терентьеваев",
       "_unknown": true,
       "id": 1046,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_дворяноваса",
@@ -15146,7 +15146,7 @@
       "_key": "дворяноваса",
       "_unknown": true,
       "id": 1047,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_глазковаас",
@@ -15161,7 +15161,7 @@
       "_key": "глазковаас",
       "_unknown": true,
       "id": 1048,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_еринаои",
@@ -15176,7 +15176,7 @@
       "_key": "еринаои",
       "_unknown": true,
       "id": 1049,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_шонусдх",
@@ -15191,7 +15191,7 @@
       "_key": "шонусдх",
       "_unknown": true,
       "id": 1050,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_кешишеваг",
@@ -15206,7 +15206,7 @@
       "_key": "кешишеваг",
       "_unknown": true,
       "id": 1051,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_кабановаеа",
@@ -15221,7 +15221,7 @@
       "_key": "кабановаеа",
       "_unknown": true,
       "id": 1052,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_чистоваав",
@@ -15236,7 +15236,7 @@
       "_key": "чистоваав",
       "_unknown": true,
       "id": 1053,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_кимтк",
@@ -15251,7 +15251,7 @@
       "_key": "кимтк",
       "_unknown": true,
       "id": 1054,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_уськовкв",
@@ -15266,7 +15266,7 @@
       "_key": "уськовкв",
       "_unknown": true,
       "id": 1055,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_тепловаеф",
@@ -15281,7 +15281,7 @@
       "_key": "тепловаеф",
       "_unknown": true,
       "id": 1056,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_большаковаав",
@@ -15296,7 +15296,7 @@
       "_key": "большаковаав",
       "_unknown": true,
       "id": 1057,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_загородниковааю",
@@ -15311,7 +15311,7 @@
       "_key": "загородниковааю",
       "_unknown": true,
       "id": 1058,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_столярлм",
@@ -15326,7 +15326,7 @@
       "_key": "столярлм",
       "_unknown": true,
       "id": 1059,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ястребоваеа",
@@ -15341,7 +15341,7 @@
       "_key": "ястребоваеа",
       "_unknown": true,
       "id": 1060,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_маниеваса",
@@ -15356,7 +15356,7 @@
       "_key": "маниеваса",
       "_unknown": true,
       "id": 1061,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_миняжевтр",
@@ -15371,7 +15371,7 @@
       "_key": "миняжевтр",
       "_unknown": true,
       "id": 1062,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_ивалексеенко",
@@ -15731,7 +15731,7 @@
       "_key": "грызинаов",
       "_unknown": true,
       "id": 1086,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_увароввд",
@@ -15746,6 +15746,141 @@
       "_key": "увароввд",
       "_unknown": true,
       "id": 1087,
+      "has_schedule": false
+    },
+    {
+      "staff_slug": "_unknown_цхане",
+      "full_name": "доц. Надежда Енчоровна Цха",
+      "abbreviated": "доц. Н.Е.",
+      "last": "доц.",
+      "first": "Надежда",
+      "patronymic": "Енчоровна",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "цхане",
+      "_unknown": true,
+      "id": 1088,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_шиловвв",
+      "full_name": "проф. Виктор Викторович Шилов",
+      "abbreviated": "проф. В.В.",
+      "last": "проф.",
+      "first": "Виктор",
+      "patronymic": "Викторович",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "шиловвв",
+      "_unknown": true,
+      "id": 1089,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_профж",
+      "full_name": "ЖИВОПИСИ (ЛК только 17.09, затем ПЗ) проф",
+      "abbreviated": "проф Ж.",
+      "last": "проф",
+      "first": "ЖИВОПИСИ",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "профж",
+      "_unknown": true,
+      "id": 1090,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_сзч",
+      "full_name": "ст. преп. Чернышева О.В., с/з",
+      "abbreviated": "с/з с.",
+      "last": "с/з",
+      "first": "ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "сзч",
+      "_unknown": true,
+      "id": 1091,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_ч",
+      "full_name": "ст. преп. Чернышева О.В., с/з №3",
+      "abbreviated": "№3 с.",
+      "last": "№3",
+      "first": "ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ч",
+      "_unknown": true,
+      "id": 1092,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_залд",
+      "full_name": "ст. преп. Дворянова С.А., гимнастический зал",
+      "abbreviated": "зал с.",
+      "last": "зал",
+      "first": "ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "залд",
+      "_unknown": true,
+      "id": 1093,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_лукиноваав",
+      "full_name": "доц. Лукинова А.В",
+      "abbreviated": "А.В д.",
+      "last": "А.В",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "лукиноваав",
+      "_unknown": true,
+      "id": 1094,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_левиковаси",
+      "full_name": "проф. Левикова С.И",
+      "abbreviated": "С.И п.",
+      "last": "С.И",
+      "first": "проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "левиковаси",
+      "_unknown": true,
+      "id": 1095,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_шарайна",
+      "full_name": "проф. Шарай Н.А",
+      "abbreviated": "Н.А п.",
+      "last": "Н.А",
+      "first": "проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "шарайна",
+      "_unknown": true,
+      "id": 1096,
       "has_schedule": true
     }
   ]
