@@ -3,13 +3,13 @@
   "institute_name": "Институт изящных искусств",
   "short_name": "ИИИ",
   "academic_year": "2026-2027",
-  "updated_at": "2026-11-05T12:56:21.881478+00:00",
-  "parser_used": "pdfplumber",
+  "updated_at": "2026-11-06T12:43:37.610202+00:00",
+  "parser_used": "claude",
   "version": 1,
   "groups": [
     {
-      "name": "ЗОР34-ИХО2502",
-      "file": "ЗОР34-ИХО2502",
+      "name": "ЗОР34-ИХО2602",
+      "file": "ЗОР34-ИХО2602",
       "year": null,
       "form": "full_time",
       "degree": "bachelor",
