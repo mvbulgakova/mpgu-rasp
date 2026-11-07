@@ -3,24 +3,15 @@
   "institute_name": "Институт физической культуры, спорта и здоровья",
   "short_name": "ИФКСиЗ",
   "academic_year": "2026-2027",
-  "updated_at": "2026-11-07T11:28:45.357554+00:00",
+  "updated_at": "2026-11-07T20:40:13.360342+00:00",
   "parser_used": "gsheets",
   "version": 1,
   "groups": [
     {
-      "name": "ВЗЗ34-ФЗК2201",
-      "file": "ВЗЗ34-ФЗК2201",
-      "year": 5,
-      "form": "correspondence",
-      "degree": "bachelor",
-      "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
-      "profile": "Физическая культура"
-    },
-    {
-      "name": "ВЗЗ34-ФЗК2202",
-      "file": "ВЗЗ34-ФЗК2202",
-      "year": 5,
-      "form": "correspondence",
+      "name": "группа",
+      "file": "группа",
+      "year": 4,
+      "form": "full_time",
       "degree": "bachelor",
       "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
       "profile": "Физическая культура"
