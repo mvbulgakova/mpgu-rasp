@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T11:40:44.139806+00:00",
+  "generated_at": "2026-11-08T11:41:00.767539+00:00",
   "academic_year": "2026-2027",
   "institutes": [
     {
@@ -139,13 +139,10 @@
     {
       "id": "pedagogy",
       "name": "Институт педагогики и психологии",
-      "short_name": "ИПиП",
-      "campus": "ИПиП",
-      "campus_address": "Малый Сухаревский пер., 6",
-      "groups_count": 1,
-      "updated_at": "2026-10-26T10:47:41.326588+00:00",
-      "status": "ok",
-      "parser_used": "docx"
+      "groups_count": 0,
+      "updated_at": "2026-11-08T11:41:00.758951+00:00",
+      "status": "error",
+      "error": "RetryError[<Future at 0x750bd90fbec0 state=finished raised ClientResponseError>]"
     },
     {
       "id": "international",
