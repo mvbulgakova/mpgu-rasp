@@ -84,10 +84,13 @@
     {
       "id": "preschool",
       "name": "Факультет дошкольной педагогики и психологии",
-      "groups_count": 0,
-      "updated_at": "2026-11-08T11:40:54.614779+00:00",
-      "status": "error",
-      "error": "RetryError[<Future at 0x7d3884f04e60 state=finished raised ClientResponseError>]"
+      "short_name": "ФДПиП",
+      "campus": "ФДПиП",
+      "campus_address": "Госпитальный Вал, 4",
+      "groups_count": 4,
+      "updated_at": "2026-10-17T19:00:27.505827+00:00",
+      "status": "ok",
+      "parser_used": "pdfplumber"
     },
     {
       "id": "childhood",
