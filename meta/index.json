@@ -49,10 +49,13 @@
     {
       "id": "arts",
       "name": "Институт изящных искусств",
-      "groups_count": 0,
-      "updated_at": "2026-11-08T11:41:37.694447+00:00",
-      "status": "error",
-      "error": "RetryError[<Future at 0x75cdf38b3c80 state=finished raised ClientResponseError>]"
+      "short_name": "ИИИ",
+      "campus": "ИИИ",
+      "campus_address": "Рязанский пр-т, 9",
+      "groups_count": 1,
+      "updated_at": "2026-11-06T12:43:37.610202+00:00",
+      "status": "ok",
+      "parser_used": "claude"
     },
     {
       "id": "physics",
