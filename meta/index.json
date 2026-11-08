@@ -5,10 +5,13 @@
     {
       "id": "sport",
       "name": "Институт физической культуры, спорта и здоровья",
-      "groups_count": 0,
-      "updated_at": "2026-11-08T11:40:46.573928+00:00",
-      "status": "error",
-      "error": "RetryError[<Future at 0x7b3258c49be0 state=finished raised ClientResponseError>]"
+      "short_name": "ИФКСиЗ",
+      "campus": "КГФ",
+      "campus_address": "пр-т Вернадского, 88",
+      "groups_count": 1,
+      "updated_at": "2026-11-07T20:40:13.360342+00:00",
+      "status": "ok",
+      "parser_used": "gsheets"
     },
     {
       "id": "geography",
