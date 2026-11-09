@@ -1,0 +1,918 @@
+{
+  "name": "БОЭ24-СУФ2402",
+  "year": null,
+  "form": "part_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Стратегия управления человеческими ресурсами",
+          "type": "lecture",
+          "teacher": "проф. А.А. Юрьева",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Стратегия управления человеческими ресурсами",
+          "type": "practice",
+          "teacher": "проф. А.А. Юрьева",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Стратегия управления человеческими ресурсами",
+          "type": "practice",
+          "teacher": "проф. А.А. Юрьева",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Стратегия управления человеческими ресурсами",
+          "type": "practice",
+          "teacher": "проф. А.А. Юрьева",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "practice",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Стратегический маркетинг",
+          "type": "practice",
+          "teacher": "проф. Б.А. Дадашев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "practice",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Стратегическое управление и планирование",
+          "type": "lecture",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Разработка управленческих решений",
+          "type": "practice",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Стратегическое управление и планирование",
+          "type": "practice",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Разработка управленческих решений",
+          "type": "practice",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Стратегия управления человеческими ресурсами",
+          "type": "practice",
+          "teacher": "проф. А.А. Юрьева",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Стратегия управления человеческими ресурсами",
+          "type": "practice",
+          "teacher": "проф. А.А. Юрьева",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Разработка управленческих решений",
+          "type": "practice",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Разработка управленческих решений",
+          "type": "lecture",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Разработка управленческих решений",
+          "type": "practice",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Разработка управленческих решений",
+          "type": "lecture",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Разработка управленческих решений",
+          "type": "practice",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Разработка управленческих решений",
+          "type": "lecture",
+          "teacher": "проф. А.М. Федоров     18; 11",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Разработка управленческих решений",
+          "type": "practice",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "practice",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансовый менеджмент",
+          "type": "practice",
+          "teacher": "ст.преп. Р.М. Ждановских",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "practice",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансовый менеджмент",
+          "type": "practice",
+          "teacher": "ст.преп. Р.М. Ждановских",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "practice",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансовый менеджмент",
+          "type": "practice",
+          "teacher": "ст.преп. Р.М. Ждановских",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Инвестиционный и проектный менеджмент",
+          "type": "practice",
+          "teacher": "доц. И.А. Заякина",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Стратегическое управление и планирование",
+          "type": "lecture",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Стратегическое управление и планирование",
+          "type": "lecture",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Инвестиционный и проектный менеджмент",
+          "type": "lecture",
+          "teacher": "доц. И.А. Заякина",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Инвестиционный и проектный менеджмент",
+          "type": "practice",
+          "teacher": "доц. И.А. Заякина",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Инвестиционный и проектный менеджмент",
+          "type": "lecture",
+          "teacher": "доц. И.А. Заякина",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Стратегический маркетинг",
+          "type": "lecture",
+          "teacher": "проф. Б.А. Дадашев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "lecture",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Стратегический маркетинг",
+          "type": "lecture",
+          "teacher": "проф. Б.А. Дадашев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "lecture",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Бизнес-планирование и контроллинг",
+          "type": "practice",
+          "teacher": "проф. Б.А. Дадашев",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "practice",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Бизнес-планирование и контроллинг",
+          "type": "practice",
+          "teacher": "проф. Б.А. Дадашев",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "practice",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Стратегия управления человеческими ресурсами",
+          "type": "lecture",
+          "teacher": "проф. А.А. Юрьева",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Стратегия управления человеческими ресурсами",
+          "type": "practice",
+          "teacher": "проф. А.А. Юрьева",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Стратегия управления человеческими ресурсами",
+          "type": "practice",
+          "teacher": "проф. А.А. Юрьева",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Стратегия управления человеческими ресурсами",
+          "type": "practice",
+          "teacher": "проф. А.А. Юрьева",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "practice",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Стратегический маркетинг",
+          "type": "practice",
+          "teacher": "проф. Б.А. Дадашев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "practice",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Стратегическое управление и планирование",
+          "type": "lecture",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Разработка управленческих решений",
+          "type": "practice",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Стратегическое управление и планирование",
+          "type": "practice",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Разработка управленческих решений",
+          "type": "practice",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Стратегия управления человеческими ресурсами",
+          "type": "practice",
+          "teacher": "проф. А.А. Юрьева",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Стратегия управления человеческими ресурсами",
+          "type": "practice",
+          "teacher": "проф. А.А. Юрьева",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Разработка управленческих решений",
+          "type": "practice",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Разработка управленческих решений",
+          "type": "lecture",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Разработка управленческих решений",
+          "type": "practice",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Разработка управленческих решений",
+          "type": "lecture",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Разработка управленческих решений",
+          "type": "practice",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Разработка управленческих решений",
+          "type": "lecture",
+          "teacher": "проф. А.М. Федоров     18; 11",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Разработка управленческих решений",
+          "type": "practice",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "practice",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансовый менеджмент",
+          "type": "practice",
+          "teacher": "ст.преп. Р.М. Ждановских",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "practice",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансовый менеджмент",
+          "type": "practice",
+          "teacher": "ст.преп. Р.М. Ждановских",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "practice",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансовый менеджмент",
+          "type": "practice",
+          "teacher": "ст.преп. Р.М. Ждановских",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Инвестиционный и проектный менеджмент",
+          "type": "practice",
+          "teacher": "доц. И.А. Заякина",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "friday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Стратегическое управление и планирование",
+          "type": "lecture",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Стратегическое управление и планирование",
+          "type": "lecture",
+          "teacher": "проф. А.М. Федоров",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Инвестиционный и проектный менеджмент",
+          "type": "lecture",
+          "teacher": "доц. И.А. Заякина",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Инвестиционный и проектный менеджмент",
+          "type": "practice",
+          "teacher": "доц. И.А. Заякина",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Инвестиционный и проектный менеджмент",
+          "type": "lecture",
+          "teacher": "доц. И.А. Заякина",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Стратегический маркетинг",
+          "type": "lecture",
+          "teacher": "проф. Б.А. Дадашев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "lecture",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Стратегический маркетинг",
+          "type": "lecture",
+          "teacher": "проф. Б.А. Дадашев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "lecture",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Бизнес-планирование и контроллинг",
+          "type": "practice",
+          "teacher": "проф. Б.А. Дадашев",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "practice",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Бизнес-планирование и контроллинг",
+          "type": "practice",
+          "teacher": "проф. Б.А. Дадашев",
+          "room": "805",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Естественнонаунчая картина мира",
+          "type": "practice",
+          "teacher": "проф. В.Н. Князев",
+          "room": "816",
+          "subgroup": null,
+          "notes": ""
+        }
+      ]
+    }
+  }
+}
