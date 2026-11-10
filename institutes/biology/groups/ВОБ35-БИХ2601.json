@@ -199,6 +199,17 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
+          "subject": "ЦИТОЛОГИЯ",
+          "type": "lab",
+          "teacher": "Доцент Т.В. Архипова",
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
           "subject": "ВОЗРАСТНАЯ АНАТОМИЯ",
           "type": "other",
           "teacher": null,
@@ -508,6 +519,17 @@
           "subject": "И МОРФОЛОГИЯ",
           "type": "other",
           "teacher": null,
+          "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "ЦИТОЛОГИЯ",
+          "type": "lab",
+          "teacher": "Доцент Т.В. Архипова",
           "room": null,
           "subgroup": null,
           "notes": ""
