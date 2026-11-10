@@ -24,17 +24,6 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "Общее землеведение",
-          "type": "practice",
-          "teacher": "проф. А.В. Чернов",
-          "room": "306",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
           "subject": "Элективные курсы по физической культуре и спорту",
           "type": "practice",
           "teacher": "доц. Г.Н. Макушина",
@@ -43,13 +32,13 @@
           "notes": ""
         },
         {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Общее землеведение",
           "type": "practice",
-          "teacher": "проф. Е.Л. Болотова",
-          "room": "511",
+          "teacher": "проф. А.В. Чернов",
+          "room": "306",
           "subgroup": null,
           "notes": ""
         }
@@ -70,17 +59,6 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Лексикология",
-          "type": "lecture",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
           "subject": "Эволюция географической",
           "type": "other",
           "teacher": null,
@@ -92,10 +70,10 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "оболочки",
-          "type": "practice",
-          "teacher": "асс. И.А. Курдюков",
-          "room": "308",
+          "subject": "Лексикология",
+          "type": "lecture",
+          "teacher": "доц. Ю.С.Кузин",
+          "room": "207",
           "subgroup": null,
           "notes": ""
         },
@@ -107,6 +85,17 @@
           "type": "practice",
           "teacher": "доц. Ю.С.Кузин",
           "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "оболочки",
+          "type": "practice",
+          "teacher": "асс. И.А. Курдюков",
+          "room": "308",
           "subgroup": null,
           "notes": ""
         },
@@ -170,12 +159,34 @@
       ],
       "friday": [
         {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Е.А. Цветкова",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
           "subject": "Безопасность жизнедеятельности",
           "type": "practice",
           "teacher": "доц. В.С. Коничев",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Е.А. Цветкова",
           "room": "201",
           "subgroup": null,
           "notes": ""
@@ -188,6 +199,17 @@
           "type": "practice",
           "teacher": "доц. Г.Г. Конева",
           "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Е.А. Цветкова",
+          "room": "201",
           "subgroup": null,
           "notes": ""
         },
@@ -256,17 +278,6 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "Общее землеведение",
-          "type": "practice",
-          "teacher": "проф. А.В. Чернов",
-          "room": "306",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
           "subject": "Элективные курсы по физической культуре и спорту",
           "type": "practice",
           "teacher": "доц. Г.Н. Макушина",
@@ -275,13 +286,13 @@
           "notes": ""
         },
         {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Нормативно-правовые основы профессиональной деятельности",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Общее землеведение",
           "type": "practice",
-          "teacher": "проф. Е.Л. Болотова",
-          "room": "511",
+          "teacher": "проф. А.В. Чернов",
+          "room": "306",
           "subgroup": null,
           "notes": ""
         }
@@ -302,17 +313,6 @@
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
-          "subject": "Лексикология",
-          "type": "lecture",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
           "subject": "Эволюция географической",
           "type": "other",
           "teacher": null,
@@ -324,10 +324,10 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "оболочки",
-          "type": "practice",
-          "teacher": "асс. И.А. Курдюков",
-          "room": "308",
+          "subject": "Лексикология",
+          "type": "lecture",
+          "teacher": "доц. Ю.С.Кузин",
+          "room": "207",
           "subgroup": null,
           "notes": ""
         },
@@ -339,6 +339,17 @@
           "type": "practice",
           "teacher": "доц. Ю.С.Кузин",
           "room": "207",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "оболочки",
+          "type": "practice",
+          "teacher": "асс. И.А. Курдюков",
+          "room": "308",
           "subgroup": null,
           "notes": ""
         },
@@ -402,12 +413,34 @@
       ],
       "friday": [
         {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Е.А. Цветкова",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
           "subject": "Безопасность жизнедеятельности",
           "type": "practice",
           "teacher": "доц. В.С. Коничев",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Е.А. Цветкова",
           "room": "201",
           "subgroup": null,
           "notes": ""
@@ -420,6 +453,17 @@
           "type": "practice",
           "teacher": "доц. Г.Г. Конева",
           "room": "405",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Финансово-экономический практикум",
+          "type": "practice",
+          "teacher": "доц. Е.А. Цветкова",
+          "room": "201",
           "subgroup": null,
           "notes": ""
         },

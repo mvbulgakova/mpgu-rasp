@@ -13,21 +13,10 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "ГИС технологии в географии",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "practice",
-          "teacher": "асс. М.Д. Телицин",
-          "room": "405",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Геохимия ландшафтов",
-          "type": "practice",
-          "teacher": "доц. Е.А. Фураев",
-          "room": "402",
+          "teacher": "проф. Е.Л. Болотова",
+          "room": "511",
           "subgroup": null,
           "notes": ""
         }
@@ -43,13 +32,46 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        }
-      ],
-      "thursday": [
+        },
         {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
+          "subject": "Биогеография",
+          "type": "practice",
+          "teacher": "доц. Г.Г. Конева",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "lecture",
+          "teacher": "доц. Е.А. Цветкова",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "доц. Е.А. Цветкова",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "ГИС технологии в географии",
           "type": "practice",
           "teacher": "асс. М.Д. Телицин",
@@ -58,12 +80,12 @@
           "notes": ""
         },
         {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Биогеография",
-          "type": "practice",
-          "teacher": "доц. Г.Г. Конева",
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ГИС технологии в географии",
+          "type": "lecture",
+          "teacher": "асс. М.Д. Телицин",
           "room": "405",
           "subgroup": null,
           "notes": ""
@@ -135,21 +157,10 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "ГИС технологии в географии",
+          "subject": "Нормативно-правовые основы профессиональной деятельности",
           "type": "practice",
-          "teacher": "асс. М.Д. Телицин",
-          "room": "405",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Геохимия ландшафтов",
-          "type": "practice",
-          "teacher": "доц. Е.А. Фураев",
-          "room": "402",
+          "teacher": "проф. Е.Л. Болотова",
+          "room": "511",
           "subgroup": null,
           "notes": ""
         }
@@ -165,13 +176,46 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        }
-      ],
-      "thursday": [
+        },
         {
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
+          "subject": "Биогеография",
+          "type": "practice",
+          "teacher": "доц. Г.Г. Конева",
+          "room": "511",
+          "subgroup": null,
+          "notes": ""
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "lecture",
+          "teacher": "доц. Е.А. Цветкова",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Финансово-экономическая грамотность",
+          "type": "practice",
+          "teacher": "доц. Е.А. Цветкова",
+          "room": "201",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
           "subject": "ГИС технологии в географии",
           "type": "practice",
           "teacher": "асс. М.Д. Телицин",
@@ -180,12 +224,12 @@
           "notes": ""
         },
         {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Биогеография",
-          "type": "practice",
-          "teacher": "доц. Г.Г. Конева",
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "ГИС технологии в географии",
+          "type": "lecture",
+          "teacher": "асс. М.Д. Телицин",
           "room": "405",
           "subgroup": null,
           "notes": ""

@@ -3,37 +3,10 @@
   "institute_name": "Географический факультет",
   "short_name": "ГФ",
   "academic_year": "2026-2027",
-  "updated_at": "2026-11-03T22:13:04.553961+00:00",
+  "updated_at": "2026-11-10T00:32:45.258520+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
-    {
-      "name": "ВОГ34-ГЭК2601",
-      "file": "ВОГ34-ГЭК2601",
-      "year": 1,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "ВОГ34-ГИЯ2601",
-      "file": "ВОГ34-ГИЯ2601",
-      "year": 1,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
-    {
-      "name": "БОГ03-ОГЕ2601",
-      "file": "БОГ03-ОГЕ2601",
-      "year": 1,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": null,
-      "profile": null
-    },
     {
       "name": "ВОГ34-ГЭК2501",
       "file": "ВОГ34-ГЭК2501",
@@ -60,87 +33,6 @@
       "degree": "bachelor",
       "direction": "Общая География",
       "profile": null
-    },
-    {
-      "name": "ВОГ34-ГГФ2401",
-      "file": "ВОГ34-ГГФ2401",
-      "year": 3,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
-      "profile": "География"
-    },
-    {
-      "name": "ВОГ34-ГЕО2401",
-      "file": "ВОГ34-ГЕО2401",
-      "year": 3,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
-      "profile": "География и Экология"
-    },
-    {
-      "name": "ВОГ34-ГИЯ2401",
-      "file": "ВОГ34-ГИЯ2401",
-      "year": 3,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
-      "profile": "География и Иностранный язык (английский\\китайский)"
-    },
-    {
-      "name": "БОГ34-ГЕО2301",
-      "file": "БОГ34-ГЕО2301",
-      "year": 4,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
-      "profile": null
-    },
-    {
-      "name": "БОГ35-ГЭК2301",
-      "file": "БОГ35-ГЭК2301",
-      "year": 4,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.05 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ(с двумя профилями подготовки)",
-      "profile": null
-    },
-    {
-      "name": "БОГ35-ГЯА2301",
-      "file": "БОГ35-ГЯА2301",
-      "year": 4,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.05 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ(с двумя профилями подготовки)",
-      "profile": null
-    },
-    {
-      "name": "БОГ03-РЕГ2301",
-      "file": "БОГ03-РЕГ2301",
-      "year": 4,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "05.03.02 ГЕОГРАФИЯ",
-      "profile": null
-    },
-    {
-      "name": "БОГ35-ГЭК2201",
-      "file": "БОГ35-ГЭК2201",
-      "year": 5,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.05 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ(с двумя профилями подготовки)",
-      "profile": "География и экология"
-    },
-    {
-      "name": "БОГ35-ГЯА2201",
-      "file": "БОГ35-ГЯА2201",
-      "year": 5,
-      "form": "full_time",
-      "degree": "bachelor",
-      "direction": "44.03.05 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ(с двумя профилями подготовки)",
-      "profile": "География и иностранный язык (английский)"
     }
   ]
 }

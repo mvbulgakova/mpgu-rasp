@@ -13,10 +13,21 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "профессиональной деятельности",
-          "type": "other",
-          "teacher": null,
-          "room": null,
+          "subject": "Общее землеведение",
+          "type": "practice",
+          "teacher": "ст преп. Е.В. Болдырева",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Химия Земли",
+          "type": "lecture",
+          "teacher": "доц. Е.А. Фураев",
+          "room": "402",
           "subgroup": null,
           "notes": ""
         },
@@ -28,61 +39,6 @@
           "type": "practice",
           "teacher": "доц. Е.А. Фураев",
           "room": "403",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Нормативно-правовые",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Общее землеведение",
-          "type": "practice",
-          "teacher": "ст преп. Е.В. Болдырева",
-          "room": "301",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "основы профессиональной",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "деятельности",
-          "type": "practice",
-          "teacher": "проф. Е.Л. Болотова",
-          "room": "511",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Общее землеведение",
-          "type": "practice",
-          "teacher": "ст преп. Е.В. Болдырева",
-          "room": "301",
           "subgroup": null,
           "notes": ""
         }
@@ -105,30 +61,19 @@
           "time_end": "12:10",
           "subject": "Биогеография",
           "type": "practice",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Биогеография",
-          "type": "practice",
           "teacher": "доц. Г.Г. Конева",
           "room": "405",
           "subgroup": null,
           "notes": ""
         },
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Психология",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Биогеография",
           "type": "practice",
-          "teacher": null,
-          "room": null,
+          "teacher": "доц. Г.Г. Конева",
+          "room": "405",
           "subgroup": null,
           "notes": ""
         },
@@ -163,7 +108,7 @@
           "subject": "Педагогика",
           "type": "practice",
           "teacher": "доц. Н.Н Баркова",
-          "room": "305",
+          "room": "402",
           "subgroup": null,
           "notes": ""
         },
@@ -175,17 +120,6 @@
           "type": "practice",
           "teacher": "доц. М.Г. Коломейцев",
           "room": "511",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Педагогика",
-          "type": "practice",
-          "teacher": "доц. Н.Н Баркова",
-          "room": "402",
           "subgroup": null,
           "notes": ""
         },
@@ -215,10 +149,10 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "Общая экология",
+          "subject": "Финансово-экономический практикум",
           "type": "practice",
-          "teacher": "доц. Н.В. Каргаполов",
-          "room": "406",
+          "teacher": "доц. Е.А. Цветкова",
+          "room": "201",
           "subgroup": null,
           "notes": ""
         },
@@ -243,6 +177,17 @@
           "room": "511",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Общая экология",
+          "type": "practice",
+          "teacher": "доц. Н.В. Каргаполов",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "friday": [
@@ -253,7 +198,7 @@
           "subject": "Безопасность жизнедеятельности",
           "type": "lecture",
           "teacher": "доц. В.С. Коничев",
-          "room": "201",
+          "room": "301",
           "subgroup": null,
           "notes": ""
         },
@@ -286,7 +231,7 @@
           "subject": "Безопасность жизнедеятельности",
           "type": "practice",
           "teacher": "доц. В.С. Коничев",
-          "room": "201",
+          "room": "301",
           "subgroup": null,
           "notes": ""
         },
@@ -344,10 +289,21 @@
           "slot": 3,
           "time_start": "12:40",
           "time_end": "14:10",
-          "subject": "профессиональной деятельности",
-          "type": "other",
-          "teacher": null,
-          "room": null,
+          "subject": "Общее землеведение",
+          "type": "practice",
+          "teacher": "ст преп. Е.В. Болдырева",
+          "room": "301",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Химия Земли",
+          "type": "lecture",
+          "teacher": "доц. Е.А. Фураев",
+          "room": "402",
           "subgroup": null,
           "notes": ""
         },
@@ -359,61 +315,6 @@
           "type": "practice",
           "teacher": "доц. Е.А. Фураев",
           "room": "403",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Нормативно-правовые",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Общее землеведение",
-          "type": "practice",
-          "teacher": "ст преп. Е.В. Болдырева",
-          "room": "301",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "основы профессиональной",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "деятельности",
-          "type": "practice",
-          "teacher": "проф. Е.Л. Болотова",
-          "room": "511",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Общее землеведение",
-          "type": "practice",
-          "teacher": "ст преп. Е.В. Болдырева",
-          "room": "301",
           "subgroup": null,
           "notes": ""
         }
@@ -436,30 +337,19 @@
           "time_end": "12:10",
           "subject": "Биогеография",
           "type": "practice",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Биогеография",
-          "type": "practice",
           "teacher": "доц. Г.Г. Конева",
           "room": "405",
           "subgroup": null,
           "notes": ""
         },
         {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Психология",
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Биогеография",
           "type": "practice",
-          "teacher": null,
-          "room": null,
+          "teacher": "доц. Г.Г. Конева",
+          "room": "405",
           "subgroup": null,
           "notes": ""
         },
@@ -494,7 +384,7 @@
           "subject": "Педагогика",
           "type": "practice",
           "teacher": "доц. Н.Н Баркова",
-          "room": "305",
+          "room": "402",
           "subgroup": null,
           "notes": ""
         },
@@ -506,17 +396,6 @@
           "type": "practice",
           "teacher": "доц. М.Г. Коломейцев",
           "room": "511",
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Педагогика",
-          "type": "practice",
-          "teacher": "доц. Н.Н Баркова",
-          "room": "402",
           "subgroup": null,
           "notes": ""
         },
@@ -546,10 +425,10 @@
           "slot": 4,
           "time_start": "14:20",
           "time_end": "15:50",
-          "subject": "Общая экология",
+          "subject": "Финансово-экономический практикум",
           "type": "practice",
-          "teacher": "доц. Н.В. Каргаполов",
-          "room": "406",
+          "teacher": "доц. Е.А. Цветкова",
+          "room": "201",
           "subgroup": null,
           "notes": ""
         },
@@ -574,6 +453,17 @@
           "room": "511",
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Общая экология",
+          "type": "practice",
+          "teacher": "доц. Н.В. Каргаполов",
+          "room": "406",
+          "subgroup": null,
+          "notes": ""
         }
       ],
       "friday": [
@@ -584,7 +474,7 @@
           "subject": "Безопасность жизнедеятельности",
           "type": "lecture",
           "teacher": "доц. В.С. Коничев",
-          "room": "201",
+          "room": "301",
           "subgroup": null,
           "notes": ""
         },
@@ -617,7 +507,7 @@
           "subject": "Безопасность жизнедеятельности",
           "type": "practice",
           "teacher": "доц. В.С. Коничев",
-          "room": "201",
+          "room": "301",
           "subgroup": null,
           "notes": ""
         },
