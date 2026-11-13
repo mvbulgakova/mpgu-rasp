@@ -1,0 +1,434 @@
+{
+  "name": "ВОЭ46-ССМ2605",
+  "year": null,
+  "form": "full_time",
+  "degree": "bachelor",
+  "direction": null,
+  "profile": null,
+  "schedule": {
+    "odd_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "доц. Е.В. Визгина-Толлисс 23.11; 07.12; 21.12",
+          "room": "x11.pk.mpgu.su/b/6h6-egn-lbb",
+          "subgroup": null,
+          "notes": "36"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "доц. Е.В. Визгина-Толлисс 23.11; 07.12; 21.12",
+          "room": "x11.pk.mpgu.su/b/6h6-egn-lbb",
+          "subgroup": null,
+          "notes": "36"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "асс. А.А. Фокина 10.11; 24.11; 08.12; 22.12",
+          "room": "x11.pk.mpgu.su/b/6h6-egn-lbb",
+          "subgroup": null,
+          "notes": "36"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "асс. А.А. Фокина 10.11; 24.11; 08.12; 22.12",
+          "room": "x03.pk.mpgu.su/b/d7r-yo7-5pp",
+          "subgroup": null,
+          "notes": "36"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История социологии",
+          "type": "practice",
+          "teacher": "ст. преп. А.А. Подольская 11.11; 25.11; 09.12; 23.12",
+          "room": "telemost.yandex.ru/j/18863572912584",
+          "subgroup": null,
+          "notes": "32"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История социологии",
+          "type": "practice",
+          "teacher": "ст. преп. А.А. Подольская 11.11; 25.11; 09.12; 23.12",
+          "room": "telemost.yandex.ru/j/18863572912584",
+          "subgroup": null,
+          "notes": "32"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ст.преп. А.С. Балашов 11.11; 25.11; 09.12; 23.12",
+          "room": "telemost.yandex.ru/j/20631015576151",
+          "subgroup": null,
+          "notes": "40"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ст.преп. А.С. Балашов 11.11; 25.11; 09.12; 23.12",
+          "room": "telemost.yandex.ru/j/20631015576151",
+          "subgroup": null,
+          "notes": "40"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История социологии",
+          "type": "practice",
+          "teacher": "ст. преп. А.А. Подольская 19.11; 03.12; 17.12",
+          "room": "telemost.yandex.ru/j/18863572912584",
+          "subgroup": null,
+          "notes": "32"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика научной работы",
+          "type": "practice",
+          "teacher": "проф. М.А. Лимонова 19.11; 17.12. -- https:",
+          "room": "x03.pk.mpgu.su/b/3j7-c1y-wqx",
+          "subgroup": null,
+          "notes": "16"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социология семьи",
+          "type": "practice",
+          "teacher": "проф. М.А. Лимонова 17.12. - https:",
+          "room": "x03.pk.mpgu.su/b/3j7-c1y-wqx",
+          "subgroup": null,
+          "notes": "16"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социология семьи",
+          "type": "practice",
+          "teacher": "ст.преп. А.С. Балашов 12.11; 26.11; 10.12; 24.12",
+          "room": "telemost.yandex.ru/j/20631015576151",
+          "subgroup": null,
+          "notes": "16"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социология семьи",
+          "type": "practice",
+          "teacher": "ст.преп. А.С. Балашов 24.12",
+          "room": "telemost.yandex.ru/j/20631015576151",
+          "subgroup": null,
+          "notes": "16"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "асс. А.А. Фокина 25.12. - https:",
+          "room": "x11.pk.mpgu.su/b/6h6-egn-lbb",
+          "subgroup": null,
+          "notes": "24"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "асс. А.А. Фокина 25.12. - https:",
+          "room": "x11.pk.mpgu.su/b/6h6-egn-lbb",
+          "subgroup": null,
+          "notes": "24"
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "teacher": "доц. О.В. Шаронова 14.11; 28.11; 12.12; 26.12",
+          "room": "telemost.yandex.ru/j/35700380789772",
+          "subgroup": null,
+          "notes": "32"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "teacher": "доц. О.В. Шаронова 14.11; 28.11; 12.12; 26.12",
+          "room": "telemost.yandex.ru/j/35700380789772",
+          "subgroup": null,
+          "notes": "32"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "teacher": "доц. О.В. Шаронова 14.11; 28.11; 12.12; 26.12",
+          "room": "telemost.yandex.ru/j/35700380789772",
+          "subgroup": null,
+          "notes": "32"
+        }
+      ]
+    },
+    "even_week": {
+      "monday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "доц. Е.В. Визгина-Толлисс 23.11; 07.12; 21.12",
+          "room": "x11.pk.mpgu.su/b/6h6-egn-lbb",
+          "subgroup": null,
+          "notes": "36"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Речевые практики",
+          "type": "practice",
+          "teacher": "доц. Е.В. Визгина-Толлисс 23.11; 07.12; 21.12",
+          "room": "x11.pk.mpgu.su/b/6h6-egn-lbb",
+          "subgroup": null,
+          "notes": "36"
+        }
+      ],
+      "tuesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "асс. А.А. Фокина 10.11; 24.11; 08.12; 22.12",
+          "room": "x11.pk.mpgu.su/b/6h6-egn-lbb",
+          "subgroup": null,
+          "notes": "36"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Иностранный язык",
+          "type": "practice",
+          "teacher": "асс. А.А. Фокина 10.11; 24.11; 08.12; 22.12",
+          "room": "x03.pk.mpgu.su/b/d7r-yo7-5pp",
+          "subgroup": null,
+          "notes": "36"
+        }
+      ],
+      "wednesday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История социологии",
+          "type": "practice",
+          "teacher": "ст. преп. А.А. Подольская 11.11; 25.11; 09.12; 23.12",
+          "room": "telemost.yandex.ru/j/18863572912584",
+          "subgroup": null,
+          "notes": "32"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История социологии",
+          "type": "practice",
+          "teacher": "ст. преп. А.А. Подольская 11.11; 25.11; 09.12; 23.12",
+          "room": "telemost.yandex.ru/j/18863572912584",
+          "subgroup": null,
+          "notes": "32"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ст.преп. А.С. Балашов 11.11; 25.11; 09.12; 23.12",
+          "room": "telemost.yandex.ru/j/20631015576151",
+          "subgroup": null,
+          "notes": "40"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Основы российской государственности",
+          "type": "practice",
+          "teacher": "ст.преп. А.С. Балашов 11.11; 25.11; 09.12; 23.12",
+          "room": "telemost.yandex.ru/j/20631015576151",
+          "subgroup": null,
+          "notes": "40"
+        }
+      ],
+      "thursday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История социологии",
+          "type": "practice",
+          "teacher": "ст. преп. А.А. Подольская 19.11; 03.12; 17.12",
+          "room": "telemost.yandex.ru/j/18863572912584",
+          "subgroup": null,
+          "notes": "32"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Методика научной работы",
+          "type": "practice",
+          "teacher": "проф. М.А. Лимонова 19.11; 17.12. -- https:",
+          "room": "x03.pk.mpgu.su/b/3j7-c1y-wqx",
+          "subgroup": null,
+          "notes": "16"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Социология семьи",
+          "type": "practice",
+          "teacher": "проф. М.А. Лимонова 17.12. - https:",
+          "room": "x03.pk.mpgu.su/b/3j7-c1y-wqx",
+          "subgroup": null,
+          "notes": "16"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Социология семьи",
+          "type": "practice",
+          "teacher": "ст.преп. А.С. Балашов 12.11; 26.11; 10.12; 24.12",
+          "room": "telemost.yandex.ru/j/20631015576151",
+          "subgroup": null,
+          "notes": "16"
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "Социология семьи",
+          "type": "practice",
+          "teacher": "ст.преп. А.С. Балашов 24.12",
+          "room": "telemost.yandex.ru/j/20631015576151",
+          "subgroup": null,
+          "notes": "16"
+        }
+      ],
+      "friday": [
+        {
+          "slot": 1,
+          "time_start": "09:00",
+          "time_end": "10:30",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "асс. А.А. Фокина 25.12. - https:",
+          "room": "x11.pk.mpgu.su/b/6h6-egn-lbb",
+          "subgroup": null,
+          "notes": "24"
+        },
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "История России",
+          "type": "practice",
+          "teacher": "асс. А.А. Фокина 25.12. - https:",
+          "room": "x11.pk.mpgu.su/b/6h6-egn-lbb",
+          "subgroup": null,
+          "notes": "24"
+        }
+      ],
+      "saturday": [
+        {
+          "slot": 2,
+          "time_start": "10:40",
+          "time_end": "12:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "teacher": "доц. О.В. Шаронова 14.11; 28.11; 12.12; 26.12",
+          "room": "telemost.yandex.ru/j/35700380789772",
+          "subgroup": null,
+          "notes": "32"
+        },
+        {
+          "slot": 3,
+          "time_start": "12:40",
+          "time_end": "14:10",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "teacher": "доц. О.В. Шаронова 14.11; 28.11; 12.12; 26.12",
+          "room": "telemost.yandex.ru/j/35700380789772",
+          "subgroup": null,
+          "notes": "32"
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "Теория вероятностей и математическая статистика",
+          "type": "practice",
+          "teacher": "доц. О.В. Шаронова 14.11; 28.11; 12.12; 26.12",
+          "room": "telemost.yandex.ru/j/35700380789772",
+          "subgroup": null,
+          "notes": "32"
+        }
+      ]
+    }
+  }
+}

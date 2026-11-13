@@ -1861,9 +1861,9 @@
   },
   "social:https://docs.google.com/spreadsheets/d/1QgHfSZ_slEe9uVn7ErgVTBH8yVaHmvlBAv3A9gqaGD0/edit?gid=1617656374#gid=1617656374": {
     "url": "https://docs.google.com/spreadsheets/d/1QgHfSZ_slEe9uVn7ErgVTBH8yVaHmvlBAv3A9gqaGD0/edit?gid=1617656374#gid=1617656374",
-    "md5": "2c985dcf524f5593377a3947a1a44567",
+    "md5": "0aace6baf6b592f2d1f728ca307a7e48",
     "size_bytes": 0,
-    "last_changed": "2026-11-12T22:34:10.120706+00:00"
+    "last_changed": "2026-11-13T12:51:09.469477+00:00"
   },
   "social:https://docs.google.com/spreadsheets/d/1-NPh6b0cXf17IzjmMHvUelDxuRKtQxBahnap7K-VUmc/edit?gid=1975669997#gid=1975669997": {
     "url": "https://docs.google.com/spreadsheets/d/1-NPh6b0cXf17IzjmMHvUelDxuRKtQxBahnap7K-VUmc/edit?gid=1975669997#gid=1975669997",
@@ -3895,9 +3895,9 @@
   },
   "social:https://docs.google.com/spreadsheets/d/1f4ZsdcHngEIlv_FJllZT69gO9kA5ubOMR4NcV_jYi70/edit?gid=1270444771#gid=1270444771": {
     "url": "https://docs.google.com/spreadsheets/d/1f4ZsdcHngEIlv_FJllZT69gO9kA5ubOMR4NcV_jYi70/edit?gid=1270444771#gid=1270444771",
-    "md5": "6408b5cb785288f208d4ca4a8017bf2e",
+    "md5": "4540570f028e6208bd22cced2332a27e",
     "size_bytes": 0,
-    "last_changed": "2026-11-12T13:31:17.276185+00:00"
+    "last_changed": "2026-11-13T12:51:09.469496+00:00"
   },
   "social:https://docs.google.com/spreadsheets/d/1VbBkQeXTe43PiIjUxunG8gm2acB8YuAyC3yAB5Wwsnk/edit?gid=50586249#gid=50586249": {
     "url": "https://docs.google.com/spreadsheets/d/1VbBkQeXTe43PiIjUxunG8gm2acB8YuAyC3yAB5Wwsnk/edit?gid=50586249#gid=50586249",
@@ -3928,5 +3928,11 @@
     "md5": "2b0d37635bf65ae2487e79b8253221fa",
     "size_bytes": 0,
     "last_changed": "2026-11-10T22:11:55.641037+00:00"
+  },
+  "social:https://mpgu.su/wp-content/uploads/2026/11/raspisanie-zanyatij_voe46-ssm2605.pdf": {
+    "url": "https://mpgu.su/wp-content/uploads/2026/11/raspisanie-zanyatij_voe46-ssm2605.pdf",
+    "md5": "0f22177dd76a132925ad48b7f5a1a76f",
+    "size_bytes": 0,
+    "last_changed": "2026-11-13T12:51:09.469502+00:00"
   }
 }
