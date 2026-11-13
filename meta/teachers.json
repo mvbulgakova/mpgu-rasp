@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-11-09T10:34:33.632026+00:00",
-  "count": 1184,
+  "count": 1186,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -15760,7 +15760,7 @@
       "_key": "чери",
       "_unknown": true,
       "id": 1088,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_лхзарипова",
@@ -15775,7 +15775,7 @@
       "_key": "лхзарипова",
       "_unknown": true,
       "id": 1089,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_мскорнийчук",
@@ -15790,7 +15790,7 @@
       "_key": "мскорнийчук",
       "_unknown": true,
       "id": 1090,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_са",
@@ -15820,7 +15820,7 @@
       "_key": "фвшаройко",
       "_unknown": true,
       "id": 1092,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_сашеркунов",
@@ -15835,7 +15835,7 @@
       "_key": "сашеркунов",
       "_unknown": true,
       "id": 1093,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_дистанционнои",
@@ -15850,7 +15850,7 @@
       "_key": "дистанционнои",
       "_unknown": true,
       "id": 1094,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_наустюжанина",
@@ -15865,7 +15865,7 @@
       "_key": "наустюжанина",
       "_unknown": true,
       "id": 1095,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_httpsи",
@@ -15880,7 +15880,7 @@
       "_key": "httpsи",
       "_unknown": true,
       "id": 1096,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_м",
@@ -15910,7 +15910,7 @@
       "_key": "дистанционном",
       "_unknown": true,
       "id": 1098,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_дистанционнос",
@@ -15925,7 +15925,7 @@
       "_key": "дистанционнос",
       "_unknown": true,
       "id": 1099,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_фвшаройко",
@@ -15940,7 +15940,7 @@
       "_key": "ф",
       "_unknown": true,
       "id": 1100,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_випопов",
@@ -15955,7 +15955,7 @@
       "_key": "випопов",
       "_unknown": true,
       "id": 1101,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_м",
@@ -15985,7 +15985,7 @@
       "_key": "дистанционном",
       "_unknown": true,
       "id": 1103,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_м",
@@ -16105,7 +16105,7 @@
       "_key": "иазаякина",
       "_unknown": true,
       "id": 1111,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_дистанционноа",
@@ -16960,7 +16960,7 @@
       "_key": "оаигумнов",
       "_unknown": true,
       "id": 1168,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_оамакаренко",
@@ -16975,7 +16975,7 @@
       "_key": "оамакаренко",
       "_unknown": true,
       "id": 1169,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_httpsт",
@@ -16990,7 +16990,7 @@
       "_key": "httpsт",
       "_unknown": true,
       "id": 1170,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_аудн",
@@ -17005,7 +17005,7 @@
       "_key": "аудн",
       "_unknown": true,
       "id": 1171,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_гороховса",
@@ -17200,6 +17200,36 @@
       "_key": "аудх",
       "_unknown": true,
       "id": 1184,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_httpsа",
+      "full_name": "асс. А.А. Фокина 25.12. - https:",
+      "abbreviated": "https: а.",
+      "last": "https:",
+      "first": "асс.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "httpsа",
+      "_unknown": true,
+      "id": 1185,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_о",
+      "full_name": "доц. О.В. Шаронова 14.11; 28.11; 12.12;",
+      "abbreviated": "12.12; д.",
+      "last": "12.12;",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "о",
+      "_unknown": true,
+      "id": 1186,
       "has_schedule": true
     }
   ]
