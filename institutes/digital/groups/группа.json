@@ -177,6 +177,28 @@
           "room": null,
           "subgroup": null,
           "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "_ ЩЦифровойобразовательный контент",
+          "type": "practice",
+          "teacher": "проф. Е.В. Макеева, (ayo.449) https el 2.pkmpeon.sulrooms/yu7-29d-fsb-xzr/join'",
+          "room": "x12: pkimpgu:su/rooms/yul-29d-fsb-xzr/join |",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История развития ‘интеллектуальных: систем лю | ss pod. O.B. Mepeyxoe, 449 | https://x12.: vk. mpsu.su/ro0ms/318-tmll=tiga- | emAoin",
+          "type": "practice",
+          "teacher": "Проф. О.В..Мерецков, 449 tt s",
+          "room": "x T-pain eu. su/rooms/3 e2rmtiem 8a-1 emo a",
+          "subgroup": null,
+          "notes": ""
         }
       ]
     },
@@ -349,6 +371,28 @@
           "type": "other",
           "teacher": null,
           "room": null,
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 4,
+          "time_start": "14:20",
+          "time_end": "15:50",
+          "subject": "_ ЩЦифровойобразовательный контент",
+          "type": "practice",
+          "teacher": "проф. Е.В. Макеева, (ayo.449) https el 2.pkmpeon.sulrooms/yu7-29d-fsb-xzr/join'",
+          "room": "x12: pkimpgu:su/rooms/yul-29d-fsb-xzr/join |",
+          "subgroup": null,
+          "notes": ""
+        },
+        {
+          "slot": 5,
+          "time_start": "16:00",
+          "time_end": "17:30",
+          "subject": "История развития ‘интеллектуальных: систем лю | ss pod. O.B. Mepeyxoe, 449 | https://x12.: vk. mpsu.su/ro0ms/318-tmll=tiga- | emAoin",
+          "type": "practice",
+          "teacher": "Проф. О.В..Мерецков, 449 tt s",
+          "room": "x T-pain eu. su/rooms/3 e2rmtiem 8a-1 emo a",
           "subgroup": null,
           "notes": ""
         }
