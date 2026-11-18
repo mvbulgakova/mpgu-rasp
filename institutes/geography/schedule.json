@@ -3,35 +3,35 @@
   "institute_name": "Географический факультет",
   "short_name": "ГФ",
   "academic_year": "2026-2027",
-  "updated_at": "2026-11-10T00:32:45.258520+00:00",
+  "updated_at": "2026-11-18T23:15:36.202020+00:00",
   "parser_used": "pdfplumber",
   "version": 1,
   "groups": [
     {
-      "name": "ВОГ34-ГЭК2501",
-      "file": "ВОГ34-ГЭК2501",
-      "year": 2,
+      "name": "ВОГ34-ГЭК2601",
+      "file": "ВОГ34-ГЭК2601",
+      "year": 1,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": "География и Экология",
+      "direction": null,
       "profile": null
     },
     {
-      "name": "ВОГ34-ГИЯ2501",
-      "file": "ВОГ34-ГИЯ2501",
-      "year": 2,
+      "name": "ВОГ34-ГИЯ2601",
+      "file": "ВОГ34-ГИЯ2601",
+      "year": 1,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": "География и Иностранный язык, (английский)",
+      "direction": null,
       "profile": null
     },
     {
-      "name": "БОГ03-ОГЕ2501",
-      "file": "БОГ03-ОГЕ2501",
-      "year": 2,
+      "name": "БОГ03-ОГЕ2601",
+      "file": "БОГ03-ОГЕ2601",
+      "year": 1,
       "form": "full_time",
       "degree": "bachelor",
-      "direction": "Общая География",
+      "direction": null,
       "profile": null
     }
   ]
