@@ -26,7 +26,7 @@
           "subject": "Анатомия человека",
           "type": "lecture",
           "teacher": "доц. Кешишев А.Г",
-          "room": null,
+          "room": "221",
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -403,7 +403,7 @@
           "subject": "Анатомия человека",
           "type": "lecture",
           "teacher": "доц. Кешишев А.Г",
-          "room": null,
+          "room": "221",
           "subgroup": null,
           "notes": "ПЗ"
         },
