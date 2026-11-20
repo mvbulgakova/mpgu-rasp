@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-11-16T10:21:18.324911+00:00",
-  "count": 1131,
+  "count": 1135,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -15775,7 +15775,7 @@
       "_key": "еринаюи",
       "_unknown": true,
       "id": 1089,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_чистоваав",
@@ -15835,7 +15835,7 @@
       "_key": "тарасоваюа",
       "_unknown": true,
       "id": 1093,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_усачевна",
@@ -15895,7 +15895,7 @@
       "_key": "шарайна",
       "_unknown": true,
       "id": 1097,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_большаковаав",
@@ -15985,7 +15985,7 @@
       "_key": "лукиноваав",
       "_unknown": true,
       "id": 1103,
-      "has_schedule": false
+      "has_schedule": true
     },
     {
       "staff_slug": "_unknown_п",
@@ -16405,6 +16405,66 @@
       "_key": "овковалева",
       "_unknown": true,
       "id": 1131,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_сзч",
+      "full_name": "ст. преп. Чернышева О.В., с/з",
+      "abbreviated": "с/з с.",
+      "last": "с/з",
+      "first": "ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "сзч",
+      "_unknown": true,
+      "id": 1132,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_залд",
+      "full_name": "ст. преп. Дворянова С.А., гимнастический зал",
+      "abbreviated": "зал с.",
+      "last": "зал",
+      "first": "ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "залд",
+      "_unknown": true,
+      "id": 1133,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_игнатоваов",
+      "full_name": "ст. преп. Игнатова О.В",
+      "abbreviated": "О.В с.",
+      "last": "О.В",
+      "first": "ст.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "игнатоваов",
+      "_unknown": true,
+      "id": 1134,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_левиковаси",
+      "full_name": "проф. Левикова С.И",
+      "abbreviated": "С.И п.",
+      "last": "С.И",
+      "first": "проф.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "левиковаси",
+      "_unknown": true,
+      "id": 1135,
       "has_schedule": true
     }
   ]
