@@ -679,7 +679,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
-          "room": "221",
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -745,7 +745,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
-          "room": "221",
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -866,7 +866,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
-          "room": "618",
+          "room": "215",
           "subgroup": null,
           "notes": ""
         },
@@ -1009,7 +1009,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "ст. преп. Большакова А.В",
-          "room": "КГФ",
+          "room": "101",
           "subgroup": null,
           "notes": ""
         },
@@ -1086,7 +1086,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "ст. преп. Большакова А.В",
-          "room": "КГФ",
+          "room": "101",
           "subgroup": null,
           "notes": ""
         },
@@ -1900,28 +1900,6 @@
           "notes": "ПЗ"
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Спортивные и подвижные игры с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Чернышева О.В., с/з",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Гимнастика с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Дворянова С.А., гимнастический зал",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -1929,61 +1907,6 @@
           "type": "lecture",
           "teacher": "ст. преп. Чернышева О.В",
           "room": "с/з №3",
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Теория и методика физического воспитания",
-          "type": "lecture",
-          "teacher": "ст. преп. Ерина Ю.И",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Гимнастика с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Дворянова С.А., гимнастический зал",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Педагогика",
-          "type": "lecture",
-          "teacher": "доц. Тарасова Ю.А",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Спортивные и подвижные игры с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Чернышева О.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Нормативно-правовые основы профессиональной деятельности",
-          "type": "lecture",
-          "teacher": "ст. преп. Игнатова О.В",
-          "room": null,
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -2008,72 +1931,6 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Теория и методика физического воспитания",
-          "type": "lecture",
-          "teacher": "ст. преп. Ерина Ю.И",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Гимнастика с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Дворянова С.А., гимнастический зал",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Спортивные и подвижные игры с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Чернышева О.В., с/з",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Психология воспитательных практик",
-          "type": "lecture",
-          "teacher": "доц. Лукинова А.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Профессиональная этика",
-          "type": "lecture",
-          "teacher": "проф. Левикова С.И",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Нормативно-правовые основы профессиональной деятельности",
-          "type": "lecture",
-          "teacher": "ст. преп. Игнатова О.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
         },
         {
           "slot": 4,
@@ -2107,105 +1964,6 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Педагогика",
-          "type": "lecture",
-          "teacher": "доц. Тарасова Ю.А",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Гимнастика с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Дворянова С.А., гимнастический зал",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Теория и методика физического воспитания",
-          "type": "lecture",
-          "teacher": "ст. преп. Ерина Ю.И",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Психология",
-          "type": "lecture",
-          "teacher": "доц. Лукинова А.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Профессиональная этика",
-          "type": "lecture",
-          "teacher": "проф. Левикова С.И",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Психология воспитательных практик",
-          "type": "practice",
-          "teacher": "доц. Лукинова А.В",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
-          "type": "lecture",
-          "teacher": "проф. Шарай Н.А",
-          "room": "214",
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Спортивные и подвижные игры с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Чернышева О.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Нормативно-правовые основы профессиональной деятельности",
-          "type": "lecture",
-          "teacher": "ст. преп. Игнатова О.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
         },
         {
           "slot": 5,
@@ -2228,149 +1986,6 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Педагогика",
-          "type": "lecture",
-          "teacher": "доц. Тарасова Ю.А",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ВZЗ34-ФЗК2501",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ВZЗ34-ФЗК2502",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Гимнастика с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Дворянова С.А., гимнастический зал",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Теория и методика физического воспитания",
-          "type": "lecture",
-          "teacher": "ст. преп. Ерина Ю.И",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Психология",
-          "type": "lecture",
-          "teacher": "доц. Лукинова А.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "«Физическая культура»",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "22.09.2026-31.12.2026",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "01.09.2026-31.12.2026",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
-          "type": "lecture",
-          "teacher": "проф. Шарай Н.А",
-          "room": "214",
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Нормативно-правовые основы профессиональной деятельности",
-          "type": "lecture",
-          "teacher": "ст. преп. Игнатова О.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Спортивные и подвижные игры с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Чернышева О.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
         }
       ]
     },
@@ -3047,7 +2662,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
-          "room": "221",
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -3113,7 +2728,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
-          "room": "221",
+          "room": "213",
           "subgroup": null,
           "notes": ""
         },
@@ -3234,7 +2849,7 @@
           "subject": "История России",
           "type": "practice",
           "teacher": "доц. Чистова А.В",
-          "room": "618",
+          "room": "215",
           "subgroup": null,
           "notes": ""
         },
@@ -3377,7 +2992,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "ст. преп. Большакова А.В",
-          "room": "КГФ",
+          "room": "101",
           "subgroup": null,
           "notes": ""
         },
@@ -3454,7 +3069,7 @@
           "subject": "Основы российской государственности",
           "type": "practice",
           "teacher": "ст. преп. Большакова А.В",
-          "room": "КГФ",
+          "room": "101",
           "subgroup": null,
           "notes": ""
         },
@@ -4268,28 +3883,6 @@
           "notes": "ПЗ"
         },
         {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Спортивные и подвижные игры с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Чернышева О.В., с/з",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 1,
-          "time_start": "09:00",
-          "time_end": "10:30",
-          "subject": "Гимнастика с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Дворянова С.А., гимнастический зал",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
           "slot": 2,
           "time_start": "10:40",
           "time_end": "12:10",
@@ -4297,61 +3890,6 @@
           "type": "lecture",
           "teacher": "ст. преп. Чернышева О.В",
           "room": "с/з №3",
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Теория и методика физического воспитания",
-          "type": "lecture",
-          "teacher": "ст. преп. Ерина Ю.И",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Гимнастика с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Дворянова С.А., гимнастический зал",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Педагогика",
-          "type": "lecture",
-          "teacher": "доц. Тарасова Ю.А",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Спортивные и подвижные игры с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Чернышева О.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 2,
-          "time_start": "10:40",
-          "time_end": "12:10",
-          "subject": "Нормативно-правовые основы профессиональной деятельности",
-          "type": "lecture",
-          "teacher": "ст. преп. Игнатова О.В",
-          "room": null,
           "subgroup": null,
           "notes": "ПЗ"
         },
@@ -4376,72 +3914,6 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Теория и методика физического воспитания",
-          "type": "lecture",
-          "teacher": "ст. преп. Ерина Ю.И",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Гимнастика с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Дворянова С.А., гимнастический зал",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Спортивные и подвижные игры с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Чернышева О.В., с/з",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Психология воспитательных практик",
-          "type": "lecture",
-          "teacher": "доц. Лукинова А.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Профессиональная этика",
-          "type": "lecture",
-          "teacher": "проф. Левикова С.И",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 3,
-          "time_start": "12:40",
-          "time_end": "14:10",
-          "subject": "Нормативно-правовые основы профессиональной деятельности",
-          "type": "lecture",
-          "teacher": "ст. преп. Игнатова О.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
         },
         {
           "slot": 4,
@@ -4475,105 +3947,6 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Педагогика",
-          "type": "lecture",
-          "teacher": "доц. Тарасова Ю.А",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Гимнастика с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Дворянова С.А., гимнастический зал",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Теория и методика физического воспитания",
-          "type": "lecture",
-          "teacher": "ст. преп. Ерина Ю.И",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Психология",
-          "type": "lecture",
-          "teacher": "доц. Лукинова А.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Профессиональная этика",
-          "type": "lecture",
-          "teacher": "проф. Левикова С.И",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Психология воспитательных практик",
-          "type": "practice",
-          "teacher": "доц. Лукинова А.В",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
-          "type": "lecture",
-          "teacher": "проф. Шарай Н.А",
-          "room": "214",
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Спортивные и подвижные игры с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Чернышева О.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 4,
-          "time_start": "14:20",
-          "time_end": "15:50",
-          "subject": "Нормативно-правовые основы профессиональной деятельности",
-          "type": "lecture",
-          "teacher": "ст. преп. Игнатова О.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
         },
         {
           "slot": 5,
@@ -4596,149 +3969,6 @@
           "room": null,
           "subgroup": null,
           "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Педагогика",
-          "type": "lecture",
-          "teacher": "доц. Тарасова Ю.А",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ВZЗ34-ФЗК2501",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "ВZЗ34-ФЗК2502",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Гимнастика с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Дворянова С.А., гимнастический зал",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Теория и методика физического воспитания",
-          "type": "lecture",
-          "teacher": "ст. преп. Ерина Ю.И",
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Психология",
-          "type": "lecture",
-          "teacher": "доц. Лукинова А.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "44.03.01 ПЕДАГОГИЧЕСКОЕ ОБРАЗОВАНИЕ",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "«Физическая культура»",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "22.09.2026-31.12.2026",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "01.09.2026-31.12.2026",
-          "type": "other",
-          "teacher": null,
-          "room": null,
-          "subgroup": null,
-          "notes": ""
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Основы государственной политики в сфере межэтнических и межконфессиональных отношений",
-          "type": "lecture",
-          "teacher": "проф. Шарай Н.А",
-          "room": "214",
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Нормативно-правовые основы профессиональной деятельности",
-          "type": "lecture",
-          "teacher": "ст. преп. Игнатова О.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
-        },
-        {
-          "slot": 5,
-          "time_start": "16:00",
-          "time_end": "17:30",
-          "subject": "Спортивные и подвижные игры с методикой преподавания",
-          "type": "lecture",
-          "teacher": "ст. преп. Чернышева О.В",
-          "room": null,
-          "subgroup": null,
-          "notes": "ПЗ"
         }
       ]
     }
