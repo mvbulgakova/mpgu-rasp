@@ -15521,7 +15521,7 @@
       "_key": "д",
       "_unknown": true,
       "id": 1072,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_доциазаякина",
@@ -15536,7 +15536,7 @@
       "_key": "д",
       "_unknown": true,
       "id": 1073,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_доциазаякина",
@@ -15551,7 +15551,7 @@
       "_key": "д",
       "_unknown": true,
       "id": 1074,
-      "has_schedule": true
+      "has_schedule": false
     },
     {
       "staff_slug": "_unknown_наустюжанина",
