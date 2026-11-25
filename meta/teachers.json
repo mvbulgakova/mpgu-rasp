@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-11-23T11:30:27.119375+00:00",
-  "count": 1096,
+  "count": 1101,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -15881,6 +15881,81 @@
       "_key": "овчинниковва",
       "_unknown": true,
       "id": 1096,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_лхзарипова",
+      "full_name": "доц. Л.Х. Зарипова",
+      "abbreviated": "Зарипова д.",
+      "last": "Зарипова",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "лхзарипова",
+      "_unknown": true,
+      "id": 1097,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_фвшаройко",
+      "full_name": "доц. Ф.В. Шаройко",
+      "abbreviated": "Шаройко д.",
+      "last": "Шаройко",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "фвшаройко",
+      "_unknown": true,
+      "id": 1098,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_httpsи",
+      "full_name": "История государственного управления  асс. И Сун Чер     - дистанционно https:",
+      "abbreviated": "https: И.",
+      "last": "https:",
+      "first": "История",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "httpsи",
+      "_unknown": true,
+      "id": 1099,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_чери",
+      "full_name": "асс. И Сун Чер",
+      "abbreviated": "Чер а.",
+      "last": "Чер",
+      "first": "асс.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "чери",
+      "_unknown": true,
+      "id": 1100,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_фвшаройко",
+      "full_name": "доц. Ф.В. Шаройко",
+      "abbreviated": "Шаройко д.",
+      "last": "Шаройко",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "ф",
+      "_unknown": true,
+      "id": 1101,
       "has_schedule": true
     }
   ]
