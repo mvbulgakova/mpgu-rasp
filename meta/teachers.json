@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-11-23T11:30:27.119375+00:00",
-  "count": 1101,
+  "count": 1104,
   "teachers": [
     {
       "staff_slug": "bochkareva-alla-gennadevna",
@@ -15956,6 +15956,51 @@
       "_key": "ф",
       "_unknown": true,
       "id": 1101,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_овполикашина",
+      "full_name": "доц. О.В. Поликашина",
+      "abbreviated": "Поликашина д.",
+      "last": "Поликашина",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "овполикашина",
+      "_unknown": true,
+      "id": 1102,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_сл",
+      "full_name": "ст.преп. Л.С. Булатова с",
+      "abbreviated": "с с.",
+      "last": "с",
+      "first": "ст.преп.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "сл",
+      "_unknown": true,
+      "id": 1103,
+      "has_schedule": true
+    },
+    {
+      "staff_slug": "_unknown_лсзаржицкая",
+      "full_name": "доц. Л.С. Заржицкая",
+      "abbreviated": "Заржицкая д.",
+      "last": "Заржицкая",
+      "first": "доц.",
+      "patronymic": "",
+      "position": "",
+      "institute_id": "",
+      "kafedra_name": "",
+      "_key": "лсзаржицкая",
+      "_unknown": true,
+      "id": 1104,
       "has_schedule": true
     }
   ]
